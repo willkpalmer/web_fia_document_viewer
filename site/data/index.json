@@ -367,19 +367,20 @@
    "slug": "mexico-city-grand-prix",
    "name": "Mexico City Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-   "doc_count": 45,
+   "doc_count": 54,
    "first_published": "2026-10-28T21:00",
-   "last_published": "2026-10-31T23:21",
+   "last_published": "2026-11-01T00:06",
    "first_local": "2026-10-28T14:00",
-   "last_local": "2026-10-31T16:21",
+   "last_local": "2026-10-31T17:06",
    "utc_offset_min": -360,
    "tz_source": "pdf",
    "counts": {
+    "stewards": 26,
+    "admin": 5,
+    "other": 1,
+    "technical": 11,
     "results": 4,
-    "stewards": 20,
-    "technical": 10,
-    "race_director": 7,
-    "admin": 4
+    "race_director": 7
    },
    "round": 19
   }
@@ -550,5 +551,7 @@
    "team": "Audi Revolut F1 Team"
   }
  },
- "unmatched_titles": []
+ "unmatched_titles": [
+  "MGU-K Infringement, Car 30"
+ ]
 }
