@@ -1,4 +1,4 @@
-attyname: Update documents and deploy
+name: Update documents and deploy
 
 on:
   schedule:
