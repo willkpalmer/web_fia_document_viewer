@@ -443,14 +443,14 @@ function titleLink(d, text) {
 function docHTML(d, showCat) {
   if (d.category === "stewards") return rulingHTML(d, { showCat });
   const cat = S.catById[d.category];
+  const lead = showCat ? `<span class="pill cat-pill" style="${catVar(d.category)}">${esc(cat.label)}</span>` : "";
   const pills = [];
-  if (showCat) pills.push(`<span class="pill cat-pill" style="${catVar(d.category)}">${esc(cat.label)}</span>`);
   if (d.recalled) pills.push(`<span class="pill">Recalled</span>`);
   if (d.superseded_by) pills.push(`<span class="pill">Superseded by Doc ${d.superseded_by}</span>`);
   for (const x of docDrivers(d)) pills.push(`<span class="pill">${esc(driverLabel(x.car))}</span>`);
   return `<div class="doc ${d.recalled ? "recalled" : ""} ${d.superseded_by ? "superseded" : ""}" id="doc-${d.num}">
     <div class="num">${d.num != null ? "Doc " + d.num : ""}</div>
-    <div class="t">${titleLink(d, d.subject)}${pills.length ? `<div class="tagline">${pills.join("")}</div>` : ""}</div>
+    <div class="t line">${lead}<span class="subj">${titleLink(d, d.subject)}</span>${pills.join("")}</div>
     <div class="when" title="${esc(whenTitle(d))}">${esc(fmtWhen(localTime(d)))}</div>
   </div>`;
 }
@@ -475,11 +475,11 @@ function rulingHTML(d, { showCat = false, event = null } = {}) {
   else if (drivers.length) whoShort = drivers.map((x) => `#${x.car} ${esc(shortName(nameOf(x)))}`).join(", ");
   else if (det.competitor) whoShort = esc(det.competitor);
   const linePills = [];
+  if (showCat) linePills.push(`<span class="pill cat-pill" style="${catVar("stewards")}">${esc(S.catById.stewards?.label || "Stewards")}</span>`);
   if (event) {
     const ev = S.index.events.find((e) => e.slug === d.event_slug);
     linePills.push(`<span class="pill ev-pill">R${ev?.round ?? ""} ${esc(event.replace(/ Grand Prix$/, ""))}</span>`);
   }
-  if (showCat) linePills.push(`<span class="pill cat-pill" style="${catVar("stewards")}">Stewards</span>`);
   if (d.recalled) linePills.push(`<span class="pill">Recalled</span>`);
   const outcomeTags = (det.tags || []).filter((t) => t !== "Fine" || !det.fine_eur);
   if (det.fine_eur) outcomeTags.push(euro(det.fine_eur) + " fine");

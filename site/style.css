@@ -133,9 +133,12 @@ button, input, select { font: inherit; color: inherit; }
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; box-shadow: var(--shadow); overflow: hidden; }
 
 /* document rows */
-.doc { display: grid; grid-template-columns: 52px minmax(0, 1fr) auto; gap: 12px; padding: 9px 14px; border-top: 1px solid var(--border); align-items: baseline; }
+.doc { display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; gap: 10px; padding: 9px 14px; border-top: 1px solid var(--border); align-items: baseline; }
 .doc:first-child { border-top: 0; }
-.doc .num { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; }
+.doc .num { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; padding-left: 12px; white-space: nowrap; }
+.doc .line { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; }
+.doc.recalled .t { text-decoration: none; }
+.doc.recalled .subj { text-decoration: line-through; }
 .doc .t { min-width: 0; }
 .doc .t a { color: var(--text); font-weight: 500; }
 .doc .t a:hover { color: var(--link); }
@@ -206,7 +209,7 @@ tbody tr.sel { background: var(--accent-soft); }
   .topbar { padding: 10px 16px; gap: 10px; }
   .brand .sub { display: none; }
   .view-link { padding: 6px 8px; font-size: 13px; }
-  .doc, .ruling { grid-template-columns: 40px minmax(0,1fr); }
+  .doc, .ruling { grid-template-columns: 58px minmax(0,1fr); }
   .doc .when, .ruling .when { grid-column: 2; }
   .ev-head .src { margin-left: 0; }
 }
@@ -278,3 +281,7 @@ details.ruling[open] { background: color-mix(in srgb, var(--surface-2) 45%, var(
 .sync-token ol { padding-left: 18px; }
 .sync-token input { height: 30px; border: 1px solid var(--border); background: var(--surface); border-radius: 6px; padding: 0 8px; width: 100%; }
 .sync-actions { display: flex; gap: 6px; }
+
+/* flat list: fixed-width category tag so titles line up */
+.line > .cat-pill:first-child { min-width: 152px; text-align: center; }
+@media (max-width: 860px) { .line > .cat-pill:first-child { min-width: 0; } }
