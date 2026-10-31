@@ -87,3 +87,8 @@ It needs a fine-grained GitHub token, created at **Settings → Developer settin
 The token is kept only in that browser's local storage. It's shared by any page on `<you>.github.io`, which is why it
 should be limited to this one repository and the Actions permission.
 The sidebar also shows when the last sync run happened, read from the public GitHub API.
+
+**Auto-sync while open** is on by default. While the page is open with a saved token, it starts a sync every 10 minutes
+on race weekends (Friday–Sunday UTC) and every hour otherwise. Even without a token, an open page checks for new data
+every minute and reloads as soon as any sync publishes some. This matters because GitHub's own schedule can be delayed or
+skipped when GitHub is busy.

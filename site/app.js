@@ -123,10 +123,20 @@ function localClock(iso) {
   return new Date(iso).toLocaleString(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
 }
 
+async function reloadData() {
+  S.index = await getJSON("index.json");
+  for (const c of S.index.categories) S.catById[c.id] = c;
+  S.events = {};
+  S.penalties = null;
+  await render();
+  await showUpdated();
+}
+
 async function showUpdated() {
   let html = "";
   try {
     const u = await getJSON("updated.json");
+    S.dataVersion = u.updated;
     html += `<div title="${esc(u.updated)}">Data last changed ${esc(localClock(u.updated))} (${ago(u.updated)})</div>`;
   } catch {}
   html += `<div>Source: <a href="${esc(S.index.source)}" target="_blank" rel="noopener">fia.com</a> ·
@@ -135,17 +145,18 @@ async function showUpdated() {
 }
 
 async function latestRun(auth) {
-  const r = await fetch(`${API}/runs?per_page=1&_=${Date.now()}`, {
+  const r = await fetch(`${API}/runs?per_page=10&_=${Date.now()}`, {
     headers: auth ? { Authorization: `Bearer ${auth}`, Accept: "application/vnd.github+json" } : { Accept: "application/vnd.github+json" },
     cache: "no-store",
   });
   if (!r.ok) throw new Error(`GitHub API ${r.status}`);
-  return (await r.json()).workflow_runs?.[0] || null;
+  // push-triggered runs only redeploy the site; they don't fetch from fia.com
+  return (await r.json()).workflow_runs?.find((w) => w.event !== "push") || null;
 }
 
 function runLabel(run) {
   if (!run) return "No sync runs yet";
-  const how = { schedule: "scheduled", workflow_dispatch: "manual", push: "deploy" }[run.event] || run.event;
+  const how = { schedule: "scheduled", workflow_dispatch: "manual" }[run.event] || run.event;
   if (run.status !== "completed") return `Sync running (${how}, started ${ago(run.run_started_at || run.created_at)})…`;
   const ok = run.conclusion === "success";
   return `Last check ${ago(run.updated_at)} · ${how}${ok ? "" : ` · <span class="bad">${esc(run.conclusion)}</span>`}`;
@@ -176,9 +187,35 @@ function initSync() {
     $("#syncToken").hidden = true;
     runSync();
   };
+  const auto = $("#autoSync");
+  auto.checked = getAuto();
+  auto.onchange = () => { setAuto(auto.checked); autoTick(); };
   refreshSyncStatus();
-  setInterval(() => { if (!S.syncing) refreshSyncStatus(); }, 120000);
+  setInterval(autoTick, 60000);
 }
+
+function getAuto() { try { return localStorage.getItem("autoSync") !== "0"; } catch { return true; } }
+function setAuto(v) { try { localStorage.setItem("autoSync", v ? "1" : "0"); } catch {} }
+
+// Race weekends (Fri-Sun UTC): sync every 10 min; otherwise hourly.
+function syncInterval() { return [5, 6, 0].includes(new Date().getUTCDay()) ? 10 : 60; }
+
+async function autoTick() {
+  if (S.syncing) return;
+  // 1. pick up new data published by any run (scheduled, manual, another browser)
+  try {
+    const u = await getJSON("updated.json");
+    if (S.dataVersion && u.updated !== S.dataVersion) await reloadData();
+  } catch {}
+  // 2. start a sync ourselves if allowed and the last one is stale
+  const run = await refreshSyncStatus();
+  if (!getAuto() || !getToken() || document.visibilityState !== "visible") return;
+  if (run && run.status !== "completed") return;
+  const last = run ? new Date(run.updated_at).getTime() : 0;
+  if (Date.now() - last >= syncInterval() * 60000) runSync();
+}
+
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") autoTick(); });
 
 async function runSync() {
   if (S.syncing) return;
@@ -217,12 +254,7 @@ async function runSync() {
     // reload data (Pages can take a few seconds to serve the new deploy)
     status.textContent = "Loading new data…";
     await new Promise((res) => setTimeout(res, 8000));
-    S.index = await getJSON("index.json");
-    for (const c of S.index.categories) S.catById[c.id] = c;
-    S.events = {};
-    S.penalties = null;
-    await render();
-    showUpdated();
+    await reloadData();
     status.innerHTML = runLabel(run);
   } catch (e) {
     status.innerHTML = `<span class="bad">${esc(e.message)}</span>`;

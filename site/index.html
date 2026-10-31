@@ -37,6 +37,8 @@
     <div class="sync" id="sync">
       <button class="btn sync-btn" id="syncBtn" type="button">↻ Sync now</button>
       <div class="sync-status" id="syncStatus"></div>
+      <label class="sync-auto" title="While this page is open, start a sync every 10 min on race weekends (hourly otherwise). Needs a saved token.">
+        <input type="checkbox" id="autoSync"> Auto-sync while open</label>
       <form class="sync-token" id="syncToken" hidden>
         <p>Syncing from this page needs a GitHub token with permission to start the update workflow.
           It's kept only in this browser.</p>

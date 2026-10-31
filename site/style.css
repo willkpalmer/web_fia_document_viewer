@@ -285,3 +285,4 @@ details.ruling[open] { background: color-mix(in srgb, var(--surface-2) 45%, var(
 /* flat list: fixed-width category tag so titles line up */
 .line > .cat-pill:first-child { min-width: 152px; text-align: center; }
 @media (max-width: 860px) { .line > .cat-pill:first-child { min-width: 0; } }
+.sync-auto { display: flex; gap: 6px; align-items: center; font-size: 11px; color: var(--muted); }
