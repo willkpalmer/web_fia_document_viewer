@@ -1,0 +1,478 @@
+{
+ "championship": "FIA Formula One World Championship",
+ "season": "Season 2026",
+ "source": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072",
+ "events": [
+  {
+   "slug": "australian-grand-prix",
+   "name": "Australian Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Australian%20Grand%20Prix",
+   "doc_count": 69,
+   "first_published": "2026-03-05T00:05",
+   "last_published": "2026-03-08T09:37",
+   "counts": {
+    "results": 10,
+    "technical": 11,
+    "stewards": 30,
+    "race_director": 13,
+    "admin": 5
+   },
+   "round": 1
+  },
+  {
+   "slug": "chinese-grand-prix",
+   "name": "Chinese Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Chinese%20Grand%20Prix",
+   "doc_count": 76,
+   "first_published": "2026-03-11T08:06",
+   "last_published": "2026-03-15T12:05",
+   "counts": {
+    "results": 15,
+    "technical": 17,
+    "stewards": 27,
+    "race_director": 14,
+    "admin": 3
+   },
+   "round": 2
+  },
+  {
+   "slug": "japanese-grand-prix",
+   "name": "Japanese Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Japanese%20Grand%20Prix",
+   "doc_count": 60,
+   "first_published": "2026-03-25T07:56",
+   "last_published": "2026-03-29T12:16",
+   "counts": {
+    "results": 11,
+    "technical": 11,
+    "stewards": 23,
+    "race_director": 11,
+    "admin": 4
+   },
+   "round": 3
+  },
+  {
+   "slug": "miami-grand-prix",
+   "name": "Miami Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Miami%20Grand%20Prix",
+   "doc_count": 100,
+   "first_published": "2026-04-29T22:37",
+   "last_published": "2026-05-04T00:15",
+   "counts": {
+    "results": 16,
+    "stewards": 46,
+    "technical": 18,
+    "race_director": 16,
+    "admin": 4
+   },
+   "round": 4
+  },
+  {
+   "slug": "canadian-grand-prix",
+   "name": "Canadian Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Canadian%20Grand%20Prix",
+   "doc_count": 111,
+   "first_published": "2026-05-20T20:38",
+   "last_published": "2026-05-29T16:49",
+   "counts": {
+    "results": 16,
+    "stewards": 56,
+    "technical": 19,
+    "race_director": 17,
+    "admin": 3
+   },
+   "round": 5
+  },
+  {
+   "slug": "monaco-grand-prix",
+   "name": "Monaco Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Monaco%20Grand%20Prix",
+   "doc_count": 107,
+   "first_published": "2026-06-03T11:07",
+   "last_published": "2026-09-05T19:15",
+   "counts": {
+    "results": 14,
+    "stewards": 65,
+    "technical": 13,
+    "race_director": 12,
+    "admin": 3
+   },
+   "round": 6
+  },
+  {
+   "slug": "barcelona-catalunya-grand-prix",
+   "name": "Barcelona-Catalunya Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Barcelona-Catalunya%20Grand%20Prix",
+   "doc_count": 70,
+   "first_published": "2026-06-10T15:17",
+   "last_published": "2026-06-14T20:10",
+   "counts": {
+    "results": 12,
+    "stewards": 26,
+    "technical": 15,
+    "race_director": 12,
+    "admin": 5
+   },
+   "round": 7
+  },
+  {
+   "slug": "austrian-grand-prix",
+   "name": "Austrian Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Austrian%20Grand%20Prix",
+   "doc_count": 55,
+   "first_published": "2026-06-24T14:17",
+   "last_published": "2026-06-28T19:24",
+   "counts": {
+    "stewards": 21,
+    "results": 10,
+    "technical": 10,
+    "race_director": 11,
+    "admin": 3
+   },
+   "round": 8
+  },
+  {
+   "slug": "british-grand-prix",
+   "name": "British Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/British%20Grand%20Prix",
+   "doc_count": 85,
+   "first_published": "2026-07-02T12:59",
+   "last_published": "2026-07-05T21:40",
+   "counts": {
+    "results": 15,
+    "stewards": 38,
+    "technical": 14,
+    "race_director": 13,
+    "admin": 5
+   },
+   "round": 9
+  },
+  {
+   "slug": "belgian-grand-prix",
+   "name": "Belgian Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Belgian%20Grand%20Prix",
+   "doc_count": 64,
+   "first_published": "2026-07-15T16:11",
+   "last_published": "2026-07-19T19:20",
+   "counts": {
+    "results": 10,
+    "stewards": 32,
+    "technical": 12,
+    "race_director": 7,
+    "admin": 3
+   },
+   "round": 10
+  },
+  {
+   "slug": "hungarian-grand-prix",
+   "name": "Hungarian Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Hungarian%20Grand%20Prix",
+   "doc_count": 59,
+   "first_published": "2026-07-22T11:46",
+   "last_published": "2026-07-26T19:30",
+   "counts": {
+    "results": 10,
+    "technical": 8,
+    "stewards": 28,
+    "race_director": 11,
+    "admin": 2
+   },
+   "round": 11
+  },
+  {
+   "slug": "dutch-grand-prix",
+   "name": "Dutch Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Dutch%20Grand%20Prix",
+   "doc_count": 75,
+   "first_published": "2026-08-19T17:34",
+   "last_published": "2026-09-05T19:15",
+   "counts": {
+    "results": 17,
+    "technical": 14,
+    "stewards": 29,
+    "race_director": 13,
+    "admin": 2
+   },
+   "round": 12
+  },
+  {
+   "slug": "italian-grand-prix",
+   "name": "Italian Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Italian%20Grand%20Prix",
+   "doc_count": 71,
+   "first_published": "2026-09-02T15:58",
+   "last_published": "2026-09-06T20:54",
+   "counts": {
+    "results": 10,
+    "stewards": 34,
+    "technical": 13,
+    "race_director": 12,
+    "admin": 2
+   },
+   "round": 13
+  },
+  {
+   "slug": "spanish-grand-prix",
+   "name": "Spanish Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Spanish%20Grand%20Prix",
+   "doc_count": 73,
+   "first_published": "2026-09-09T13:57",
+   "last_published": "2026-09-13T20:15",
+   "counts": {
+    "results": 10,
+    "technical": 11,
+    "stewards": 37,
+    "race_director": 11,
+    "admin": 4
+   },
+   "round": 14
+  },
+  {
+   "slug": "azerbaijan-grand-prix",
+   "name": "Azerbaijan Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Azerbaijan%20Grand%20Prix",
+   "doc_count": 72,
+   "first_published": "2026-09-22T09:41",
+   "last_published": "2026-09-26T18:20",
+   "counts": {
+    "results": 10,
+    "stewards": 33,
+    "race_director": 13,
+    "technical": 13,
+    "admin": 3
+   },
+   "round": 15
+  },
+  {
+   "slug": "bahrain-grand-prix",
+   "name": "Bahrain Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Bahrain%20Grand%20Prix",
+   "doc_count": 61,
+   "first_published": "2026-09-30T10:30",
+   "last_published": "2026-10-04T15:58",
+   "counts": {
+    "results": 10,
+    "stewards": 25,
+    "technical": 11,
+    "race_director": 12,
+    "admin": 3
+   },
+   "round": 16
+  },
+  {
+   "slug": "singapore-grand-prix",
+   "name": "Singapore Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Singapore%20Grand%20Prix",
+   "doc_count": 90,
+   "first_published": "2026-10-07T03:51",
+   "last_published": "2026-10-11T18:07",
+   "counts": {
+    "results": 15,
+    "technical": 16,
+    "stewards": 41,
+    "race_director": 15,
+    "admin": 3
+   },
+   "round": 17
+  },
+  {
+   "slug": "united-states-grand-prix",
+   "name": "United States Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/United%20States%20Grand%20Prix",
+   "doc_count": 58,
+   "first_published": "2026-10-21T19:35",
+   "last_published": "2026-10-26T11:30",
+   "counts": {
+    "results": 10,
+    "technical": 12,
+    "stewards": 23,
+    "race_director": 10,
+    "admin": 3
+   },
+   "round": 18
+  },
+  {
+   "slug": "mexico-city-grand-prix",
+   "name": "Mexico City Grand Prix",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
+   "doc_count": 34,
+   "first_published": "2026-10-28T21:00",
+   "last_published": "2026-10-31T03:58",
+   "counts": {
+    "stewards": 15,
+    "technical": 9,
+    "race_director": 5,
+    "results": 2,
+    "admin": 3
+   },
+   "round": 19
+  }
+ ],
+ "categories": [
+  {
+   "id": "stewards",
+   "label": "Stewards & Penalties",
+   "description": "Infringements, summonses, decisions, rights of review"
+  },
+  {
+   "id": "technical",
+   "label": "Technical & Scrutineering",
+   "description": "Scrutineering, power unit elements, parc fermé, covering of components, post-race checks"
+  },
+  {
+   "id": "race_director",
+   "label": "Race Director & Procedures",
+   "description": "Race Director's notes, procedures, curfew, hazard declarations, deleted laps"
+  },
+  {
+   "id": "results",
+   "label": "Results & Classifications",
+   "description": "Classifications, starting grids, championship points"
+  },
+  {
+   "id": "admin",
+   "label": "Event Admin",
+   "description": "Entry list, timetable, competition visa"
+  },
+  {
+   "id": "other",
+   "label": "Other",
+   "description": "Anything not matched by a rule"
+  }
+ ],
+ "drivers": {
+  "1": {
+   "name": "Lando Norris",
+   "team": null
+  },
+  "3": {
+   "name": "Max Verstappen",
+   "team": null
+  },
+  "5": {
+   "name": "Gabriel Bortoleto",
+   "team": "Audi Revolut F1 Team"
+  },
+  "6": {
+   "name": "Isack Hadjar",
+   "team": "Oracle Red Bull Racing"
+  },
+  "10": {
+   "name": "Pierre Gasly",
+   "team": null
+  },
+  "11": {
+   "name": "Sergio Perez",
+   "team": "Cadillac Formula 1 Team"
+  },
+  "12": {
+   "name": "Kimi Antonelli",
+   "team": null
+  },
+  "14": {
+   "name": "Fernando Alonso",
+   "team": null
+  },
+  "16": {
+   "name": "Charles Leclerc",
+   "team": null
+  },
+  "18": {
+   "name": "Lance Stroll",
+   "team": "Aston Martin Aramco F1 Team"
+  },
+  "22": {
+   "name": "Yuki Tsunoda",
+   "team": null
+  },
+  "23": {
+   "name": "Alexander Albon",
+   "team": null
+  },
+  "25": {
+   "name": "Colton Herta",
+   "team": null
+  },
+  "27": {
+   "name": "Nico Hulkenberg",
+   "team": "Audi Revolut F1 Team"
+  },
+  "30": {
+   "name": "Liam Lawson",
+   "team": null
+  },
+  "31": {
+   "name": "Esteban Ocon",
+   "team": null
+  },
+  "34": {
+   "name": "Jak Crawford",
+   "team": null
+  },
+  "38": {
+   "name": "Dino Beganovic",
+   "team": null
+  },
+  "41": {
+   "name": "Arvid Lindblad",
+   "team": "Visa Cash App Racing Bulls F1 Team"
+  },
+  "43": {
+   "name": "Franco Colapinto",
+   "team": "BWT Alpine F1 Team"
+  },
+  "44": {
+   "name": "Lewis Hamilton",
+   "team": "Scuderia Ferrari HP"
+  },
+  "46": {
+   "name": "Luke Browning",
+   "team": null
+  },
+  "50": {
+   "name": "Ryo Hirakawa",
+   "team": null
+  },
+  "55": {
+   "name": "Carlos Sainz",
+   "team": null
+  },
+  "61": {
+   "name": "Paul Aron",
+   "team": null
+  },
+  "62": {
+   "name": "Gabriele Mini",
+   "team": null
+  },
+  "63": {
+   "name": "George Russell",
+   "team": "Mercedes-AMG PETRONAS F1 Team"
+  },
+  "77": {
+   "name": "Valtteri Bottas",
+   "team": null
+  },
+  "81": {
+   "name": "Oscar Piastri",
+   "team": null
+  },
+  "87": {
+   "name": "Oliver Bearman",
+   "team": null
+  },
+  "90": {
+   "name": "Ayumu Iwasa",
+   "team": null
+  },
+  "91": {
+   "name": "Nikola Tsolov",
+   "team": null
+  },
+  "98": {
+   "name": "Freddie Slater",
+   "team": "Audi Revolut F1 Team"
+  }
+ },
+ "unmatched_titles": []
+}

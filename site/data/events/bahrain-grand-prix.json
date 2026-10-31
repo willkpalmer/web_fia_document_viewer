@@ -1,0 +1,1427 @@
+{
+ "event": {
+  "slug": "bahrain-grand-prix",
+  "name": "Bahrain Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Bahrain%20Grand%20Prix",
+  "doc_count": 61,
+  "first_published": "2026-09-30T10:30",
+  "last_published": "2026-10-04T15:58",
+  "counts": {
+   "results": 10,
+   "stewards": 25,
+   "technical": 11,
+   "race_director": 12,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 61,
+   "title": "Doc 61 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_championship_points.pdf",
+   "published": "2026-10-04T15:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_final_race_classification.pdf",
+   "published": "2026-10-04T15:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Infringement - Car 1 - Alleged driving erratically",
+   "subject": "Infringement - Car 1 - Alleged driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_1_-_alleged_driving_erratically.pdf",
+   "published": "2026-10-04T15:49",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Lando Norris",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "18:08",
+    "session": "Race",
+    "fact": "Driving erratically under Safety Car conditions.",
+    "infringement": "Breach of Articles B5.13.2a of the FIA F1 Regulations and Appendix L, Chapter IV, Articles 2 e) of the International Sporting Code.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards heard from the driver of Car 1 (Lando Norris), the team representative and reviewed video and in-car video evidence. While following the Safety Car, NOR approached Turn 1 behind a group of cars. Car 63 (George Russell) had stopped with a mechanical problem ahead of Turn 1, which caused the cars ahead of NOR to slow down. NOR explained that, due to the low sun and resulting visibility conditions, it was difficult to recognise that the cars ahead had started to slow earlier than would normally have been expected. NOR consequently misjudged his closing speed and approached the cars ahead too quickly. When he realised this, he braked heavily and deliberately steered to the left, onto the kerbs and then into the gravel bed in order to avoid contact with the cars ahead. By driving onto the kerbs, NOR had reduced grip available for braking, which further limited his ability to slow the car. In doing so, NOR momentarily overshot Car 81 (Oscar Piastri), who was directly ahead of him. The Stewards considered whether this constituted an overtake while the Safety Car was deployed. Although NOR momentarily moved ahead of PIA, this occurred solely as a consequence of NOR leaving the track while taking avoiding action. PIA immediately repassed NOR while NOR was off the track. The Stewards therefore determined that this did not constitute an overtaking manoeuvre and take no further action in respect of this aspect of the incident. The Stewards also considered that, particularly while driving behind the Safety Car, NOR should have managed the gap to the cars ahead and his closing speed with greater care. The prevailing visibility conditions were circumstances which NOR should have taken into account when determining an appropriate speed and gap to the cars ahead, rather than a reason which excused the resulting driving. The need for heavy braking and an avoiding manoeuvre into the gravel demonstrated that NOR had not maintained an appropriate margin in the circumstances. The Stewards therefore determined that NOR had driven erratically in breach of Article B5.13.2a of the FIA F1 Regulations. Such a situation should not arise while driving behind the Safety Car, and NOR was required to maintain a sufficient margin to the cars ahead. However, taking into account that NOR reacted promptly once he recognised the situation and successfully avoided contact, the Stewards consider a Reprimand as appropriate. The Stewards separately considered NOR's return to the track. Although Car 18 (Lance Stroll) was in relative close proximity, NOR returned progressively and without requiring STR to take avoiding action or otherwise creating an unsafe situation. The Stewards therefore determined that the re-join was safe. The Stewards also reviewed whether, after having re-joined the track, NOR had overtaken STR while the Safety Car was deployed. The video evidence showed that, as NOR returned from the gravel, he had already crossed the white line with at least one wheel and, as such, was back on track. At this point, he was ahead of STR and at no point did NOR pass STR. Rather, STR approached NOR while NOR was already in the process of returning to the track. The Stewards therefore determined that NOR had not overtaken STR under Safety Car conditions and as such also take no further action for this part of the incident. Accordingly, the Stewards impose a Reprimand on NOR for erratic driving. No further action is taken in relation to the re-join or the alleged overtake while the Safety Car was deployed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     54,
+     59
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    54
+   ]
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Infringement - Car 27 - Unsafe release",
+   "subject": "Infringement - Car 27 - Unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_27_-_unsafe_release.pdf",
+   "published": "2026-10-04T15:20",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "17:35",
+    "session": "Race",
+    "fact": "Unsafe act during the pit stop resulting in an unsafe situation.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code.",
+    "decision": "The competitor (Audi Revolut F1 Team) is fined €30,000 of which €20,000 is suspended for 12 months on condition that the Competitor does not commit a similar infringement during its pitstops in the meantime.",
+    "reason": "The Stewards heard from the team representative and reviewed video and in-car video evidence. During the pit stop of Car 27 (HUL), the automated release system initially displayed a green light after all four wheel guns had been removed from the wheel nuts and the respective mechanics had activated the release system. However, a mechanic was still in front of the car near the left-front wheel after having adjusted the front wing. The Team explained that its release procedure incorporates an additional manual safety check by a controller. When the responsible team member observed that the mechanic was still in front of the left-front wheel, the release signal was immediately changed back to red. HUL initially began to move away from the pit stop position in response to the green light. However, he immediately recognised that the light went back to red as the mechanic was still in front of the car and reacted promptly by stopping the car before it had fully left the pit stop position. The Stewards considered whether the initial green signal itself constituted an unsafe release. Article B1.6.2 defines when a car is deemed to have been released from its Designated Pit Stop Position. The relevant point is when the rear axle has passed the position previously occupied by the front axle while the car was stationary in its Designated Pit Stop Position. Accordingly, although the initial green signal was given prematurely and created an unsafe situation, the car was not “released” within the meaning of Article B1.6.2 while that situation existed. The Stewards therefore determine that no unsafe release occurred. In this case, although the initial green signal was given prematurely, the Team's backup safety procedure operated as intended and the signal was returned to red before the car had been released from its pit stop position. Nevertheless, the automatic premature green signal created an unsafe situation. While the Stewards determine that the circumstances did not constitute an unsafe release, the premature green signal nevertheless created an unsafe situation involving a team mechanic. The Stewards therefore impose a fine of €30,000 on the Competitor, of which €20,000 is suspended for the remainder of the 2026 season, subject to there being no further similar infringement. The substantial suspended element is intended to encourage the Competitor to review and, where necessary, improve its release procedures so as to prevent a recurrence of such an unsafe situation.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     51,
+     58
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 50000
+   },
+   "related": [
+    51
+   ]
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Decision - Car 23 - Alleged driving erratically",
+   "subject": "Decision - Car 23 - Alleged driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_decision_-_car_23_-_alleged_driving_erratically.pdf",
+   "published": "2026-10-04T14:54",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "16:53",
+    "session": "Race",
+    "fact": "Driving erratically in the pit entry road.",
+    "infringement": "Alleged breaches of Article 1.8.5 of the FIA F1 Regulations and Appendix L, Chapter IV, Article 2 e) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 23 (Alexander Albon), the driver of Car 81 (Oscar Piastri), the team representatives and reviewed video, in-car video and telemetry. On the approach to the pit entry, ALB reduced his speed, causing PIA, who was following closely behind, to brake and take avoiding action. No collision or contact occurred. ALB explained that immediately before entering the pit entry road he became aware that he was below the required delta time and therefore reduced his speed in order to comply with the applicable delta requirement. PIA confirmed, having heard ALB's explanation, that he considered the reason for ALB's actions understandable. While the situation required a significant reaction from PIA and could potentially have developed into a dangerous situation, the Stewards were satisfied that ALB's actions were taken in an attempt to comply with the applicable delta requirements and explained the otherwise unusual reduction in speed at that location. His actions, therefore, did not constitute erratic or unnecessarily dangerous driving in the circumstances. Having considered the matter extensively, the Stewards determine that no infringement occurred and accordingly take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     49,
+     57
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    49
+   ]
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_scrutineering.pdf",
+   "published": "2026-10-04T14:35",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-10-04T13:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 Cars below did not use the track at turns 1, 6, 12, 14 and 15.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "10": 2,
+     "16": 1,
+     "1": 2,
+     "43": 1,
+     "27": 1,
+     "87": 3,
+     "12": 2
+    },
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Summons - Car 1 - Alleged driving erratically",
+   "subject": "Summons - Car 1 - Alleged driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_1_-_alleged_driving_erratically.pdf",
+   "published": "2026-10-04T12:47",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Lando Norris",
+    "reason": "Alleged Breaches of Articles B1.8.6, B5.13.2a and/or B5.13.2c of the FIA F1 Regulations and Appendix L, Chapter IV, Articles 2 c) and/or 2 e) of the International Sporting Code – Driving erratically under Safety Car conditions, leaving the track and re-joining unsafely and/or overtaking another car behind the Safety Car at 18:08.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     54
+    ]
+   },
+   "related": [
+    59
+   ]
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_provisional_race_classification.pdf",
+   "published": "2026-10-04T12:41",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Infringement - Car 5 - Causing a collision with Car 55",
+   "subject": "Infringement - Car 5 - Causing a collision with Car 55",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_5_-_causing_a_collision_with_car_55.pdf",
+   "published": "2026-10-04T12:22",
+   "recalled": false,
+   "cars": [
+    5,
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "17:01",
+    "session": "Race",
+    "fact": "Car 5 caused a collision with Car 55 in Turn 2.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed video and in-car video evidence. BOR attempted to overtake SAI on the inside of Turn 2. BOR did not have his front axle alongside SAI's mirror prior to the apex. Although he was close to the required position at the apex, BOR did not maintain the inside line and moved towards SAI, who had left sufficient space. Contact then occurred between BOR's right front tyre and the left side of SAI's car. The Stewards considered that BOR was not in full control of the overtaking manoeuvre and was wholly to blame for the collision. The Stewards note that the incident occurred shortly after the restart. However, the circumstances normally associated with a “first-lap” (restart) incident were not present. The Stewards therefore did not consider it appropriate to apply the more lenient approach normally taken to “first-lap” (restart) incidents. Accordingly, the Stewards determine that BOR caused the collision and impose the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     52
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Summons - Car 27 - Alleged unsafe release",
+   "subject": "Summons - Car 27 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_27_-_alleged_unsafe_release.pdf",
+   "published": "2026-10-04T12:22",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Unsafe release by Car 27 at 17:35.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     51
+    ]
+   },
+   "related": [
+    58
+   ]
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Summons - Car 81 - Alleged driving erratically by Car 23",
+   "subject": "Summons - Car 81 - Alleged driving erratically by Car 23",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_81_-_alleged_driving_erratically_by_car_23.pdf",
+   "published": "2026-10-04T12:04",
+   "recalled": false,
+   "cars": [
+    23,
+    81
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "reason": "Alleged breach of Article 1.8.5 of the FIA F1 Regulations and Appendix L, Chapter IV, Article 2 e) of the International Sporting Code – Driving erratically in pit entry road at 16:53.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     50
+    ]
+   }
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Summons - Car 23 - Alleged driving erratically",
+   "subject": "Summons - Car 23 - Alleged driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_23_-_alleged_driving_erratically.pdf",
+   "published": "2026-10-04T12:00",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "reason": "Alleged breach of Article 1.8.5 of the FIA F1 Regulations and Appendix L, Chapter IV, Article 2 e) of the International Sporting Code – Driving erratically in pit entry road at 16:53.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     49
+    ]
+   },
+   "related": [
+    57
+   ]
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Infringement - Car 55 - Pit Lane Speeding",
+   "subject": "Infringement - Car 55 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_55_-_pit_lane_speeding.pdf",
+   "published": "2026-10-04T09:05",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "14:26",
+    "session": "Reconnaissance Laps",
+    "fact": "Pit lane speeding – 80.3 km/h.",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Atlassian Williams F1 Team) is fined €100.",
+    "reason": "Car 55 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.3 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     48
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   }
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_final_starting_grid.pdf",
+   "published": "2026-10-04T08:04",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Parts and Parameters been replaced and or changed during Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-10-04T08:03",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_post-race_procedure.pdf",
+   "published": "2026-10-04T03:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_pre-race_procedure.pdf",
+   "published": "2026-10-04T03:24",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_provisional_starting_grid.pdf",
+   "published": "2026-10-03T14:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_final_qualifying_classification.pdf",
+   "published": "2026-10-03T14:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Infringement - Car 18 - Failure to follow Race Director's instructions (SC2-SC1 Time) (2nd Offence)",
+   "subject": "Infringement - Car 18 - Failure to follow Race Director's instructions (SC2-SC1 Time) (2nd Offence)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_18_-_failure_to_follow_race_directors_instructions_sc2-sc1_time_2nd_offence.pdf",
+   "published": "2026-10-03T13:52",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "16:38",
+    "session": "Qualifying",
+    "fact": "Car 18 exceeded the 1:59.0 time limit between the Safety Car lines.",
+    "infringement": "Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 33).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards heard from the Driver of Car 18 (Lance Stroll), the team representative and reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. Car 18 exceeded the maximum permitted SC2–SC1 time during Qualifying at 16:38:55. The driver and team explained that the configuration of the Power Unit requires a specific driving procedure during the out-laps. At this circuit, this made it particularly demanding for the Driver to manage his out-lap while at the same time meeting the prescribed SC2–SC1 time as accurately as possible. However, it does not relieve either the Driver or the Competitor of the obligation to comply with the prescribed maximum time. The Driver and Competitor remain responsible for operating the car, including its technical configuration, in a manner which enables compliance with the applicable regulations and the Race Director's instructions. The Stewards also note that STR was able to comply with the prescribed SC2–SC1 time on at least one other out-lap during the same Qualifying session while operating under the same general operational requirements. The Stewards therefore did not consider that the Power Unit configuration made compliance impossible. Having considered the circumstances of the incident, the Stewards determine that the exceedance constitutes an infringement. Taking into account all of the above, and in particular that compliance with the prescribed time remained possible, the Stewards determine that the standard sanction of a Warning is appropriate.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     33,
+     34,
+     41
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    33,
+    34
+   ]
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Infringement - Car 18 - Failure to follow Race Director's instructions (SC2-SC1 Time) (1st Offence)",
+   "subject": "Infringement - Car 18 - Failure to follow Race Director's instructions (SC2-SC1 Time) (1st Offence)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_18_-_failure_to_follow_race_directors_instructions_sc2-sc1_time_1st_offence.pdf",
+   "published": "2026-10-03T13:50",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "16:16",
+    "session": "Qualifying",
+    "fact": "Car 18 exceeded the 1:59.0 time limit between the Safety Car lines.",
+    "infringement": "Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 33).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards heard from the Driver of Car 18 (Lance Stroll), the team representative and reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. Car 18 exceeded the maximum permitted SC2–SC1 time during Qualifying at 16:16:52. The driver and team explained that the configuration of the Power Unit requires a specific driving procedure during the out-laps. At this circuit, this made it particularly demanding for the Driver to manage his out-lap while at the same time meeting the prescribed SC2–SC1 time as accurately as possible. However, it does not relieve either the Driver or the Competitor of the obligation to comply with the prescribed maximum time. The Driver and Competitor remain responsible for operating the car, including its technical configuration, in a manner which enables compliance with the applicable regulations and the Race Director's instructions. The Stewards also note that STR was able to comply with the prescribed SC2–SC1 time on at least one other out-lap during the same Qualifying session while operating under the same general operational requirements. The Stewards therefore did not consider that the Power Unit configuration made compliance impossible. Having considered the circumstances of the incident, the Stewards determine that the exceedance constitutes an infringement. Taking into account all of the above, and in particular that compliance with the prescribed time remained possible, the Stewards determine that the standard sanction of a Warning is appropriate.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     33,
+     34,
+     40
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    33,
+    34
+   ]
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Decision - Qualifying SC2-SC1 Times (Corrected)",
+   "subject": "Decision - Qualifying SC2-SC1 Times (Corrected)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_decision_-_qualifying_sc2-sc1_times_corrected.pdf",
+   "published": "2026-10-03T13:44",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below exceeded the 1:59.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 33).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. Both drivers concerned stayed at or above speeds necessary to stay below 1:59.0 around the vast majority of the circuit. However, in both cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that both drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "18": 1,
+     "43": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     33,
+     39
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    33
+   ]
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-10-04T15:58",
+   "recalled": true,
+   "cars": [],
+   "type": "Decision"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-10-03T13:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-10-03T11:50",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below did not use the track at turns 6 and 15.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "87": 2,
+     "12": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     36
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_provisional_qualifying_classification.pdf",
+   "published": "2026-10-03T11:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Summons - Car 18 - Alleged failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "subject": "Summons - Car 18 - Alleged failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_18_-_alleged_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf",
+   "published": "2026-10-03T11:05",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "reason": "Alleged breaches of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 33) – Driving unnecessarily slowly during Q1 and Q2.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     33,
+     34
+    ]
+   },
+   "related": [
+    33,
+    40,
+    41
+   ]
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Race Director's Competition Notes V3",
+   "subject": "Race Director's Competition Notes V3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_directors_competition_notes_v3.pdf",
+   "published": "2026-10-03T09:22",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    34,
+    39,
+    40,
+    41
+   ]
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-10-03T07:55",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 Cars below did not use the track at turns 7, 8 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "18": 1,
+     "5": 1,
+     "41": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_free_practice_3_classification.pdf",
+   "published": "2026-10-03T07:44",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-10-03T06:34",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_curfew.pdf",
+   "published": "2026-10-03T06:24",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-10-03T05:42",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 33
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_post-qualifying_procedure.pdf",
+   "published": "2026-10-03T03:27",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Infringement - Car 44 - Impeding of Car 5",
+   "subject": "Infringement - Car 44 - Impeding of Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_44_-_impeding_of_car_5.pdf",
+   "published": "2026-10-02T14:22",
+   "recalled": false,
+   "cars": [
+    5,
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "16:24",
+    "session": "Free Practice 2",
+    "fact": "Car 44 unnecessarily impeded Car 5 on the entry to Turn 9.",
+    "infringement": "Breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "Driver: Warning. The competitor (Scuderia Ferrari HP) is fined €10,000.",
+    "reason": "The Stewards heard from the driver of Car 44 (Lewis Hamilton), the driver of Car 5 (Gabriel Bortoleto), the team representatives and reviewed video, telemetry, team radio and in-car video evidence. HAM was travelling slowly approaching Turn 9 at approximately 80-85 km/h when BOR, who was on an out lap and not on a push lap, approached from behind at approximately 240 km/h, resulting in a closing speed of approximately 155-160 km/h. HAM moved from the middle of the track towards the racing line, at the end of the straight causing BOR to brake and take evasive action. The Stewards accept that HAM's right-hand mirror was damaged, as confirmed by photographic and video evidence, and that he had received no radio warning from the team. Both team representatives stated that such warnings are not normally issued where the approaching car is not on a push lap. BOR also confirmed that he remained in control of the situation. Nevertheless, the Stewards considered that HAM unnecessarily impeded the significantly faster approaching car by moving onto the racing line at slow speed. The fact that BOR was not on a push lap does not alter that conclusion. The Stewards also considered whether the incident should be regarded as dangerous impeding. In particular, they considered the high closing speed as well as the fact that a driver, who is aware that one of his mirrors is damaged, should exercise additional care before moving onto the racing line. However, BOR remained in control and was able to avoid HAM. The Stewards considered the damaged mirror and the fact that BOR was not on a push lap as mitigating circumstances. These were balanced against the significant speed differential, HAM's movement onto the racing line and the resulting need for BOR to take evasive action. Taking all the above into account, the Stewards determine that the standard penalty for impeding during a Practice session, which is a Warning, is appropriate. The Stewards also considered the responsibility of Scuderia Ferrari HP in relation to this incident. The Team was aware that HAM's right-hand mirror was damaged. As such, the Stewards determine that the Team should have provided appropriate radio warnings of significantly faster approaching cars, irrespective of whether those cars were on a push lap or not. The Stewards therefore determine that the Team failed to provide its driver with appropriate information in circumstances where it knew that his ability to observe approaching traffic was materially impaired by the damaged mirror and impose a fine of €10,000 on Scuderia Ferrari HP.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     20,
+     26
+    ],
+    "tags": [
+     "Warning",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 10000
+   },
+   "related": [
+    20
+   ]
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - P1 and P2 Scrutineering",
+   "subject": "P1 and P2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_p1_and_p2_scrutineering.pdf",
+   "published": "2026-10-02T13:08",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-10-02T11:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-10-02T11:29",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 Cars below did not use the track at turns 1, 3, 6, 7, 8 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "18": 3,
+     "11": 1,
+     "41": 2,
+     "10": 1,
+     "12": 1,
+     "77": 1,
+     "30": 3,
+     "87": 2,
+     "5": 1,
+     "55": 1,
+     "14": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_free_practice_2_classification.pdf",
+   "published": "2026-10-02T11:19",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Summons - Car 5 - Alleged impeding by Car 44",
+   "subject": "Summons - Car 5 - Alleged impeding by Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_5_-_alleged_impeding_by_car_44.pdf",
+   "published": "2026-10-02T10:58",
+   "recalled": false,
+   "cars": [
+    5,
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 44 allegedly impeding Car 5 in turn 9 at 16:24.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     21
+    ]
+   }
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Summons - Car 44 - Alleged impeding of Car 5",
+   "subject": "Summons - Car 44 - Alleged impeding of Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_summons_-_car_44_-_alleged_impeding_of_car_5.pdf",
+   "published": "2026-10-02T10:42",
+   "recalled": false,
+   "cars": [
+    5,
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 44 allegedly impeding Car 5 in turn 9 at 16:24.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     20
+    ]
+   },
+   "related": [
+    26
+   ]
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Infringement - Car 41 - Changes to PU elements",
+   "subject": "Infringement - Car 41 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_41_-_changes_to_pu_elements.pdf",
+   "published": "2026-10-02T08:18",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "12:31",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH)",
+    "infringement": "Breaches of Articles B8.2.2 (read in conjunction with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 30 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 30 places. Subject to Car 41 being classified in the results of Qualifying, Car 41 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     14,
+     19
+    ],
+    "tags": [
+     "30-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ]
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Car 43 - Changes to PU elements",
+   "subject": "Infringement - Car 43 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_43_-_changes_to_pu_elements.pdf",
+   "published": "2026-10-02T08:15",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "12:31",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE)",
+    "infringement": "Breaches of Articles B8.2.2.a) (read in conjunction with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8.a) of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     14,
+     18
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ]
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Infringement - Car 6 - Changes to PU elements",
+   "subject": "Infringement - Car 6 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_car_6_-_changes_to_pu_elements.pdf",
+   "published": "2026-10-02T08:09",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "12:31",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit element have been used: 7th Engine (ICE)",
+    "infringement": "Breaches of Articles B8.2.2 a) (read in conjunction with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 5 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8.b) of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     14,
+     17
+    ],
+    "tags": [
+     "5-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ]
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_free_practice_1_classification.pdf",
+   "published": "2026-10-02T07:49",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-10-02T07:49",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 11 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "1": 3,
+     "81": 1,
+     "18": 1,
+     "5": 1,
+     "63": 2,
+     "12": 1,
+     "87": 1,
+     "31": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     15
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-10-02T06:53",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Competition Visa V2",
+   "subject": "Competition Visa V2",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_competition_visa_v2.pdf",
+   "published": "2026-10-02T06:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_car_presentation_submissions.pdf",
+   "published": "2026-10-02T04:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_entry_list.pdf",
+   "published": "2026-10-02T03:01",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_self_scrutineering.pdf",
+   "published": "2026-10-02T02:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - PU Elements used per Driver up to now",
+   "subject": "PU Elements used per Driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-10-02T02:49",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_directors_competition_notes.pdf",
+   "published": "2026-10-01T13:29",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 33
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-10-01T12:44",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": null,
+   "published": "2026-10-02T06:08",
+   "recalled": true,
+   "cars": [],
+   "superseded_by": 13
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_car_display_procedure.pdf",
+   "published": "2026-10-01T11:33",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_power_unit_information.pdf",
+   "published": "2026-10-01T06:16",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Heat Hazard Declaration",
+   "subject": "Heat Hazard Declaration",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_heat_hazard_declaration.pdf",
+   "published": "2026-09-30T13:42",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Post-Race Checks on Car Number 16, 2026 Azerbaijan GP",
+   "subject": "Post-Race Checks on Car Number 16, 2026 Azerbaijan GP",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_post-race_checks_on_car_number_16_2026_azerbaijan_gp.pdf",
+   "published": "2026-09-30T10:34",
+   "recalled": false,
+   "cars": [
+    16
+   ]
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-09-30T10:30",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

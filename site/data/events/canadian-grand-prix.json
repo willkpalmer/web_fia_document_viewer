@@ -1,0 +1,2690 @@
+{
+ "event": {
+  "slug": "canadian-grand-prix",
+  "name": "Canadian Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Canadian%20Grand%20Prix",
+  "doc_count": 111,
+  "first_published": "2026-05-20T20:38",
+  "last_published": "2026-05-29T16:49",
+  "counts": {
+   "results": 16,
+   "stewards": 56,
+   "technical": 19,
+   "race_director": 17,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 111,
+   "title": "Doc 111 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_championship_points.pdf",
+   "published": "2026-05-25T03:16",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 110,
+   "title": "Doc 110 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-05-25T03:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 109,
+   "title": "Doc 109 - Decision - Race reconnaissance laps SC2 - SC1",
+   "subject": "Decision - Race reconnaissance laps SC2 - SC1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_race_reconnaissance_laps_sc2_-_sc1_.pdf",
+   "published": "2026-05-25T02:46",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Reconnaissance laps - Race",
+    "fact": "The F1 cars below exceeded the 1:22.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:22.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "5": 1,
+     "77": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     6,
+     109
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 108,
+   "title": "Doc 108 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-05-25T02:32",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 4, 8, 10, and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "23": 1,
+     "1": 3,
+     "6": 1,
+     "10": 2,
+     "27": 3,
+     "12": 3,
+     "31": 1,
+     "5": 3,
+     "18": 4,
+     "55": 3,
+     "63": 2,
+     "16": 1,
+     "87": 1,
+     "77": 1,
+     "3": 1,
+     "44": 1,
+     "81": 4,
+     "30": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     108
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 107,
+   "title": "Doc 107 - Decision - Race reconnaissance laps SC2 - SC1",
+   "subject": "Decision - Race reconnaissance laps SC2 - SC1",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-05-25T02:30",
+   "recalled": true,
+   "cars": [],
+   "type": "Decision"
+  },
+  {
+   "num": 106,
+   "title": "Doc 106 - Infringement - Car 6 - Failing to slow for yellow flags",
+   "subject": "Infringement - Car 6 - Failing to slow for yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_6_-_failing_to_slow_for_yellow_flags.pdf",
+   "published": "2026-05-25T02:25",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "16:47",
+    "session": "Race",
+    "fact": "Car 6 failed to slow under double yellow flags at T13",
+    "infringement": "Breach of Appendix H, Article 2.5.5 b) of the International Sporting Code and Article B 1.8.4b of the FIA F1 Regulations.",
+    "decision": "10 Second Stop-and-Go penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. The telemetry for Car 6 clearly showed that the driver did not make a significant reduction in speed when in the double yellow flag area, as required by the regulations. The penalty is the standard penalty for this offence.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     106
+    ],
+    "tags": [
+     "Stop & go"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 105,
+   "title": "Doc 105 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-05-25T02:24",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 104,
+   "title": "Doc 104 - Infringement - Car 63 - Unsafe act",
+   "subject": "Infringement - Car 63 - Unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_63_-_unsafe_act.pdf",
+   "published": "2026-05-25T02:22",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:40",
+    "session": "Race",
+    "fact": "The driver threw his head restraint onto the track after his car came to a halt during the race.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code.",
+    "decision": "The driver George Russell is fined €5.000, suspended for a period of 12 months subject to no further breaches by the driver of a similar nature.",
+    "reason": "The Stewards heard from the driver of Car 63, the team representative and reviewed video evidence. The driver explained that he was extremely frustrated having failed to finish the race, and expressed his embarrassment as what subsequently followed. He apologised to the Stewards for his action and acknowledged that it did not set a good example and offered to apologise publically. The Stewards acknowledged this and accepted his apology.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     92,
+     104
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    92
+   ]
+  },
+  {
+   "num": 103,
+   "title": "Doc 103 - Infringement - Car 30 - Starting procedure infringement",
+   "subject": "Infringement - Car 30 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_30_-_starting_procedure_infringement.pdf",
+   "published": "2026-05-25T02:12",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "16:08",
+    "session": "Race",
+    "fact": "Cars 27 and 30 were out of position at Safety Car Line 1 during the formation lap. Car 30 left the grid before Car 27",
+    "infringement": "Breach of Article B5.6.4 of the FIA F1 Regulations.",
+    "decision": "Reprimanded for failure to start the formation lap in the correct order. This is the driver’s first Reprimand for the Season.",
+    "reason": "The Stewards heard from the driver of Car 27 (Nico Hulkenberg), the driver of Car 30 (Liam Lawson), team representatives and reviewed positioning/marshalling system data, video, timing, and in-car video evidence. This was an unusual incident. Car 27 was slower than could be reasonably expected, starting from its grid position for what would be a third formation lap. Car 30 started sooner than expected and should have waited longer for Car 27 to start. During the formation lap, the driver of Car 27 claimed he was unable to safely pass Car 30 to regain the correct position. However, despite the cars being in the incorrect order when crossing the SC1 line, the start was not required to be delayed, no disruption to the grid was required and there was no impact on the competition. Both cars started the race from the correct positions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     103
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   }
+  },
+  {
+   "num": 102,
+   "title": "Doc 102 - Decision - Car 11 - Ignoring blue flags",
+   "subject": "Decision - Car 11 - Ignoring blue flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_11_-_ignoring_blue_flags.pdf",
+   "published": "2026-05-25T02:11",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "17:02",
+    "session": "Race",
+    "fact": "Car 11 had 6 sets of blue flags displayed prior to the lapped car behind passing.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 e) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry, and in-car video evidence. Although Car 11 received six blue flag signals, and at times provided room for the lapping car to overtake and reduced speed, the car behind did not overtake until after Turn 9. The Stewards determined that the driver of Car 11 took all reasonable actions and hence decide to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     102
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 101,
+   "title": "Doc 101 - Infringement - Car 6 - More than one change of direction",
+   "subject": "Infringement - Car 6 - More than one change of direction",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_6_-_more_than_one_change_of_direction.pdf",
+   "published": "2026-05-29T16:49",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "16:54",
+    "session": "Race",
+    "fact": "Car 6 made more than one change of direction to defend its position",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 b) of the International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, and in-car video evidence. Car 6 was defending his position against Car 16 on the straight prior to Turn 13 and made more than one change of direction.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     101
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 100,
+   "title": "Doc 100 - Infringement - Car 81 - Collision with Car 23",
+   "subject": "Infringement - Car 81 - Collision with Car 23",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_81_-_collision_with_car_23.pdf",
+   "published": "2026-05-25T02:09",
+   "recalled": false,
+   "cars": [
+    23,
+    81
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "16:25",
+    "session": "Race",
+    "fact": "Car 81 collided with Car 23 in Turn 10",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, and in-car video evidence. Car 81 attempted to overtake Car 23 and did not, according to the Driving Standards Guidelines, have the right to the corner. Car 81 collided with Car 23 and hence was determined to be wholly to blame for the incident.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     100
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 99,
+   "title": "Doc 99 - Infringement - Car 27 - Starting procedure infringement",
+   "subject": "Infringement - Car 27 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_27_-_starting_procedure_infringement.pdf",
+   "published": "2026-05-25T02:08",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "16:08",
+    "session": "Race",
+    "fact": "Cars 27 and 30 were out of position at Safety Car Line 1 during the formation lap. Car 27 did not enter the Pit Lane as required by the Regulations.",
+    "infringement": "Breach of Article B5.6.4 of the FIA F1 Regulations.",
+    "decision": "A mandatory Stop-and-Go penalty imposed after the Race. This penalty is suspended for the period ending at the final race of the 2026 Championship on condition that no further similar breach, by this driver, occurs. In addition the driver is Reprimanded for failure to start the formation lap in the correct order. This is the driver’s first Reprimand for the Season.",
+    "reason": "The Stewards heard from the driver of Car 27 (Nico Hulkenberg), the driver of Car 30 (Liam Lawson), team representatives and reviewed positioning/marshalling system data, video, timing, and in-car video evidence. This was an unusual incident. Car 27 was slower than could be reasonably expected, starting from its grid position for what would be a third formation lap. Car 30 started sooner than expected and should have waited longer for Car 27 to start. During the formation lap, the driver of Car 27 claimed he was unable to safely pass Car 30 to regain the correct position. However, despite the cars being in the incorrect order when crossing the SC1 line, the start was not required to be delayed, no disruption to the grid was required and there was no impact on the competition. Both cars started the race from the correct positions. The regulations stipulate a mandatory Stop and Go Penalty for a car that does not enter the Pit Lane if it has failed to resume its correct position by SC1. However in view of the above mitigating circumstances, the Stewards consider this penalty to be extremely harsh and not proportionate to a breach that was relatively minor in effect and impact. Accordingly the Stop and Go Penalty is suspended using the authority vested in the Stewards under ISC Article 12.4.6.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     99
+    ],
+    "tags": [
+     "Stop & go",
+     "Reprimand",
+     "Suspended"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 98,
+   "title": "Doc 98 - Infringement - Car 5 - Driving unnecessarily slowly during VSC.",
+   "subject": "Infringement - Car 5 - Driving unnecessarily slowly during VSC.",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_5_-_driving_unnecessarily_slowly_during_vsc.pdf",
+   "published": "2026-05-25T01:59",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "17:18",
+    "session": "Race",
+    "fact": "Car 5 exceeded the VSC delta in several mini sectors during a VSC deployment.",
+    "infringement": "Breach of Article B1.8.5 of the FIA F1 Regulations.",
+    "decision": "5 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data and timing evidence. This evidence clearly indicated a breach of the regulations had occurred.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     98
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 97,
+   "title": "Doc 97 - Infringement - Car 77 - Pit Lane Speeding",
+   "subject": "Infringement - Car 77 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_77_-_pit_lane_speeding.pdf",
+   "published": "2026-05-25T01:57",
+   "recalled": false,
+   "cars": [
+    77
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "16:50",
+    "session": "Race",
+    "fact": "Pit lane speeding – 80.1 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "5 second time penalty.",
+    "reason": "Car 77 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.1 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     97
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 96,
+   "title": "Doc 96 - Infringement - Car 27 - Pit Lane Speeding",
+   "subject": "Infringement - Car 27 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_27_-_pit_lane_speeding.pdf",
+   "published": "2026-05-25T00:52",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "16:13",
+    "session": "Race",
+    "fact": "Pit lane speeding – 80.3 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations",
+    "decision": "5 second time penalty.",
+    "reason": "Car 27 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.3 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     96
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 95,
+   "title": "Doc 95 - Summons - Car 30 - Starting procedure infringement",
+   "subject": "Summons - Car 30 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_30_-_starting_procedure_infringement.pdf",
+   "published": "2026-05-25T00:14",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "reason": "Alleged breach of Article B5.6 of the FIA F1 Regulations by Car 27",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     95
+    ]
+   }
+  },
+  {
+   "num": 94,
+   "title": "Doc 94 - Summons - Car 27 - Starting procedure infringement",
+   "subject": "Summons - Car 27 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_27_-_starting_procedure_infringement.pdf",
+   "published": "2026-05-25T00:14",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "reason": "Alleged breach of Article B5.6 of the FIA F1 Regulations by Car 27",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     94
+    ]
+   }
+  },
+  {
+   "num": 93,
+   "title": "Doc 93 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-05-25T00:13",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 92,
+   "title": "Doc 92 - Summons - Car 63 - Alleged unsafe act",
+   "subject": "Summons - Car 63 - Alleged unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_63_-_alleged_unsafe_act.pdf",
+   "published": "2026-05-25T00:13",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged breach of Article 12.2.1.h of the International Sporting Code and/or Article B1.5.4b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     92
+    ]
+   },
+   "related": [
+    104
+   ]
+  },
+  {
+   "num": 91,
+   "title": "Doc 91 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-05-24T21:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 90,
+   "title": "Doc 90 - Parts and Parameters been replaced and or changed during Race Parc Fermé",
+   "subject": "Parts and Parameters been replaced and or changed during Race Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf",
+   "published": "2026-05-24T20:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 89,
+   "title": "Doc 89 - Infringement - Car 18 - PU Elements changed under Parc Ferme",
+   "subject": "Infringement - Car 18 - PU Elements changed under Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_18_-_pu_elements_changed_under_parc_ferme.pdf",
+   "published": "2026-05-24T19:08",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "11:34",
+    "session": "Race",
+    "fact": "The following Power Unit elements have been used: 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE) All Power Unit elements were replaced without the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) and B3.5.3 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "The use of the 4th Energy Store and Control Electronics Unit would have resulted in a grid drop penalty, however as the Technical Delegates approval was not obtained, this means, in accordance with Article B3.5.3 of the FIA F1 Regulations a start from the pit lane.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     89
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 88,
+   "title": "Doc 88 - Parc Fermé Issues",
+   "subject": "Parc Fermé Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parc_ferme_issues_0.pdf",
+   "published": "2026-05-24T17:46",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 87,
+   "title": "Doc 87 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-05-24T15:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 86,
+   "title": "Doc 86 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-05-24T15:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 85,
+   "title": "Doc 85 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-05-24T01:53",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 84,
+   "title": "Doc 84 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": null,
+   "published": "2026-05-24T01:41",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 83,
+   "title": "Doc 83 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-05-24T01:38",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - Decision - Car 18 - Allegedly impeded Car 27",
+   "subject": "Decision - Car 18 - Allegedly impeded Car 27",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_18_-_allegedly_impeded_car_27.pdf",
+   "published": "2026-05-24T01:23",
+   "recalled": false,
+   "cars": [
+    18,
+    27
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "16:17",
+    "session": "Qualifying",
+    "fact": "Car 18 allegedly impeded Car 27 on the approach to Turn 5",
+    "infringement": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 18 (Lance Stroll), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The driver of Car 18 advised that he saw Car 27 approaching but knew that he did not have the power at that stage of the lap, to move ahead quickly. He also believed that if he tried to move off the racing line (i.e. to the left) he felt he would risk loss of control because he had previously run onto the grass at a prior turn, and that, combined with the track on the left being “dirty”, would not have provided sufficient traction. The driver of Car 27 (via written submission) and the team representative of Car 27 both agreed that this was not a case of “unnecessary impeding”. Accordingly the Stewards decide to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     71,
+     82
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    71
+   ]
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - Decision - Car 44 - Alleged impeding of Car 10",
+   "subject": "Decision - Car 44 - Alleged impeding of Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_44_-_alleged_impeding_of_car_10.pdf",
+   "published": "2026-05-24T01:23",
+   "recalled": false,
+   "cars": [
+    10,
+    44
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "16:04",
+    "session": "Qualifying",
+    "fact": "Car 44 allegedly impeded Car 10 on the approach to Turn 8.",
+    "infringement": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 44 (Lewis Hamilton), the driver of Car 10 (Pierre Gasly), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The driver of Car 44 explained that he was under the impression that Car 10 was not on a push lap, and his team confirmed that it had the same opinion. The driver and team representative of Car 10 stated they did not consider this to be a case of “unnecessary impeding”. The Stewards therefore determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     69,
+     81
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    69
+   ]
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - Infringement - Car 11 - Failing to follow Race Directors Event Notes",
+   "subject": "Infringement - Car 11 - Failing to follow Race Directors Event Notes",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_11_-_failing_to_follow_race_directors_event_notes.pdf",
+   "published": "2026-05-24T01:22",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "16:03",
+    "session": "Qualifying",
+    "fact": "Car 11 failed to move to the right into turn 13 as required in the Competition Notes.",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards heard from the driver and the team representative and reviewed positioning/marshalling system data, video, timing and in-car video evidence. The driver stated that he saw the car behind weaving and assumed it was on an out lap when in fact that car was overtaking another car. However, whilst this may have been a reasonable assumption, the driver still failed to comply with the Competition Notes. Considering the mitigating circumstances, the penalty of a Reprimand is imposed on the driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     68,
+     80
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    68
+   ]
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - Qualifying SC2-SC1 Times",
+   "subject": "Qualifying SC2-SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-05-24T01:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - Qualifying Deleted Lap Times",
+   "subject": "Qualifying Deleted Lap Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-05-24T01:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - Infringement - Car 18 - Released in an unsafe condition",
+   "subject": "Infringement - Car 18 - Released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_18_-_released_in_an_unsafe_condition.pdf",
+   "published": "2026-05-24T01:10",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "16:00",
+    "session": "Qualifying",
+    "fact": "Car 18 was released from the garage with wheel covers still fitted.",
+    "infringement": "Breach of Article B1.6.2b.i of the FIA F1 Regulations.",
+    "decision": "The competitor (Aston Martin Aramco F1 Team) is fined €7,500.",
+    "reason": "The Stewards heard from the team representative and reviewed video, team radio and in-car video evidence. On its way down the pit lane at the start of the session, Car 18 lost an outer wheel trim. Then, on its first lap, the inner wheel cover also dislodged. This particular part, although made from carbon fibre, is still potentially dangerous if it hit another car or a person. The driver was not aware of the situation and the team admitted that part of its inspection process had overlooked the correct fixation of the securing devices for these pieces. The team undertook to thoroughly review its inspection process. The penalty is higher than for an unsafe release due to the fact that the car was on the track when the second piece dislodged.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     67,
+     77
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 7500
+   },
+   "related": [
+    67
+   ]
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - Infringement - Car 14 - Unsafe release from garage",
+   "subject": "Infringement - Car 14 - Unsafe release from garage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_14_-_unsafe_release_from_garage.pdf",
+   "published": "2026-05-24T01:05",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "15:59",
+    "session": "Qualifying",
+    "fact": "Car 14 was released from the garage into the path of Car 43",
+    "infringement": "Breach of Article B1.6.2a of the FIA F1 Regulations.",
+    "decision": "The competitor (Aston Martin Aramco F1 Team) is fined €5,000.",
+    "reason": "The Stewards heard from the team representative and reviewed position video and in-car video evidence. It was apparent that Car 43 had to swerve and locked the front wheels to avoid a collision with Car 14. This was determined by the Stewards to be an unsafe release.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     66,
+     76
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    66
+   ]
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - Qualifying Scrutineering",
+   "subject": "Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_qualifying_scrutineering.pdf",
+   "published": "2026-05-24T00:45",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-05-23T23:17",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - Summons - Car 10 - Incident With Car 44",
+   "subject": "Summons - Car 10 - Incident With Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_10_-_incident_with_car_44_.pdf",
+   "published": "2026-05-23T23:21",
+   "recalled": false,
+   "cars": [
+    10,
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 44 allegedly impeding Car 10 in turn 8 at 16:04.",
+    "from": "The Stewards",
+    "competitor": "BWT Alpine F1 Team",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     73
+    ]
+   }
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - Summons - Car 27 - Incident with Car 18",
+   "subject": "Summons - Car 27 - Incident with Car 18",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_27_-_incident_with_car_18.pdf",
+   "published": "2026-05-23T23:23",
+   "recalled": false,
+   "cars": [
+    18,
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 18 allegedly impeding Car 27 in turn 5 at 16:17.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     72
+    ]
+   }
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - Summons - Car 18 - Alleged impeding of Car 27",
+   "subject": "Summons - Car 18 - Alleged impeding of Car 27",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_18_-_alleged_impeding_of_car_27.pdf",
+   "published": "2026-05-23T23:07",
+   "recalled": false,
+   "cars": [
+    18,
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 18 allegedly impeding Car 27 in turn 5 at 16:17.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     71
+    ]
+   },
+   "related": [
+    82
+   ]
+  },
+  {
+   "num": 70,
+   "title": "DOC 70 - 2026 Canadian Grand Prix - Summons - Car 10 - Incident With Car 44",
+   "subject": "Summons - Car 10 - Incident With Car 44",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-05-23T16:45",
+   "recalled": true,
+   "cars": [
+    10,
+    44
+   ],
+   "type": "Summons"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - Summons - Car 44 - Alleged impeding of Car 10",
+   "subject": "Summons - Car 44 - Alleged impeding of Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_44_-_alleged_impeding_of_car_10.pdf",
+   "published": "2026-05-23T23:07",
+   "recalled": false,
+   "cars": [
+    10,
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 44 allegedly impeding Car 10 in turn 8 at 16:04.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     69
+    ]
+   },
+   "related": [
+    81
+   ]
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Summons - Car 11 - Alleged incident with car 14",
+   "subject": "Summons - Car 11 - Alleged incident with car 14",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_11_-_alleged_incident_with_car_14.pdf",
+   "published": "2026-05-23T23:04",
+   "recalled": false,
+   "cars": [
+    11,
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "reason": "Alleged breach of Article 12.2.1.i of the International Sporting Code and non- compliance with Race Director’s Competition Notes (item 1, document 6).",
+    "from": "The Stewards",
+    "competitor": "Cadillac Formula 1 Team",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     6,
+     68
+    ]
+   },
+   "related": [
+    6,
+    80
+   ]
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Summons - Car 18 - Alleged released in an unsafe condition",
+   "subject": "Summons - Car 18 - Alleged released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_18_-_alleged_released_in_an_unsafe_condition.pdf",
+   "published": "2026-05-23T23:04",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "reason": "Alleged breach of Articles B1.6.2b.i of the FIA F1 Regulations – Potential release of Car 18 in an unsafe condition at 16:00.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     67
+    ]
+   },
+   "related": [
+    77
+   ]
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - Summons - Car 14 - Alleged unsafe release",
+   "subject": "Summons - Car 14 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_14_-_alleged_unsafe_release.pdf",
+   "published": "2026-05-23T23:04",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Unsafe release of Car 14 at 15:59.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     66
+    ]
+   },
+   "related": [
+    76
+   ]
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
+   "published": "2026-05-23T22:33",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Decision - Car 31 - Alleged Procedural Infringement",
+   "subject": "Decision - Car 31 - Alleged Procedural Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_31_-_alleged_procedural_infringement.pdf",
+   "published": "2026-05-23T21:53",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "competitor": "TGR Haas F1 Team",
+    "time": "11:56",
+    "session": "Sprint",
+    "fact": "Car 31 was reported as having air released on the left rear tyre with the wheel fitted to the car.",
+    "infringement": "Alleged breach of Point 2.5, Point 2.7 and Point 2.8 of FIA-F1-DOC-062A Tyre Operating Procedure",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the team Sporting Director, team Engineer, the FIA Technical Delegate and the Grid Scrutineer assigned to Car 31, and reviewed video evidence from Car 11 (the car behind Car 31 on the grid), and from the FIA grid camera for position 14 (the starting position for Car 31). The Stewards also inspected the tyre blanket and tyre pressure guage from Car 31. This video evidence proved conclusively that there was no breach of the regulations in that there was no contact with the tyre that would have resulted in pressure being released. The report received was based on a visual report from the Scrutineer who witnessed a crew member of Car 31 holding what appeared to be an air hose connected to the tyre but was in fact the electrical cable for the tyre blanket. The cable was almost identical in appearance to the air hose and could easily have been mistaken for the latter.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     59,
+     64
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    59
+   ]
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Championship Points after Sprint",
+   "subject": "Championship Points after Sprint",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_championship_points_after_sprint.pdf",
+   "published": "2026-05-23T21:31",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Final Sprint Classification",
+   "subject": "Final Sprint Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_sprint_classification.pdf",
+   "published": "2026-05-23T21:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Sprint Scrutineering",
+   "subject": "Sprint Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_sprint_scrutineering.pdf",
+   "published": "2026-05-23T20:45",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Tyre Pressure Check on Grid of Sprint, Car 31",
+   "subject": "Tyre Pressure Check on Grid of Sprint, Car 31",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_tyre_pressure_check_on_grid_of_sprint_car_31.pdf",
+   "published": "2026-05-23T20:41",
+   "recalled": false,
+   "cars": [
+    31
+   ]
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Summons - Car 31 - Alleged Procedural infringement",
+   "subject": "Summons - Car 31 - Alleged Procedural infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_31_-_alleged_procedural_infringement.pdf",
+   "published": "2026-05-23T20:30",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "reason": "Alleged breach of Point 2.2, Point 2.7 and Point 2.8 of FIA-F1-DOC-062A Tyre Operating Procedure",
+    "from": "The Stewards",
+    "competitor": "TGR Haas F1 Team",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     59
+    ]
+   },
+   "related": [
+    64
+   ]
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Rain Hazard Declaration",
+   "subject": "Rain Hazard Declaration",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_rain_hazard_declaration.pdf",
+   "published": "2026-05-23T19:53",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+   "subject": "Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_44_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-05-23T19:50",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "12:29",
+    "session": "Sprint",
+    "fact": "Car 44 left the track and rejoined at Turn 13",
+    "infringement": "Alleged breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, team radio and in-car video evidence. Car 44 was in front of Car 81 on the approach to Turn 13 and left the track, drove through the chicane and rejoined, in front of Car 81. However this incident differs from the previous incident in this Session involving Cars 27 and 30 in that Car 81 was not in an overtaking position on Car 44. Accordingly Car 44 was not deemed by the Stewards to be “defending” its position hence was not deemed to gain a lasting advantage, consistent with the Driving Standards Guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     57
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Infringement - Car 11 - Forcing Car 30 off track",
+   "subject": "Infringement - Car 11 - Forcing Car 30 off track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_11_-_forcing_car_30_off_track.pdf",
+   "published": "2026-05-23T19:50",
+   "recalled": false,
+   "cars": [
+    11,
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "12:29",
+    "session": "Sprint",
+    "fact": "Car 11 forced Car 30 off the track prior to Turn 13",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 b) of the International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, team radio and in-car video evidence. Car 30 was attempting to overtake Car 11 on the straight before Turn 13. Car 11 moved to the right of the track then moved back to the left forcing Car 30 off the track. Accordingly the base line penalty of 10 seconds is applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     56
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Infringement - Car 27 - Leaving the track and gaining an advantage",
+   "subject": "Infringement - Car 27 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_27_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-05-23T19:49",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "12:17",
+    "session": "Sprint",
+    "fact": "Car 27 left the track and rejoined in the same position, whilst defending against Car 30",
+    "infringement": "Breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, team radio and in-car video evidence. Car 27 left the track at Turn 13 whilst defending against Car 30 into Turn 13, and by doing so, gained a lasting advantage over car 30 by maintaining the position. The driver rejoined the track in front of Car 30 and did not give the position back. The Stewards deemed Car 27 was “defending” its position. The Stewards determine that Car 27 gained a sporting advantage in position and that this advantage was not relinquished. Consistent with the Driving Standards Guidelines this is deemed to be a breach and the base line penalty of 10 seconds is applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Infringement - Car 18 - Starting procedure infringement",
+   "subject": "Infringement - Car 18 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_18_-_starting_procedure_infringement.pdf",
+   "published": "2026-05-23T19:49",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "12:05",
+    "session": "Sprint",
+    "fact": "Car 18 did not start the formation lap.",
+    "infringement": "Breach of Article B5.6.1 of the FIA F1 Regulations.",
+    "decision": "No penalty applied",
+    "reason": "The Stewards reviewed video, team radio and in-car video evidence. There is a requirement for cars to take part in the formation lap. Car 18 experienced mechanical problems on the grid, was removed appropriately off the grid, consequently repaired, and was able to start the race from the Pit Lane. Therefore it was unable to start the formation lap however the Stewards consider the above to be mitigating circumstances and so decide not to impose a penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     54
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Infringement - Sprint Deleted Lap Times",
+   "subject": "Infringement - Sprint Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_sprint_deleted_lap_times.pdf",
+   "published": "2026-05-23T19:22",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns Pit Entry, 1, 2, 8, 9 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 3,
+     "5": 2,
+     "11": 1,
+     "87": 1,
+     "27": 2,
+     "3": 2,
+     "55": 1,
+     "14": 1,
+     "31": 1,
+     "30": 1,
+     "44": 1,
+     "10": 1,
+     "18": 2
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     53
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Tyre Pressure Check on Grid of Sprint, Car 31",
+   "subject": "Tyre Pressure Check on Grid of Sprint, Car 31",
+   "category": "technical",
+   "url": null,
+   "published": "2026-05-23T19:22",
+   "recalled": true,
+   "cars": [
+    31
+   ]
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Provisional Sprint Classification",
+   "subject": "Provisional Sprint Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_sprint_classification.pdf",
+   "published": "2026-05-23T18:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Final Sprint Starting Grid",
+   "subject": "Final Sprint Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_sprint_starting_grid.pdf",
+   "published": "2026-05-23T17:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Infringement - Car 23 - Parc Ferme",
+   "subject": "Infringement - Car 23 - Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_23_-_parc_ferme.pdf",
+   "published": "2026-05-23T17:18",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "10:44",
+    "session": "Sprint Qualifying",
+    "fact": "The setup of the car has been changed while under Parc Ferme and the team continued to work on the car beyond the covers-on time.",
+    "infringement": "Breaches of Articles B3.4.2a and B3.5.7 of the FIA F1 Regulations.",
+    "decision": "Required to start the Sprint from the pit lane.",
+    "reason": "Atlassian Williams F1 Team changed the setup of Car 23 under Parc Ferme, without the approval of the Technical Delegate. Furthermore, Atlassian Williams F1 Team continued to work on the car beyond the covers-on time which is a breach of article B3.4.2a of the FIA F1 Regulations. The F1 car is therefore required to start the Sprint from pit lane as per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     44,
+     49
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    44
+   ]
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Infringement - Car 10 - Parc Ferme",
+   "subject": "Infringement - Car 10 - Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_10_-_parc_ferme.pdf",
+   "published": "2026-05-23T17:17",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "10:44",
+    "session": "Sprint Qualifying",
+    "fact": "The setup of the car has been changed while under Parc Ferme and the team continued to work on the car beyond the covers-on time.",
+    "infringement": "Breaches of Articles B3.4.2a and B3.5.7 of the FIA F1 Regulations.",
+    "decision": "Required to start the Sprint from the pit lane.",
+    "reason": "BWT Alpine F1 Team changed the setup of Car 10 under Parc Ferme, without the approval of the Technical Delegate. Furthermore, BWT Alpine F1 Team continued to work on the car beyond the covers- on time which is a breach of article B3.4.2a of the FIA F1 Regulations. The F1 car is therefore required to start the Sprint from pit lane as per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     44,
+     48
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    44
+   ]
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Infringement - Car 87 - Parc Ferme",
+   "subject": "Infringement - Car 87 - Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_87_-_parc_ferme.pdf",
+   "published": "2026-05-23T17:14",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "10:44",
+    "session": "Sprint Qualifying",
+    "fact": "The setup of the car has been changed while under Parc Ferme.",
+    "infringement": "Breach of Article B3.5.3 of the FIA F1 Regulations.",
+    "decision": "Required to start the Sprint from the pit lane. TGR Haas F1 Team changed the setup of Car 87 under Parc Ferme, without the approval of the Technical Delegate, this not being in accordance with Article B3.5.3 of the FIA F1 Regulations. The F1 car is therefore required to start the Sprint from pit lane as per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     44,
+     47
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    44
+   ]
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Infringement - Car 77 - Parc Ferme",
+   "subject": "Infringement - Car 77 - Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_77_-_parc_ferme.pdf",
+   "published": "2026-05-23T17:14",
+   "recalled": false,
+   "cars": [
+    77
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "10:44",
+    "session": "Sprint Qualifying",
+    "fact": "The setup of the car has been changed while under Parc Ferme.",
+    "infringement": "Breach of Article B3.5.3 of the FIA F1 Regulations.",
+    "decision": "Required to start the Sprint from the pit lane.",
+    "reason": "Cadillac Formula 1 Team changed the setup of Car 77 under Parc Ferme, without the approval of the Technical Delegate, this not being in accordance with Article B3.5.3 of the FIA F1 Regulations. The F1 car is therefore required to start the Sprint from pit lane as per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     44,
+     46
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    44
+   ]
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Parts and parameters been replaced and or changed during Parc Fermé",
+   "subject": "Parts and parameters been replaced and or changed during Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-05-23T17:07",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Parc Fermé Issues",
+   "subject": "Parc Fermé Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-05-23T16:46",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Parc Fermé Issues",
+   "subject": "Parc Fermé Issues",
+   "category": "technical",
+   "url": null,
+   "published": "2026-05-23T16:29",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_curfew.pdf",
+   "published": "2026-05-23T16:15",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-05-23T15:54",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Post-Sprint Procedure",
+   "subject": "Post-Sprint Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-sprint_procedure.pdf",
+   "published": "2026-05-23T15:53",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": null,
+   "published": "2026-05-23T15:52",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Infringement - Car 12 - Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "subject": "Infringement - Car 12 - Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_12_-_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf",
+   "published": "2026-05-23T15:09",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "17:32",
+    "session": "Sprint Qualifying",
+    "fact": "Car 12 exceeded the time limit between the Safety Car lines.",
+    "infringement": "Breach of Article B1.8.5 of the FIA F1 Regulations and non-compliance with Race Director’s Event Note (item 1, document 6).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The Stewards noted that the driver did not let any cars passed and therefore deemed he was driving unnecessarily slowly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     6,
+     38
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "subject": "Infringement - Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf",
+   "published": "2026-05-23T03:03",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "17:31",
+    "session": "Sprint Qualifying",
+    "fact": "Car 41 exceeded the time limit between the Safety Car lines.",
+    "infringement": "Breach of Article B1.8.5 of the FIA F1 Regulations and non-compliance with Race Director’s Event Note (item 1, document 6).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The Stewards noted that the driver did not let any cars passed and therefore deemed he was driving unnecessarily slowly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     6,
+     37
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Provisional Sprint Starting Grid",
+   "subject": "Provisional Sprint Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_sprint_starting_grid.pdf",
+   "published": "2026-05-23T02:04",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Final Sprint Qualifying Classification",
+   "subject": "Final Sprint Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_sprint_qualifying_classification.pdf",
+   "published": "2026-05-23T02:01",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - P1 and Sprint Qualifying Scrutineering",
+   "subject": "P1 and Sprint Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_p1_and_sprint_qualifying_scrutineering.pdf",
+   "published": "2026-05-23T01:40",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Decision - Sprint Qualifying SC2-SC1 Times",
+   "subject": "Decision - Sprint Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_sprint_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-05-23T01:10",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 cars below exceeded the 1:22.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:22.0 around the vast majority of the circuit. However, the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
+    "table_rows": {
+     "6": 2,
+     "81": 2,
+     "41": 3,
+     "27": 1,
+     "10": 1,
+     "87": 1,
+     "1": 2,
+     "3": 1,
+     "55": 1,
+     "12": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     6,
+     33
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Infringement - Sprint Qualifying Deleted Lap Times - Double Yellow",
+   "subject": "Infringement - Sprint Qualifying Deleted Lap Times - Double Yellow",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times_-_double_yellow.pdf",
+   "published": "2026-05-23T01:10",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. No. Turn Car         Driver                   Competitor                                     Time of Day      Lap Time 1   3    6           Isack Hadjar             Oracle Red Bull Racing                         16:40:07         PIT 2      3     18      Lance Stroll             Aston Martin Aramco F1 Team                    16:40:08         PIT 3      3     44      Lewis Hamilton           Scuderia Ferrari HP                            16:40:11         PIT",
+    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Infringement - Sprint Qualifying Deleted Lap Times",
+   "subject": "Infringement - Sprint Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times.pdf",
+   "published": "2026-05-23T01:09",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 cars below did not use the track at turns 2, 3, 4, 8, 10 and 14. No. Turn       Car Driver                      Competitor                                     Time of Day Lap Time 1   2          44 Lewis Hamilton               Scuderia Ferrari HP                            16:34:32    1:26.505 2      2       16      Charles Leclerc         Scuderia Ferrari HP                            16:36:06       1:35.328 3      14      63      George Russell          Mercedes-AMG PETRONAS F1 Team 16:37:23                        1:18.246 4      14      63      George Russell          Mercedes-AMG PETRONAS F1 Team 16:37:23                        1:40.999 5      8       16      Charles Leclerc         Scuderia Ferrari HP                            16:38:14       1:32.072 6      3       6       Isack Hadjar            Oracle Red Bull Racing                         16:40:07       PIT 7      2       6       Isack Hadjar            Oracle Red Bull Racing                         16:39:57       PIT 8      3       18      Lance Stroll            Aston Martin Aramco F1 Team                    16:40:08       PIT 9      3       44      Lewis Hamilton          Scuderia Ferrari HP                            16:40:11       PIT 10     14      55      Carlos Sainz            Atlassian Williams F1 Team                     17:01:49       1:17.365 11     14      44      Lewis Hamilton          Scuderia Ferrari HP                            17:01:54       1:16.374 12     14      44      Lewis Hamilton          Scuderia Ferrari HP                            17:01:54       PIT 13     4       3       Max Verstappen          Oracle Red Bull Racing                         17:13:35       1:25.242 14     8       12      Kimi Antonelli          Mercedes-AMG PETRONAS F1 Team 17:14:34                        PIT 15     8       87      Oliver Bearman          TGR Haas F1 Team                               17:16:23       1:30.951 16     10      41      Arvid Lindblad          Visa Cash App Racing Bulls F1 Team             17:16:50       1:17.019 17     10      41      Arvid Lindblad          Visa Cash App Racing Bulls F1 Team             17:16:50       PIT 18     2       55      Carlos Sainz            Atlassian Williams F1 Team                     17:27:30       1:29.917",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "refs": [
+     31
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Decision - Car 23 - Failing to set a lap time within 107%",
+   "subject": "Decision - Car 23 - Failing to set a lap time within 107%",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_23_-_failing_to_set_a_lap_time_within_107.pdf",
+   "published": "2026-05-23T00:47",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Atlassian Williams F1 Team to allow car 23 to start the Sprint despite Failing to set a lap time in SQ1. In accordance with Article B2.2.3b of the FIA F1 Regulations, the Stewards grant permission for car 23, Alexander Albon, to start the Sprint, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.3.4 of the FIA F1 Regulations",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Atlassian Williams F1 Team",
+    "refs": [
+     30
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-05-23T00:37",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Provisional Sprint Qualifying Classification",
+   "subject": "Provisional Sprint Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_sprint_qualifying_classification.pdf",
+   "published": "2026-05-22T23:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Decision - Car 30 - Failing to set a lap time within 107%",
+   "subject": "Decision - Car 30 - Failing to set a lap time within 107%",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_decision_-_car_30_-_failing_to_set_a_lap_time_within_107.pdf",
+   "published": "2026-05-22T23:50",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Visa Cash App Racing Bulls F1 Team to allow car 30 to start the Sprint despite Failing to set a lap time in SQ1. In accordance with Article B2.2.3b of the FIA F1 Regulations, the Stewards grant permission for car 30, Liam Lawson, to start the Sprint, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.3.4 of the FIA F1 Regulations",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "refs": [
+     27
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Infringement - Car 30 - Breach of Article C9.3",
+   "subject": "Infringement - Car 30 - Breach of Article C9.3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_30_-_breach_of_article_c9.3.pdf",
+   "published": "2026-05-22T23:24",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "15:00",
+    "session": "Free Practice 1",
+    "fact": "The CDS did not function when the car stopped on the track.",
+    "infringement": "Breach of Article C9.3 of the FIA F1 Regulations.",
+    "decision": "The competitor (Visa Cash App Racing Bulls F1 Team) is fined €30,000, €20,000 of which is suspended for a period of 12 months subject to no further breach of this regulation by the Competitor, for either of its cars.",
+    "reason": "The Stewards heard from the driver of Car 30 (Liam Lawson), team representatives, the FIA Technical Delegate and FIA Electronics Engineer and reviewed telemetry and in-car video evidence. The team’s engineer explained how the CDS system worked. It was noted that the system on this car performs two roles – the one for which is it primarily intended, namely to release the clutch when the car is stopped and the engine is not working, and the other relates to the anti-stall system. In this case, a ruptured joint caused a hydraulic leak, which caused the car to stop. The CDS, when activated by the marshal, then failed to release the clutch and hence the car could not be moved. This is a serious matter. It resulted in the session being red-flagged. Had the system worked as intended by the regulations, the incident could have been dealt with swiftly via deployment of the Virtual Safety Car. The Stewards note the concern of the FIA Technical Delegate, over the dual purpose of the CDS on this car. The Technical Delegate advised that the team had, in 2025, been warned about the CDS system design for its cars. The Driver noted that there were two issues of concern that he wished to draw to the attention of the Stewards, namely that contrary to his instructions and common practice, the marshals attempted to push the car when it was stationary, and that the marshal who attempted to activate the CDS was trying to press a button on the on- board camera rather than the CDS button. This indicates to the Stewards that further training in this area is required, notwithstanding the fact that the FIA distributes a very clear document addressing this action. (ref “FIA Single Seater Recovery Specifications”). We note that it is obvious that the distribution of such a document, although well detailed, probably needs supplementing with some form of practical training by the organisers.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     26
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 50000
+   }
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Infringement - Car 30 - Breach of Article C9.3",
+   "subject": "Infringement - Car 30 - Breach of Article C9.3",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-05-22T22:38",
+   "recalled": true,
+   "cars": [
+    30
+   ],
+   "type": "Infringement"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-05-22T22:18",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. 1      4     18      Lance Stroll             Aston Martin Aramco F1 Team                    12:38:07         1:35.239 2      4     12      Kimi Antonelli           Mercedes-AMG PETRONAS F1 Team 12:38:09                          1:41.379 3      7     55      Carlos Sainz             Atlassian Williams F1 Team                     12:57:26         PIT 4      7     63      George Russell           Mercedes-AMG PETRONAS F1 Team 12:57:26                          PIT 5      1     31      Esteban Ocon             TGR Haas F1 Team                               13:41:18         1:27.343 6      1     44      Lewis Hamilton           Scuderia Ferrari HP                            13:41:20         1:49.189 7      1     10      Pierre Gasly             BWT Alpine F1 Team                             13:41:21         1:40.561 8      1     16      Charles Leclerc          Scuderia Ferrari HP                            13:41:24         1:28.037 9      1     87      Oliver Bearman           TGR Haas F1 Team                               13:41:26         1:29.883 10     4     77      Valtteri Bottas          Cadillac Formula 1 Team                        13:43:02         PIT 11     4     16      Charles Leclerc          Scuderia Ferrari HP                            13:43:11         PIT 12     4     87      Oliver Bearman           TGR Haas F1 Team                               13:43:16         PIT",
+    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "refs": [
+     6,
+     24
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-05-22T22:18",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 4, 8, 10, 13 and 14. No. Turn      Car Driver                      Competitor                                         Time of Day Lap Time 1   14        1   Lando Norris                McLaren Mastercard F1 Team                         12:35:29    1:22.647 2      14     81      Oscar Piastri           McLaren Mastercard F1 Team                         12:50:15       1:19.876 3      8      55      Carlos Sainz            Atlassian Williams F1 Team                         12:53:08       1:29.887 4      8      14      Fernando Alonso         Aston Martin Aramco F1 Team                        12:56:25       1:30.798 5      1      55      Carlos Sainz            Atlassian Williams F1 Team                         12:56:56       PIT 6      4      1       Lando Norris            McLaren Mastercard F1 Team                         13:16:27       1:22.073 7      13     1       Lando Norris            McLaren Mastercard F1 Team                         12:35:28       1:22.647 8      1      12      Kimi Antonelli          Mercedes-AMG PETRONAS F1 Team                      13:24:56       1:32.169 9      8      10      Pierre Gasly            BWT Alpine F1 Team                                 13:21:04       1:22.745 10     4      1       Lando Norris            McLaren Mastercard F1 Team                         13:26:20       1:27.775 11     8      3       Max Verstappen          Oracle Red Bull Racing                             13:24:18       1:21.338 12     14     44      Lewis Hamilton          Scuderia Ferrari HP                                13:28:36       1:39.828 13     1      63      George Russell         Mercedes-AMG PETRONAS F1 Team                       13:35:23       1:32.242 14     14     81      Oscar Piastri           McLaren Mastercard F1 Team                         13:37:18       1:17.802 15     10     12      Kimi Antonelli          Mercedes-AMG PETRONAS F1 Team                      13:39:36       PIT 16     14     31      Esteban Ocon            TGR Haas F1 Team                                   13:39:37       1:19.485 17     2      63      George Russell         Mercedes-AMG PETRONAS F1 Team                       13:41:19       PIT",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Infringement - Car 31 - Leaving the pitlane after the end of the session",
+   "subject": "Infringement - Car 31 - Leaving the pitlane after the end of the session",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_31_-_leaving_the_pitlane_after_the_end_of_the_session.pdf",
+   "published": "2026-05-22T20:31",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "competitor": "TGR Haas F1 Team",
+    "time": "13:49",
+    "session": "Free Practice 1",
+    "fact": "Car 31 left the pit lane when the light at the end of the pit lane was red.",
+    "infringement": "Breach of Article B1.6.3e of the FIA F1 Regulations.",
+    "decision": "No penalty is applied.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. The timing data shows the car crossed the line 1.11 seconds after the end of the session. However video evidence shows it is almost certain that the driver could not have seen the light change from green to red due to his close proximity to the line at the pit exit. Therefore although a breach of regulation was commited, in view of the mitigating circumstances of the driver being unable to see the red light, no penalty is applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     22
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-05-22T20:15",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-05-22T20:12",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Summons - Car 30 - Alleged breach of Article C9.3",
+   "subject": "Summons - Car 30 - Alleged breach of Article C9.3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_summons_-_car_30_-_alleged_breach_of_article_c9.3.pdf",
+   "published": "2026-05-22T19:56",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "reason": "Alleged breach of Article C9.3 of the FIA F1 Regulations",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     19
+    ]
+   }
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Car 16 - Pit Lane Speeding",
+   "subject": "Infringement - Car 16 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_infringement_-_car_16_-_pit_lane_speeding.pdf",
+   "published": "2026-05-22T19:34",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "12:57",
+    "session": "Free Practice 1",
+    "fact": "Pit lane speeding – 96.3 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Scuderia Ferrari HP) is fined €1000.",
+    "reason": "Car 16 exceeded the pit lane speed limit which is set at 80 km/h for this event by 16.3 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 1000
+   }
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Car 30; CDS not functioning when car stopped on the track",
+   "subject": "Car 30; CDS not functioning when car stopped on the track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_car_30_cds_not_functioning_when_car_stopped_on_the_track.pdf",
+   "published": "2026-05-22T19:28",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Report",
+   "details": {
+    "from": "The FIA Formula 1 Technical Delegate",
+    "summary": "Technical Delegate’s Report When car 30 stopped on the track during FP1, the marshals pressed the CDS button at 12:41. But it turned out that the CDS was not working as required by the F1 Regulations, Article C9.3. I am referring this matter to the Stewards for their consideration Jo Bauer",
+    "refs": [
+     17
+    ]
+   }
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-05-22T18:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Post-Sprint Qualifying Procedure v2",
+   "subject": "Post-Sprint Qualifying Procedure v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-sprint_qualifying_procedure_v2.pdf",
+   "published": "2026-05-22T18:29",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_entry_list.pdf",
+   "published": "2026-05-22T16:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-05-22T16:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - PU elements used per driver up to now",
+   "subject": "PU elements used per driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-05-22T16:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-05-22T16:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Post-Sprint Qualifying Procedure",
+   "subject": "Post-Sprint Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-sprint_qualifying_procedure.pdf",
+   "published": "2026-05-22T15:14",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 15
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Competition Notes - Circuit Map V2",
+   "subject": "Competition Notes - Circuit Map V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_notes_-_circuit_map_v2.pdf",
+   "published": "2026-05-22T15:04",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
+   "published": "2026-05-22T00:12",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-05-21T23:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_race_directors_competition_notes_.pdf",
+   "published": "2026-05-21T23:31",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    24,
+    33,
+    37,
+    38,
+    68,
+    109
+   ]
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-05-21T16:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Timetable V3",
+   "subject": "Timetable V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_timetable_v3.pdf",
+   "published": "2026-05-21T14:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-05-20T21:31",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Post-Race Checks on Car 55, 2026 Miami GP",
+   "subject": "Post-Race Checks on Car 55, 2026 Miami GP",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-race_checks_on_car_55_2026_miami_gp.pdf",
+   "published": "2026-05-20T20:48",
+   "recalled": false,
+   "cars": [
+    55
+   ]
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_visa.pdf",
+   "published": "2026-05-20T20:38",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

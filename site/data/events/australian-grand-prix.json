@@ -1,0 +1,1597 @@
+{
+ "event": {
+  "slug": "australian-grand-prix",
+  "name": "Australian Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Australian%20Grand%20Prix",
+  "doc_count": 69,
+  "first_published": "2026-03-05T00:05",
+  "last_published": "2026-03-08T09:37",
+  "counts": {
+   "results": 10,
+   "technical": 11,
+   "stewards": 30,
+   "race_director": 13,
+   "admin": 5
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 69,
+   "title": "Doc 69 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_championship_points.pdf",
+   "published": "2026-03-08T09:37",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-03-08T09:33",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-03-08T09:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - Decision - Car 11 - Alleged forcing another driver off the track",
+   "subject": "Decision - Car 11 - Alleged forcing another driver off the track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_11_-_alleged_forcing_another_driver_off_the_track.pdf",
+   "published": "2026-03-08T08:04",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "15:26",
+    "session": "Race",
+    "fact": "Alleged Forcing another driver off the track at Turn 3",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video and in-car video evidence. Car 30 (LAW) attempted to overtake Car 11 (PER) on the outside at Turn 3. Wheel to wheel contact occurred between the cars at the apex and LAW went wide and rejoined behind Car 11. LAW’s front axle was not ahead of PER’s front axle at the apex and applying the Driving Standard Guidelines, the Stewards determined that LAW was not entitled to space at the exit of Turn 3 and therefore he was not forced off by PER.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     66
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-03-08T07:58",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 3 and 10.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "10": 1,
+     "5": 1,
+     "23": 1,
+     "30": 1,
+     "55": 1
+    },
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     65
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Decision - Car 31 - Allegedly driving unnecessarily slowly",
+   "subject": "Decision - Car 31 - Allegedly driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_31_-_allegedly_driving_unnecessarily_slowly.pdf",
+   "published": "2026-03-08T07:58",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "competitor": "TGR Haas F1 Team",
+    "time": "15:30",
+    "session": "Race",
+    "fact": "Car 31 exceeded the VSC delta in several mini-sectors during a VSC deployment",
+    "infringement": "Alleged breach of Article B1.8.5 and/or B5.12.2.a of the FIA F1 Regulations",
+    "decision": "No further action",
+    "reason": "The Stewards heard from the driver of Car 31 (Esteban Ocon), the team representative and reviewed positioning/marshalling system data, video, timing, telemetry and team radio and determined that Car 31 did not drive unnecessarily slowly during the VSC period. We accordingly took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     57,
+     64
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    57
+   ]
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Decision - Car 10 - Alleged causing a collision with Car 31",
+   "subject": "Decision - Car 10 - Alleged causing a collision with Car 31",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_10_-_alleged_causing_a_collision_with_car_31.pdf",
+   "published": "2026-03-08T07:34",
+   "recalled": false,
+   "cars": [
+    10,
+    31
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "15:34",
+    "session": "Race",
+    "fact": "Contact occurred between Car 10 and Car 31 at Turn 3.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV Art 2(d) of the FIA International Sporting Code.",
+    "decision": "No further action",
+    "reason": "The Stewards reviewed video and in-car evidence. Car 10 (GAS) moved to overtake Car 31 (OCO) on the inside at Turn 3. A minor collision occurred between the two cars just after the apex. The evidence showed that the front axle of GAS’s car was ahead of the mirror of OCO’s car prior to and at the apex and Car 10 was driven in a fully controlled manner. Applying the Driving Standards Guidelines, GAS was entitled to racing room through Turn 3. However, OCO had already turned-in and was committed to the corner at the point where the collision occurred. The Stewards determined that no driver was wholly or predominantly to blame for the collision and for that reason took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     63
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Decision - Car 31 - Alleged causing a collision with Car 10",
+   "subject": "Decision - Car 31 - Alleged causing a collision with Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_31_-_alleged_causing_a_collision_with_car_10.pdf",
+   "published": "2026-03-08T07:34",
+   "recalled": false,
+   "cars": [
+    10,
+    31
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "competitor": "TGR Haas F1 Team",
+    "time": "15:34",
+    "session": "Race",
+    "fact": "Contact occurred between Car 31 and Car 10 at Turn 3.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV Art 2(d) of the FIA International Sporting Code.",
+    "decision": "No further action",
+    "reason": "The Stewards reviewed video and in-car evidence. Car 10 (GAS) moved to overtake Car 31 (OCO) on the inside at Turn 3. A minor collision occurred between the two cars just after the apex. The evidence showed that the front axle of GAS’s car was ahead of the mirror of OCO’s car prior to and at the apex and Car 10 was driven in a fully controlled manner. Applying the Driving Standards Guidelines, GAS was entitled to racing room through Turn 3. However, OCO had already turned-in and was committed to the corner at the point where the collision occurred. The Stewards determined that no driver was wholly or predominantly to blame for the collision and for that reason took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     62
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Decision - Car 11 - Alleged forcing another driver off the track",
+   "subject": "Decision - Car 11 - Alleged forcing another driver off the track",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-03-08T07:12",
+   "recalled": true,
+   "cars": [
+    11
+   ],
+   "type": "Decision"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Infringement - Car 43 - Grid Procedure Infringement",
+   "subject": "Infringement - Car 43 - Grid Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_car_43_-_grid_procedure_infringement.pdf",
+   "published": "2026-03-08T07:12",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "14:59",
+    "session": "Grid Procedure",
+    "fact": "A member of the Team's personnel was touching Car 43 on the grid after the fifteen second signal was shown.",
+    "infringement": "Breach of Article B5.5.5 a) i) of the FIA F1 Regulations.",
+    "decision": "Stop and Go Penalty",
+    "reason": "The Stewards reviewed video, timing, and in-car video evidence and determined that team personnel were touching Car 43 on the grid after the fifteen second signal had been shown and the car failed to start the Race from the Pit Lane in breach of Article B5.5.5 a) i) of the FIA F1 Regulations. A mandatory Stop-and-Go Penalty is prescribed for such a breach.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     60
+    ],
+    "tags": [
+     "Stop & go"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Decision - Car 27 - Start Procedure Infringement",
+   "subject": "Decision - Car 27 - Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_27_-_start_procedure_infringement.pdf",
+   "published": "2026-03-08T06:42",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "14:30",
+    "session": "Reconnaissance Laps",
+    "fact": "At the end of the reconnaissance laps Car 27 did not reach the grid under its own power.",
+    "infringement": "Alleged breach of Article B5.2.4 of the FIA F1 Regulations.",
+    "decision": "No further Action",
+    "reason": "The Stewards reviewed video evidence and determined that Car 27 did not reach the grid under its own power and could therefore not start the Race from the grid. The team removed Car 27 from the grid and returned it to the garage. It did not start the race. In the circumstances, no infringement was committed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     59
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-03-08T06:40",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Summons - Car 31 - Alleged driving unnecessarily slowly during VSC",
+   "subject": "Summons - Car 31 - Alleged driving unnecessarily slowly during VSC",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_31_-_alleged_driving_unnecessarily_slowly_during_vsc.pdf",
+   "published": "2026-03-08T06:28",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "reason": "Alleged breach of Article B1.8.5 and/or B5.12.2.a of the FIA F1 Regulations – Car 31 driving unnecessarily slowly at 15:30 under a VSC.",
+    "from": "The Stewards",
+    "competitor": "TGR Haas F1 Team",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     57
+    ]
+   },
+   "related": [
+    64
+   ]
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - New PU elements for this Competition",
+   "subject": "New PU elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_new_pu_elements_for_this_competition_2.pdf",
+   "published": "2026-03-08T04:30",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-03-08T04:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Parts and parameters been replaced and or changed during Parc Fermé",
+   "subject": "Parts and parameters been replaced and or changed during Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-03-08T03:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Pre-Race Procedure v2",
+   "subject": "Pre-Race Procedure v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_pre-race_procedure_v2.pdf",
+   "published": "2026-03-08T02:49",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - New PU elements for this Competition",
+   "subject": "New PU elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
+   "published": "2026-03-08T02:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-03-08T02:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": null,
+   "published": "2026-03-08T02:22",
+   "recalled": true,
+   "cars": [],
+   "superseded_by": 53
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-03-07T11:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-03-07T10:43",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-03-07T10:22",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-03-07T09:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below exceeded the 1:37.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 29).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. Excepting only the driver of car 5 (BOR), all drivers concerned stayed at or above speeds necessary to stay below 1:37.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. BOR suffered a mechanical failure which meant that he could not maintain the required speed. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "23": 1,
+     "31": 1,
+     "27": 2,
+     "5": 2
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     29,
+     46
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    29
+   ]
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-03-07T09:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below did not use the track at turns 2, 3, 7, 9 and 10.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "43": 1,
+     "30": 1,
+     "44": 3,
+     "63": 1,
+     "23": 2,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Infringement - Qualifying Deleted Lap Times - Yellow Flags",
+   "subject": "Infringement - Qualifying Deleted Lap Times - Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_yellow_flags.pdf",
+   "published": "2026-03-07T09:46",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "16": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     44
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Decision - Car 18 - Failing to set a lap time within 107%",
+   "subject": "Decision - Car 18 - Failing to set a lap time within 107%",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_18_-_failing_to_set_a_lap_time_within_107.pdf",
+   "published": "2026-03-07T09:37",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Aston Martin Aramco F1 Team to allow Car 18 to start the Race despite: - Failing to set a qualifying time within 107% of the fastest time set in Q1. In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards have the power to grant permission if circumstances justify it. These circumstances include taking into account parameters where “a suitable lap time [has been] set in another practice session, the general performance of the driver in Competitions of the Championship…” The Competitor brought the following matters to the attention of the Stewards in seeking permission: • The driver of the second car from the team, Car 14, Fernando Alonso, demonstrated that the AMR26 was capable of qualifying within 107% of the fastest qualifying time; • The driver of Car 18, Lance Stroll: . has completed a total of 859km so far this year in the AMR26; . has competed in 178 F1 World Championship Grands Prix since making his debut in 2017; . has competed in seven Australian Grand Prix races, achieving classification in six of those events, with a best result of 4th place in 2023, demonstrating significant familiarity with the circuit and its operational requirements . has scored 325 career World Championship points, including podium finishes and one pole position. • The team also highlighted that they took the decision to not have Car 18 participate in Qualifying, due to a damaged oil line in the car, out of prudence, to enable them to undertake further investigations. Taking into account the reasons set out above, which the Stewards consider to be compelling, the Stewards grant permission for Car 18, Lance Stroll, to start the Race. The car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "refs": [
+     43
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Infringement - Car 12 - Released in an unsafe condition",
+   "subject": "Infringement - Car 12 - Released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_car_12_-_released_in_an_unsafe_condition.pdf",
+   "published": "2026-03-07T09:37",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "17:00",
+    "session": "Qualifying",
+    "fact": "Car 12 was released from its garage in an unsafe condition.",
+    "infringement": "Breach of Article B1.6.2 b) i) of the FIA F1 Regulations.",
+    "decision": "The Competitor (Mercedes-AMG Petronas F1 Team) is fined €7,500.",
+    "reason": "The Stewards heard from the team representative of Car 12 (Kimi Antonelli) and reviewed video, team radio and in-car video evidence. Car 12 (Antonelli) was released from its garage during the session with a duct cooling fan still attached on the right side of the car. The fan assembly disconnected from the duct of Car 12 as it negotiated Turn 1, split apart and one section of it bounced off the track onto the gravel at the exit. Another section of the fan assembly dislodged onto the track at Turn 2 and was later struck by the front wing and tyre of another car causing debris to be strewn over the track, damage to the front wing of the other car and the session had to be red flagged to remove the debris. The Team explained that an incident in an earlier session in which Car 12 had sustained significant damage meant that the division of labour within the Team had to be changed to repair the damage within a short time frame. Usually, a separate team member would have responsibility for inserting and removing each fan but the need to address legacy issues from the earlier incident during the session meant that the team member responsible for the fan on that side of the car was occupied on another task and the removal of the fan before the car was released from the garage was missed. The Team (and the Driver) were unaware that the fan had not been removed until the incident was noted by Race Control. The Stewards determine that because Car 12 left its garage with a piece of equipment still attached, it was released in an unsafe condition and the Stewards impose a fine on the Competitor accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     37,
+     42
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 7500
+   },
+   "related": [
+    37
+   ]
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Infringement - Car 10 - Released in an unsafe condition",
+   "subject": "Infringement - Car 10 - Released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_car_10_-_released_in_an_unsafe_condition.pdf",
+   "published": "2026-03-07T09:37",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "16:44",
+    "session": "Qualifying",
+    "fact": "Car 10 was released from its garage in an unsafe condition.",
+    "infringement": "Breach of Article B1.6.2 b) i) of the FIA F1 Regulations.",
+    "decision": "The Competitor (BWT Alpine F1 Team) is fined €5.000.",
+    "reason": "The Stewards heard from the team representative of Car 10 (Pierre Gasly) and reviewed video and in-car video evidence. The video evidence showed that, as the car was exiting its garage during the Qualifying session, a component from the left-front wheel assembly detached and rolled through the fast lane before coming to rest in the inner lane of the pit lane. The team representative acknowledged the mistake and apologised for the lapse. He explained that a mechanic had inadvertently failed to correctly secure the component during the preparation of the car, which resulted in the part detaching when the car left the garage. He further stated that the team had faced logistical challenges as not all parts had arrived in Melbourne in time, which meant that the team could not fully carry out its usual preparation procedures. The Stewards acknowledge the logistical challenges faced by the team. However, the responsibility for ensuring that a car is released from the garage in a safe condition rests with the Competitor. As a component detached from the left-front wheel assembly when the car exited the garage, the Stewards determined that the car was released in an unsafe condition. Having considered previous decisions for comparable infringements during Qualifying, the Stewards conclude that a financial penalty is appropriate. Accordingly, the Stewards impose a fine of €5,000 on the Competitor.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     36,
+     41
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Decision - Car 55 - Failing to set a lap time within 107%",
+   "subject": "Decision - Car 55 - Failing to set a lap time within 107%",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_55_-_failing_to_set_a_lap_time_within_107.pdf",
+   "published": "2026-03-07T09:36",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Atlassian Williams F1 Team to allow car 55 to start the Race despite: - Failing to set a qualifying time within 107% of the fastest time set in Q1. In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards grant permission for car 55, Carlos Sainz, to start the Race, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Atlassian Williams F1 Team",
+    "refs": [
+     40
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Decision - Car 3 - Failing to set a lap time within 107%",
+   "subject": "Decision - Car 3 - Failing to set a lap time within 107%",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_3_-_failing_to_set_a_lap_time_within_107.pdf",
+   "published": "2026-03-07T09:36",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Oracle Red Bull Racing to allow car 3 to start the Race despite: - Failing to set a qualifying time within 107% of the fastest time set in Q1. In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards grant permission for car 3, Max Verstappen, to start the Race, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Oracle Red Bull Racing",
+    "refs": [
+     39
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-03-07T07:40",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Summons - Car 12 Alleged released in an unsafe condition",
+   "subject": "Summons - Car 12 Alleged released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_12_alleged_released_in_an_unsafe_condition.pdf",
+   "published": "2026-03-07T07:42",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "reason": "Alleged Breach of Article B1.6.2 b) i) of the FIA F1 Regulations: Releasing an F1 Car from a Garage in an Unsafe Condition.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     37
+    ]
+   },
+   "related": [
+    42
+   ]
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Summons - Car 10 Alleged released in an unsafe condition",
+   "subject": "Summons - Car 10 Alleged released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_10_alleged_released_in_an_unsafe_condition.pdf",
+   "published": "2026-03-07T07:42",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "reason": "Alleged Breach of Article B1.6.2 b) i) of the FIA F1 Regulations: Releasing an F1 Car from a Garage in an Unsafe Condition.",
+    "from": "The Stewards",
+    "competitor": "BWT Alpine F1 Team",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     36
+    ]
+   },
+   "related": [
+    41
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Decision - Car 12 - Alleged pitlane incident",
+   "subject": "Decision - Car 12 - Alleged pitlane incident",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_12_-_alleged_pitlane_incident.pdf",
+   "published": "2026-03-07T07:57",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:16",
+    "session": "Qualifying",
+    "fact": "Alleged pitlane incident – Working on the car in the fast lane",
+    "infringement": "Alleged breach of Article B1.6.1e of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video evidence and determined as follows. During the Qualifying session, which was suspended due to a red flag incident, and while the cars were lined up to leave the pit lane, Car 12 was waiting to blend into the fast lane. Car 12 had inched slightly into the fast lane with a very small portion of the front wing in the fast lane. A team member assisted in pushing the car back a little to allow for that part to not hinder the fast lane. While the car was touched by the team member (to push it back), this did not constitute a breach of Article B1.6.1e which prohibits work being done on the car, which clearly was not the case here. In fact, the team member was taking steps to not hinder the other drivers in the fast lane, which was entirely appropriate in the circumstances. We accordingly took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     35
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - New PU elements for this Competition",
+   "subject": "New PU elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-03-07T07:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-03-07T04:20",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 car below did not use the track at turn 3.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     33
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-03-07T04:07",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-03-07T04:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-03-07T03:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-03-07T01:33",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    46
+   ]
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_curfew.pdf",
+   "published": "2026-03-07T00:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Decision - Car 43 - Allegedly Driving Unnecessarily Slow",
+   "subject": "Decision - Car 43 - Allegedly Driving Unnecessarily Slow",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_decision_-_car_43_-_allegedly_driving_unnecessarily_slow.pdf",
+   "published": "2026-03-06T10:44",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "16:02",
+    "session": "Practice 2",
+    "fact": "Driving Unnecessarily Slow on the Main Straight",
+    "infringement": "Alleged Breach of Article B1.8.5 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 43 (Franco Colapinto), the team representative and reviewed video and in-car video evidence. COL explained that his Car suffered a ‘false neutral’ as he was approaching the final turn and lost drive as he turned onto the main straight. While the Team were giving him instructions over the radio to attempt to resolve the issue, the Driver kept his Car rolling slowly on the left of the main straight having been instructed to do so by his Team should he be unable to resolve the issue and the Driver needed to stop the Car. As COL approached the control line, COL was caught by HAM. While HAM had a clear line of sight of COL for some distance along the main straight, HAM was apparently surprised to find COL moving so slowly on the racing line and had to take evasive action to avoid a collision. COL explained that he was watching his mirrors the whole time and knew that HAM was approaching. He said that he was instructed by the Team to stay to the left because the Race Director’s Competition Notes (Emergency Exit Map) marks the exit point on the main straight on the left side of the track. He said that if he had tried to move off the racing line when he had no drive he could have created a more dangerous situation. The Stewards were satisfied that there was nothing about COL’s driving which was erratic. Given his mechanical problem, he was not driving “unnecessarily” slowly. Given further that the Driver positioned his Car to ensure that he could reach the designated exit point in the event that the problem with his Car was not resolved before he reached it, the Stewards did not consider that the actions of the Driver were unsafe and therefore determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     19,
+     27
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    19
+   ]
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Infringement - Car 63 - Pit Lane Incident",
+   "subject": "Infringement - Car 63 - Pit Lane Incident",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_car_63_-_pit_lane_incident.pdf",
+   "published": "2026-03-06T10:44",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:00",
+    "session": "Practice 2",
+    "fact": "Pit Lane Incident with Car 41",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 5b of the International Sporting Code.",
+    "decision": "Driver: Reprimand",
+    "reason": "The Stewards heard from the driver of Car 41 (Arvid Lindblad) and the driver of Car 63 (George Russell), the team representatives and reviewed video, team radio and in-car video evidence and determined that Car 41 was in the queue of cars in the fast lane waiting to get out of the pit lane. Car 63 left the garage and was waiting to join the fast lane. Car 63 inched forward, as if to join the fast lane and then stopped slightly ahead of Car 41, with a small portion of Car 63 jutting into the fast lane. This resulted in Car 41 running over that portion of the front wing end plate of Car 63. There was no damage reported to us in relation to Car 41 as a result of the collision. Appendix L Chapter IV of the FIA International Sporting Code read with the Race Director Competition Notes Item 15 gives priority to the cars in the fast lane over those in the working lane. In other words, Car 41 had priority over Car 63. Car 63 would only have been free to blend into the fast lane “if there [was] a suitable gap in a queue of cars in the fast lane” and if it could be done safely and without unnecessarily impeding cars already in the fast lane. It is clear, in this case, that there was no such gap and the collision resulted from Car 63 inching forward and thereby blocking a small portion of the fast lane. Both drivers agreed that the driver of Car 41 would not have been able to see the portion that was blocking the fast lane. In this case, the collision could have been avoided by Car 63 taking appropriate action and we therefore imposed a penalty of a reprimand to the driver of Car 63.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     17,
+     26
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    17
+   ]
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Infringement - Car 63 - Failure to follow Race Director Instruction - Practice Start",
+   "subject": "Infringement - Car 63 - Failure to follow Race Director Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_car_63_-_failure_to_follow_race_director_instruction_-_practice_start.pdf",
+   "published": "2026-03-06T10:44",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:36",
+    "session": "Practice 2",
+    "fact": "Car 63 performed a practice start outside the designated practice start area",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code in combination with Item 14.1 of the Race Director Competition Notes (Document 8).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards heard from the driver of Car 63 (George Russell) and the team representative and reviewed video evidence. The driver admitted that he performed a practice start outside the designated practice start area defined in Item 14.1 of the Race Director’s Competition Notes. However, he explained that, due to sun haze, he was unable to clearly see the grid boxes and believed that the correct location was where the rubber marks were visible on the asphalt. Having viewed the Driver’s onboard and CCTV footage, we accept that the sighting of the grid box was difficult given the light conditions but the Driver was so far forward from the designated location that it was ahead of the protection of the pit wall and this incident occurred after the Race Director had warned all Teams of the need to comply with his instructions in this regard. The Stewards determined that the driver failed to follow the Race Director’s instructions and impose a penalty consistent with the penalty for similar breaches in the past. The Stewards remind all Competitors that compliance with the Race Director’s instructions regarding the correct position from which to perform practice starts is imperative for the safe conduct of the Event.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     8,
+     25
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    8
+   ]
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - P1 and P2 Scrutineering",
+   "subject": "P1 and P2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_p1_and_p2_scrutineering.pdf",
+   "published": "2026-03-06T10:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-03-06T10:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The cars below did not use the track at turns 2, 3, 6, 9 and 10.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 1,
+     "1": 2,
+     "63": 2,
+     "23": 1,
+     "43": 2,
+     "27": 1,
+     "44": 1,
+     "14": 1,
+     "3": 1,
+     "16": 2
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Race Director's Notes - SC2 - SC1 Time",
+   "subject": "Race Director's Notes - SC2 - SC1 Time",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_race_directors_notes_-_sc2_-_sc1_time.pdf",
+   "published": "2026-03-06T07:59",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Summons - Car 63 - Alleged failure to follow Race Director's Competition Notes - Practice Starts",
+   "subject": "Summons - Car 63 - Alleged failure to follow Race Director's Competition Notes - Practice Starts",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_63_-_alleged_failure_to_follow_race_directors_competition_notes_-_practice_starts.pdf",
+   "published": "2026-03-06T07:59",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged Breach of Article 12.2.1.i of the FIA International Sporting Code in combination with Item 14.1 of the Race Director Competition Notes (Document 8) - Failing to follow Race Director Instructions: Practice Start Infringement",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     8,
+     21
+    ]
+   },
+   "related": [
+    8
+   ]
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-03-06T07:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Summons - Car 43 - Driving Unnecessarily Slowly",
+   "subject": "Summons - Car 43 - Driving Unnecessarily Slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_43_-_driving_unnecessarily_slowly.pdf",
+   "published": "2026-03-06T07:26",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "reason": "Alleged breach of FIA F1 Regulations Section B Article B1.8.5 – Driving Unnecessarily Slowly, Erratically or In a Manner Which Could Be Deemed Potentially Dangerous to Other Drivers",
+    "from": "The Stewards",
+    "competitor": "BWT Alpine F1 Team",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     19
+    ]
+   },
+   "related": [
+    27
+   ]
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Summons - Car 41 - Alleged Causing a Collision in the Pit Lane",
+   "subject": "Summons - Car 41 - Alleged Causing a Collision in the Pit Lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_41_-_alleged_causing_a_collision_in_the_pit_lane.pdf",
+   "published": "2026-03-06T07:26",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "reason": "Alleged breach of Appendix L, Chapter IV Article 5b of the FIA International Sporting Code – pit lane incident between Cars 41 & 63; and/or alleged failure to follow Race Director Competition Notes Item 15",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     18
+    ]
+   }
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Summons - Car 63 - Alleged Causing a Collision in the Pit Lane",
+   "subject": "Summons - Car 63 - Alleged Causing a Collision in the Pit Lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_summons_-_car_63_-_alleged_causing_a_collision_in_the_pit_lane.pdf",
+   "published": "2026-03-06T07:25",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged breach of Appendix L, Chapter IV Article 5b of the FIA International Sporting Code – pit lane incident between Cars 41 & 63; and/or alleged failure to follow Race Director Competition Notes Item 15",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     17
+    ]
+   },
+   "related": [
+    26
+   ]
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-03-06T05:02",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The cars below did not use the track at turns 2, 3, 4, 9, 10 and 12.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "5": 1,
+     "63": 1,
+     "3": 1,
+     "12": 1,
+     "31": 1,
+     "55": 2,
+     "43": 1,
+     "6": 1,
+     "87": 2,
+     "44": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     16
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-03-06T03:57",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - New PU elements for this Competition",
+   "subject": "New PU elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-03-06T02:34",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Entry List V2",
+   "subject": "Entry List V2",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_entry_list_v2.pdf",
+   "published": "2026-03-06T01:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Event Notes - Pirelli Preview V2",
+   "subject": "Event Notes - Pirelli Preview V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_event_notes_-_pirelli_preview_v2.pdf",
+   "published": "2026-03-06T00:47",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": null,
+   "published": "2026-03-06T00:30",
+   "recalled": true,
+   "cars": [],
+   "superseded_by": 13
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-03-06T00:16",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-03-06T00:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-03-05T10:30",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 29,
+   "related": [
+    21,
+    25
+   ]
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-03-05T08:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-03-05T07:33",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Quarantine Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Quarantine Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_quarantine_zone.pdf",
+   "published": "2026-03-05T07:30",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Timetable V3",
+   "subject": "Timetable V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_timetable_v3.pdf",
+   "published": "2026-03-05T00:14",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 31
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Event Notes - Pirelli Preview",
+   "subject": "Event Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_event_notes_-_pirelli_preview.pdf",
+   "published": "2026-03-05T00:13",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 12
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_competition_visa.pdf",
+   "published": "2026-03-05T00:13",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Restricted Periods",
+   "subject": "Restricted Periods",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_australian_grand_prix_-_restricted_periods.pdf",
+   "published": "2026-03-05T00:05",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

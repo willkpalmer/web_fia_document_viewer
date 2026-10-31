@@ -1,0 +1,1370 @@
+{
+ "event": {
+  "slug": "united-states-grand-prix",
+  "name": "United States Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/United%20States%20Grand%20Prix",
+  "doc_count": 58,
+  "first_published": "2026-10-21T19:35",
+  "last_published": "2026-10-26T11:30",
+  "counts": {
+   "results": 10,
+   "technical": 12,
+   "stewards": 23,
+   "race_director": 10,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 58,
+   "title": "Doc 58 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_championship_points.pdf",
+   "published": "2026-10-26T01:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-10-26T01:03",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-10-26T00:41",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-10-25T23:06",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 Cars below did not use the track at turns 2, 9, 11, 12, 15, 19 and 20.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "5": 1,
+     "14": 3,
+     "81": 3,
+     "87": 2,
+     "1": 1,
+     "44": 1,
+     "27": 2,
+     "23": 2,
+     "16": 1,
+     "43": 2,
+     "6": 2,
+     "12": 1,
+     "55": 2,
+     "63": 4,
+     "18": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-10-25T22:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Infringement - Car 63 - Leaving the track and gaining an advantage",
+   "subject": "Infringement - Car 63 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_63_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-10-25T22:59",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "15:04",
+    "session": "Race",
+    "fact": "Car 63 left the track and repoined gaining a lasting advantage, in Turn 12",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 c) of the FIA International Sporting Code.",
+    "decision": "5 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, and in-car video evidence, plus submissions from the teams of Cars 63 and 81 via the FIA Evidence Channel. The driver of Car 63 was defending position from Car 81, into Turn 12 and left the track, then proceeded to rejoin in front of Car 81, prior to Turn 13. He retained that position. Accordingly he is determined by the Stewards to have left the track, rejoined it and gained a lasting advantage. The normal penalty for this is a 10 second penalty, however the Stewards considered that the driver of Car 63 had previously been pressuring Car 6 and that put Car 81 into an attacking position (and therefore Car 63 into a defending position). Further, this was a first lap incident and in our determination, the penalty should be mitigated to 5 seconds.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     53
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Infringement - Car 87 - Causing a Collision",
+   "subject": "Infringement - Car 87 - Causing a Collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_87_-_causing_a_collision.pdf",
+   "published": "2026-10-25T22:29",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "15:06",
+    "session": "Race",
+    "fact": "Car 87 collided with Car 10 in T13.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed video, team radio, in-car video evidence and submissions from the team and the team of Car 10 (Pierre Gasly) via the FIA Evidence Channel. Car 87 (Oliver Bearman) moved to overtake Car 10 at turn 11. The front axle of Car 87 was not ahead of the mirror of Car 10 at the apex where a collision occurred between the two cars. The Stewards determined that the driver of Car 87 was wholly to blame for the collision and imposed a 10 second penalty accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     52
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Decision - Car 5 - Alleged leaving the track and gaining and advantage",
+   "subject": "Decision - Car 5 - Alleged leaving the track and gaining and advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_car_5_-_alleged_leaving_the_track_and_gaining_and_advantage.pdf",
+   "published": "2026-10-25T22:59",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "15:06",
+    "session": "Race",
+    "fact": "Car 5 left the track in turn 11",
+    "infringement": "Alleged breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, and in-car video evidence. At the entry to turn 11, Car 5 (Gabriel Bortoleto) moved to overtake Car 43 (Franco Colapinto) on the outside. Car 43 stayed alongside and in that battle Car 5 left the edge of the track and rejoined ahead of Car 43. Under the Driving Standards Guidelines, had the front axle of Car 5 been ahead at the apex, Car 5 would have been entitled to racing room on the inside. There was no racing room on the inside which explained why Car 5 left the edge of the track. Had the front axle of Car 43 been ahead of the front axle of Car 5 at the apex, Car 43 was not obliged to leave racing room on the outside. The Stewards were unable, by reference to the available evidence, to reach a level of comfortable satisfaction as to which of the two cars was ahead at the apex and in these circumstances determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     51
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-10-25T20:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Parts and Parameters been replaced and or changed during Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-10-25T19:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Infringement - Car 18 - Changes made during Parc Ferme",
+   "subject": "Infringement - Car 18 - Changes made during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_18_-_changes_made_during_parc_ferme.pdf",
+   "published": "2026-10-25T18:48",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "11:23",
+    "session": "Qualifying",
+    "fact": "The setup of the suspension has been changed while under parc fermé. The team continued to work on the car beyond the covers off time. The following Power Unit elements have been used: 6th Engine (ICE) 7th Turbocharger (TC) 8th Energy Store (ES) 7th Control Electronics Unit (PU-CE) 9th Power Unit Ancillary Component (PU-ANC) All Power Unit elements were replaced without the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breaches of Article B8.2.2 (read in conjunction with B8.2.3), B3.4.3a, B3.4.3b, B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "The use of each additional element in this case carries a 5 grid place penalty, therefore there is an accumulation of 25 places. However, as the parts were replaced under parc fermé conditions without the approval of the Technical Delegate a pit lane start is mandated in accordance with Article B3.5.3a of the FIA F1 Regulations. Furthermore, Aston Martin Aramco F1 Team continued to work on Car 18 beyond 2 hours of the end of Qualifying and within 5 hours of the scheduled start of the formation lap of the Race. This is not in accordance with Articles B3.4.3a and B3.4.3b and is deemed to represent a breach of Article B3.5.3 requiring a pit lane start in accordance with Article B3.5.3a of the FIA F1 Regulations. Aston Martin Aramco F1 Team also changed the setup of Car 18 under parc fermé before the start of the Race without the approval of the Technical Delegate. This is not accordance with Article B3.5.4 of the FIA F1 Regulations and, because the change of setup is not in accordance with Article B3.5.3 of the FIA F1 Regulations, for this additional reason Car 18 is required to start the Race from pit lane as per Article B3.5.3a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     47,
+     48
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    47
+   ]
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Parc Ferme Issues",
+   "subject": "Parc Ferme Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-10-25T17:26",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    48
+   ]
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-10-25T15:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-10-25T15:28",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-10-25T02:31",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-10-25T02:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-10-25T02:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-10-25T00:31",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below exceeded the 1:55.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 27).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:55.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "31": 1,
+     "81": 2,
+     "63": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     27,
+     41
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    27
+   ]
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-10-25T00:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below did not use the track at turns 9, 11, 17 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "10": 1,
+     "55": 1,
+     "87": 1,
+     "3": 1,
+     "6": 1,
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     40
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-10-25T00:15",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Infringement - Car 5 - Impeding of Car 44",
+   "subject": "Infringement - Car 5 - Impeding of Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_5_-_impeding_of_car_44.pdf",
+   "published": "2026-10-24T23:03",
+   "recalled": false,
+   "cars": [
+    5,
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "13:22",
+    "session": "Free Practice 3",
+    "fact": "Car 5 impeded Car 44 in Turn 12 at 13:22",
+    "infringement": "Breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards heard from the driver of Car 5 (Gabriel Bortoleto) and the team representatives and reviewed video, team radio and in-car video evidence. When Car 44 was on a push lap approaching turn 12, Car 5, on an in-lap, was travelling at a lower speed in a position which compromised Car 44’s braking. Car 44 had to abort the lap. The driver of Car 5 explained that he had received a warning from his engineer some 15 seconds earlier of Car 44’s approach but he was busy dealing with his car on the approach to turn 12 and overlooked that warning. He received no reminder of Car 44’s approach before turn 12. He explained that because the entry to turn 12 is downhill, he only saw Car 44 at the last moment and released the brakes and went into the run-off area. He agreed that the move was too late and he had compromised Car 44’s lap. Car 44’s team representative acknowledged that the incident was not dangerous. The Stewards determined that Car 5 unnecessarily impeded Car 44 and impose a warning consistent with previous incidents of this type in free practice sessions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     30,
+     38
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    30
+   ]
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Car 6 - Driving erratically",
+   "subject": "Infringement - Car 6 - Driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_6_-_driving_erratically.pdf",
+   "published": "2026-10-24T22:49",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "13:29",
+    "session": "Free Practice 3",
+    "fact": "Car 6 was driven in a manner that was regarded as erratic following an incident involving Car 23 at Turn1",
+    "infringement": "Breach of Article B1.8.5 of the FIA F1 Regulations.",
+    "decision": "Driver: Formal warning.",
+    "reason": "The Stewards heard from the driver of Car 6 (Isack Hadjar), the team representative of Car 6 and reviewed video evidence. On the approach to Turn 1, Car 23 moved to the outside of the corner on the approach of Car 6, to avoid any impeding of that car. The driver of Car 6 locked brakes and had to abort the lap. He was obviously upset with this and took what could be described as “retaliatory action” by swerving towards Car 23. The Stewards regard this as not only erratic but also an action that should be discouraged and hence impose the penalty of a warning to the driver. Had the action been dangerous or resulted in a collision, a more severe penalty would have been imposed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     33,
+     37
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    33
+   ]
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Infringement - Car 27 - Alleged Pit Lane Incident",
+   "subject": "Infringement - Car 27 - Alleged Pit Lane Incident",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_27_-_alleged_pit_lane_incident.pdf",
+   "published": "2026-10-24T22:40",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "12:41",
+    "session": "Free Practice 3",
+    "fact": "Whilst performing a Practice Start, Car 27 pulled out in front of Car 18.",
+    "infringement": "Alleged breach of Article 12.2.1.h of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the team representative of Car 27 and reviewed video, team radio and in-car video evidence. The team representative explained that the driver’s rear vision was obscured by the car behind at the Practice Start location, and that the driver had no idea of the approach of Car 18. He further explained that the start procedure can take between 5 and 15 seconds so at the time the driver took the decision to commence that procedure, the proximity of Car 18 would not have been obvious to him. The situation was compounded by the fact that the pit lane exit road (as marked) requires cars performing practice starts to merge with cars travelling down the fast lane directly to the pit exit, over a very short distance. The Stewards noted that although the driver of Car 18 had to brake, the situation was determined not to be dangerous and was easily managed by both drivers. Accordingly a decision of No Further Action is taken.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     29,
+     36
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    29
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Infringement - Car 5 - Additional changes to PU elements",
+   "subject": "Infringement - Car 5 - Additional changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_5_-_additional_changes_to_pu_elements.pdf",
+   "published": "2026-10-24T22:34",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "12:36",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH) 5th Energy Store (ES) 5th Control Electronics Unit (PU-CE) 4th MGU-K 7th Power Unit Ancillary Component (PU-ANC)",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 60 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Articles B8.2.8a and B8.2.8b of the FIA F1 Regulations. The use of (Energy Store (ES) and Control Electronics Unit (PU-CE) additional element(s) carries a 5 grid place penalty by virtue of Article B8.2.8b of the FIA F1 Regulations and the use of Engine (ICE), Turbocharger (TC), Exhaust Set (EXH), MGU-K and Power Unit Ancillary Component (PU-ANC) additional element carries a 10 grid place penalty by virtue of Article B8.2.8a of the FIA F1 Regulations. Therefore there is an accumulation of 60 places. Subject to Car 5 being classified in the results of Qualifying, Car 5 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     28,
+     35
+    ],
+    "tags": [
+     "60-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    28
+   ]
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-10-25T14:37",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 6, 7, 9, 10, 11, 12, 15, 19 and 20.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "1": 4,
+     "10": 1,
+     "27": 3,
+     "14": 1,
+     "16": 6,
+     "41": 1,
+     "31": 1,
+     "23": 7,
+     "5": 4,
+     "63": 3,
+     "12": 1,
+     "6": 3,
+     "81": 2,
+     "55": 2,
+     "77": 2
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     34
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Summons - Car 6 - Alleged erratic driving",
+   "subject": "Summons - Car 6 - Alleged erratic driving",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_summons_-_car_6_-_alleged_erratic_driving.pdf",
+   "published": "2026-10-25T14:37",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "reason": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations – Incident between Cars 6 and 23 at 13:29.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     33
+    ]
+   },
+   "related": [
+    37
+   ]
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-10-25T14:37",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Summons - Car 44 - Alleged impeding by Car 5",
+   "subject": "Summons - Car 44 - Alleged impeding by Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_summons_-_car_44_-_alleged_impeding_by_car_5.pdf",
+   "published": "2026-10-25T14:37",
+   "recalled": false,
+   "cars": [
+    5,
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 5 allegedly impeded Car 44 in turn 12 at 13:22.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   }
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Summons - Car 5 - Alleged impeding of Car 44",
+   "subject": "Summons - Car 5 - Alleged impeding of Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_summons_-_car_5_-_alleged_impeding_of_car_44.pdf",
+   "published": "2026-10-25T14:37",
+   "recalled": false,
+   "cars": [
+    5,
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 5 allegedly impeding Car 44 in turn 12 at 13:22.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "related": [
+    38
+   ]
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Summons - Audi - Pit Lane Incident - Car 27",
+   "subject": "Summons - Audi - Pit Lane Incident - Car 27",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_summons_-_audi_-_pit_lane_incident_-_car_27.pdf",
+   "published": "2026-10-25T14:37",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA International Sporting Code – Practice Start incident at 12:41 involving cars 27 and 18.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-10-25T14:35",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    35
+   ]
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Race Director's Competition Notes V3",
+   "subject": "Race Director's Competition Notes V3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_directors_competition_notes_v3.pdf",
+   "published": "2026-10-25T14:35",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    41
+   ]
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-10-25T14:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - P1 and P2 Scrutineering",
+   "subject": "P1 and P2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_p1_and_p2_scrutineering.pdf",
+   "published": "2026-10-24T02:42",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-10-24T01:17",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 Cars below did not use the track at turns 2, 4, 6, 7, 9, 12, 13, 15, 16, 18, 19 and 20. No. Turn       Car      Driver                   Competitor                                       Time of Day        Lap Time 1   15         23       Alexander Albon          Atlassian Williams F1 Team                       16:03:49           1:40.691 2      19      16       Charles Leclerc          Scuderia Ferrari HP                              16:04:11           1:37.502 3      19      18       Lance Stroll             Aston Martin Aramco F1 Team                      16:04:33           1:38.797 4      19      44       Lewis Hamilton           Scuderia Ferrari HP                              16:04:47           1:37.263 5      20      81       Oscar Piastri            McLaren Mastercard F1 Team                       16:05:04           1:38.091 6      12      12       Kimi Antonelli           Mercedes-AMG PETRONAS F1 Team                    16:04:59           1:36.910 7      19      6        Isack Hadjar             Oracle Red Bull Racing                           16:05:50           1:37.012 8      20      81       Oscar Piastri            McLaren Mastercard F1 Team                       NEXT LAP           2:44.987 9      20      23       Alexander Albon          Atlassian Williams F1 Team                       16:04:10           1:40.691 10     20      23       Alexander Albon          Atlassian Williams F1 Team                       NEXT LAP           2:41.716 11     20      16       Charles Leclerc          Scuderia Ferrari HP                              16:04:18           1:37.502 12     20      16       Charles Leclerc          Scuderia Ferrari HP                              NEXT LAP           2:22.437 13     18      16       Charles Leclerc          Scuderia Ferrari HP                              16:12:54           2:00.903 14     13      41       Arvid Lindblad           Visa Cash App Racing Bulls F1 Team               16:07:53           2:20.168 15     9       5        Gabriel Bortoleto        Audi Revolut F1 Team                             16:03:32           1:37.574 16     12      81       Oscar Piastri            McLaren Mastercard F1 Team                       16:08:54           1:51.675 17     12      23       Alexander Albon          Atlassian Williams F1 Team                       16:10:06           1:38.218 18     7       10       Pierre Gasly             BWT Alpine F1 Team                               16:04:39           2:48.952 19     15      14       Fernando Alonso          Aston Martin Aramco F1 Team                      16:12:59           PIT 20     12      1        Lando Norris             McLaren Mastercard F1 Team                       16:13:47           1:38.150 21     20      1        Lando Norris             McLaren Mastercard F1 Team                       16:14:21           1:38.150 22     20      1        Lando Norris             McLaren Mastercard F1 Team                       NEXT LAP           PIT",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "refs": [
+     24
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-10-24T00:46",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-10-24T00:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Decision - Car 63 - Alleged forcing another driver off the track",
+   "subject": "Decision - Car 63 - Alleged forcing another driver off the track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_car_63_-_alleged_forcing_another_driver_off_the_track.pdf",
+   "published": "2026-10-24T00:26",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:12",
+    "session": "Free Practice 2",
+    "fact": "Car 63 appeared to force Car 16 off the Track at Turn 18",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 b) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video, team radio and in-car video evidence. Car 16 attempted to pass Car 63 into turn 18. Car 63 moved to the left. Car 16 left the track and rejoined in front of Car 63. Both cars were on preparation laps. The Stewards considered that there was nothing dangerous in the manoeuvre and took into account the fact that this was in a Free Practice session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     21
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-10-23T22:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 9, 11, 12, 15, 19 & 20 No. Turn       Car      Driver                   Competitor                                      Time of Day Lap Time 1      9       44       Lewis Hamilton           Scuderia Ferrari HP                             12:34:40      1:39.009 2      9       27       Nico Hulkenberg          Audi Revolut F1 Team                            12:35:11      2:19.774 3      12      18       Lance Stroll             Aston Martin Aramco F1 Team                     12:34:26      1:40.508 4      11      41       Arvid Lindblad           Visa Cash App Racing Bulls F1 Team              12:34:22      1:41.565 5      12      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:33:47      1:41.244 6      12      63       George Russell           Mercedes-AMG PETRONAS F1 Team                   12:34:51      1:39.301 7      12      18       Lance Stroll             Aston Martin Aramco F1 Team                     12:38:48      1:39.171 8      12      63       George Russell           Mercedes-AMG PETRONAS F1 Team                   12:39:08      1:38.253 9      12      43       Franco Colapinto         BWT Alpine F1 Team                              12:44:14      1:41.315 10     11      14       Fernando Alonso          Aston Martin Aramco F1 Team                     12:45:44      1:38.910 11     11      81       Oscar Piastri            McLaren Mastercard F1 Team                      12:47:05      1:37.792 12     1       18       Lance Stroll             Aston Martin Aramco F1 Team                     12:50:49      1:38.409 13     11      5        Gabriel Bortoleto        Audi Revolut F1 Team                            12:54:13      1:40.818 14     15      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:54:48      OUT LAP 15     15      5        Gabriel Bortoleto        Audi Revolut F1 Team                            12:54:47      1:40.818 16     19      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:56:41      1:37.957 17     20      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:56:47      1:37.957 18     20      27       Nico Hulkenberg          Audi Revolut F1 Team                            NEXT LAP      2:24.326 19     20      87       Oliver Bearman           TGR Haas F1 Team                                12:47:41      1:39.035 20     20      87       Oliver Bearman           TGR Haas F1 Team                                NEXT LAP      PIT 21     20      6        Isack Hadjar             Oracle Red Bull Racing                          13:00:59      1:36.918 22     20      6        Isack Hadjar             Oracle Red Bull Racing                          NEXT LAP      PIT",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - (Infringement - Car 41 - Changes to PU Element (Corrected)",
+   "subject": "(Infringement - Car 41 - Changes to PU Element (Corrected)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_41_-_changes_to_pu_element_corrected.pdf",
+   "published": "2026-10-26T11:30",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "12:31",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit element has been used: 6th Engine (ICE)",
+    "infringement": "Breach of Article B8.2.2 (read with Article B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 5 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2 8b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     13,
+     19
+    ],
+    "tags": [
+     "5-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-10-23T22:07",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 27
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-10-23T20:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Infringement - Car 41 - PU Element",
+   "subject": "Infringement - Car 41 - PU Element",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-10-23T22:10",
+   "recalled": true,
+   "cars": [
+    41
+   ],
+   "type": "Infringement"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Infringement - Car 5 - PU Elements",
+   "subject": "Infringement - Car 5 - PU Elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_5_-_pu_elements.pdf",
+   "published": "2026-10-23T20:52",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "12:31",
+    "fact": "The following Power Unit elements have been used: 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE)",
+    "infringement": "Breaches of Article B8.2.2 (read with Article B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 20 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 20 places.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     13,
+     15
+    ],
+    "tags": [
+     "20-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Infringement - Car 43 - PU Element",
+   "subject": "Infringement - Car 43 - PU Element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_43_-_pu_element.pdf",
+   "published": "2026-10-23T20:44",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "12:31",
+    "fact": "The following Power Unit elements has been used: 4th Control Electronics Unit (PU-CE)",
+    "infringement": "Breach of Article B8.2.2 (read with Article B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     13,
+     14
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-10-23T19:38",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    14,
+    15,
+    19
+   ]
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_entry_list.pdf",
+   "published": "2026-10-23T17:30",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-10-23T17:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-10-23T16:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - PU Elements used per Driver up to now",
+   "subject": "PU Elements used per Driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-10-23T16:24",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-10-23T00:22",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
+   "published": "2026-10-23T00:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-10-23T00:15",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 27
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-10-22T22:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-10-22T01:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Post-Race Checks on Car Number 27, 2026 Singapore GP",
+   "subject": "Post-Race Checks on Car Number 27, 2026 Singapore GP",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_post-race_checks_on_car_number_27_2026_singapore_gp.pdf",
+   "published": "2026-10-22T00:56",
+   "recalled": false,
+   "cars": [
+    27
+   ]
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-10-21T21:48",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_competition_visa.pdf",
+   "published": "2026-10-21T19:35",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

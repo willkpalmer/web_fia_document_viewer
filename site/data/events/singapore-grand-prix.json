@@ -1,0 +1,2302 @@
+{
+ "event": {
+  "slug": "singapore-grand-prix",
+  "name": "Singapore Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Singapore%20Grand%20Prix",
+  "doc_count": 90,
+  "first_published": "2026-10-07T03:51",
+  "last_published": "2026-10-11T18:07",
+  "counts": {
+   "results": 15,
+   "technical": 16,
+   "stewards": 41,
+   "race_director": 15,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 91,
+   "title": "Doc 91 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_championship_points.pdf",
+   "published": "2026-10-11T17:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 90,
+   "title": "Doc 90 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-10-11T17:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 89,
+   "title": "Doc 89 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-10-11T17:41",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 88,
+   "title": "Doc 88 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-10-11T16:53",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 Cars below did not use the track at turns 2, 7, 16 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "87": 3,
+     "10": 2,
+     "41": 1,
+     "23": 2,
+     "55": 1,
+     "12": 4,
+     "18": 3,
+     "81": 2,
+     "6": 2,
+     "77": 1,
+     "16": 1,
+     "30": 1,
+     "63": 2,
+     "44": 2,
+     "3": 1,
+     "1": 1,
+     "31": 1
+    },
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     88
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 87,
+   "title": "Doc 87 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-10-11T16:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 86,
+   "title": "Doc 86 - Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+   "subject": "Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_44_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-10-11T16:02",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "21:31",
+    "session": "Race",
+    "fact": "Car 44 left the track in turn 1",
+    "infringement": "Alleged breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video, timing and in-car video evidence. Car 44 left the track in turn 1 while the driver was defending his position to Car 1. However, the overtaking attempt by Car 1 was not a legitimate one as Car 1 also left the track at the same point. Therefore the Stewards determine that both cars re- joined the track in the correct order. Having done so, both Car 44 and Car 1 lost their positions to Car 12 which was behind them when they left the track. Given all that, the Stewards determine that no further action is warranted in this case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     86
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 85,
+   "title": "Doc 85 - Infringement - Car 18 - Failure to follow Race Director's Instructions - Practice Start",
+   "subject": "Infringement - Car 18 - Failure to follow Race Director's Instructions - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_18_-_failure_to_follow_race_directors_instructions_-_practice_start.pdf",
+   "published": "2026-10-11T16:06",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "19:23",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 18 left the pit lane during the reconnaissance laps without performing a practice start, but did not cross the white line at pit exit.",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code and non-compliance with Race Director’s Competition Notes (item 6.5 document 13) – Practice start infringement.",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards reviewed video evidence. When Car 18 left the pit lane during the reconnaissance laps without performing a practice start, the Car did not cross the white line at pit exit and therefore did not comply with the requirement set out in item 6.5 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     13,
+     85
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 84,
+   "title": "Doc 84 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-10-11T13:01",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 83,
+   "title": "Doc 83 - Infringement - Car 6 - PU elements and changes made during Parc Ferme",
+   "subject": "Infringement - Car 6 - PU elements and changes made during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_6_-_pu_elements_and_changes_made_during_parc_ferme.pdf",
+   "published": "2026-10-11T13:23",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "17:03",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 8th Engine (ICE) 7th Turbocharger (TC) 7th Exhaust Set (EXH) 8th Power Unit Ancillary Component (PU-ANC) All Power Unit elements were replaced without the approval of the FIA Technical Delegate during parc fermé. In addition, the setup of the suspension has been changed while under parc fermé.",
+    "infringement": "Breaches of Article B8.2.2 (read with B8.2.3), B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "The penalty is imposed in accordance with Articles B3.5.3 and B8.2.8 of the FIA F1 Regulations. The use of each additional PU element in this case normally carries a 5 grid place penalty. However, Oracle Red Bull Racing changed the setup of the suspension of Car 6 under parc fermé before the start of the Race, without the approval of the Technical Delegate. This is not accordance with Article B3.5.4 of the FIA F1 Regulations. In addition, the change of setup is not in accordance with Article B3.5.3 of the FIA F1 Regulations. Car 6 is therefore required to start the Race from pit lane as per Article B3.5.3b of the FIA F1 Regulations and the grid drop penalty is redundant.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     78,
+     83
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    78
+   ]
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - Parts and Parameters been replaced and or changed during Race Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Race Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf",
+   "published": "2026-10-11T12:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - Infringement - Car 18 - Changes made during Parc Ferme",
+   "subject": "Infringement - Car 18 - Changes made during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_18_-_changes_made_during_parc_ferme.pdf",
+   "published": "2026-10-11T12:27",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "17:03",
+    "session": "Qualifying",
+    "fact": "The setup of the suspension has been changed while under parc fermé. The team continued to work on the car beyond the covers-on time.",
+    "infringement": "Breaches of Articles B3.5.3 and B3.5.4 of the FIA F1 Regulations. Breaches of Articles B3.4.3a and B3.4.3b of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "Aston Martin Aramco F1 Team changed the setup of the suspension of Car 18 under parc fermé before the start of the Race, without the approval of the Technical Delegate. This is not accordance with Article B3.5.4 of the FIA F1 Regulations. In addition, the change of setup is not in accordance with Article B3.5.3 of the FIA F1 Regulations. Car 18 is therefore required to start the Race from pit lane as per Article B3.5.3b of the FIA F1 Regulations. Aston Martin Aramco F1 Team continued to work on the car beyond the covers-on time which is a breach of Articles B3.4.3a and B3.4.3b of the FIA F1 Regulations. Car 18 is therefore required to start the Race from pit lane as per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     78,
+     81
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    78
+   ]
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - Infringement - Car 14 - PU element and changes made during Parc Ferme",
+   "subject": "Infringement - Car 14 - PU element and changes made during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_14_-_pu_element_and_changes_made_during_parc_ferme.pdf",
+   "published": "2026-10-11T12:25",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "17:04",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 6th Turbocharger (TC) In addition, the setup of the suspension has been changed while under parc fermé. The team also continued to work on the car beyond the covers-on time.",
+    "infringement": "Breaches of Article B8.2.2 (read with B8.2.3), B3.4.3a, B3.4.3b, B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "The use of the additional PUelement in this case normally carries a 5 grid place penalty. However, Aston Martin Aramco F1 Team changed the setup of the suspension of Car 14 under parc fermé before the start of the Race, without the approval of the Technical Delegate. This is not accordance with Article B3.5.4 of the FIA F1 Regulations. The change of setup is not in accordance with Article B3.5.3 of the FIA F1 Regulations. In addition, Aston Martin Aramco F1 Team continued to work on the car beyond the covers-on time which is a breach of Articles B3.4.3a and B3.4.3b of the FIA F1 Regulations. Car 14 is therefore required to start the Race from pit lane as per Article B3.5.3b of the FIA F1 Regulations. The grid drop penalty is redundant in this case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     78,
+     80
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    78
+   ]
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - Infringement - Car 63 - Additional changes to PU elements",
+   "subject": "Infringement - Car 63 - Additional changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_63_-_additional_changes_to_pu_elements.pdf",
+   "published": "2026-10-11T11:47",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "21:31",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE)",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 20 grid positions in the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 20 places. Car 63 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     57,
+     79
+    ],
+    "tags": [
+     "20-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    57
+   ]
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - Parc Ferme Issues",
+   "subject": "Parc Ferme Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_parc_ferme_issues_0.pdf",
+   "published": "2026-10-11T11:04",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    80,
+    81,
+    83
+   ]
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-10-11T09:29",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-10-11T09:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-10-10T21:01",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-10-10T20:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - Infringement - Car 27 - Impeding of Car 55",
+   "subject": "Infringement - Car 27 - Impeding of Car 55",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_27_-_impeding_of_car_55.pdf",
+   "published": "2026-10-10T20:47",
+   "recalled": false,
+   "cars": [
+    27,
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "22:10",
+    "session": "Qualifying",
+    "fact": "Car 27 impeded Car 55 in turn 5",
+    "infringement": "Breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "No penalty applied",
+    "reason": "The Stewards heard from the driver of Car 27 (Nico Hulkenberg), the driver of Car 55 (Carlos Sainz), team representatives and reviewed positioning/marshalling system data, video, team radio, timing and in-car video evidence. Video showed that Car 27 was driving slowly on the racing line on the approach to turn 5. Car 55 arrived from behind on a push lap and had to abandon the lap. That Car 55 was thereby impeded was not in dispute. The issue was whether Car 55 had been ‘unnecessarily’ impeded. The team stated in the hearing that they believed, based on timing information to which they subscribed, sourced from the official timekeeping provider, that Car 55 had already taken the chequered flag and conveyed that information to the driver by radio. Therefore the driver of Car 27 did not expect Car 55 to still be on a push lap when it was closing in. The Stewards acknowledge the fact that the data referenced by the team led the team to reasonably believe that Car 55 had received the chequered flag. Indeed, it was evident from Car 55’s radio messages that its team had formed the same belief relying on the same data. The misunderstanding was revealed to be attributable to the information initially received by the teams not being fully synchronised and only being displayed in a correct manner after a short period of time. However, that post-processing did not occur until Car 55 arrived behind Car 27 depriving the team of any reasonable opportunity to correct the information conveyed to the driver. In the Stewards’ assessment, because the source of the data upon which the team relied was the official timing provider, it was not unreasonable for the team to have relied upon it, even though the team also had available to it the official timing data which conflicted. On the objective facts, the Stewards determined that Car 55 was unnecessarily impeded. However, there were extraordinary mitigating circumstances in this case because the incident was attributable to the team’s reliance on information that was, for a brief period, inconsistent.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     63,
+     73
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    63
+   ]
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-10-10T20:02",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below exceeded the 1:52.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 13).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. The Stewards further note that Car 6 had a technical issues in Q1 but nevertheless did not affect the safe and orderly conduct of the event. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "6": 2,
+     "77": 1,
+     "18": 1,
+     "44": 1,
+     "81": 2,
+     "5": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     13,
+     72
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - Decision - Permission to Start",
+   "subject": "Decision - Permission to Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_permission_to_start.pdf",
+   "published": "2026-10-10T19:55",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards determine the following F1 Car is eligible to start the Race: . 6 - Isack Hadjar – Oracle Red Bull Racing The F1 Car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "refs": [
+     71
+    ]
+   }
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - Infringement - Qualifying Deleted Lap Times - Double Yellow",
+   "subject": "Infringement - Qualifying Deleted Lap Times - Double Yellow",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_double_yellow.pdf",
+   "published": "2026-10-10T19:54",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "11": 1,
+     "23": 1,
+     "55": 1,
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     70
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-10-10T19:54",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below did not use the track at turns 1, 2, 5, 11 and 16.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "41": 2,
+     "6": 1,
+     "12": 1,
+     "11": 1,
+     "18": 1,
+     "43": 1,
+     "1": 1,
+     "81": 1
+    },
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     69
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Qualifying Scrutineering",
+   "subject": "Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_qualifying_scrutineering.pdf",
+   "published": "2026-10-10T18:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Championship Points after Sprint",
+   "subject": "Championship Points after Sprint",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_championship_points_after_sprint.pdf",
+   "published": "2026-10-10T17:29",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - Final Sprint Classification",
+   "subject": "Final Sprint Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_sprint_classification.pdf",
+   "published": "2026-10-10T17:27",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-10-10T16:58",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Summons - Car 55 - Alleged impeding by Car 27",
+   "subject": "Summons - Car 55 - Alleged impeding by Car 27",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_55_-_alleged_impeding_by_car_27.pdf",
+   "published": "2026-10-10T16:50",
+   "recalled": false,
+   "cars": [
+    27,
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 55 allegedly impeded Car 27 in turn 5 at 22:10.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     64
+    ]
+   }
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Summons - Car 27 - Alleged impeding of Car 55",
+   "subject": "Summons - Car 27 - Alleged impeding of Car 55",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_27_-_alleged_impeding_of_car_55.pdf",
+   "published": "2026-10-10T16:49",
+   "recalled": false,
+   "cars": [
+    27,
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 27 allegedly impeding Car 55 in turn 5 at 22:10.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     63
+    ]
+   },
+   "related": [
+    73
+   ]
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Infringement - Car 77 - Causing a Collision with Car 23",
+   "subject": "Infringement - Car 77 - Causing a Collision with Car 23",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_77_-_causing_a_collision_with_car_23.pdf",
+   "published": "2026-10-10T16:20",
+   "recalled": false,
+   "cars": [
+    23,
+    77
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "17:51",
+    "session": "Sprint",
+    "fact": "Car 77 collided with Car 23 in Turn 16",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code.",
+    "decision": "No Penalty is applied",
+    "reason": "The Stewards heard from the driver of Car 5 (Gabriel Bortoleto), the driver of Car 23 (Alexander Albon), the driver of Car 77 (Valtteri Bottas), team representatives and reviewed positioning/marshalling system data, video and in-car video evidence. When preparing for the re-start at the end of a Safety Car period, Car 23 collided with the rear of Car 5, and Car 77 collided with the rear of Car 23. The driver of Car 77 said that he had no opportunity to avoid colliding with the rear of Car 23 after Car 23 checked-up after it collided with Car 5. In the Stewards’ assessment both collisions were a consequence of a concertina created by cars ahead travelling at inconsistent speeds in the preparation for the re- start. As Cars 23 and 77 were towards the back of the pack of slow moving cars, the chain reaction effect on them was more pronounced. Nonetheless, the Stewards determined that like the collision between Cars 23 and 5, the collision between Cars 77 and 23 could have been avoided had the driver of Car 77 recognised the risk of a concertina ahead and left more space when following Car 23, particularly having regard to the damp conditions. Had Car 77 not retired from the Sprint as a consequence of the collision, the Stewards would have imposed a 5 second time penalty rather than the usual 10 second time penalty taking into account that, in part at least, a number of cars ahead in the queue had contributed by slowing at inconsistent rates. A 5 second time penalty would not have been converted into a grid penalty and therefore the Stewards determined not to apply a penalty in this case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     49,
+     62
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    49
+   ]
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Infringement - Car 23 - Causing a Collision with Car 5",
+   "subject": "Infringement - Car 23 - Causing a Collision with Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_23_-_causing_a_collision_with_car_5.pdf",
+   "published": "2026-10-10T16:20",
+   "recalled": false,
+   "cars": [
+    5,
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "17:51",
+    "session": "Sprint",
+    "fact": "Car 23 collided with Car 5 in Turn 16",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code.",
+    "decision": "No Penalty is applied",
+    "reason": "The Stewards heard from the driver of Car 5 (Gabriel Bortoleto), the driver of Car 23 (Alexander Albon), the driver of Car 77 (Valtteri Bottas), team representatives and reviewed positioning/marshalling system data, video and in-car video evidence. When preparing for the re-start at the end of a Safety Car period, Car 23 collided with the rear of Car 5, and Car 77 collided with the rear of Car 23. The driver of Car 23 said that he had no opportunity to avoid colliding with the rear of Car 5 after Car 5 braked hard to avoid a collision with the cars in front. In the Stewards’ assessment both collisions were a consequence of a concertina created by cars ahead travelling at inconsistent speeds in the preparation for the re- start. As Cars 23 and 77 were towards the back of the pack of slow moving cars, the chain reaction effect on them was more pronounced. Nonetheless, the Stewards determined that like the collision between Cars 77 and 23, the collision between Cars 23 and 5 could have been avoided had the driver of Car 23 recognised the risk of a concertina ahead and left more space when following Car 5, particularly having regard to the damp conditions. Had Car 23 not retired from the Sprint as a consequence of the collision, the Stewards would have imposed a 5 second time penalty rather than the usual 10 second time penalty taking into account that, in part at least, a number of cars ahead in the queue had contributed by slowing at inconsistent rates. A 5 second time penalty would not have been converted into a grid penalty and therefore the Stewards determined not to apply a penalty in this case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     49,
+     61
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    49
+   ]
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Infringement - Sprint Deleted Lap Times",
+   "subject": "Infringement - Sprint Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_sprint_deleted_lap_times.pdf",
+   "published": "2026-10-10T15:54",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint",
+    "fact": "The F1 Cars below did not use the track at turns 2, 7 and 16.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "77": 1,
+     "27": 2,
+     "10": 1,
+     "16": 2,
+     "12": 1,
+     "55": 1,
+     "44": 1,
+     "87": 1
+    },
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     60
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Decision - Car 81 - Alleged causing a collision with car 1",
+   "subject": "Decision - Car 81 - Alleged causing a collision with car 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_81_-_alleged_causing_a_collision_with_car_1.pdf",
+   "published": "2026-10-10T15:40",
+   "recalled": false,
+   "cars": [
+    1,
+    81
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "18:15",
+    "session": "Sprint",
+    "fact": "Car 1 and Car 81 collided at turn 5",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 81 (Oscar Piastri), the driver of Car 1 (Lando Norris), team representative and reviewed video and in-car video evidence. The driver of Car 1 attempted to overtake Car 81 on the inside at Turn 5. A collision occurred at the apex. The driver of Car 81 explained that he had not expected Car 1 to attempt an overtake and, after turning in, noticed Car 1 on the inside and attempted to leave space. The driver of Car 1 said that he saw an opportunity to overtake. He said that the front axle of his car was ahead of the mirror of Car 81 prior to the apex and therefore expected to be left space. As he approached the apex, the space was less than he had anticipated so he had to use the inside kerb and braked and a collision occurred. The Stewards considered that both drivers had contributed to the incident and that neither driver was wholly or predominantly to blame for the collision. Therefore the Stewards determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     46,
+     59
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    46
+   ]
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Decision - Car 1 - Alleged causing a collision with car 81",
+   "subject": "Decision - Car 1 - Alleged causing a collision with car 81",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_1_-_alleged_causing_a_collision_with_car_81.pdf",
+   "published": "2026-10-10T15:40",
+   "recalled": false,
+   "cars": [
+    1,
+    81
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "1 - Lando Norris",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "18:15",
+    "session": "Sprint",
+    "fact": "Car 1 and Car 81 collided at turn 5",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 81 (Oscar Piastri), the driver of Car 1 (Lando Norris), team representative and reviewed video and in-car video evidence. The driver of Car 1 attempted to overtake Car 81 on the inside at Turn 5. A collision occurred at the apex. The driver of Car 81 explained that he had not expected Car 1 to attempt an overtake and, after turning in, noticed Car 1 on the inside and attempted to leave space. The driver of Car 1 said that he saw an opportunity to overtake. He said that the front axle of his car was ahead of the mirror of Car 81 prior to the apex and therefore expected to be left space. As he approached the apex, the space was less than he had anticipated so he had to use the inside kerb and braked and a collision occurred. The Stewards considered that both drivers had contributed to the incident and that neither driver was wholly or predominantly to blame for the collision. Therefore the Stewards determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     46,
+     58
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    46
+   ]
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-10-10T15:38",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    79
+   ]
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Decision - Car 41 - Alleged driving opposite direction",
+   "subject": "Decision - Car 41 - Alleged driving opposite direction",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_41_-_alleged_driving_opposite_direction.pdf",
+   "published": "2026-10-10T15:10",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "17:44",
+    "session": "Sprint",
+    "fact": "The Driver drove in the wrong direction at Turn 5",
+    "infringement": "Alleged breach of Article 12.2.1.h of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 41 (Arvid Lindblad), team representative and reviewed video and in-car video evidence. Car 41 spun after the exit of Turn 5 and was facing towards oncoming cars. Car 41 drove in the wrong direction for approximately 100 metres back to Turn 5 and used the run-off area to turn around. The Driver explained that he could not perform a flick turn from the position in which his car was stopped after the spin. Because he was facing the wrong way, he drove back a short distance against oncoming traffic but staying to the edge of the track and away from the racing line. After he was sure the last car had passed, the Driver of Car 41 attempted a flick turn but the car would not rotate. The Driver explained that, knowing that the last car had passed and it would present no danger for him to continue, he drove back to turn 5 where he knew there would be space to turn. Having regard to the difficult position the Driver of Car 41 found himself in, where his car was originally prone and then unable to turn, and given further that there was no oncoming traffic, the Stewards determined that what occurred was not in these circumstances unsafe and therefore took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     44,
+     56
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    44
+   ]
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Decision - Car 87 - Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "subject": "Decision - Car 87 - Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_87_-_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf",
+   "published": "2026-10-10T15:10",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "16:36",
+    "session": "Sprint",
+    "fact": "Car 87 exceeded the 1:52.00 time limit between the Safety Car lines",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 13).",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 87 (Oliver Bearman), team representative. The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on- board cameras. The driver concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, the Stewards determined that the drivers took appropriate actions to not impede other drivers, and slowed down significantly to allow another driver to pass while giving this driver a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that he was above the maximum time because he took appropriate steps, and we therefore take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     13,
+     55
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Decision - Car 11 - Causing a collision with Car 18",
+   "subject": "Decision - Car 11 - Causing a collision with Car 18",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_11_-_causing_a_collision_with_car_18.pdf",
+   "published": "2026-10-10T15:09",
+   "recalled": false,
+   "cars": [
+    11,
+    18
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "17:38",
+    "session": "Sprint",
+    "fact": "Car 11 collided with Car 18 in Turn 16",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No penalty is applied.",
+    "reason": "The Stewards heard from the driver of Car 18 (Lance Stroll), the driver of Car 11 (Sergio Perez), team representatives and reviewed video and in-car video evidence. Car 11 attempted to overtake Car 18 on the inside into Turn 16 and both cars made contact. The Stewards determine that the driver of Car 11 initiated the overtaking attempt in a legitimate way, but then locked up the front right wheel therefore was not able to rotate the car anymore. The Stewards determine the the driver of Car 11 was predominantly at fault, but also take into account the weather conditions and acknowledge the difficulties of controlling the car on the brakes in such circumstances. Therefore a 5 second time penalty is deemed appropriate and would have been applied in-race if that had been possible. As Car 11 was not classified and 5 second time penalties regularly do not convert into grid drops, no penalty is applied in this case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     42,
+     54
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    42
+   ]
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Decision - Car 18 - Alleged causing a collision with Car 11",
+   "subject": "Decision - Car 18 - Alleged causing a collision with Car 11",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_18_-_alleged_causing_a_collision_with_car_11.pdf",
+   "published": "2026-10-10T14:57",
+   "recalled": false,
+   "cars": [
+    11,
+    18
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "17:38",
+    "session": "Sprint",
+    "fact": "Car 11 collided with Car 18 in Turn 16",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 18 (Lance Stroll), the driver of Car 11 (Sergio Perez), team representatives and reviewed video and in-car video evidence. Car 11 attempted to overtake Car 18 on the inside into Turn 16 and both cars made contact. The Stewards determine that the driver of Car 18 took a reasonable line into the corner and therefore was not at fault.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     42,
+     53
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    42
+   ]
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Sprint Scrutineering",
+   "subject": "Sprint Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_sprint_scrutineering.pdf",
+   "published": "2026-10-11T18:07",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Summons - Car 5 - Alleged Causing a Collision by Car 23",
+   "subject": "Summons - Car 5 - Alleged Causing a Collision by Car 23",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_5_-_alleged_causing_a_collision_by_car_23.pdf",
+   "published": "2026-10-10T12:58",
+   "recalled": false,
+   "cars": [
+    5,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Car 23 allegedly causing a collision with Car 5 in Turn 16 at 17:51.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     51
+    ]
+   }
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Summons - Car 23 - Alleged Causing a Collision with Car 5",
+   "subject": "Summons - Car 23 - Alleged Causing a Collision with Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_23_-_alleged_causing_a_collision_with_car_5.pdf",
+   "published": "2026-10-10T12:58",
+   "recalled": false,
+   "cars": [
+    5,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Car 23 allegedly causing a collision with Car 5 in Turn 16 at 17:51.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     50
+    ]
+   }
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Summons - Car 77 - Alleged Causing a Collision with Car 23",
+   "subject": "Summons - Car 77 - Alleged Causing a Collision with Car 23",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_77_-_alleged_causing_a_collision_with_car_23.pdf",
+   "published": "2026-10-10T13:18",
+   "recalled": false,
+   "cars": [
+    23,
+    77
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Car 77 allegedly causing a collision with Car 23 in Turn 16 at 17:51.",
+    "from": "The Stewards",
+    "competitor": "Cadillac Formula 1 Team",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     49
+    ]
+   },
+   "related": [
+    61,
+    62
+   ]
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Timetable V3",
+   "subject": "Timetable V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_timetable_v3.pdf",
+   "published": "2026-10-10T12:54",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Summons - Car 1 - Alleged causing a collision with car 81",
+   "subject": "Summons - Car 1 - Alleged causing a collision with car 81",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_1_-_alleged_causing_a_collision_with_car_81.pdf",
+   "published": "2026-10-10T12:57",
+   "recalled": false,
+   "cars": [
+    1,
+    81
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Lando Norris",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 16 incident between Cars 1 and 81 at 18:15.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     47
+    ]
+   }
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Summons - Car 81 - Alleged causing a collision with car 1",
+   "subject": "Summons - Car 81 - Alleged causing a collision with car 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_81_-_alleged_causing_a_collision_with_car_1.pdf",
+   "published": "2026-10-10T12:57",
+   "recalled": false,
+   "cars": [
+    1,
+    81
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 16 incident between Cars 1 and 81 at 18:15.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     46
+    ]
+   },
+   "related": [
+    58,
+    59
+   ]
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Provisional Sprint Classification",
+   "subject": "Provisional Sprint Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_sprint_classification.pdf",
+   "published": "2026-10-10T12:44",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Summons - Car 41 - Alleged driving opposite direction",
+   "subject": "Summons - Car 41 - Alleged driving opposite direction",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_41_-_alleged_driving_opposite_direction.pdf",
+   "published": "2026-10-10T12:57",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "reason": "Alleged breach of Article 12.2.1.h of the International Sporting Code – Car 41 drove in opposite direction to the race direction in Turn 5",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     44
+    ]
+   },
+   "related": [
+    56
+   ]
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Summons - Car 18 - Alleged causing a collision with Car 11",
+   "subject": "Summons - Car 18 - Alleged causing a collision with Car 11",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_18_-_alleged_causing_a_collision_with_car_11.pdf",
+   "published": "2026-10-10T12:56",
+   "recalled": false,
+   "cars": [
+    11,
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 16 incident between Cars 11 and 18 at 17:38.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     43
+    ]
+   }
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Summons - Car 11 - Alleged causing a collision with Car 18",
+   "subject": "Summons - Car 11 - Alleged causing a collision with Car 18",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_11_-_alleged_causing_a_collision_with_car_18.pdf",
+   "published": "2026-10-10T12:56",
+   "recalled": false,
+   "cars": [
+    11,
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 16 incident between Cars 11 and 18 at 17:38.",
+    "from": "The Stewards",
+    "competitor": "Cadillac Formula 1 Team",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     42
+    ]
+   },
+   "related": [
+    53,
+    54
+   ]
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Summons - Car 87 - Alleged failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "subject": "Summons - Car 87 - Alleged failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_87_-_alleged_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf",
+   "published": "2026-10-10T12:56",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "reason": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations – Driving unnecessarily slowly at 16:36.",
+    "from": "The Stewards",
+    "competitor": "TGR Haas F1 Team",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     40
+    ]
+   }
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Final Sprint Starting Grid",
+   "subject": "Final Sprint Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_sprint_starting_grid.pdf",
+   "published": "2026-10-10T10:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Parts and Parameters been replaced and or changed during Sprint Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Sprint Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_sprint_parc_ferme.pdf",
+   "published": "2026-10-10T09:54",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Car 55 - Changes made during Parc Ferme",
+   "subject": "Infringement - Car 55 - Changes made during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_55_-_changes_made_during_parc_ferme.pdf",
+   "published": "2026-10-10T09:49",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "15:37",
+    "session": "Sprint Qualifying",
+    "fact": "The setup of the suspension has been changed while under parc fermé without the approval of the Technical Delegate.",
+    "infringement": "Breaches of Articles B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Sprint from the pit lane.",
+    "reason": "Atlassian Williams F1 Team changed the setup of the suspension of Car 55 under parc fermé before the start of the Sprint, without the approval of the Technical Delegate. This is not accordance with Article B3.5.4 of the FIA F1 Regulations. In addition, the change of setup is not in accordance with Article B3.5.3 of the FIA F1 Regulations. Car 55 is therefore required to start the Sprint from pit lane as per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     36,
+     37
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Parc Ferme Issues",
+   "subject": "Parc Ferme Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-10-10T09:39",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    37
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-10-10T08:48",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Post-Sprint Procedure",
+   "subject": "Post-Sprint Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_post-sprint_procedure.pdf",
+   "published": "2026-10-10T08:45",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Provisional Sprint Starting Grid",
+   "subject": "Provisional Sprint Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_sprint_starting_grid.pdf",
+   "published": "2026-10-09T18:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Final Sprint Qualifying Classification",
+   "subject": "Final Sprint Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_sprint_qualifying_classification.pdf",
+   "published": "2026-10-09T17:57",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Decision - Sprint Qualifying SC2-SC1 Times",
+   "subject": "Decision - Sprint Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_sprint_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-10-09T17:56",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 Cars below exceeded the 1:52.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 13).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "11": 1,
+     "77": 1,
+     "55": 1,
+     "43": 1,
+     "27": 1,
+     "5": 1,
+     "1": 1,
+     "81": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     13,
+     31
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Infringement - Sprint Qualifying Deleted Lap Times (Yellow Flags)",
+   "subject": "Infringement - Sprint Qualifying Deleted Lap Times (Yellow Flags)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times_yellow_flags.pdf",
+   "published": "2026-10-09T17:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "81": 1,
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     30
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Infringement - Car 3 - Yellow flag infringement",
+   "subject": "Infringement - Car 3 - Yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_3_-_yellow_flag_infringement.pdf",
+   "published": "2026-10-09T17:39",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "20:35",
+    "session": "Sprint Qualifying",
+    "fact": "Car 3 overtook Car 44 under single yellow flags.",
+    "infringement": "Breach of Appendix H, Article 2.5.5b of the FIA International Sporting Code.",
+    "decision": "No penalty is applied.",
+    "reason": "The Stewards heard from the driver of Car 3 (Max Verstappen), the driver of Car 44 (Lewis Hamilton), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. As Car 3 was exiting turn 7 on a push lap, a single yellow flag was displayed. Car 44 was ahead of Car 3 and had been warned of Car 3’s approach. The Driver of Car 44 said that after exiting turn 7, he slowed and moved to the right to ensure he was off the racing line. Car 3 overtook Car 44 prior to turn 8 while both cars were still in the yellow flag sector. Car 3 then abandoned the push lap. The Driver of Car 3 explained that he was on throttle exiting turn 7 and then saw the yellow flag and lifted. This was confirmed by telemetry. Within approximately 40 metres of entering the yellow flag sector, the Driver of Car 3 had lifted fully off throttle. The Driver of Car 44 was braking and had reduced speed to less than 60km/h at the point Car 3 overtook. Because Car 3 was on a push lap and was on throttle out of turn 7 and Car 44 had slowed, the speed differential at the point of the overlap was significant despite the fact that the Driver of Car 3 had also started braking. The Stewards were satisfied that the Driver of Car 3 reacted appropriately to the yellow flag by lifting off throttle and reducing speed. The speed of Car 3 at the overtake point was some 70km/h less than Car 3’s speed on another push lap in the same session. The Driver of Car 3 explained that to have avoided the overtake would have required him to have braked very heavily and he considered to have done so would have potentially created an unsafe situation. The Stewards determined that the Driver of Car 3 breached the yellow flag regulation by overtaking Car 44. However, the Stewards were satisfied that the overtake was an unfortunate consequence of the significant closing speed differential and, in these circumstances, determined not to impose a penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     21,
+     29
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    21
+   ]
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - P1 and Sprint Qualifying Scrutineering",
+   "subject": "P1 and Sprint Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_p1_and_sprint_qualifying_scrutineering.pdf",
+   "published": "2026-10-09T17:38",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Restricted Period Three",
+   "subject": "Restricted Period Three",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_restricted_period_three.pdf",
+   "published": "2026-10-09T17:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Drivers' Meeting",
+   "subject": "Drivers' Meeting",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_drivers_meeting.pdf",
+   "published": "2026-10-09T16:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Infringement - Sprint Qualifying Deleted Lap Times",
+   "subject": "Infringement - Sprint Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times.pdf",
+   "published": "2026-10-09T16:39",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 Cars below did not use the track at turns 2, 11, 16 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "27": 1,
+     "44": 1,
+     "31": 1,
+     "10": 1,
+     "6": 2
+    },
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     25
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Covers-on Time",
+   "subject": "Covers-on Time",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_covers-on_time.pdf",
+   "published": "2026-10-09T16:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Provisional Sprint Qualifying Classification",
+   "subject": "Provisional Sprint Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_sprint_qualifying_classification.pdf",
+   "published": "2026-10-09T15:57",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Summons - Car 44 - Alleged Yellow Flag Infringement",
+   "subject": "Summons - Car 44 - Alleged Yellow Flag Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_44_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-10-09T15:39",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "reason": "Alleged breach of Appendix H, Article 2.5.5 b) of the International Sporting Code – Car 3 allegedly overtook Car 44 under yellow flags at 20:35.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     22
+    ]
+   }
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Summons - Car 3 - Alleged Yellow Flag Infringement",
+   "subject": "Summons - Car 3 - Alleged Yellow Flag Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_summons_-_car_3_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-10-09T15:38",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "reason": "Alleged breach of Appendix H, Article 2.5.5 b) of the International Sporting Code – Car 3 allegedly overtook Car 44 under yellow flags at 20:35.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     21
+    ]
+   },
+   "related": [
+    29
+   ]
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Car 63 - Changes to PU elements",
+   "subject": "Infringement - Car 63 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_63_-_changes_to_pu_elements.pdf",
+   "published": "2026-10-09T14:03",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "18:20",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH) 4th MGU-K",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 40 grid positions in the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 40 places. Subject to Car 63 being classified in the results of Qualifying, Car 63 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     19,
+     20
+    ],
+    "tags": [
+     "40-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    19
+   ]
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-10-09T12:30",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    20
+   ]
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-10-09T12:38",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turns 2, 9, 11 and 16.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "18": 2,
+     "1": 2,
+     "12": 4,
+     "55": 3,
+     "14": 1,
+     "31": 2,
+     "44": 3,
+     "87": 1,
+     "43": 3,
+     "10": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-10-09T12:38",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-10-09T12:38",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 15,
+   "title": "DOC 15 - 2026 Singapore Grand Prix - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": null,
+   "published": "2026-10-09T10:15",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Competition Notes - Pit Lane V2",
+   "subject": "Competition Notes - Pit Lane V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_competition_notes_-_pit_lane_v2.pdf",
+   "published": "2026-10-09T10:09",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-10-09T10:09",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    31,
+    55,
+    72,
+    85
+   ]
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_entry_list.pdf",
+   "published": "2026-10-09T10:11",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-10-09T10:09",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - PU Elements used per Driver up to now",
+   "subject": "PU Elements used per Driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-10-09T10:08",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-10-09T10:08",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Post-Sprint Qualifying Procedure",
+   "subject": "Post-Sprint Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_post-sprint_qualifying_procedure.pdf",
+   "published": "2026-10-09T10:08",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
+   "published": "2026-10-08T15:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-10-08T14:59",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 13
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-10-08T13:57",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Heat Hazard Declaration",
+   "subject": "Heat Hazard Declaration",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_heat_hazard_declaration.pdf",
+   "published": "2026-10-08T05:31",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-10-08T05:03",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-10-07T04:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_competition_visa.pdf",
+   "published": "2026-10-07T03:51",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

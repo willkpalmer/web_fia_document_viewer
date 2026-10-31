@@ -1,0 +1,2470 @@
+{
+ "event": {
+  "slug": "miami-grand-prix",
+  "name": "Miami Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Miami%20Grand%20Prix",
+  "doc_count": 100,
+  "first_published": "2026-04-29T22:37",
+  "last_published": "2026-05-04T00:15",
+  "counts": {
+   "results": 16,
+   "stewards": 46,
+   "technical": 18,
+   "race_director": 16,
+   "admin": 4
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 102,
+   "title": "Doc 102 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_championship_points.pdf",
+   "published": "2026-05-04T00:15",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 101,
+   "title": "Doc 101 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-05-04T00:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 100,
+   "title": "Doc 100 - Decision - Car 30 - Alleged incident with Car 10",
+   "subject": "Decision - Car 30 - Alleged incident with Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_30_-_alleged_incident_with_car_10.pdf",
+   "published": "2026-05-03T23:55",
+   "recalled": false,
+   "cars": [
+    10,
+    30
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "13:12",
+    "session": "Race",
+    "fact": "Collision between cars 30 and 10 in Turn 17.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 30 (Liam Lawson), the driver of Car 10 (Pierre Gasly), team representatives and reviewed positioning/marshalling system data, video, telemetry, team radio and in-car video evidence. Car 10 (Pierre Gasly), was attempting an outside pass of Car 30 (Liam Lawson) at the entry to Turn 17. Car 10 was clearly ahead prior to the apex and had established its rights under the Driving Standards Guidelines. A significant collision occurred and Car 10 was pushed into the barriers, with the car flipping and ending up wedged in the TechPro. The driver of Car 30 explained that just before the collision, he had a technical issue as his gearbox failed under braking. The Stewards reviewed the in-car data and telemetry and confirmed that there was clearly a gearbox failure just before the incident in question. The radio communications were also consistent with the fact that there was a gearbox failure. We therefore accept the driver’s explanation that this was a failure of a mechanical part in the car and that there was nothing that he could do to avoid the collision. We also considered whether the driver of Car 30 had the ability to anticipate the failure of the gearbox and decided that it would not have been possible for him to do so. Under the circumstances, the stewards determine that a mechanical failure, not driver error, was the cause of the collision and therefore the driver of Car 30, was not at fault for the collision. We therefore took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     81,
+     100
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    81
+   ]
+  },
+  {
+   "num": 99,
+   "title": "Doc 99 - Infringement - Car 3 - Pit Exit Incident",
+   "subject": "Infringement - Car 3 - Pit Exit Incident",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_3_-_pit_exit_incident.pdf",
+   "published": "2026-05-03T23:48",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "13:14",
+    "session": "Race",
+    "fact": "Crossed the white line at pit exit.",
+    "infringement": "Breach of Appendix L, Chapter IV Article 6 c) of the International Sporting Code.",
+    "decision": "5 second time penalty imposed after the Race. (5 seconds added to elapsed Race time).",
+    "reason": "The Stewards heard from the driver of Car 3 (Max Verstappen), team representative and reviewed, video and in-car video evidence. When the incident occurred there was limited video evidence to make a clear decision on whether an infringement had occurred. We therefore decided to investigate the incident after the race, to see if we could get better video evidence of the incident in the meantime, perhaps from other angles. We were able to do so. The new angles did show more views of the pit exit line and the incident in question. The driver of Car 3 explained that he was driving out of the pit exit and rejoined the race under full course yellow. The Stewards determined that the outside of the front left-hand tyre did cross the outside of the solid white pit exit line in violation of Appendix L, Chapter IV Article 6 c) of the International Sporting Code. Given the nature of the infraction the Stewards elected to impose a penalty of 5 seconds.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     83,
+     99
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    83
+   ]
+  },
+  {
+   "num": 97,
+   "title": "Doc 97 - Infringement - Car 16 - Leaving the track multiple times and driving in an unsafe condition",
+   "subject": "Infringement - Car 16 - Leaving the track multiple times and driving in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_16_-_leaving_the_track_multiple_times_and_driving_in_an_unsafe_condition_.pdf",
+   "published": "2026-05-03T23:24",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "14:36",
+    "session": "Race",
+    "fact": "Car 16 left the track on several occasions without a justifiable reason.",
+    "infringement": "Breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Drive through penalty imposed after the Race. (20 seconds added to elapsed Race time).",
+    "reason": "The Stewards heard from the driver of Car 16 (Charles Leclerc), team representative and reviewed positioning/marshalling system data, video, team radio and in-car video evidence. Car 16 spun on the last lap at turn 3 and hit the wall but continued on track. The driver informed us that the car appeared fine save that the car would not negotiate the right hand corners properly. Given this problem, he was forced to cut chicanes on the way to the chequered flag. We determined that the fact that he had to cut the chicanes (i.e. to leave the track) meant that he gained a lasting advantage by leaving the track in that manner. The fact that he had a mechanical issue of some sort did not amount to a justifiable reason. We accordingly impose a Drive Through penalty on Car 16, given the number of times the car left the track and gained an advantage. We also considered whether there was an additional breach in continuing to drive a car with an obvious and discernible mechanical issue. We determined that there was no evidence of there being an obvious of discernible mechanical issue. We therefore took no further action in relation to that potential infringement.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     90,
+     97
+    ],
+    "tags": [
+     "Drive-through"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    90
+   ]
+  },
+  {
+   "num": 96,
+   "title": "Doc 96 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-05-03T23:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 95,
+   "title": "Doc 95 - Decision - Car 63 - Alleged incident with Car 3",
+   "subject": "Decision - Car 63 - Alleged incident with Car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_63_-_alleged_incident_with_car_3.pdf",
+   "published": "2026-05-03T23:21",
+   "recalled": false,
+   "cars": [
+    3,
+    63
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "14:33",
+    "session": "Race",
+    "fact": "Contact made at turn 1 between Cars 3 and 63.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 3 (Max Verstappen), the driver of Car 63 (George Russell), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence and determined that there was minor contact between that cars at Turn 1. Both drivers considered this incident to be a minor racing incident and we agreed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     85,
+     95
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    85
+   ]
+  },
+  {
+   "num": 94,
+   "title": "Doc 94 - Decision - Car 3 - Alleged incident with Car 63",
+   "subject": "Decision - Car 3 - Alleged incident with Car 63",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_3_-_alleged_incident_with_car_63.pdf",
+   "published": "2026-05-03T23:22",
+   "recalled": false,
+   "cars": [
+    3,
+    63
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "14:33",
+    "session": "Race",
+    "fact": "Contact made at turn 1 between Cars 3 and 63.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 3 (Max Verstappen), the driver of Car 63 (George Russell), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence and determined that there was minor contact between that cars at Turn 1. Both drivers considered this incident to be a minor racing incident and we agreed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     85,
+     94
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    85
+   ]
+  },
+  {
+   "num": 93,
+   "title": "Doc 93 - Decision - Car 14 - Alleged yellow flag infringement",
+   "subject": "Decision - Car 14 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_14_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-05-03T23:13",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "13:12",
+    "session": "Race",
+    "fact": "Alleged failure to slow under yellow flags at Turn 15.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 b) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. There was a single yellow flag was brought out because Car 6 crashed at Turn 15 on Lap 5. After reviewing the data, we determined that Car 14 dealt appropriately with the yellow flag situation at Turn 15. We took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     93
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 92,
+   "title": "Doc 92 - Decision - Car 23 - Alleged yellow flag infringement",
+   "subject": "Decision - Car 23 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_23_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-05-03T23:11",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "13:12",
+    "session": "Race",
+    "fact": "Alleged failure to slow under yellow flags at Turn 15.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 b) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. There was a single yellow flag was brought out because Car 6 crashed at Turn 15 on Lap 5. After reviewing the data, we determined that Car 23 dealt appropriately with the yellow flag situation at Turn 15. We took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     92
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 91,
+   "title": "Doc 91 - Decision - Car 31 - Alleged yellow flag infringement",
+   "subject": "Decision - Car 31 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_31_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-05-03T23:10",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "competitor": "TGR Haas F1 Team",
+    "time": "13:12",
+    "session": "Race",
+    "fact": "Alleged failure to slow under yellow flags at Turn 15.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 b) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. There was a single yellow flag was brought out because Car 6 crashed at Turn 15 on Lap 5. After reviewing the data, we determined that Car 31 dealt appropriately with the yellow flag situation at Turn 15. We took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     91
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 90,
+   "title": "Doc 90 - Summons - Car 16 - Alleged leaving the track multiple times and driving in an unsafe condition",
+   "subject": "Summons - Car 16 - Alleged leaving the track multiple times and driving in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_16_-_alleged_leaving_the_track_multiple_times_and_driving_in_an_unsafe_condition_.pdf",
+   "published": "2026-05-03T22:06",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "reason": "Alleged breaches of Article B1.8.6 of the FIA F1 Regulations – Leaving the track multiple times without a justifiable reason and/or Article 1.8.7 of the FIA F1 Regulations – Driving an F1 Car on track in an unsafe condition.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     90
+    ]
+   },
+   "related": [
+    97
+   ]
+  },
+  {
+   "num": 89,
+   "title": "Doc 89 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-05-03T21:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 5, 6, 7, 8, 11, 15 and 17.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "81": 1,
+     "30": 1,
+     "11": 1,
+     "18": 2,
+     "12": 2,
+     "14": 4,
+     "1": 1,
+     "87": 1,
+     "16": 4
+    },
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     89
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 88,
+   "title": "Doc 88 - Summons - Car 63 - Incident with Car 16",
+   "subject": "Summons - Car 63 - Incident with Car 16",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_63_-_incident_with_car_16.pdf",
+   "published": "2026-05-03T21:24",
+   "recalled": false,
+   "cars": [
+    16,
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 17 incident between Cars 16 and 63 at 14:37.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     88
+    ]
+   }
+  },
+  {
+   "num": 87,
+   "title": "Doc 87 - Summons - Car 16 - Incident with Car 63",
+   "subject": "Summons - Car 16 - Incident with Car 63",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_16_-_incident_with_car_63.pdf",
+   "published": "2026-05-03T21:18",
+   "recalled": false,
+   "cars": [
+    16,
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 17 incident between Cars 16 and 63 at 14:37.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     87
+    ]
+   }
+  },
+  {
+   "num": 86,
+   "title": "Doc 86 - Summons - Car 63 - Incident with Car 3",
+   "subject": "Summons - Car 63 - Incident with Car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_63_-_incident_with_car_3.pdf",
+   "published": "2026-05-03T21:24",
+   "recalled": false,
+   "cars": [
+    3,
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 1 incident between Cars 3 and 63 at 14:33.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     86
+    ]
+   }
+  },
+  {
+   "num": 85,
+   "title": "Doc 85 - Summons - Car 3 - Incident with Car 63",
+   "subject": "Summons - Car 3 - Incident with Car 63",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_3_-_incident_with_car_63.pdf",
+   "published": "2026-05-03T21:30",
+   "recalled": false,
+   "cars": [
+    3,
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 1 incident between Cars 3 and 63 at 14:33.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     85
+    ]
+   },
+   "related": [
+    94,
+    95
+   ]
+  },
+  {
+   "num": 84,
+   "title": "Doc 84 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-05-03T21:07",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 83,
+   "title": "Doc 83 - Summons - Car 3 - Pit Exit Incident",
+   "subject": "Summons - Car 3 - Pit Exit Incident",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_3_-_pit_exit_incident.pdf",
+   "published": "2026-05-03T20:47",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "reason": "Alleged breach of Appendix L, Chapter IV Article 6(c) of the International Sporting Code and non-compliance with Race Director’s Event Notes (item 16, document 36) – Crossing the white line at pit exit.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     36,
+     83
+    ]
+   },
+   "related": [
+    36,
+    99
+   ]
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - Summons - Car 10 - Incident with Car 30",
+   "subject": "Summons - Car 10 - Incident with Car 30",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_10_-_incident_with_car_30_.pdf",
+   "published": "2026-05-03T20:47",
+   "recalled": false,
+   "cars": [
+    10,
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 17 incident between Cars 30 and 10 at 13:12.",
+    "from": "The Stewards",
+    "competitor": "BWT Alpine F1 Team",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     82
+    ]
+   }
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - Summons - Car 30 - Incident with Car 10",
+   "subject": "Summons - Car 30 - Incident with Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_30_-_incident_with_car_10.pdf",
+   "published": "2026-05-03T20:47",
+   "recalled": false,
+   "cars": [
+    10,
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the International Sporting Code – Turn 17 incident between Cars 30 and 10 at 13:12.",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     81
+    ]
+   },
+   "related": [
+    100
+   ]
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - Infringement - Car 77 - Pit Lane Speeding",
+   "subject": "Infringement - Car 77 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_77_-_pit_lane_speeding.pdf",
+   "published": "2026-05-03T20:47",
+   "recalled": false,
+   "cars": [
+    77
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "13:42",
+    "session": "Race",
+    "fact": "Pit lane speeding – 89.5 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "Drive through penalty.",
+    "reason": "Car 77 exceeded the pit lane speed limit which is set at 80 km/h for this event by 9.5 km/h. In keeping with the Penalty Guidelines, for exceeding the speed limit in the pit lane by 6-15 Km/h the prescribed penalty is a drive through, which we impose.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     80
+    ],
+    "tags": [
+     "Drive-through"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-05-03T18:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - Parts and Parameters been replaced and or changed during Race Parc Fermé",
+   "subject": "Parts and Parameters been replaced and or changed during Race Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf",
+   "published": "2026-05-03T17:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-05-03T17:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-05-03T17:13",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - Infringement - Car 6 - PU Elements changed under Parc Ferme",
+   "subject": "Infringement - Car 6 - PU Elements changed under Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_6_-_pu_elements_changed_under_parc_ferme.pdf",
+   "published": "2026-05-03T16:43",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "09:50",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE) Power Unit element and the control electronics unit were replaced without the approval of the FIA Technical Delegate during Parc Ferme.",
+    "infringement": "Breach of Article B8.2.2 (read with B8.2.3) & B3.5.3 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "As the abovementioned parts were replaced in breach of parc ferme conditions without permission, the relevant driver must start from the Pit Lane per Article B3.5.3b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     74,
+     75
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    74
+   ]
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - Parc Fermé Issues",
+   "subject": "Parc Fermé Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-05-03T15:53",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    75
+   ]
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-05-03T13:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-05-03T13:47",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - Decision - Car 6 - Permission to start",
+   "subject": "Decision - Car 6 - Permission to start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_6_-_permission_to_start.pdf",
+   "published": "2026-05-03T13:45",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Oracle Red Bull Racing to allow car 6 to start the Race despite being disqualified from Qualifying. In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards grant permission for car 6, Isack Hadjar, to start the Race, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Oracle Red Bull Racing",
+    "refs": [
+     71
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - Infringement - Car 6 - Technical nonconformity (Floor Board)",
+   "subject": "Infringement - Car 6 - Technical nonconformity (Floor Board)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_6_-_technical_nonconformity_floor_board.pdf",
+   "published": "2026-05-03T13:30",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "20:24",
+    "session": "Qualifying",
+    "fact": "LHS and RHS floor board were protruding out of the reference volume.",
+    "infringement": "Breach of Article C3.5.5 of the FIA F1 Regulations.",
+    "decision": "Car 6 is disqualified from the Qualifying classifications.",
+    "reason": "The Stewards heard from the team representatives of Car 6 (Isack Hadjar). They did not dispute the findings of the Technical Delegate that portions of the LHS and RHS floor boards were protruding 2mm out of the reference volume RV-FLOOR BOARD. This is a breach of Article C3.5.5 of the FIA F1 Regulations and the usual consequences follow an admitted breach of the technical regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     67,
+     69,
+     70
+    ],
+    "tags": [
+     "Disqualified"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    67,
+    69
+   ]
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - Summons - Car 6 - Technical Regulations (Floor Board)",
+   "subject": "Summons - Car 6 - Technical Regulations (Floor Board)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_6_-_technical_regulations_floor_board.pdf",
+   "published": "2026-05-03T03:05",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "reason": "Alleged breach of Article C3.5.5 of the FIA F1 Regulations – LHS and RHS floor board were protruding out of the reference volume.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     69
+    ]
+   },
+   "related": [
+    70
+   ]
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Qualifying Scrutineering",
+   "subject": "Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_qualifying_scrutineering.pdf",
+   "published": "2026-05-03T02:34",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Infringement - Car 06 - Floor Board",
+   "subject": "Infringement - Car 06 - Floor Board",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_06_-_floor_board.pdf",
+   "published": "2026-05-03T02:25",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Report",
+   "details": {
+    "from": "The FIA Formula 1 Technical Delegate",
+    "summary": "Technical Delegate’s Report After the Qualifying, legality volumes were checked on car number 06. The lhs and rhs floor board were protruding 2mm out of the reference volume RV-FLOOR BOARD. As this is not in compliance with Article C3.5.5 of the Formula 1 Technical Regulation, I am referring this matter to the stewards for their consideration. Jo Bauer",
+    "refs": [
+     67
+    ]
+   },
+   "related": [
+    70
+   ]
+  },
+  {
+   "num": 66,
+   "title": "DOC 66 - 2026 Miami Grand Prix - Infringement - Car 06 - Floor Board",
+   "subject": "Infringement - Car 06 - Floor Board",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-05-02T20:30",
+   "recalled": true,
+   "cars": [
+    6
+   ],
+   "type": "Infringement"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Procedures relating to Lightning Risk",
+   "subject": "Procedures relating to Lightning Risk",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_procedures_relating_to_lightning_risk.pdf",
+   "published": "2026-05-03T02:09",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Timetable V6",
+   "subject": "Timetable V6",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_timetable_v6.pdf",
+   "published": "2026-05-03T02:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
+   "published": "2026-05-03T01:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-05-03T00:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-05-02T23:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below exceeded the 1:48.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 36).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:48.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "43": 1,
+     "23": 1,
+     "55": 1,
+     "5": 1,
+     "44": 1,
+     "14": 1,
+     "18": 1,
+     "1": 1,
+     "27": 1,
+     "81": 1,
+     "77": 1,
+     "12": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     36,
+     61
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Infringement - Qualifying Deleted Lap Times - Yellow Flags",
+   "subject": "Infringement - Qualifying Deleted Lap Times - Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_yellow_flags.pdf",
+   "published": "2026-05-02T23:40",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap time shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     60
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-05-02T23:31",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below did not use the track at turns 6, 11 and 15.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "23": 1,
+     "43": 3,
+     "14": 1,
+     "27": 1,
+     "18": 1,
+     "1": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     59
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-05-02T23:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": null,
+   "published": "2026-05-02T22:39",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Championship Points after Sprint",
+   "subject": "Championship Points after Sprint",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_championship_points_after_sprint.pdf",
+   "published": "2026-05-02T21:36",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Final Sprint Classification",
+   "subject": "Final Sprint Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_final_sprint_classification.pdf",
+   "published": "2026-05-02T21:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Infringement - Car 5 - Technical non-conformity (Engine intake air pressure)",
+   "subject": "Infringement - Car 5 - Technical non-conformity (Engine intake air pressure)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_5_-_technical_non-conformity_engine_intake_air_pressure.pdf",
+   "published": "2026-05-02T21:07",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "13:44",
+    "session": "Sprint",
+    "fact": "Engine intake air pressure exceeded maximum permitted limit.",
+    "infringement": "Breach of Article C5.3.2 of the FIA F1 Regulations.",
+    "decision": "Car 5 is disqualified from the Sprint classifications.",
+    "reason": "The Stewards reviewed the report received from the Technical Delegate and found that the requirement was for the engine intake air pressure to be less than 4.8 barA at all times. The pressure was measured by two FIA approved devices that were installed in FIA approved locations situated in the engine intake air system downstream of the charge air cooling system. The Stewards heard from the team representatives of Car 5. They admitted that the Technical Delegate’s finding was correct. However, in mitigation, they explained that this happened over one lap, when the temperatures rose higher than they had expected. As soon as that became apparent, they took steps to bring the pressure back in line with the regulations. While the fact that they took steps to bring the car back in compliance is recognized, the regulations make it clear that the car needs to be in compliance ‘at all times’, which it was not. Given that this is a technical infringement, the usual penalty of a disqualification of Car 5 from the Sprint classification was applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     51,
+     52,
+     54
+    ],
+    "tags": [
+     "Disqualified"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    51,
+    52
+   ]
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Sprint Scrutineering",
+   "subject": "Sprint Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_sprint_scrutineering.pdf",
+   "published": "2026-05-02T20:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Summons - Car 5 - Technical Regulations (Engine intake air pressure)",
+   "subject": "Summons - Car 5 - Technical Regulations (Engine intake air pressure)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_5_-_technical_regulations_engine_intake_air_pressure.pdf",
+   "published": "2026-05-02T20:17",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "reason": "Alleged breach of Article C5.3.2 of the FIA F1 Regulations – Engine intake air pressure exceeded maximum permitted limit.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     52
+    ]
+   },
+   "related": [
+    54
+   ]
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Infringement - Car 05 - Engine Intake Air Pressure",
+   "subject": "Infringement - Car 05 - Engine Intake Air Pressure",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_05_-_engine_intake_air_pressure.pdf",
+   "published": "2026-05-02T19:49",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Report",
+   "details": {
+    "from": "The FIA Formula 1 Technical Delegate",
+    "summary": "Technical Delegate’s Report After the Sprint, the engine intake air pressure of car number 05 was checked. The pressure exceeded the maximum limit of 4.8 barA. As this is not in compliance with Article C5.3.2 of the Formula 1 Technical Regulation, I am referring this matter to the stewards for their consideration. Jo Bauer",
+    "refs": [
+     51
+    ]
+   },
+   "related": [
+    54
+   ]
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Decision - Sprint SC2-SC1 Times",
+   "subject": "Decision - Sprint SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_sprint_sc2-sc1_times.pdf",
+   "published": "2026-05-02T19:35",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Reconnaissance laps – Sprint",
+    "fact": "The F1 car below exceeded the 1:48.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 36).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras, team radio, CCTV cameras and spoke to the Team Representative. Car 63 (Russell) failed to stay below the required time limit on the formation lap as stipulated by the Race Director’s Competition Notes V3. Car 63 experienced a technical issue with overheating and a loss of power after leaving the garage. Car 63 was also behind Car 27 (Hulkenberg) who had mechanical failure and his car was spraying fluids. The overheating, loss of power and the situation with Car 27 contributed to the fact that Car 63 was forced to fall back and thereby breach the delta time required. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that he was above the maximum time because he took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     36,
+     49,
+     50
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    36,
+    49
+   ]
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Infringement - Car 12 - Leaving the track without a justifiable reason multiple times",
+   "subject": "Infringement - Car 12 - Leaving the track without a justifiable reason multiple times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_12_-_leaving_the_track_without_a_justifiable_reason_multiple_times.pdf",
+   "published": "2026-05-02T19:34",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "12:27",
+    "session": "Sprint",
+    "fact": "Leaving the track without a justifiable reason multiple times.",
+    "infringement": "Breaches of Appendix L, Chapter IV, Article 2 c) of the International Sporting Code and B1.8.6 of the FIA F1 Regulations.",
+    "decision": "5 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data and video evidence and determined that Car 12 left the track without a justifiable reason on 4 separate occasions during the Sprint, each of which was an infringement of Appendix L, Chapter IV, Article 2 c) of the International Sporting Code and B1.8.6 of the FIA F1 Regulations. As per the Penalty Guidelines, a black and white flag was shown to the driver after the third infringement and a 5 second time penalty was imposed for the fourth infringement.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     49
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    50
+   ]
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Infringement - Sprint Deleted Lap Times",
+   "subject": "Infringement - Sprint Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_sprint_deleted_lap_times.pdf",
+   "published": "2026-05-02T19:25",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 5, 11 and 15.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 4,
+     "10": 1,
+     "6": 2,
+     "18": 2,
+     "3": 1,
+     "44": 1,
+     "63": 1,
+     "16": 1,
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     48
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Rain Hazard Declaration",
+   "subject": "Rain Hazard Declaration",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_rain_hazard_declaration.pdf",
+   "published": "2026-05-02T19:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Competition Notes - Pirelli Preview V2",
+   "subject": "Competition Notes - Pirelli Preview V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_competition_notes_-_pirelli_preview_v2.pdf",
+   "published": "2026-05-02T19:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Provisional Sprint Classification",
+   "subject": "Provisional Sprint Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_provisional_sprint_classification.pdf",
+   "published": "2026-05-02T19:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Provisional Sprint Classification",
+   "subject": "Provisional Sprint Classification",
+   "category": "results",
+   "url": null,
+   "published": "2026-05-02T18:51",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Final Sprint Starting Grid",
+   "subject": "Final Sprint Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_final_sprint_starting_grid.pdf",
+   "published": "2026-05-02T17:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Parts and parameters been replaced and or changed during Parc Fermé",
+   "subject": "Parts and parameters been replaced and or changed during Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-05-02T16:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Infringement - Car 41 - Parc Ferme",
+   "subject": "Infringement - Car 41 - Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_41_-_parc_ferme.pdf",
+   "published": "2026-05-02T16:54",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "10:16",
+    "session": "Sprint Qualifying",
+    "fact": "The team continued to work on the car beyond the covers-on time.",
+    "infringement": "Breach of Article B3.4.2(a) of the FIA F1 Regulations.",
+    "decision": "Required to start the Sprint from the pit lane.",
+    "reason": "Visa Cash App Racing Bulls F1 Team continued to work on the car beyond the covers-on time which is a breach of article B3.4.2(a). The car is therefore required to start the Sprint from the pit lane as per Article B3.5.3(b) of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     39,
+     40
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    39
+   ]
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Curfew and Parc Fermé Issues",
+   "subject": "Curfew and Parc Fermé Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_curfew_and_parc_ferme_issues.pdf",
+   "published": "2026-05-02T16:20",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    40
+   ]
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-05-02T15:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Post-Sprint Procedure",
+   "subject": "Post-Sprint Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_post-sprint_procedure.pdf",
+   "published": "2026-05-02T15:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Race Director's Competition Notes V3",
+   "subject": "Race Director's Competition Notes V3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_race_directors_competition_notes_v3.pdf",
+   "published": "2026-05-02T12:54",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    50,
+    61,
+    83
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Provisional Sprint Starting Grid",
+   "subject": "Provisional Sprint Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_provisional_sprint_starting_grid.pdf",
+   "published": "2026-05-02T02:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Final Sprint Qualifying Classification",
+   "subject": "Final Sprint Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_final_sprint_qualifying_classification.pdf",
+   "published": "2026-05-02T02:45",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Decision - Car 14 - Permission to start",
+   "subject": "Decision - Car 14 - Permission to start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_14_-_permission_to_start.pdf",
+   "published": "2026-05-02T02:08",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Aston Martin Aramco F1 Team to allow car 14 to start the Sprint despite failing to set a qualifying time within 107% of the fastest time set in SQ1. In accordance with Article B2.2.3b of the FIA F1 Regulations, the Stewards grant permission for car 14, Fernando Alonso, to start the Sprint, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.3.4 of the FIA F1 Regulations.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "refs": [
+     33
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Decision - Car 18 - Permission to start",
+   "subject": "Decision - Car 18 - Permission to start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_18_-_permission_to_start.pdf",
+   "published": "2026-05-02T02:00",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from Aston Martin Aramco F1 Team to allow car 18 to start the Sprint despite failing to set a lap time in SQ1. In accordance with Article B2.2.3b of the FIA F1 Regulations, the Stewards grant permission for car 18, Lance Stroll, to start the Sprint, as the driver has set satisfactory times in practice at this Competition. The car will be placed on the grid in accordance with Article B2.3.4 of the FIA F1 Regulations.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   }
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Decision - Car 1 - Alleged failure to follow Race Director's Instructions (SC2-1 Time)",
+   "subject": "Decision - Car 1 - Alleged failure to follow Race Director's Instructions (SC2-1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_car_1_-_alleged_failure_to_follow_race_directors_instructions_sc2-1_time.pdf",
+   "published": "2026-05-02T01:52",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Decision",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 car below exceeded the 1:48.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 20).",
+    "decision": "No Further Action",
+    "from": "The Stewards",
+    "reason": "The Stewards heard the driver and the team representative and thoroughly reviewed Marshalling/Positioning data, timing data and on-board camera footage. Car 1 (Norris) failed to stay below the required time limit as stipulated by the Race Director’s Competition Notes. Car 1 was within the approved delta time for almost the whole lap until just before turn 17, where he was suddenly passed by Car 27. That then forced Car 1 to react to create a necessary and appropriate gap to set up a push lap. The Stewards considered this an extenuating circumstance and determined that he did not drive unnecessarily slowly. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     20,
+     25,
+     31
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    20,
+    25
+   ]
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Decision - Sprint Qualifying SC2-SC1 Times",
+   "subject": "Decision - Sprint Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_decision_-_sprint_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-05-02T01:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 cars below exceeded the 1:48.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 20).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:48.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "14": 1,
+     "12": 1,
+     "55": 1,
+     "1": 1,
+     "5": 2,
+     "23": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     20,
+     30
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    20
+   ]
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - FP1 and Sprint Qualifying Scrutineering",
+   "subject": "FP1 and Sprint Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_fp1_and_sprint_qualifying_scrutineering.pdf",
+   "published": "2026-05-02T01:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Infringement - Car 23 - Track Limits",
+   "subject": "Infringement - Car 23 - Track Limits",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_23_-_track_limits.pdf",
+   "published": "2026-05-02T01:32",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "16:42",
+    "session": "Sprint Qualifying",
+    "fact": "Car 23 exceeded track limits at Turn 6 during SQ1.",
+    "infringement": "Breaches of Article B1.8.6 of the FIA F1 Regulations and Appendix L, Chapter IV, Article 2 c) of the International Sporting Code.",
+    "decision": "The lap time of 1.30.988 of Car 23 recorded in SQ1 is hereby deleted. All lap times of Car 23 in SQ2 are deleted. Car 23 will therefore be classified in position 19 in Sprint Qualifying.",
+    "reason": "The Stewards heard from the team representative and reviewed positioning/marshalling system data, and video evidence. During SQ1, Car 23 clearly exceeded track limits in turn 6. However this was not reported to the Stewards until SQ2 had commenced. Car 23’s time recorded on the lap that track limits were exceeded was sufficient to place it in SQ2. Hence at the time the Stewards were informed that Car 23 had left the track and that its lap should have been potentially deleted, it was already on track in SQ2. As this was an unusual situation, the Stewards have decided to settle the matter by exercising their authority under Article 11.7.1.a of the International Sporting Code by deleting the lap time of the lap in question in SQ1. As Car 23 should not have proceeded into SQ2, all lap times from SQ2 will consequently be deleted.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     24,
+     28
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    24
+   ]
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Infringement - Sprint Qualifying Deleted Lap Times (Yellow Flags)",
+   "subject": "Infringement - Sprint Qualifying Deleted Lap Times (Yellow Flags)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times_yellow_flags.pdf",
+   "published": "2026-05-02T00:31",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "16": 1,
+     "43": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     27
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Infringement - Sprint Qualifying Deleted Lap Times",
+   "subject": "Infringement - Sprint Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times.pdf",
+   "published": "2026-05-02T00:22",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Sprint Qualifying",
+    "fact": "The F1 cars below did not use the track at turns 5, 6, 11 and 17.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "27": 1,
+     "18": 2,
+     "41": 1,
+     "14": 2,
+     "55": 2,
+     "6": 1
+    },
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     26
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Summons - Car 1 - Alleged failure to follow Race Director's Instructions (SC2-1 Time)",
+   "subject": "Summons - Car 1 - Alleged failure to follow Race Director's Instructions (SC2-1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_1_-_alleged_failure_to_follow_race_directors_instructions_sc2-1_time.pdf",
+   "published": "2026-05-01T23:56",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 12.2.1.i of the International Sporting Code and non- compliance with Race Director’s Event Note (item 1, document 20) – Driving unnecessarily slowly during Qualifying.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "refs": [
+     20,
+     25
+    ]
+   },
+   "related": [
+    20,
+    31
+   ]
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Summons - Car 23 - Track Limits",
+   "subject": "Summons - Car 23 - Track Limits",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_summons_-_car_23_-_track_limits.pdf",
+   "published": "2026-05-01T23:52",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breaches of Article B1.8.6 of the FIA F1 Regulations and Appendix L, Chapter IV, Article 2 c) of the International Sporting Code – Exceeding track limits at turn 6 at 16:42 during SQ1.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "refs": [
+     24
+    ]
+   },
+   "related": [
+    28
+   ]
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Provisional Sprint Qualifying Classification",
+   "subject": "Provisional Sprint Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_provisional_sprint_qualifying_classification.pdf",
+   "published": "2026-05-01T23:33",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": null,
+   "published": "2026-05-01T23:23",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Infringement - Car 16 - Pit Lane Speeding",
+   "subject": "Infringement - Car 16 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_car_16_-_pit_lane_speeding.pdf",
+   "published": "2026-05-01T21:01",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "13:38",
+    "session": "Free Practice 1",
+    "fact": "Pit lane speeding – 81.4 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Scuderia Ferrari HP) is fined €200.",
+    "reason": "Car 16 exceeded the pit lane speed limit which is set at 80 km/h for this event by 1.4 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     21
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 200
+   }
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-05-01T20:55",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 36,
+   "related": [
+    25,
+    30,
+    31
+   ]
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-05-01T20:08",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-05-01T20:02",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "11": 1,
+     "81": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     4,
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    4
+   ]
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-05-01T20:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars below did not use the track at turns 1, 7, 11, 15, 17 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "44": 2,
+     "1": 5,
+     "5": 3,
+     "12": 2,
+     "16": 1,
+     "43": 2,
+     "63": 1,
+     "77": 2,
+     "23": 5,
+     "3": 1,
+     "31": 1,
+     "14": 1,
+     "10": 1,
+     "27": 3,
+     "30": 1,
+     "87": 1
+    },
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-05-01T19:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Post-Sprint Qualifying Procedure",
+   "subject": "Post-Sprint Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_post-sprint_qualifying_procedure.pdf",
+   "published": "2026-05-01T19:14",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-05-01T19:03",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "DOC 13 - 2026 Miami Grand Prix - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": null,
+   "published": "2026-05-01T12:30",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_entry_list.pdf",
+   "published": "2026-05-01T16:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_curfew.pdf",
+   "published": "2026-05-01T15:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-05-01T15:49",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - PU elements used per driver up to now",
+   "subject": "PU elements used per driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-05-01T15:48",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-05-01T15:36",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-05-01T00:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-05-01T00:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-05-01T00:09",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_race_directors_competition_notes_.pdf",
+   "published": "2026-04-30T23:43",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 36,
+   "related": [
+    18
+   ]
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-04-30T20:36",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 64
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-04-29T23:12",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 46
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_grand_prix_-_competition_visa.pdf",
+   "published": "2026-04-29T22:37",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

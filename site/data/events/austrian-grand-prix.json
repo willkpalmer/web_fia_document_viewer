@@ -1,0 +1,1409 @@
+{
+ "event": {
+  "slug": "austrian-grand-prix",
+  "name": "Austrian Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Austrian%20Grand%20Prix",
+  "doc_count": 55,
+  "first_published": "2026-06-24T14:17",
+  "last_published": "2026-06-28T19:24",
+  "counts": {
+   "stewards": 21,
+   "results": 10,
+   "technical": 10,
+   "race_director": 11,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 55,
+   "title": "Doc 55 - Decision - Car 11 - Alleged false start - Moving before signal",
+   "subject": "Decision - Car 11 - Alleged false start - Moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_11_-_alleged_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-28T19:24",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "15:03",
+    "session": "Race",
+    "fact": "Car 11 moved prior to the start signal.",
+    "infringement": "Breach of Article B5.11.1 of the FIA F1 Regulations.",
+    "decision": "No penalty is applied.",
+    "reason": "The Stewards reviewed positioning/marshalling system data and in-car video evidence. The car moved before the start signal was given. This normally warrants a 5 second penalty (which would not convert into a grid drop for the next race). However, as the car had already retired from the race at the time the incident was brought to the attention of the Stewards, it does not seem appropriate to apply any time penalty. Therefore the Stewards decide not to impose any penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_championship_points.pdf",
+   "published": "2026-06-28T18:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-06-28T18:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-06-28T18:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Decision - Car 18 - Alleged ignoring blue flags",
+   "subject": "Decision - Car 18 - Alleged ignoring blue flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_18_-_alleged_ignoring_blue_flags.pdf",
+   "published": "2026-06-28T17:46",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "15:49",
+    "session": "Race",
+    "fact": "Car 18 had several blue flags displayed prior to the car behind passing",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 e) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data and in-car video evidence. Although Car 18 received several blue flags before giving way for Car 41, the Stewards determine that Car 41 was neither trying to overtake, nor was it in close enough proximity to mandate Car 18 to move away immediately.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     51
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Decision - Car 14 - Alleged ignoring blue flags",
+   "subject": "Decision - Car 14 - Alleged ignoring blue flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_14_-_alleged_ignoring_blue_flags.pdf",
+   "published": "2026-06-28T17:42",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "15:53",
+    "session": "Race",
+    "fact": "Car 14 had several blue flags displayed prior to the car behind passing",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 e) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data and in-car video evidence. Although Car 14 received several blue flags before giving way for Car 5, the Stewards determine that Car 5 was neither trying to overtake, nor was it in close enough proximity to mandate Car 14 to move away immediately.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     50
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Decision - Car 81 - Alleged failing to follow Race Directors Instructions (SC2-SC1)",
+   "subject": "Decision - Car 81 - Alleged failing to follow Race Directors Instructions (SC2-SC1)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_81_-_alleged_failing_to_follow_race_directors_instructions_sc2-sc1.pdf",
+   "published": "2026-06-28T17:41",
+   "recalled": false,
+   "cars": [
+    81
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "14:29",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 81 allegedly exceeded the time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article 12.2.1.i of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 81 (Oscar Piastri), team representative and reviewed video, timing in-car video evidence. After reviewing the video footage it was evident that the car was well within the specified delta time. Therefore the Stewards take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     43,
+     49
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    43
+   ]
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Decision - Car 11 - Alleged practice start infringement",
+   "subject": "Decision - Car 11 - Alleged practice start infringement",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-06-28T17:38",
+   "recalled": true,
+   "cars": [
+    11
+   ],
+   "type": "Decision"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Decision - Car 30 - Failure to follow Race Director's Instructions - Practice Starts",
+   "subject": "Decision - Car 30 - Failure to follow Race Director's Instructions - Practice Starts",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_30_-_failure_to_follow_race_directors_instructions_-_practice_starts.pdf",
+   "published": "2026-06-28T17:38",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "14:25",
+    "session": "Race",
+    "fact": "The Driver did not follow the Race Director’s instruction considering practice starts (item 13.6 of the Competition Notes) by crossing the white line at pit exit and subsequently cutting back in to make a practice start.",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code and non-compliance with Race Director’s Competition Notes (item 13.6, document 6).",
+    "decision": "No penalty is applied.",
+    "reason": "The Stewards reviewed in-car video evidence. Car 30 was trying to line up for a practice start, but encountered another car which stopped in the pit exit road. In the process of passing this car and then making way for it after it started moving, Car 30 crossed the white line at pit exit at slow speed. After that, Car 30 crossed the line again to line up for a practice start as originally planned. The Stewards determine that, albeit a breach technically occurred, the actions taken by the driver of Car 30 were appropriate given the circumstances and therefore do not apply any penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     6,
+     47
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-06-28T17:06",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 1, 3, 6, 8, 9 and 10.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note          Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 3,
+     "44": 1,
+     "16": 1,
+     "18": 2,
+     "1": 3,
+     "3": 1,
+     "23": 1,
+     "81": 1,
+     "63": 1,
+     "10": 1,
+     "31": 2,
+     "5": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     46
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Decision - Car 23 - Alleged yellow flag infringement",
+   "subject": "Decision - Car 23 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_23_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-06-28T17:00",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "15:32",
+    "session": "Race",
+    "fact": "Car 23 allegedly failed to slow for a single yellow flag",
+    "infringement": "Alleged breach of Article B1.8.4 a of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data and in-car video evidence. At no point any yellow flag was displayed to Car 23. However, when seeing a green flag in front of him, the driver of Car 23 reacted by lifting the throttle into Turn 1. The Stewards determine that no infringement was evident and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-06-28T16:46",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Summons - Car 81 - Alleged Failure to follow Race Director's Instructions (SC2 - SC1)",
+   "subject": "Summons - Car 81 - Alleged Failure to follow Race Director's Instructions (SC2 - SC1)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_summons_-_car_81_-_alleged_failure_to_follow_race_directors_instructions_sc2_-_sc1.pdf",
+   "published": "2026-06-28T16:45",
+   "recalled": false,
+   "cars": [
+    81
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "reason": "Alleged breach of Article 12.2.1.i of the International Sporting Code and non- compliance with Race Director’s Event Note (item 1, document 6) – Driving unnecessarily slowly during reconnaissance laps.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     6,
+     43
+    ]
+   },
+   "related": [
+    6,
+    49
+   ]
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Infringement - Car 14 - Pit Lane Speeding",
+   "subject": "Infringement - Car 14 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_car_14_-_pit_lane_speeding.pdf",
+   "published": "2026-06-28T16:31",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "15:34",
+    "session": "Race",
+    "fact": "Pit lane speeding – 80.1 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "5 second time penalty.",
+    "reason": "Car 14 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.1 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-06-28T14:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Parts and Parameters been replaced and or changed during Parc Fermé",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-06-28T13:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-06-28T10:13",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-06-28T10:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-06-27T20:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-06-27T19:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-06-27T19:35",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-06-27T18:20",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below exceeded the 1:12.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:12.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "table_rows": {
+     "31": 3,
+     "63": 4,
+     "41": 1,
+     "30": 2,
+     "6": 1,
+     "5": 2,
+     "27": 1,
+     "11": 1,
+     "43": 2,
+     "87": 1,
+     "10": 2,
+     "12": 2
+    },
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     6,
+     34
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Infringement - Qualifying Deleted Lap Times - Double Yellow",
+   "subject": "Infringement - Qualifying Deleted Lap Times - Double Yellow",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_double_yellow.pdf",
+   "published": "2026-06-27T18:14",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "6": 1,
+     "44": 1,
+     "30": 1,
+     "16": 1,
+     "1": 1,
+     "81": 1,
+     "41": 1,
+     "12": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     33
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Infringement - Car 6 - Failing to follow Race Directors Instructions (SC2-SC1)",
+   "subject": "Infringement - Car 6 - Failing to follow Race Directors Instructions (SC2-SC1)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_car_6_-_failing_to_follow_race_directors_instructions_sc2-sc1.pdf",
+   "published": "2026-06-27T18:13",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "16:14",
+    "session": "Qualifying",
+    "fact": "Car 6 exceeded the time limit between the Safety Car lines.",
+    "infringement": "Breach of Article B1.8.6 of the FIA F1 Regulations and non-compliance with Race Director’s Competition Note (item 1, document 6).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards heard from the driver of Car 6 (Isack Hadjar), team representative and reviewed positioning/marshalling system data, timing, and in-car video evidence. The Stewards determine that the driver completed the relevant lap without overtaking or being overtaken by any other cars and therefore drove unnecessarily slowly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     6,
+     29,
+     32
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    6,
+    29
+   ]
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-06-27T18:09",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below did not use the track at turns 1 and 3.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "44": 1,
+     "43": 1
+    },
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     31
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-06-27T17:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Summons - Car 6 - Alleged Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "subject": "Summons - Car 6 - Alleged Failure to follow Race Director's instructions (SC2-SC1 Time)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_summons_-_car_6_-_alleged_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf",
+   "published": "2026-06-27T17:10",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "reason": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and non-compliance with Race Director’s Competition Notes (item 1, document 6) – Car 6 driving unnecessarily slowly at 16:14.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     6,
+     29
+    ]
+   },
+   "related": [
+    6,
+    32
+   ]
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-06-27T15:21",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 cars below did not use the track at turns 1, 3 and 9.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "11": 2,
+     "77": 1,
+     "55": 3,
+     "1": 1,
+     "5": 1,
+     "27": 1,
+     "16": 1,
+     "6": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     28
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-06-27T13:46",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_curfew_0.pdf",
+   "published": "2026-06-27T10:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-06-27T09:31",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - P1 and P2 Scrutineering",
+   "subject": "P1 and P2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_p1_and_p2_scrutineering.pdf",
+   "published": "2026-06-26T19:36",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-06-26T19:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-06-26T18:28",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Infringement - Free Practice 2 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-06-26T18:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "16": 1,
+     "44": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     6,
+     21
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-06-26T18:23",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 cars below did not use the track at turns 1, 3 and 6.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "27": 1,
+     "14": 1,
+     "77": 1,
+     "43": 1,
+     "1": 3,
+     "23": 1,
+     "18": 1,
+     "44": 3,
+     "63": 2,
+     "81": 1,
+     "16": 1,
+     "3": 1
+    },
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-06-26T18:16",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-06-26T14:51",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "81": 1,
+     "38": 1
+    },
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 38,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     6,
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-06-26T14:51",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars below did not use the track at turns 1, 3, 4 and 8.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "77": 1,
+     "41": 1,
+     "34": 1,
+     "12": 3,
+     "14": 2,
+     "46": 4,
+     "44": 1,
+     "38": 2,
+     "90": 1,
+     "6": 1,
+     "81": 2,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 34,
+      "name": "Jak Crawford"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 46,
+      "name": "Luke Browning"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 38,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 90,
+      "name": "Ayumu Iwasa"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-06-26T14:45",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-06-26T14:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-06-26T11:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_curfew.pdf",
+   "published": "2026-06-26T10:27",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Steward Substitution",
+   "subject": "Steward Substitution",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_steward_substitution_.pdf",
+   "published": "2026-06-26T10:23",
+   "recalled": false,
+   "cars": [],
+   "type": "Stewards Note",
+   "details": {
+    "from": "The Stewards",
+    "summary": "In accordance with Article 11.7.3.q of the FIA International Sporting Code, the appointed FIA Steward being unavailable, Tanja Geilhausen is substituted as the FIA Steward for Friday 25 June. Loïc Bacquelaine will re-assume his role from Saturday 26 June. Felix Holter                                       Loïc Baquelaine Pedro Lamy                                         Wilhelm Singer",
+    "refs": [
+     12
+    ]
+   }
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_entry_list.pdf",
+   "published": "2026-06-26T10:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-06-26T09:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - PU elements used per driver up to now",
+   "subject": "PU elements used per driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-06-26T09:39",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-06-25T18:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-06-25T17:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-06-25T17:21",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    18,
+    21,
+    29,
+    32,
+    34,
+    43,
+    47
+   ]
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-06-25T11:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Heat Hazard Declaration",
+   "subject": "Heat Hazard Declaration",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_heat_hazard_declaration_.pdf",
+   "published": "2026-06-25T09:14",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-06-24T17:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_competition_visa.pdf",
+   "published": "2026-06-24T17:16",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Post-Race Checks on Car 44, Barcelona-Catalunya GP 2026",
+   "subject": "Post-Race Checks on Car 44, Barcelona-Catalunya GP 2026",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_post-race_checks_on_car_44_barcelona-catalunya_gp_2026.pdf",
+   "published": "2026-06-24T14:17",
+   "recalled": false,
+   "cars": [
+    44
+   ]
+  }
+ ]
+}

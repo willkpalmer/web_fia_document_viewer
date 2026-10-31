@@ -1,0 +1,1896 @@
+{
+ "event": {
+  "slug": "italian-grand-prix",
+  "name": "Italian Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Italian%20Grand%20Prix",
+  "doc_count": 71,
+  "first_published": "2026-09-02T15:58",
+  "last_published": "2026-09-06T20:54",
+  "counts": {
+   "results": 10,
+   "stewards": 34,
+   "technical": 13,
+   "race_director": 12,
+   "admin": 2
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 71,
+   "title": "Doc 71 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_championship_points.pdf",
+   "published": "2026-09-06T20:30",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-09-06T20:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - Decision - Car 22 - Alleged Start Procedure Infringement",
+   "subject": "Decision - Car 22 - Alleged Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_decision_-_car_22_-_alleged_start_procedure_infringement.pdf",
+   "published": "2026-09-06T19:45",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "22 - Yuki Tsunoda",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "15:41",
+    "session": "Race",
+    "fact": "An extra formation lap was commenced and it was a result of a decision by Race Control based on the approach to, and position of, Car 22 on the grid.",
+    "infringement": "Alleged breach of Article B5.9.4 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 22 (Yuki Tsunoda), the team representative, the FIA Race Director and the FIA Sporting Director of the Single Seater Department, and reviewed video and in-car video evidence. Car 22 approached the grid initially heading for the left hand side of the grid, then realising he was headed for the wrong grid position, the driver changed direction and positioned his car in the correct grid box and in the correct position within the grid box. This was verified by the Stewards with video from multiple camera angles. The Race Director, in evidence, stated that it was his call, based on the behaviour of the car on the approach to the grid box, to commence an extra formation lap. He stated he was not comfortable starting the race with the car in that position. The team representative stated that: (i) The car was not in a “false start” position – referring to Article B5.1.1c of the F1 regulations, because no contact patch of the front tyres was outside the grid box lines (front and side) (ii) At the Drivers meeting, the Race Director advised that for the start, the track limits were the pit walls and in this case, even though the car was pointed to the right, it had at least 4 metres of space to move off from the start (iii) No other driver was impacted by the position of Car 22 (iv) The driver of Car 22 was not the “cause” of the extra formation lap. (v) At no time was the team advised that Race Control considered Car 22 to be the cause of the extra formation lap. The Stewards agree with the points above and consider that the extra formation lap resulted from the Race Director’s assessment of the situation, rather than being directly caused by the driver of Car 22. Further, Article B5.9.4 goes on to specify that if a driver who causes the extra formation lap and is then able to start the extra formation lap, he must enter the Pit Lane at the end of the lap and start from the Pit Lane. It is only then, if the driver fails to do this, that the mandatory penalty of a Stop and Go penalty is imposed. In other words, the penalty is for failing to come into the Pit Lane and start from there. The penalty is not for causing the extra formation lap, if indeed, he caused the extra formation lap in the first place. A critical issue emerges here, in that in order to comply with the requirement to enter and start from the Pit Lane, a driver would need to know that he was the cause of the extra formation lap. The team representative quoted situations where extra formation laps have been commenced due to extraneous circumstances such as the position of a photographer etc. In this case, no message was sent to the team or the driver, advising them that they were the cause of the extra formation lap. The team, based on the fact that the car was positioned within its starting grid box in compliance with the regulations, had, in our determination, no reason to instruct its driver to enter and start from the Pit Lane. Accordingly, irrespective of whether or not the driver directly caused the extra formation lap, the team and driver were unaware that they were being considered as the cause, therefore we determine that we are unable to impose a Stop and Go penalty in this case, and decide to take no further action. We note that the Race Director acted in good faith and out of an abundance of caution in ordering an extra formation lap. We further note that the FIA might wish to consider implementing a process to advise teams and drivers if they are considered to be the cause of an extra formation lap, so that they are then able to comply with the requirements of Article B5.9.4",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Yuki Tsunoda"
+     }
+    ],
+    "refs": [
+     62,
+     69
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    62
+   ]
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-09-06T18:42",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 5, 6 and 7.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "23": 3,
+     "43": 2,
+     "63": 1,
+     "44": 2,
+     "1": 2,
+     "27": 2,
+     "11": 1,
+     "18": 2,
+     "12": 2,
+     "55": 1,
+     "3": 1,
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     68
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-09-06T18:35",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-09-06T17:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Decision - Car 63 - Alleged failure to slow for yellow flags",
+   "subject": "Decision - Car 63 - Alleged failure to slow for yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_decision_-_car_63_-_alleged_failure_to_slow_for_yellow_flags.pdf",
+   "published": "2026-09-06T17:02",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:17",
+    "session": "Race",
+    "fact": "Allegedly the driver failed to slow for a single yellow flag at Turns 1 and 2.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 b) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry, and in-car video evidence. No yellow flag and no steering wheel light was visible to the driver through the yellow flag sector. A green light panel was visible as the car neared the end of the sector and the telemetry demonstrated that the driver did make a reduction in throttle.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     65
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Infringement - Car 11 - Failure to follow Race Directors Instruction - Turns 1 and 2",
+   "subject": "Infringement - Car 11 - Failure to follow Race Directors Instruction - Turns 1 and 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_11_-_failure_to_follow_race_directors_instruction_-_turns_1_and_2.pdf",
+   "published": "2026-09-06T16:56",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "16:09",
+    "session": "Race",
+    "fact": "The driver failed to follow the Race Director’s Competition Notes at Turns 1 and 2.",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code and non-compliance with Race Director’s Competition Notes (item 25.1, document 48).",
+    "decision": "5 second time penalty.",
+    "reason": "The Stewards reviewed video evidence. Car 11 went off track in Turn 1 and failed to follow the route prescribed in item 25.1 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     48,
+     64
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    48
+   ]
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Decision - Car 30 - Turn 4 Incident with Car 27",
+   "subject": "Decision - Car 30 - Turn 4 Incident with Car 27",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_decision_-_car_30_-_turn_4_incident_with_car_27.pdf",
+   "published": "2026-09-06T16:43",
+   "recalled": false,
+   "cars": [
+    27,
+    30
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "15:53",
+    "session": "Race",
+    "fact": "Car 30 was defending against car 27 on the approach to turn 4 and caused car 27 to have two wheels off the track",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 e) of the International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards noted that the Race Director took the decision to show the Black and White flag to the driver of Car 30.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     63
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Summons - Car 22 - Alleged Start Procedure Infringement",
+   "subject": "Summons - Car 22 - Alleged Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_22_-_alleged_start_procedure_infringement.pdf",
+   "published": "2026-09-06T17:26",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Yuki Tsunoda",
+    "reason": "Alleged breach of Article B5.9.4 of the FIA F1 Regulations – Start Procedure infringement at 15:41.",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Yuki Tsunoda"
+     }
+    ],
+    "refs": [
+     62
+    ]
+   },
+   "related": [
+    69
+   ]
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Infringement - Car 43 - Failure to follow Race Directors Instruction - Practice Start",
+   "subject": "Infringement - Car 43 - Failure to follow Race Directors Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_43_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf",
+   "published": "2026-09-06T16:04",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "14:27",
+    "session": "Reconnaissance Laps",
+    "fact": "The driver failed to follow the Race Directors Instruction – Practice Start",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code and non-compliance with Race Director’s Competition Notes (item 12.6, document 48).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence. The driver performed a practice start then failed to remain in the pit exit road, crossing the white line in breach of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     48,
+     61
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    48
+   ]
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Infringement - Car 11 - Failure to follow Race Directors Instruction - Pit Exit",
+   "subject": "Infringement - Car 11 - Failure to follow Race Directors Instruction - Pit Exit",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_11_-_failure_to_follow_race_directors_instruction_-_pit_exit.pdf",
+   "published": "2026-09-06T16:04",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "14:30",
+    "session": "Reconnaissance Laps",
+    "fact": "The driver failed to follow the Race Directors Instruction for the Pit Exit",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code and non-compliance with Race Director’s Competition Notes (item 12.6, document 48).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 3rd reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence. Car 11 did not perform a practice start and crossed the white line but then re-crossed it back into the pit exit road. This is prohibited under item 12.6 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     48,
+     60
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    48
+   ]
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-09-06T14:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Parts and Parameters been replaced and or changed during Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-09-06T13:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Infringement - Car 30 - Changes made under parc ferme",
+   "subject": "Infringement - Car 30 - Changes made under parc ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_30_-_changes_made_under_parc_ferme.pdf",
+   "published": "2026-09-06T13:01",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "11:36",
+    "session": "Qualifying",
+    "fact": "The rear wing assembly has been changed while under parc fermé without the approval of the Technical Delegate. Changes to the set up of the suspension were also made.",
+    "infringement": "Breaches of Articles B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "Oracle Red Bull Racing changed the rear wing of Car 30 under parc fermé before the start of the Race, without the approval of the Technical Delegate. This is not in accordance with Article B3.5.4 of the FIA F1 Regulations. The suspension set up was also changed. This is not in accordance with Article B3.5.3 Car 30 is therefore required to start the Race from pit lane as per Article B3.5.3a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     54,
+     57
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    54
+   ]
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Infringement - Car 14 - PU elements changed during Parc Ferme",
+   "subject": "Infringement - Car 14 - PU elements changed during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_14_-_pu_elements_changed_during_parc_ferme.pdf",
+   "published": "2026-09-06T12:54",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "11:36",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 6th Energy Store (ES) 6th Control Electronics Unit (PU-CE) 5th MGU-K All listed Power Unit elements were replaced without the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breaches of Article B8.2.2 (read in conjunction with B8.2.3), B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "As parts were replaced under parc ferme conditions without the approval of the Technical Delegate a pit lane start is mandated in accordance with Article B3.5.3.a.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     54,
+     56
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    54
+   ]
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Infringement - Car 23 - Failure to follow Race Directors instructions",
+   "subject": "Infringement - Car 23 - Failure to follow Race Directors instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_23_-_failure_to_follow_race_directors_instructions_.pdf",
+   "published": "2026-09-06T12:06",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "12:41",
+    "session": "Free Practice 3",
+    "fact": "The driver failed to follow the Race Directors Instructions at Turns 4 and 5",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code and non-compliance with Race Director’s Event Note (item 25.2, document 5).",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, and in-car video evidence. The driver did not follow the prescribed path when he went off track at Turns 4 and 5.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     5,
+     55
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    5
+   ]
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Parc Ferme Issues",
+   "subject": "Parc Ferme Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-09-06T12:00",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    56,
+    57
+   ]
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-09-06T20:54",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-09-06T20:54",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-09-05T20:42",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-09-05T20:42",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - FP3 and Qualifying Scrutineering",
+   "subject": "FP3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_fp3_and_qualifying_scrutineering.pdf",
+   "published": "2026-09-05T20:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-09-05T19:34",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    60,
+    61,
+    64
+   ]
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Infringement - Car 81 - Impeding of Car 30",
+   "subject": "Infringement - Car 81 - Impeding of Car 30",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_81_-_impeding_of_car_30.pdf",
+   "published": "2026-09-05T18:27",
+   "recalled": false,
+   "cars": [
+    30,
+    81
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "16:38",
+    "session": "Qualifying",
+    "fact": "Car 81 impeded car 30 at turn 2.",
+    "infringement": "Breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "Drop of 3 grid positions for the next Race in which the driver participates.",
+    "reason": "The Stewards heard from the driver of Car 81 (Oscar Piastri), the driver of Car 30 (Liam Lawson), team representatives and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. On leaving the pits, the driver of Car 81 was advised that “Verstappen, Lawson and Sainz just crossing, Sainz has pitted, Just Verstappen and Lawson, watch out for them as you join”. The driver of Car 81 stated that he was not alerted to the fact that VER and LAW were on push laps but realised as he was almost at turn 1 that VER was on a push lap. He slowed significantly and kept to the right to allow VER to pass but was unable to do anything to avoid impeding LAW who was close behind. The Stewards accept that with the information he had, and the situation he was placed in, the driver of Car 81 had, at this stage, no other options available and hence, inadvertently, and also unnecessarily, impeded Car 30. Therefore the standard penalty of a drop of 3 grid positions is imposed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     42,
+     47
+    ],
+    "tags": [
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    42
+   ]
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Qualifying SC2-SC1 Times",
+   "subject": "Qualifying SC2-SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-09-05T17:28",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Qualifying Deleted Lap Times",
+   "subject": "Qualifying Deleted Lap Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-09-05T17:22",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-09-05T17:17",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Summons - Car 30 - Alleged impeding by Car 81",
+   "subject": "Summons - Car 30 - Alleged impeding by Car 81",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_30_-_alleged_impeding_by_car_81.pdf",
+   "published": "2026-09-05T17:08",
+   "recalled": false,
+   "cars": [
+    30,
+    81
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations - Car 81 allegedly impeding car 30 at turn 2 at 16:38.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     43
+    ]
+   }
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Summons - Car 81 - Alleged impeding of Car 30",
+   "subject": "Summons - Car 81 - Alleged impeding of Car 30",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_81_-_alleged_impeding_of_car_30.pdf",
+   "published": "2026-09-05T17:07",
+   "recalled": false,
+   "cars": [
+    30,
+    81
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations - Car 81 allegedly impeding car 30 at turn 2 at 16:38.",
+    "from": "The Stewards",
+    "competitor": "McLaren Mastercard F1 Team",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     42
+    ]
+   },
+   "related": [
+    47
+   ]
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Infringement - Car 30 - Change to PU elements",
+   "subject": "Infringement - Car 30 - Change to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_30_-_change_to_pu_elements.pdf",
+   "published": "2026-09-05T17:02",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "12:40",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit elements have been used: 6th Engine (ICE) 6th Turbocharger (TC) 6th Exhaust Set (EXH) 4th MGU-K 7th Power Unit Ancillary Component (PU-ANC)",
+    "infringement": "Breach of Article B8.2.2 (in conjunction with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 35 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. In this case, the use of ICE, TC and EXH additional element(s) carries a 5 grid place penalty by virtue of Article B8.2.8b of the FIA F1 Regulations and the use of MGU-K and PU-ANC additional elements carries a 10 grid place penalty by virtue of Article B8.2.8a of the FIA F1 Regulations. Therefore there is an accumulation of 35 places. Subject to Car 30 being classified in the results of Qualifying, Car 30 will be allocated a grid position in the race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     33,
+     41
+    ],
+    "tags": [
+     "35-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    33
+   ]
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Infringement - Car 55 - Failure to slow for double yellow flags",
+   "subject": "Infringement - Car 55 - Failure to slow for double yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_55_-_failure_to_slow_for_double_yellow_flags.pdf",
+   "published": "2026-09-05T16:20",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "13:02",
+    "session": "Free Practice 3",
+    "fact": "Car 55 appeared to fail to slow for double Yellow Flags.",
+    "infringement": "Breach of Article B1.8.4b of the FIA F1 Regulations.",
+    "decision": "No penalty is applied.",
+    "reason": "The Stewards heard from the driver of Car 55 (Carlos Sainz), team representative and reviewed positioning/marshalling system data, video, telemetry and in-car video evidence. The driver was not shown a yellow flag nor were yellow lights displayed to him, however a green light panel was visible for a very short period of time. The driver stated that as he was exiting the corner he noticed the yellow light on his steering wheel and instinctively lifted off the accelerator. This was verified by the telemetry. Whilst the lift occurred slightly past the yellow flag zone, the Stewards noted the intention of the driver and also noted that the driver was looking at the apex and had a very short period of time to react. In view of these mitigating circumstances the Stewards therefore decide to impose no penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     36,
+     40
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Infringement - Car 23 - Failure to slow for double yellow flags",
+   "subject": "Infringement - Car 23 - Failure to slow for double yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_23_-_failure_to_slow_for_double_yellow_flags.pdf",
+   "published": "2026-09-05T16:20",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "13:02",
+    "session": "Free Practice 3",
+    "fact": "The driver of Car 23 failed to slow for double Yellow Flags.",
+    "infringement": "Breach of Article B1.8.4b of the FIA F1 Regulations.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 2nd reprimand of the season.",
+    "reason": "The Stewards heard from the driver of Car 23 (Alexander Albon), team representative and reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. The driver was not shown the yellow flag nor were yellow lights displayed to him however a green light panel denoting the end of a yellow flag zone was visible to him, albeit for a very short time (less than 2 seconds). The Stewards accept as mitigation, the fact that the driver was looking at the apex and had a very short amount of time to react to the green light however technically this is a breach of the regulations. The penalty guidelines for a breach during Free Practice is a drop of 10 grid positions however the mitigating circumstances dictate that a lower penalty be applied in this case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     35,
+     39
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    35
+   ]
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Infringement - Free Practice 3 Deleted Lap Times - Yellow Flags",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times - Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times_-_yellow_flags.pdf",
+   "published": "2026-09-05T15:17",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 1,
+     "16": 1,
+     "44": 1,
+     "55": 2,
+     "31": 1,
+     "23": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     5,
+     38
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    5
+   ]
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-09-05T15:17",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 cars below did not use the track at turns 1, 4, 5, 6, 7, 9 and 11.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "43": 1,
+     "23": 1,
+     "55": 1,
+     "30": 2,
+     "18": 2,
+     "16": 1,
+     "44": 2,
+     "81": 1,
+     "1": 1,
+     "3": 1,
+     "11": 2,
+     "12": 2,
+     "14": 1,
+     "63": 1,
+     "5": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     37
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Summons - Car 55 - alleged failure to slow for yellow flags",
+   "subject": "Summons - Car 55 - alleged failure to slow for yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_55_-_alleged_failure_to_slow_for_yellow_flags.pdf",
+   "published": "2026-09-05T15:35",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "reason": "Alleged breach of Article B1.8.4b of the FIA F1 Regulations, failure to slow for yellow flags.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     36
+    ]
+   },
+   "related": [
+    40
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Summons - Car 23 - alleged failure to slow for yellow flags",
+   "subject": "Summons - Car 23 - alleged failure to slow for yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_23_-_alleged_failure_to_slow_for_yellow_flags.pdf",
+   "published": "2026-09-05T15:35",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "reason": "Alleged breach of Article B1.8.4b of the FIA F1 Regulations, failure to slow for yellow flags",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     35
+    ]
+   },
+   "related": [
+    39
+   ]
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-09-05T13:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
+   "published": "2026-09-05T15:37",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    41
+   ]
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Infringement - Car 25 - Technical Non-Conformity (CDS)",
+   "subject": "Infringement - Car 25 - Technical Non-Conformity (CDS)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_25_-_technical_non-conformity_cds.pdf",
+   "published": "2026-09-05T17:52",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "25 - Colton Herta",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "12:47",
+    "session": "Free Practice 1",
+    "fact": "The Clutch Disengagement System (“CDS”) did not function when the car stopped on the track.",
+    "infringement": "Breach of Article C9.3 of the FIA F1 Regulations.",
+    "decision": "The competitor (Cadillac F1 Team) is fined €30,000, €25,000 of which is suspended for a period of 12 months subject to no further breaches of this regulation.",
+    "reason": "The Stewards heard from the team Sporting Director and team Head of Reliability, and the FIA Technical Delegate and FIA F1 Electronics Engineer. The team presented detailed schematics of how the CDS system was designed and installed. The Stewards were satisfied that the system was designed to operate independently of the car’s other systems, as required by the regulations. The team demonstrated to the Stewards’ satisfaction, that the system had been checked and tested on the day prior to the commencement of competition. However the operation of the CDS when the car’s electronic system is turned off (“P0 mode”) depends on a lithium battery provided by a third party supplier. The team was able to demonstrate, again to the Stewards’ satisfaction, that one of the four cells in this battery had failed. This in turn caused the CDS to be inoperable and hence when the car came to a halt, it could not be easily pushed from the circuit, resulting in the display of a red flag. The team stated that as a result of the incident it would firstly obtain from the battery supplier, information as to the expected maximum battery life, and would instigate daily or pre-session checks, plus a replacement battery programme to ensure the likelihood of future failures was minimized. The FIA Regulations state: “This system must be in working order throughout the Competition even if the main hydraulic, pneumatic or electrical systems on the car have failed.” The Stewards accept that the team has been completely transparent in its disclosures and that the plan outlined above is a reasonable approach. However a breach of the regulation has occurred, and although the reason for this can be attributed to the failure of a third party supplied part, overall responsibly for compliance still rests with the team and accordingly a penalty is imposed. The Stewards note that this is the third reported failure of a CDS this season. Again, this failure resulted in a red flag being displayed which had sporting consequences. Although in this case the Stewards have decided to impose a monetary penalty, Competitors are advised that because the CDS is a critical component and designed to facilitate the safe and quick removal of a car from the circuit, future failures may incur not only monetary penalties but sporting penalties as well.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 55000
+   }
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-09-05T11:30",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - P1 and P2 Scrutineering",
+   "subject": "P1 and P2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_p1_and_p2_scrutineering.pdf",
+   "published": "2026-09-04T19:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Hearing Adjournment - Car 25 - Alleged Technical non-compliance (CDS)",
+   "subject": "Hearing Adjournment - Car 25 - Alleged Technical non-compliance (CDS)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_hearing_adjournment_-_car_25_-_alleged_technical_non-compliance_cds.pdf",
+   "published": "2026-09-04T19:21",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Hearing",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards wish to advise that the Hearing into the alleged breach of Article C9.3 of the FIA F1 Regulations by Car 25 has been adjourned until 1030 hrs Saturday, 5 September, in order to give the team additional time to collect and present evidence. Garry Connelly                                    Mathieu Remmerie Vitantonio Liuzzi                                 Iacopo Arcangeli",
+    "refs": [
+     29
+    ]
+   }
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Infringement - Car 18 - Impeding of Car 1",
+   "subject": "Infringement - Car 18 - Impeding of Car 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_18_-_impeding_of_car_1.pdf",
+   "published": "2026-09-04T19:29",
+   "recalled": false,
+   "cars": [
+    1,
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "16:12",
+    "session": "Free Practice 2",
+    "fact": "Car 18 impeded Car 1 prior to turn 1.",
+    "infringement": "Breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "Competitor: Warning. Driver: Warning.",
+    "reason": "The Stewards heard from the driver of Car 18 (Lance Stroll), team representative and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The team representative advised that its analysis of Car 1 indicated that it was on a cool down lap. This transpired to be only partially correct as the driver of Car 1 kept a competitive pace into turn 1. Car 18 unnecessarily impeded Car 1 and accordingly this is a breach of the regulations. Due to the potentially dangerous situation because of the high speed delta, a formal warning is imposed on both the team and the driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     21,
+     28
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    21
+   ]
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Infringement - Car 12 - Pit lane speeding",
+   "subject": "Infringement - Car 12 - Pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_12_-_pit_lane_speeding.pdf",
+   "published": "2026-09-04T18:22",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:58",
+    "session": "Free Practice 2",
+    "fact": "Pit lane speeding – 80.1 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Mercedes-AMG PETRONAS F1 Team) is fined €100.",
+    "reason": "Car 12 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.1 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     27
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   }
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-09-04T18:04",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Infringement - Free Practice 1 Deleted Lap Times (Corrected)",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times (Corrected)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_corrected.pdf",
+   "published": "2026-09-04T17:55",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 4, 5 and 7.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "46": 4,
+     "41": 4,
+     "44": 4,
+     "12": 2,
+     "1": 1,
+     "55": 2,
+     "22": 1,
+     "87": 1,
+     "81": 1,
+     "27": 1,
+     "14": 1
+    },
+    "drivers": [
+     {
+      "car": 46,
+      "name": "Luke Browning"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 22,
+      "name": "Yuki Tsunoda"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     25
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-09-04T17:40",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 cars below did not use the track at turns 1, 4, 5, 6 and 10.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "18": 3,
+     "23": 2,
+     "16": 2,
+     "1": 2,
+     "5": 2,
+     "10": 1,
+     "44": 2,
+     "43": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     24
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-09-04T17:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Summons - Car 25 - Alleged Technical non-compliance - CDS",
+   "subject": "Summons - Car 25 - Alleged Technical non-compliance - CDS",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_25_-_alleged_technical_non-compliance_-_cds.pdf",
+   "published": "2026-09-04T17:11",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "25 - Colton Herta",
+    "reason": "Alleged breach of Article C9.3 of the FIA F1 Regulations",
+    "from": "The Stewards",
+    "competitor": "Cadillac Formula 1 Team",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     22
+    ]
+   }
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Summons - Car 18 - Alleged impeding",
+   "subject": "Summons - Car 18 - Alleged impeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_18_-_alleged_impeding.pdf",
+   "published": "2026-09-04T17:11",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 18 allegedly impeding Car 1 prior to turn 1 at 16:12.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     21
+    ]
+   },
+   "related": [
+    28
+   ]
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Car 23 - Changes to PU elements",
+   "subject": "Infringement - Car 23 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_23_-_changes_to_pu_elements.pdf",
+   "published": "2026-09-04T17:11",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "12:32",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 4th Control Electronics Unit (PU-CE)",
+    "infringement": "Breaches of Articles B8.2.2 (read in conjunction with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 20 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 20 places. Subject to Car 23 being classified in the results of Qualifying, Car 23 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     13,
+     20
+    ],
+    "tags": [
+     "20-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Infringement - Car 12 - Changes to PU elements",
+   "subject": "Infringement - Car 12 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_12_-_changes_to_pu_elements.pdf",
+   "published": "2026-09-04T17:10",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "12:32",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE)",
+    "infringement": "Breaches of Article B8.2.2 (read in conjunction with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 30 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 30 places. Subject to Car 12 being classified in the results of Qualifying, Car 12 will be allocated a grid position in the race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     13,
+     19
+    ],
+    "tags": [
+     "30-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-09-04T16:07",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Car 25; CDS not functioning when car stopped on the track",
+   "subject": "Car 25; CDS not functioning when car stopped on the track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_car_25_cds_not_functioning_when_car_stopped_on_the_track.pdf",
+   "published": "2026-09-04T15:57",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Report",
+   "details": {
+    "from": "The FIA Formula 1 Technical Delegate",
+    "summary": "Technical Delegate’s Report When car 25 stopped on the track during FP1, the marchals pressed the CDS button at 12:47. But it turned out that the CDS was not working as required by the F1 Regulations, Article C9.3. I am referring this matter to the Stewards for their consideration Jo Bauer",
+    "refs": [
+     17
+    ]
+   }
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-09-04T15:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "16": 1,
+     "22": 1,
+     "31": 1,
+     "1": 1,
+     "77": 1,
+     "87": 1,
+     "43": 1,
+     "41": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 22,
+      "name": "Yuki Tsunoda"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     5,
+     16
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    5
+   ]
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-09-04T14:30",
+   "recalled": true,
+   "cars": [],
+   "type": "Infringement"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-09-04T13:53",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-09-04T12:48",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    19,
+    20
+   ]
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_entry_list.pdf",
+   "published": "2026-09-04T10:41",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-09-04T10:41",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-09-04T09:58",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - PU Elements used per Driver up to now",
+   "subject": "PU Elements used per Driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-09-04T10:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-09-03T20:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-09-03T18:27",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-09-03T17:04",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-09-03T17:02",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 48,
+   "related": [
+    16,
+    38,
+    55
+   ]
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Heat Hazard Declaration",
+   "subject": "Heat Hazard Declaration",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_heat_hazard_declaration.pdf",
+   "published": "2026-09-03T08:24",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-09-02T16:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Post-Race Checks on Car Number 10, 2026 Dutch GP",
+   "subject": "Post-Race Checks on Car Number 10, 2026 Dutch GP",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_post-race_checks_on_car_number_10_2026_dutch_gp.pdf",
+   "published": "2026-09-02T15:58",
+   "recalled": false,
+   "cars": [
+    10
+   ]
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_competition_visa.pdf",
+   "published": "2026-09-02T16:01",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

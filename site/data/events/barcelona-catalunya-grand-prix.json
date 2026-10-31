@@ -1,0 +1,1453 @@
+{
+ "event": {
+  "slug": "barcelona-catalunya-grand-prix",
+  "name": "Barcelona-Catalunya Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Barcelona-Catalunya%20Grand%20Prix",
+  "doc_count": 70,
+  "first_published": "2026-06-10T15:17",
+  "last_published": "2026-06-14T20:10",
+  "counts": {
+   "results": 12,
+   "stewards": 26,
+   "technical": 15,
+   "race_director": 12,
+   "admin": 5
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 70,
+   "title": "Doc 70 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_championship_points.pdf",
+   "published": "2026-06-14T20:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": null,
+   "published": "2026-06-14T19:50",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-06-14T19:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Infringement - Car 12 - Leaving the track without a justifiable reason multiple times",
+   "subject": "Infringement - Car 12 - Leaving the track without a justifiable reason multiple times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_12_-_leaving_the_track_without_a_justifiable_reason_multiple_times.pdf",
+   "published": "2026-06-14T19:22",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "15:16",
+    "session": "Race",
+    "fact": "Car 12 left the track four times during the race.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 c) of the International Sporting Code.",
+    "decision": "5 second time penalty imposed after the Race.",
+    "reason": "The Stewards reviewed video evidence. The car left the track four times during the race without justifiable reason. The Stewards acknowledge that the driver did not receive a black/white flag after his third infringement but rather after his fourth infringement as one earlier infringement was only detected later in the race. However, based on the current regulations and Driving Standards Guidelines, this does not exempt the driver from complying with the regulations. As there might be some ambiguity in the relevant guidelines, the Stewards recommend the FIA revisit the current procedures and guidelines as soon as possible.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     67
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - Infringement - Car 12 - Leaving the track without a justifiable reason",
+   "subject": "Infringement - Car 12 - Leaving the track without a justifiable reason",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_12_-_leaving_the_track_without_a_justifiable_reason.pdf",
+   "published": "2026-06-14T19:15",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turn 10",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     66
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-06-14T19:08",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Infringement - Car 55 - Start Procedure Infringement",
+   "subject": "Infringement - Car 55 - Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_55_-_start_procedure_infringement.pdf",
+   "published": "2026-06-14T19:08",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "14:59",
+    "session": "Race",
+    "fact": "The Mechanics of Car 55 left equipment on the grass area next to the grid after the 15 second signal.",
+    "infringement": "Breach of Article B5.5.5.a of the FIA F1 Regulations.",
+    "decision": "The competitor (Atlassian Williams F1 Team) is fined €5,000.",
+    "reason": "The Stewards heard from the team representative, reviewed video evidence and a marshal report. The team left a black plastic box on the grass area next to the grid and thereby did not take all of their equipment with them after the 15 second signal.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     56,
+     64
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    56
+   ]
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Infringement - Car 23 - Start Procedure Infringement",
+   "subject": "Infringement - Car 23 - Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_23_-_start_procedure_infringement.pdf",
+   "published": "2026-06-14T19:07",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "14:59",
+    "session": "Race",
+    "fact": "Car 23 started the formation lap with parts of a tyre blanket still on the car.",
+    "infringement": "Breach of Article B5.5.5.a of the FIA F1 Regulations.",
+    "decision": "The competitor (Atlassian Williams F1 Team) is fined €5,000",
+    "reason": "The Stewards heard from the team representative and reviewed video evidence. When Car 23 was released from its jacks before the start of the formation lap parts of the right front tyre blanket got caught under the car. Although the team tried to remove the parts before the start of the formation lap, these attempts were unsuccessful and car left with a cable still hanging off the car and the team thereby did not take all of their equipment with them after the 15 second signal.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     55,
+     63
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    55
+   ]
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Infringement - Car 43 - Failing to slow for yellow flags",
+   "subject": "Infringement - Car 43 - Failing to slow for yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_43_-_failing_to_slow_for_yellow_flags.pdf",
+   "published": "2026-06-14T19:06",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "15:38",
+    "session": "Race",
+    "fact": "Car 43 failed to slow for a single yellow flag",
+    "infringement": "Breach of Article B1.8.4 a. of the FIA F1 Regulations.",
+    "decision": "10 second time penalty imposed after the Race. 1 penalty point (total of 2 for the 12 month period).",
+    "reason": "The Stewards heard from the driver of Car 43 (Franco Colapinto), team representative and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The Stewards determine that, albeit the driver of Car 43 slightly reduced speed before entering the single yellow flag zone, but did not discernibly reduce speed in the relevant yellow flag sector. The Stewards acknowledge that the driver reacted to the yellow flag but do not consider the reaction to be sufficient to comply with the regulations. Therefore a penalty on the lower end of the applicable scale of penalties is imposed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     59,
+     62
+    ],
+    "tags": [
+     "10s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    59
+   ]
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-06-14T18:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 2, 4, 10, 13 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "10": 2,
+     "12": 3,
+     "43": 2,
+     "23": 2,
+     "30": 2,
+     "81": 1,
+     "16": 1
+    },
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     61
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-06-14T16:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Summons - Car 43 - Alleged Yellow Flag Infringement",
+   "subject": "Summons - Car 43 - Alleged Yellow Flag Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_summons_-_car_43_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-06-14T17:14",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "reason": "Alleged breach Article B1.8.4 a. of the FIA F1 Regulations – Allegedly failing to slow for a single yellow flag at 15:38.",
+    "from": "The Stewards",
+    "competitor": "BWT Alpine F1 Team",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     59
+    ]
+   },
+   "related": [
+    62
+   ]
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Decision - Car 41 - Alleged leaving the track and gaining an advantage",
+   "subject": "Decision - Car 41 - Alleged leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_decision_-_car_41_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-06-14T17:14",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "15:03",
+    "session": "Race",
+    "fact": "Car 41 allegedly left the track and gained an advantage in Turn 2",
+    "infringement": "Alleged breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video evidence. Cars 41, 27 and 43 were alongside each other going into turn 1 after the race start. Car 41 left the track and rejoined ahead of Cars 27 and 43, subsequently giving back a position to Car 27. The Stewards considered the positioning of the cars before entering turn 1 (i.e. the braking point) and the circumstances under which the cars left the track. They also took into account that the incident happened in lap 1, turn 1. The Stewards determine that no lasting advantage has been gained by Car 41 and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     58
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Decision - Car 27 - Alleged leaving the track and gaining an advantage",
+   "subject": "Decision - Car 27 - Alleged leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_decision_-_car_27_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-06-14T17:13",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "15:03",
+    "session": "Race",
+    "fact": "Car 27 allegedly left the track and gained an advantage in Turn 2",
+    "infringement": "Alleged breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The Stewards reviewed video evidence. Cars 41, 27 and 43 were alongside each other going into turn 1 after the race start. Car 27 left the track and rejoined behind Car 41 and ahead of Car 43. The Stewards considered the positioning of the cars before entering turn 1 (i.e. the braking point) and the circumstances under which the cars left the track. They also took into account that the incident happened in lap 1, turn 1. The Stewards determine that no lasting advantage has been gained by Car 27 and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     57
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   }
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Summons - Car 55 - Start Procedure Infringement",
+   "subject": "Summons - Car 55 - Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_summons_-_car_55_-_start_procedure_infringement_.pdf",
+   "published": "2026-06-14T16:46",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "reason": "Alleged breach of Article B5.5.5 of the FIA F1 Regulations",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     56
+    ]
+   },
+   "related": [
+    64
+   ]
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Summons - Car 23 - Start Procedure Infringement",
+   "subject": "Summons - Car 23 - Start Procedure Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_summons_-_car_23_-_start_procedure_infringement_.pdf",
+   "published": "2026-06-14T16:45",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "reason": "Alleged breach of Article B5.5.5 of the FIA F1 Regulations",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     55
+    ]
+   },
+   "related": [
+    63
+   ]
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-06-14T14:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Parts and Parameters been replaced and or changed during Parc Fermé",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Fermé",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-06-14T13:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Infringement - Car 14 - PU elements and changes used during Parc Ferme",
+   "subject": "Infringement - Car 14 - PU elements and changes used during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_14_-_pu_elements_and_changes_used_during_parc_ferme.pdf",
+   "published": "2026-06-14T12:56",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "11:15",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE) 4th MGU-K All Power Unit elements were replaced without the approval of the FIA Technical Delegate during Parc fermé.",
+    "infringement": "Breaches of Article B8.2.2 (read with B8.2.3), B3.5.3 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "The penalty is imposed in accordance with Article B3.5.3 a. and B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 30 places. Article B2.5.4b.iv of the FIA F1 Regulations provides that a driver which has accrued more than 15 cumulative grid position penalties must start from the back of the grid. As parts of the car were replaced under parc ferme conditions without the approval of the Technical Delegate a pit lane start is mandated in accordance with Article B3.5.3 a.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     50,
+     52
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    50
+   ]
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Race Director's Competition Notes V3",
+   "subject": "Race Director's Competition Notes V3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_directors_competition_notes_v3.pdf",
+   "published": "2026-06-14T11:44",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Parc Fermé Issues",
+   "subject": "Parc Fermé Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-06-14T11:17",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    52
+   ]
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-06-14T10:18",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-06-14T10:17",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-06-13T19:35",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Provisional Sprint Starting Grid",
+   "subject": "Provisional Sprint Starting Grid",
+   "category": "results",
+   "url": null,
+   "published": "2026-06-13T19:27",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-06-13T19:22",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-06-13T19:09",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-06-13T17:35",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below exceeded the 1:29.0 time limit between the Safety Car lines. No. Car      Driver                   Competitor                                            Time of Day Lap Time 1   55       Carlos Sainz             Atlassian Williams F1 Team                            16:08:40    L5 (Q1) 2      23    Alexander Albon          Atlassian Williams F1 Team                            16:08:47          L5 (Q1) 3      81    Oscar Piastri            McLaren Mastercard F1 Team                            16:09:05          L2 (Q1) 4      31    Esteban Ocon             TGR Haas F1 Team                                      16:09:19          L5 (Q1) 5      77    Valtteri Bottas          Cadillac Formula 1 Team                               16:09:24          L5 (Q1) 6      18    Lance Stroll             Aston Martin Aramco F1 Team                           16:09:35          L5 (Q1) 7      63    George Russell           Mercedes-AMG PETRONAS F1 Team                         16:10:50          L4 (Q1) 8      18    Lance Stroll             Aston Martin Aramco F1 Team                           16:15:54          L7 (Q1) 9      27    Nico Hulkenberg          Audi Revolut F1 Team                                  16:16:02          L5 (Q1) 10     43    Franco Colapinto         BWT Alpine F1 Team                                    16:32:30          L10 (Q2)",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 9).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:29.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "refs": [
+     9,
+     43
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    9
+   ]
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-06-13T17:31",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 cars below did not use the track at turns 2, 9 and 10.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "55": 1,
+     "23": 1,
+     "18": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-06-13T17:25",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Infringement - Car 16 - Impeding of Car 27",
+   "subject": "Infringement - Car 16 - Impeding of Car 27",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_16_-_impeding_of_car_27.pdf",
+   "published": "2026-06-13T15:38",
+   "recalled": false,
+   "cars": [
+    16,
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "13:25",
+    "session": "Free Practice 3",
+    "fact": "Car 16 impeded Car 27 in Turn 5",
+    "infringement": "Breach of Article B4.1.1 of the FIA F1 Regulations.",
+    "decision": "Driver: Warning. Competitor: Warning.",
+    "reason": "The Stewards heard from the driver of Car 16 (Charles Leclerc), team representative and reviewed video, team radio and in-car video evidence. Car 27 was closing in on Car 16 while being on an in lap. Car 16 was passing Car 44 at a slow speed when Car 27 was approaching and thereby slightly impeded Car 27. There was no warning to the driver from the team. The team representative explained during the hearing that such warning will just be given to the driver when a car on a push lap is approaching.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     36,
+     40
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Infringement - Car 12 - Driving erratically",
+   "subject": "Infringement - Car 12 - Driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_12_-_driving_erratically.pdf",
+   "published": "2026-06-13T14:36",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "13:24",
+    "session": "Free Practice 3",
+    "fact": "Car 12 was driving in an erratic manner in turn 2.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 e) of the International Sporting Code.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards heard from the driver of Car 12 (Kimi Antonelli) and team representatives of Mercedes and Aston Martin and reviewed video, telemetry and in- car video evidence. Car 12 was impacted by Car 18 when approaching turn 1. After passing Car 18 the driver of Car 12 applied the brakes in front of Car 18 and prevented the latter from passing. This is deemed driving in an erratic manner. The driver admitted during the hearing that he acted out of frustration and apologized for his action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     39
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   }
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-06-13T14:18",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 cars below did not use the track at turns 2, 9, 10 and 13.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "11": 1,
+     "23": 1,
+     "10": 1,
+     "6": 1,
+     "5": 1,
+     "18": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     38
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-06-13T13:55",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Summons - Car 16 - Alleged incident with Car 27 at turn 5",
+   "subject": "Summons - Car 16 - Alleged incident with Car 27 at turn 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_summons_-_car_16_-_alleged_incident_with_car_27_at_turn_5.pdf",
+   "published": "2026-06-13T13:52",
+   "recalled": false,
+   "cars": [
+    16,
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "reason": "Alleged breach of Article B4.1.1 of the FIA F1 Regulations – Car 16 allegedly impeding Car 27 in turn 5 at 13:25.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     36
+    ]
+   },
+   "related": [
+    40
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Summons - Car 18 - Incident with Car 12 in Turn 2",
+   "subject": "Summons - Car 18 - Incident with Car 12 in Turn 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_summons_-_car_18_-_incident_with_car_12_in_turn_2.pdf",
+   "published": "2026-06-13T13:51",
+   "recalled": false,
+   "cars": [
+    12,
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 e) of the International Sporting Code – Alleged erratic driving by Car 12 in Turn 2 at 13:24.",
+    "from": "The Stewards",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     35
+    ]
+   }
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Summons - Car 12 - Alleged driving erratically",
+   "subject": "Summons - Car 12 - Alleged driving erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_summons_-_car_12_-_alleged_driving_erratically.pdf",
+   "published": "2026-06-13T13:51",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 e) of the International Sporting Code – Alleged erratic driving by Car 12 in Turn 2 at 13:24.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     34
+    ]
+   }
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Infringement - Car 18 - Pit Lane Speeding",
+   "subject": "Infringement - Car 18 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_18_-_pit_lane_speeding.pdf",
+   "published": "2026-06-13T13:41",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "13:16",
+    "session": "Free Practice 3",
+    "fact": "Pit lane speeding – 85.9 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Aston Martin Aramco F1 Team) is fined €600.",
+    "reason": "Car 18 exceeded the pit lane speed limit which is set at 80 km/h for this event by 5.9 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     33
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 600
+   }
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
+   "published": "2026-06-13T12:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Power Unit Information V2",
+   "subject": "Power Unit Information V2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_power_unit_information_v2.pdf",
+   "published": "2026-06-13T11:12",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-06-13T10:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": null,
+   "published": "2026-06-13T09:45",
+   "recalled": true,
+   "cars": []
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_curfew.pdf",
+   "published": "2026-06-13T09:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Competition Notes - Pirelli Preview V2",
+   "subject": "Competition Notes - Pirelli Preview V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_competition_notes_-_pirelli_preview_v2.pdf",
+   "published": "2026-06-13T08:42",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - FP1 and FP2 Scrutineering",
+   "subject": "FP1 and FP2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_fp1_and_fp2_scrutineering.pdf",
+   "published": "2026-06-12T19:22",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-06-12T18:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-06-12T18:28",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-06-12T18:23",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 cars below did not use the track at turns 2, 3, 9, 10 and 13. No. Turn       Car Driver                     Competitor                                       Time of Day Lap Time 1   3          63 George Russell              Mercedes-AMG PETRONAS F1 Team                    17:09:26    2:02.240 2      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:11:35         PIT 3      9       18      Lance Stroll           Aston Martin Aramco F1 Team                      17:32:20         PIT 4      2       63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:31:51         PIT 5      2       14      Fernando Alonso        Aston Martin Aramco F1 Team                      17:33:44         PIT 6      10      6       Isack Hadjar           Oracle Red Bull Racing                           17:42:54         1:22.059 7      10      63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:53:02         PIT 8      13      10      Pierre Gasly           BWT Alpine F1 Team                               17:52:59         1:25.456 9      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:54:29         PIT",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-06-12T18:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Infringement - Car 11 - Pit Lane Speeding",
+   "subject": "Infringement - Car 11 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_11_-_pit_lane_speeding.pdf",
+   "published": "2026-06-12T18:26",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "18:05",
+    "session": "Free Practice 2",
+    "fact": "Pit lane speeding – 84.4 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Cadillac Formula 1 Team) is fined €500.",
+    "reason": "Car 11 exceeded the pit lane speed limit which is set at 80 km/h for this event by 4.4 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     21
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   }
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Car 77 - Pit Lane Speeding",
+   "subject": "Infringement - Car 77 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_77_-_pit_lane_speeding.pdf",
+   "published": "2026-06-12T18:11",
+   "recalled": false,
+   "cars": [
+    77
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "17:43",
+    "session": "Free Practice 2",
+    "fact": "Pit lane speeding – 80.5 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Cadillac Formula 1 Team) is fined €100.",
+    "reason": "Car 77 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.5 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   }
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Infringement - Car 14 - Pit exit incident",
+   "subject": "Infringement - Car 14 - Pit exit incident",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_14_-_pit_exit_incident.pdf",
+   "published": "2026-06-12T18:02",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "17:30",
+    "session": "Free Practice 2",
+    "fact": "Car 14 crossed the white line at the pit exit.",
+    "infringement": "Breach of Appendix L, Chapter IV Article 6 c) of the International Sporting Code.",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards reviewed video evidence. The outside edge of the left front wheel crossed the white line at pit exit.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   }
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-06-12T17:02",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-06-12T15:53",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 8 and 9. No. Turn       Car Driver                      Competitor                    Time of Day Lap Time 1   1          72 Frederik Vesti               Mercedes-AMG PETRONAS F1 Team 13:44:33    PIT 2      9       77      Valtteri Bottas         Cadillac Formula 1 Team                        13:44:59         1:21.196 3      8       5       Gabriel Bortoleto       Audi Revolut F1 Team                           13:59:55         PIT 4      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:13:41         PIT 5      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:24:26         1:22.802",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-06-12T14:47",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-06-12T14:21",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-06-12T11:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_entry_list.pdf",
+   "published": "2026-06-12T10:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-06-12T10:40",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - PU elements used per driver up to now",
+   "subject": "PU elements used per driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-06-12T11:47",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Timetable V3",
+   "subject": "Timetable V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_timetable_v3.pdf",
+   "published": "2026-06-11T18:23",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 25
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-06-11T18:12",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 51,
+   "related": [
+    43
+   ]
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
+   "published": "2026-06-11T17:59",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-06-11T17:48",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-06-11T17:42",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 51
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-06-11T16:32",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 31
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Post-Race Checks on Car 27, Monaco GP 2026",
+   "subject": "Post-Race Checks on Car 27, Monaco GP 2026",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_post-race_checks_on_car_27_monaco_gp_2026.pdf",
+   "published": "2026-06-10T17:37",
+   "recalled": false,
+   "cars": [
+    27
+   ]
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-06-10T17:07",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 27
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Timetable V2",
+   "subject": "Timetable V2",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_timetable_v2.pdf",
+   "published": "2026-06-10T15:19",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 25
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_competition_visa.pdf",
+   "published": "2026-06-10T15:17",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}

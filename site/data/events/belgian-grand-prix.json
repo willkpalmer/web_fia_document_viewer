@@ -1,0 +1,1723 @@
+{
+ "event": {
+  "slug": "belgian-grand-prix",
+  "name": "Belgian Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Belgian%20Grand%20Prix",
+  "doc_count": 64,
+  "first_published": "2026-07-15T16:11",
+  "last_published": "2026-07-19T19:20",
+  "counts": {
+   "results": 10,
+   "stewards": 32,
+   "technical": 12,
+   "race_director": 7,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 66,
+   "title": "Doc 66 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_championship_points.pdf",
+   "published": "2026-07-19T19:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-07-19T19:15",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Infringement - Car 23 - Car Safety Lights",
+   "subject": "Infringement - Car 23 - Car Safety Lights",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_23_-_car_safety_lights_.pdf",
+   "published": "2026-07-19T19:09",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "14:22",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 23 left the pit lane during the reconnaissance laps without functioning rear lights",
+    "infringement": "Breach of Article B1.5.5 of the FIA F1 Regulations.",
+    "decision": "Competitor: Reprimand.",
+    "reason": "The Stewards reviewed video of Car 23 traversing the pit lane during the reconnaissance laps which confirmed that the rear lights on Car 23 were not illuminated as required by Article B1.5.5 of the FIA F1 Regulations. The Technical Delegate subsequently confirmed that the team had rectified the issue prior to the start of the Race. However, as a functioning rear light is an essential safety device, the Stewards see no basis to refrain from imposing a penalty. All competitors are reminded of the importance of ensuring that this safety system is checked thoroughly and maintained in proper working order at all times.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     64
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   }
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Infringement - Ferrari - Unsafe Release of Car 44",
+   "subject": "Infringement - Ferrari - Unsafe Release of Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_ferrari_-_unsafe_release_of_car_44.pdf",
+   "published": "2026-07-19T18:50",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "15:45",
+    "session": "Race",
+    "fact": "Unsafe release of car 44 from a pit stop.",
+    "infringement": "Breach of Article B1.6.2a of the FIA F1 Regulations.",
+    "decision": "The competitor (Scuderia Ferrari HP) is fined €30,000 of which €10,000 is suspended for 12 months on condition that the Competitor does not commit a similar infringement in the meantime and on the further condition that within 14 days the Competitor submits a report to the FIA regarding the incident and protocols introduced to mitigate the risk of such an incident occurring in the future.",
+    "reason": "The Stewards heard from the team representative and reviewed video evidence. As Car 44 was being released from its pit stop, a mechanic stepped in the path of the front right tyre as the F1 Car moved forward. He fell but was not injured. The team explained the incident occurred in the context of a complex and unusual combination of circumstances. HAM had been issued a 5 second time penalty for a driving infringement which had to be served before work could commence on the F1 Car. LEC was in his pit box at the point HAM entered the pit lane. HAM told his engineer that he wanted a front wing adjustment but that was not conveyed to the super controller. HAM came into his pit box, served the time penalty and at the end of the 5 seconds one member of the team announced “Go” and then “0.6 degrees”, the former being an instruction to commence the pit stop and the latter being an instruction for a wing adjustment. The tyre change was completed, the jack-man dropped the F1 Car and the super controller activated the green light signal for Car 44 to move off. Just as the driver moved off, another mechanic with a front wing tool moved forward into the path of the front right tyre. Before he stepped forward he had his head down looking at the tool and did not see the green light. The team acknowledged that for Car 44 to have been released in these circumstances was unsafe and attributed the error to an inappropriately late instruction for the wing adjustment, a lack of clear communication and the mechanic’s failure to notice the green light. The team committed to undertaking a review of their pit stop procedures to ensure an incident such as this will not be repeated. The Stewards determined that the driver was in no respect at fault. Indeed, the driver realised what had occurred as soon as he commenced to move off and immediately stopped until the mechanic was clear. Far from resulting in a sporting advantage, the incident brought about a sporting disadvantage for Car 44 which was delayed in its pit stop. In the circumstances, the incident did not justify a sporting penalty but did justify a significant fine on the Competitor given that procedural failures of this nature prejudice the safety of mechanics. The Stewards took into account the unusual combination of circumstances which contributed to the confusion within the team – circumstances which would not be in the usual contemplation of the team. For this reason, the Stewards determined to suspend part of the fine but on condition that the team conduct a review of their procedures and submit a report to the FIA outlining remedial steps to be taken.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     59,
+     63
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 40000
+   },
+   "related": [
+    59
+   ]
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-07-19T18:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-07-19T17:25",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 cars below did not use the track at turns 4, 6 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "55": 1,
+     "11": 1,
+     "14": 1,
+     "12": 2,
+     "44": 1,
+     "30": 1,
+     "6": 1,
+     "5": 1
+    },
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     61
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-07-19T16:45",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Decision - Car 16 - Collision with Car 81 in turn 5",
+   "subject": "Decision - Car 16 - Collision with Car 81 in turn 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_decision_-_car_16_-_collision_with_car_81_in_turn_5.pdf",
+   "published": "2026-07-19T16:21",
+   "recalled": false,
+   "cars": [
+    16,
+    81
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "15:20",
+    "session": "Race",
+    "fact": "Collision with Car 81 in turn 5.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "No further action",
+    "reason": "The Stewards reviewed video and in-car video evidence. On the approach to turn 5, Car 81 moved to overtake Car 16 on the outside. Car 81 had some overlap on Car 16 but the front axle of Car 81 was not ahead of the front axle of Car 16 and there was no possibility of Car 81 completing an overtake from that position. In the Stewards’ determination, Car 16 did not deliberately crowd Car 81 off the edge of the track. Car 16 followed the racing line before the entry to turn 5 by moving slightly to the left to open up for turn 5 and side to side contact occurred between the two cars. In the circumstances, the Stewards determined to take no further action,",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     59
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    63
+   ]
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Summons - Ferrari - Alleged unsafe release Car 44",
+   "subject": "Summons - Ferrari - Alleged unsafe release Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_ferrari_-_alleged_unsafe_release_car_44.pdf",
+   "published": "2026-07-19T16:20",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Pit lane incident at 15:45.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     58
+    ]
+   }
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Infringement - Car 44 - Causing a collision with Car 63 in turn 5",
+   "subject": "Infringement - Car 44 - Causing a collision with Car 63 in turn 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_44_-_causing_a_collision_with_car_63_in_turn_5.pdf",
+   "published": "2026-07-19T16:20",
+   "recalled": false,
+   "cars": [
+    44,
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "15:04",
+    "session": "Race",
+    "fact": "Causing a collision with Car 63 in turn 5",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "5 second time penalty.",
+    "reason": "The Stewards reviewed video, team radio and in-car video evidence. Approaching Turn 5 on the opening lap, Car 63 attempted an overtake around the outside of Car 44 and had established sufficient overlap to be entitled to racing room. Car 44 remained on the inside. During the corner, Car 44 experienced understeer and, despite attempting to avoid Car 63 by applying corrective steering, made contact with the right-hand side of Car 63 with its left-front wheel. The Stewards determined that Car 63 remained within the available racing room and that the collision was caused by Car 44 being unable to maintain sufficient separation. The Stewards recognise several mitigating circumstances. Car 44 acknowledged the presence of Car 63, attempted to leave appropriate racing room and made a genuine attempt to avoid contact. The collision resulted from a loss of front-end grip rather than from an aggressive or deliberate manoeuvre. In addition, the incident occurred on the opening lap, where reduced grip and compressed racing conditions are recognised. For these reasons, while Car 44 was wholly at fault for the collision, the Stewards consider that a 5-second Time Penalty, rather than the standard 10-second Time Penalty, is the appropriate penalty in accordance with the FIA Penalty Guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     57
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   }
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-07-19T14:00",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Infringement - Car 55 - Change to PU elements",
+   "subject": "Infringement - Car 55 - Change to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_55_-_change_to_pu_elements.pdf",
+   "published": "2026-07-19T12:22",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "11:45",
+    "session": "Qualifying",
+    "fact": "The following additional Power Unit element has been used: 4th Control Electronics Unit (PU-CE) All Power Unit elements were replaced with the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breach of Article B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "Reason: The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of the additional element in this case carries a 10 grid place penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     53,
+     54
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    53
+   ]
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
+   "published": "2026-07-19T11:59",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    54
+   ]
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-07-19T08:51",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-07-19T08:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-07-18T20:10",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-07-18T20:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-07-18T19:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Covers-on Time",
+   "subject": "Covers-on Time",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_covers-on_time.pdf",
+   "published": "2026-07-18T18:05",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-07-18T17:23",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Corrected Infringement - Car 14 - Change to PU elements",
+   "subject": "Corrected Infringement - Car 14 - Change to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_corrected_infringement_-_car_14_-_change_to_pu_elements.pdf",
+   "published": "2026-07-18T15:52",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Corrected Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "12:29",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit elements have been used: 5th Energy Store (ES) 5th Control Electronics Unit (PU-CE) 7th Power Unit Ancillary Component (PU-ANC)",
+    "infringement": "Breach of Article B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 20 grid positions for the next Race in which the driver participates. (Subject to Car 14 being classified in the results of qualifying, Car 14 will be allocated a grid position in the race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations)",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of Energy Store and Control Electronics additional elements in this case carries a 5 grid place penalty by virtue of Article B8.2.8.b FIA F1 Regulations, the use of the 7th Ancillary Component carries a 10 grid place penalty by virtue of Article B8.2.8.a FIA F1 Regulations. Therefore there is an accumulation of 20 places.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     36,
+     45
+    ],
+    "tags": [
+     "20-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    36
+   ]
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Corrected Infringement - Car 6 - Changes to PU elements",
+   "subject": "Corrected Infringement - Car 6 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_corrected_infringement_-_car_6_-_changes_to_pu_elements.pdf",
+   "published": "2026-07-18T15:51",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Corrected Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "13:36",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH)",
+    "infringement": "Breach of Article B8.2.2 (read with Article B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 30 grid positions for the next Race in which the driver participates. (Subject to Car 6 being classified in the results of qualifying, Car 6 will be allocated a grid position in the race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations)",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty. Therefore there is an accumulation of 30 places.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     14,
+     44
+    ],
+    "tags": [
+     "30-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ]
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Decision - Car 55 - Alleged failure to slow for double yellow flags",
+   "subject": "Decision - Car 55 - Alleged failure to slow for double yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_decision_-_car_55_-_alleged_failure_to_slow_for_double_yellow_flags_.pdf",
+   "published": "2026-07-18T15:09",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "13:33",
+    "session": "Free Practice 3",
+    "fact": "Alleged failing to slow under yellow flags",
+    "infringement": "Alleged breaches of Appendix H, Article 2.5.5 b) of the International Sporting Code and Article 1.8.4.b of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 55 (Carlos Sainz), the driver of Car 3 (Max Verstappen), team representatives and reviewed positioning/marshalling system data, video, telemetry, team radio and in-car video evidence. During the session Car 44 collided with the barrier at the exit of turn 13 triggering a double yellow sector from the approach to turn 12 to turn 14. Car 55 and Car 3 had both passed through this double yellow sector on the previous lap. Car 55 was behind Car 3 on the approach to the double yellow zone. Both cars commenced braking prior to the start of the zone but the driver of Car 3 applied more brake pressure than the driver of Car 55 had expected and as a consequence the driver of Car 55 had to take evasive action and move to the right of Car 3, locking brakes but not overtaking. Both drivers stated they were surprised, the driver of Car 3 by Car 55 closing so quickly after Car 3 had commenced braking before the zone, and the driver of Car 55 by Car 3 braking more heavily than he had anticipated. The relevant rules require a driver to reduce speed significantly when passing through a double waved yellow marshalling sector. Compliance with the rules does not expressly require that a significant speed reduction occur before the sector but in this case both drivers had commenced to do so, both braking approximately 80m before the start of the sector. By the time Car 55 entered the double yellow sector, it had reduced speed significantly and maintained a significantly reduced speed throughout the sector. The Stewards were therefore satisfied that the driver of Car 55 committed no infringement, the locking of brakes was attributable to a misunderstanding of relative braking and determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     39,
+     43
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    39
+   ]
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Infringement - Free Practice 3 Double Yellow Flags Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Double Yellow Flags Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_free_practice_3_double_yellow_flags_deleted_lap_times.pdf",
+   "published": "2026-07-18T14:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "23": 1,
+     "5": 1,
+     "81": 1,
+     "31": 1,
+     "41": 1,
+     "16": 1,
+     "1": 1,
+     "3": 1,
+     "77": 1,
+     "14": 1,
+     "87": 1,
+     "55": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     6,
+     42
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    6
+   ]
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-07-18T14:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 cars below did not use the track at turns 4,6, 9 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "43": 2,
+     "18": 4,
+     "1": 2,
+     "16": 1,
+     "5": 1,
+     "30": 2,
+     "6": 1,
+     "12": 2,
+     "87": 1,
+     "63": 1,
+     "3": 1,
+     "81": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     41
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Summons - Car 3 - Car 55 Alleged failure to slow for double yellow flags",
+   "subject": "Summons - Car 3 - Car 55 Alleged failure to slow for double yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_3_-_car_55_alleged_failure_to_slow_for_double_yellow_flags.pdf",
+   "published": "2026-07-18T14:18",
+   "recalled": false,
+   "cars": [
+    3,
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "reason": "Alleged breaches by Car 55 of Appendix H, Article 2.5.5 b) of the International Sporting Code and B1.8.4b of the FIA F1 Regulations – Failing to slow under yellow flags at 13:33",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     40
+    ]
+   }
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Summons - Car 55 - Alleged failure to slow for double yellow flags",
+   "subject": "Summons - Car 55 - Alleged failure to slow for double yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_55_-_alleged_failure_to_slow_for_double_yellow_flags.pdf",
+   "published": "2026-07-18T14:18",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "reason": "Alleged breaches of Appendix H, Article 2.5.5 b) of the International Sporting Code and B1.8.4b of the FIA F1 Regulations – Failing to slow under yellow flags at 13:33.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     39
+    ]
+   },
+   "related": [
+    43
+   ]
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-07-18T13:57",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Car 14 - Change to PU elements",
+   "subject": "Infringement - Car 14 - Change to PU elements",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-07-18T14:30",
+   "recalled": true,
+   "cars": [
+    14
+   ],
+   "type": "Infringement"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
+   "published": "2026-07-18T12:50",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    45
+   ]
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-07-18T09:32",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Infringement - Ferrari - Car 44 Return of tyres",
+   "subject": "Infringement - Ferrari - Car 44 Return of tyres",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_ferrari_-_car_44_return_of_tyres.pdf",
+   "published": "2026-07-17T19:38",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "17:00",
+    "session": "Free Practice 2",
+    "fact": "The team failed to physically return electronically returned tyres to the appointed tyre supplier before the start of Free Practice 2.",
+    "infringement": "Breach of Article B6.4.2 of the FIA F1 Regulations.",
+    "decision": "The competitor (Scuderia Ferrari HP) is fined €5,000.",
+    "reason": "The Stewards heard from the team representative of Car 44 (Lewis Hamilton) who acknowledged the breach and attributed it to an oversight.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     24,
+     29,
+     34
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    24,
+    29
+   ]
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Infringement - Ferrari - Car 16 Return of tyres",
+   "subject": "Infringement - Ferrari - Car 16 Return of tyres",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_ferrari_-_car_16_return_of_tyres.pdf",
+   "published": "2026-07-17T19:38",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "17:00",
+    "session": "Free Practice 2",
+    "fact": "The team failed to physically return electronically returned tyres to the appointed tyre supplier before the start of Free Practice 2.",
+    "infringement": "Breach of Article B6.4.2 of the FIA F1 Regulations.",
+    "decision": "The competitor (Scuderia Ferrari HP) is fined €5,000.",
+    "reason": "The Stewards heard from the team representative of Car 44 (Lewis Hamilton) who acknowledged the breach and attributed it to an oversight.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     24,
+     28,
+     33
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    24,
+    28
+   ]
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - P1 and P2 Scrutineering",
+   "subject": "P1 and P2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_p1_and_p2_scrutineering.pdf",
+   "published": "2026-07-17T19:20",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Infringement - Car 27 - Failure to slow under double yellow flags",
+   "subject": "Infringement - Car 27 - Failure to slow under double yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_27_-_failure_to_slow_under_double_yellow_flags.pdf",
+   "published": "2026-07-17T18:58",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "14:28",
+    "session": "Free Practice 1",
+    "fact": "Failing to slow under double yellow flags.",
+    "infringement": "Breaches of Appendix H, Article 2.5.5 b) of the International Sporting Code and B1.8.4b of the FIA F1 Regulations.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 2nd reprimand of the season.",
+    "reason": "The Stewards heard from the driver of Car 27 (Nico Hulkenberg), team representative and reviewed positioning and marshalling system data, video, timing, telemetry and in-car video evidence. During the session a car was stopped on drivers’ right at the entry to turn 5, triggering a double yellow flag. The evidence established that the double yellow flag condition was initiated after Car 27 had already entered the relevant marshalling sector and after Car 27 had already passed the stopped car. The driver therefore had no opportunity to react before entering the sector. The driver stated that he did not see any trackside yellow flags nor any yellow light panel and was therefore unaware that the sector was under double yellow conditions. However, the evidence showed that as the driver approached the apex of turn 6 a yellow flag warning was displayed on Car 17’s steering wheel and a green light panel was shown at turn 7. Following the dashboard indication, the driver lifted the throttle. He said he did this because he noticed the light on his steering wheel and saw the green light panel indicating the end of a yellow sector. He said that he did not know that he was in a double yellow sector but realised the sector was yellow from the light on the steering wheel and the green light panel. He said that there was nothing on track ahead of him which indicated a hazard. The warning light on the steering wheel was flashing. The Team accepted that this likely indicated a double yellow sector, a single yellow sector indicated by a solid warning light. The Stewards nevertheless accept that the driver had very limited opportunity as he negotiated the changes of direction through turns 5 and 6 and before he passed the green light panel to recognise that the light on the steering wheel was flashing to indicate a double yellow sector. Given the circumstances, the Stewards considered that the driver might be excused from not knowing that he was in a double yellow sector and accept the driver’s statement that he did not know. However, he did know that he was at the very least in a single yellow sector. Further, he could not know that it was definitely not a double yellow sector. The reaction of the driver by lifting off throttle and reducing some speed was insufficient to conform with the expectations of a driver in a double yellow sector. Therefore the driver failed to comply. However, having regard to the exceptional circumstances described, the Stewards determined that a reprimand to the driver was the appropriate penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     17,
+     30
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    17
+   ]
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Summons - Ferrari - Car 44 Failure to return tyres",
+   "subject": "Summons - Ferrari - Car 44 Failure to return tyres",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_ferrari_-_car_44_failure_to_return_tyres.pdf",
+   "published": "2026-07-17T18:58",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "reason": "Alleged breach of Article B6.4.2 of the FIA F1 Regulations – Failure to return tyres which have been electronically returned after FP1. Refer to Technical Delegate's report (document 24).",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     24,
+     29
+    ]
+   },
+   "related": [
+    24,
+    34
+   ]
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Summons - Ferrari - Car 16 Failure to return tyres",
+   "subject": "Summons - Ferrari - Car 16 Failure to return tyres",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_ferrari_-_car_16_failure_to_return_tyres.pdf",
+   "published": "2026-07-17T18:57",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "reason": "Alleged breach of Article B6.4.2 of the FIA F1 Regulations – Failure to return tyres which have been electronically returned after FP1. Refer to Technical Delegate's report (document 24).",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     24,
+     28
+    ]
+   },
+   "related": [
+    24,
+    33
+   ]
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-07-17T18:54",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-07-17T18:51",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 cars below did not use the track at turns 3,4,10,11,18 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "from": "The Stewards",
+    "table_rows": {
+     "55": 2,
+     "16": 1,
+     "44": 1,
+     "23": 3,
+     "10": 1,
+     "87": 1
+    },
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     26
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-07-17T18:26",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Tyre Return Infringement",
+   "subject": "Tyre Return Infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_tyre_return_infringement.pdf",
+   "published": "2026-07-17T18:25",
+   "recalled": false,
+   "cars": [],
+   "type": "Report",
+   "details": {
+    "from": "The FIA Formula 1 Technical Delegate",
+    "summary": "Technical Delegate’s Report Following FP1, the Scuderia Ferrari HP team electronically returned two sets of dry-weather tyres (sets 16-301 & 16-401) for Car 16 (LEC) in accordance with Articles B6.4.1 and B6.3.8 a) iii). However, the corresponding tyres were not physically returned to the Appointed Tyre Supplier before the start of the FP2. This is non-compliant with Article B6.4.2. Following FP1, the Scuderia Ferrari HP team electronically returned two sets of dry-weather tyres (sets 44-301 & 44-401) for Car 44 (HAM) in accordance with Articles B6.4.1 and B6.3.8 a) iii). However, the corresponding tyres were not physically returned to the Appointed Tyre Supplier before the start of the FP2. This is non-compliant with Article B6.4.2. I am reporting these matters to the stewards for their consideration. Jo Bauer",
+    "refs": [
+     24
+    ]
+   },
+   "related": [
+    28,
+    29,
+    33,
+    34
+   ]
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Infringement - Car 1 - Change to PU element",
+   "subject": "Infringement - Car 1 - Change to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_1_-_change_to_pu_element.pdf",
+   "published": "2026-07-17T16:53",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Lando Norris",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "13:36",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit element has been used: 4th Control Electronics Unit (PU-CE)",
+    "infringement": "Breach of Article B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     14,
+     23
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ]
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Infringement - Car 18 - Change to PU element",
+   "subject": "Infringement - Car 18 - Change to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_18_-_change_to_pu_element.pdf",
+   "published": "2026-07-17T16:53",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "13:36",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit element has been used: 4th MGU-K",
+    "infringement": "Breach of Article B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     14,
+     22
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ]
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Infringement - Car 6 - Changes to PU elements",
+   "subject": "Infringement - Car 6 - Changes to PU elements",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-07-17T17:00",
+   "recalled": true,
+   "cars": [
+    6
+   ],
+   "type": "Infringement"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-07-17T16:51",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 cars below did not use the track at turns 3, 4,5,6,11 and 19.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "23": 6,
+     "55": 4,
+     "12": 2,
+     "87": 3,
+     "30": 4,
+     "63": 2,
+     "41": 1,
+     "18": 1,
+     "3": 2,
+     "10": 1,
+     "16": 1,
+     "27": 1,
+     "81": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   }
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Infringement - Car 55 - Crossing the white line at pit entry",
+   "subject": "Infringement - Car 55 - Crossing the white line at pit entry",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_55_-_crossing_the_white_line_at_pit_entry.pdf",
+   "published": "2026-07-17T16:33",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "13:54",
+    "session": "Free Practice 1",
+    "fact": "Crossing the white line at pit entry.",
+    "infringement": "Breach of Appendix L, Chapter IV Article 4 of the International Sporting Code as clarified by Race Director’s Event Notes (item 15.2, document 6).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards heard from the driver of Car 55 (Carlos Sainz), team representative and reviewed in-car video evidence. Item 15.2 of the Race Director’s Event Notes provides that any driver passing to the right-hand side of the bollard at safety car line 1 will be considered as entering the pit lane for the purposes of Appendix L, Chapter IV Article 4 of the International Sporting Code which provides that any car entering the pit lane must not cross a painted line separating cars entering the pit lane from cars on the track. Car 55 passed to the right-hand side of the bollard at safety car line 1 and immediately thereafter turned left across the line and rejoined the track. Team radio confirmed that the driver had been given an instruction from his engineer to enter the pit lane and, having committed to do so by passing to the right of the bollard, was given a counter-insruction to return to the track to recharge energy. In complying with that instruction, the driver breached Appendix L, Chapter IV Article 4 because the Event Notes deemed him to have entered the pit lane. The driver acknowledeged the breach. He said he received a very late call from his engineer and realised that if he didn’t rejoin the track his energy level would be so depleted it would mean he would lose laps regenerating after he changed to a soft tyre. He said that he checked his mirrors before rejoining the track and there was no traffic coming. Therefore what he did was not dangerous. While the Stewards were satisfied that in this instance what occurred was not dangerous, the reason for the prohibition on the crossing of the line at pit entry is to prevent the possibility of an inherently dangerous situation. While we have some sympathy for the driver receiving a very late instruction from his engineer, on the driver’s own admission the rule was breached in order to ensure that the driver did not suffer a sporting disadvantage from having entered the pit lane with a low energy level. The Stewards therefore determined to impose a reprimand on the driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     6,
+     16,
+     19
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    6,
+    16
+   ]
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Car 34 - Pit lane speeding",
+   "subject": "Infringement - Car 34 - Pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_34_-_pit_lane_speeding.pdf",
+   "published": "2026-07-17T16:47",
+   "recalled": false,
+   "cars": [
+    34
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "34 - Jak Crawford",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "14:37",
+    "session": "Free Practice 1",
+    "fact": "Pit lane speeding – 80.1 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Aston Martin Aramco F1 Team) is fined €100.",
+    "reason": "Car 34 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.1 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 34,
+      "name": "Jak Crawford"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   }
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Summons - Car 27 - Alleged yellow flag infringement",
+   "subject": "Summons - Car 27 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_27_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-07-17T15:23",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "reason": "Alleged breaches of Appendix H, Article 2.5.5 b) of the International Sporting Code and B1.8.4b of the FIA F1 Regulations – Failing to slow under yellow flags at 14:28.",
+    "from": "The Stewards",
+    "competitor": "Audi Revolut F1 Team",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     17
+    ]
+   },
+   "related": [
+    30
+   ]
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Summons - Car 55 - Alleged crossing the line at pit entry",
+   "subject": "Summons - Car 55 - Alleged crossing the line at pit entry",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_55_-_alleged_crossing_the_line_at_pit_entry.pdf",
+   "published": "2026-07-17T15:04",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "reason": "Alleged breach of Appendix L, Chapter IV Article 4 of the International Sporting Code as clarified by the Race Director’s Event Notes (item 15.2, document 6) – Crossing the white line at pit entry.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     6,
+     16
+    ]
+   },
+   "related": [
+    6,
+    19
+   ]
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-07-17T14:52",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-07-17T13:43",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    22,
+    23,
+    44
+   ]
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Infringement - Car 31 - Media Commitment",
+   "subject": "Infringement - Car 31 - Media Commitment",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_31_-_media_commitment.pdf",
+   "published": "2026-07-17T12:27",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "competitor": "TGR Haas F1 Team",
+    "time": "14:30",
+    "fact": "The driver was late attending the Thursday Press Conference",
+    "infringement": "Breach of Article B10.1.1.a of the FIA F1 Regulations and Articles 12.2.1.i and 12.2.1.p of the FIA International Sporting Code.",
+    "decision": "The competitor (TGR Haas F1 Team) is fined €5,000. This fine is suspended for a period of 12 months subject to there being no further breach of a similar nature.",
+    "reason": "The Stewards heard from the driver of Car 31 (Esteban Ocon) and the Team Representative. Car 31 was scheduled to attend the FIA Drivers' Press Conference at 14:30 as published in the official FIA Media Schedule but arrived approximately one minute late. The Driver explained that he was unexpectedly briefly delayed when rushing from a team meeting to get to the Press Conference and underestimated the time it would take to get there. He acknowledged that he was late but only missed part of the introduction and was present for all questions from media representatives. The team representative apologised and committed to ensuring the team’s schedule would in future allow sufficient time for the drivers to get to media commitments on schedule. The Stewards note that attendance at FIA press activities is an important part of the Championship and that drivers are required to comply with the published timetable unless prevented by exceptional circumstances. The Stewards took into account the driver's explanation and, while not considering they were exceptional, nonetheless accepted they were mitigatory. Consistent with previous infringements of a similar nature, the Stewards determined to impose a fine. Noting that in accordance with Article 9.15.1 of the FIA International Sporting Code, the Competitor is responsible for the actions of its driver, the fine is imposed on the Competitor. As this is the Competitor’s first infringement of this type this season, and taking into account the driver’s explanation, the fine is suspended for a period of 12 months subject to there being no further breach of a similar nature.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     9,
+     13
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    9
+   ]
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-07-17T12:17",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_entry_list.pdf",
+   "published": "2026-07-17T11:56",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-07-17T11:35",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Summons - Car 31 - Late attendance of the Thursday Press Conference",
+   "subject": "Summons - Car 31 - Late attendance of the Thursday Press Conference",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_31_-_late_attendance_of_the_thursday_press_conference.pdf",
+   "published": "2026-07-17T09:52",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "31 - Esteban Ocon",
+    "reason": "Alleged breach of Article B10.1.1.a of the FIA F1 Regulations - Late attendance of the Thursday Press Conference.",
+    "from": "The Stewards",
+    "competitor": "TGR Haas F1 Team",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
+    "refs": [
+     9
+    ]
+   },
+   "related": [
+    13
+   ]
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - PU elements used per driver up to now",
+   "subject": "PU elements used per driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-07-17T10:42",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-07-16T17:50",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-07-16T17:50",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    16,
+    19,
+    42
+   ]
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Post-Race Checks on Car Numbers 63 and 06, 2026 British GP",
+   "subject": "Post-Race Checks on Car Numbers 63 and 06, 2026 British GP",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_post-race_checks_on_car_numbers_63_and_06_2026_british_gp.pdf",
+   "published": "2026-07-16T15:57",
+   "recalled": false,
+   "cars": [
+    6,
+    63
+   ]
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-07-16T13:17",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-07-16T12:27",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-07-15T20:06",
+   "recalled": false,
+   "cars": []
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_competition_visa.pdf",
+   "published": "2026-07-15T16:11",
+   "recalled": false,
+   "cars": []
+  }
+ ]
+}
