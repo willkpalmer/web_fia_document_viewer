@@ -1,9 +1,9 @@
-name: Update documents and deploy
+attyname: Update documents and deploy
 
 on:
   schedule:
     # Race weekends (Fri-Sun): every 10 minutes. Other days: every 4 hours.
-    - cron: "*/10 * * * 5,6,0"
+    - cron: "5-59/10 * * * 5,6,0"
     - cron: "17 */4 * * 1-4"
   workflow_dispatch:
   push:
