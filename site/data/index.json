@@ -367,19 +367,19 @@
    "slug": "mexico-city-grand-prix",
    "name": "Mexico City Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-   "doc_count": 34,
+   "doc_count": 40,
    "first_published": "2026-10-28T21:00",
-   "last_published": "2026-10-31T03:58",
+   "last_published": "2026-10-31T17:51",
    "first_local": "2026-10-28T14:00",
-   "last_local": "2026-10-30T20:58",
+   "last_local": "2026-10-31T10:51",
    "utc_offset_min": -360,
    "tz_source": "pdf",
    "counts": {
-    "stewards": 15,
-    "technical": 9,
-    "race_director": 5,
-    "results": 2,
-    "admin": 3
+    "stewards": 17,
+    "technical": 10,
+    "race_director": 7,
+    "admin": 4,
+    "results": 2
    },
    "round": 19
   }

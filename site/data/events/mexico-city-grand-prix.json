@@ -3,23 +3,134 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 34,
+  "doc_count": 40,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-10-31T03:58",
+  "last_published": "2026-10-31T17:51",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-10-30T20:58",
+  "last_local": "2026-10-31T10:51",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
-   "stewards": 15,
-   "technical": 9,
-   "race_director": 5,
-   "results": 2,
-   "admin": 3
+   "stewards": 17,
+   "technical": 10,
+   "race_director": 7,
+   "admin": 4,
+   "results": 2
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 41,
+   "title": "Doc 41 - Infringement - Car 6 - Misconduct",
+   "subject": "Infringement - Car 6 - Misconduct",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_6_-_misconduct.pdf",
+   "published": "2026-10-31T17:51",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "12:20",
+    "session": "Free Practice 1",
+    "fact": "The driver and a Paddock guest appeared to have an interaction in the Paddock prior to the start of FP1.",
+    "infringement": "Breach of Article 12.2.1.l of the FIA International Sporting Code.",
+    "decision": "Driver: Formal warning.",
+    "reason": "The Stewards heard from the driver of Car 6 (Isack Hadjar) and the team representative and reviewed video evidence. The driver stated that he was running late for FP1 and had stopped to have a photograph with a young fan, when he was approached by a Paddock guest in an aggressive manner. One security person was walking behind him and was unable to intervene and prevent what was tantamount to an invasion of the driver’s private space. The driver initially resisted the move by placing his hand on the waist of the guest, holding him at bay, then the driver pushed him aside with his open right hand. This latter action by the driver is regarded as a breach of the regulations however in mitigation of penalty the stewards considered the following matters (in accordance with the guidelines provided in Appendix B of the FIA International Sporting Code): a) The driver was reacting to an uninvited and rather aggressive action by another person b) The driver was endeavouring to make his way to the start of FP1 through a congested area c) The driver did not have sufficient security present d) The guest was invading his personal space without his consent. e) The general issue drivers have experienced moving through the Paddock",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     35,
+     41
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    35
+   ],
+   "published_local": "2026-10-31T10:51"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Self Scrutineering after Survival Cell Change",
+   "subject": "Self Scrutineering after Survival Cell Change",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_self_scrutineering_after_survival_cell_change.pdf",
+   "published": "2026-10-31T16:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T09:11"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-10-31T16:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T09:11"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_curfew.pdf",
+   "published": "2026-10-31T16:01",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T09:01"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Revised Entry List",
+   "subject": "Revised Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_revised_entry_list.pdf",
+   "published": "2026-10-31T15:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T08:40"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Decision - Driver Change TGR Haas F1 Team",
+   "subject": "Decision - Driver Change TGR Haas F1 Team",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_driver_change_tgr_haas_f1_team.pdf",
+   "published": "2026-10-31T15:36",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "The Stewards have received a request from TGR Haas F1 Team to change the driver of car 31, Esteban Ocon. In accordance with Article B1.7.2 of the FIA F1 Regulations, the Stewards grant permission for the driver, Ryo Hirakawa, with the car number 50, to participate in the 2026 Mexico City Grand Prix in place of Esteban Ocon for the rest of the competition. The driver of car 50 is required to use the engine and tyres which were allocated to the original driver, Esteban Ocon as detailed under Article B1.7.5 of the FIA F1 Regulations. Regulations. Further, this permission is subject to Ryo Hirakawa passing the scrutineering requirements.",
+    "decision": "Permission granted to start the race.",
+    "competitor": "TGR Haas F1 Team",
+    "refs": [
+     36
+    ],
+    "tags": [
+     "Permission to start"
+    ],
+    "outcome": "other"
+   },
+   "published_local": "2026-10-31T08:36"
+  },
   {
    "num": 35,
    "title": "Doc 35 - Summons - Car 6 - Alleged misconduct",
@@ -47,6 +158,9 @@
      35
     ]
    },
+   "related": [
+    41
+   ],
    "published_local": "2026-10-30T20:58"
   },
   {
