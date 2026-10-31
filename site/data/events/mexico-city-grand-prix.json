@@ -3,15 +3,15 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 43,
+  "doc_count": 44,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-10-31T19:53",
+  "last_published": "2026-10-31T22:47",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-10-31T12:53",
+  "last_local": "2026-10-31T15:47",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
-   "stewards": 19,
+   "stewards": 20,
    "results": 3,
    "technical": 10,
    "race_director": 7,
@@ -20,6 +20,44 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 45,
+   "title": "Doc 45 - Infringement - Car 14 - Failed to replace the steering wheel after leaving the car",
+   "subject": "Infringement - Car 14 - Failed to replace the steering wheel after leaving the car",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_14_-_failed_to_replace_the_steering_wheel_after_leaving_the_car.pdf",
+   "published": "2026-10-31T22:47",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Fernando Alonso",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "15:08",
+    "session": "Qualifying",
+    "fact": "The driver failed to replace the steering wheel after leaving the car.",
+    "infringement": "Breach of Article B1.8.8 of the FIA F1 Regulations.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence. Car 14 stopped on track, the driver left the car and failed to replace the steering wheel. This is a safety issue to enable marshals to move the car if required.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "published_local": "2026-10-31T15:47"
+  },
   {
    "num": 44,
    "title": "Doc 44 - Infringement - Free Practice 3 Deleted Lap Times",
