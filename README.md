@@ -1,0 +1,77 @@
+# F1 Document Viewer
+
+A tidier view of the [FIA Formula One decision documents](https://www.fia.com/documents/championships/fia-formula-one-world-championship-14)
+for the current season, published with GitHub Pages.
+
+- **Browse by round.** The same season → event structure as fia.com.
+- **Grouped by type.** Each document goes into one of these groups:
+  - Stewards & Penalties
+  - Technical & Scrutineering
+  - Race Director & Procedures
+  - Results
+  - Event Admin
+- **Filter and sort.** Filter by group, car/driver or stewards document type (Summons / Infringement / Decision), search the text, and sort by document number, car or title.
+- **Stewards rulings parsed from the PDFs.** Each ruling shows driver, team, session, fact, regulation breached, decision and outcome tags (time penalty, grid drop, fine, penalty points, reprimand, warning, no further action). A Summons links to its Decision when the PDF names the other document.
+- **Season penalties view.** A per-driver/team table of rulings, penalties, reprimands, warnings, penalty points and fines across all rounds. Click a row to see that driver's rulings.
+- **Version handling.** Older versions (e.g. `Timetable` → `Timetable V2`) are hidden by default and recalled documents are struck through.
+- **Shareable views.** Filters live in the URL, so a filtered view can be bookmarked or shared.
+
+## How it works
+
+```
+scraper/fia_scraper.py  ── GitHub Actions on a schedule ──►  site/data/*.json  ──►  GitHub Pages (site/)
+```
+
+fia.com doesn't let other websites load its pages from a browser, so the page can't read it live. A scheduled
+workflow (`.github/workflows/update.yml`) does the scraping instead:
+
+1. Reads the current season's event list, then each event page.
+2. Categorises each document by its title using the rules in `scraper/categories.py`.
+3. Downloads each stewards' PDF **once**, extracts its fields with `pdftotext -layout`, and caches the result in
+   `scraper/cache/pdf_details.json`.
+4. Commits any changed JSON and redeploys Pages.
+
+It runs every 30 minutes Friday–Sunday and every 4 hours otherwise. Runs with no changes don't commit or redeploy.
+PDFs are always opened from fia.com and are not re-hosted.
+
+## Setup
+
+1. Merge this into `main`. Scheduled workflows only run on the default branch.
+2. In **Settings → Pages**, set **Source** to **GitHub Actions**.
+3. In **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions**.
+4. Run the workflow once from the **Actions** tab (**Update documents and deploy** → **Run workflow**).
+
+## Running locally
+
+```bash
+sudo apt-get install poppler-utils
+```
+
+```bash
+pip install -r scraper/requirements.txt
+```
+
+```bash
+cd scraper && python fia_scraper.py
+```
+
+```bash
+cd site && python -m http.server 8000
+```
+
+Options for `fia_scraper.py`:
+
+- `--no-pdfs` skips the stewards PDFs.
+- `--reparse` ignores the PDF cache, e.g. after improving the parser.
+
+## Changing the groups
+
+Edit `scraper/categories.py`. The rules are regexes checked in order, and the first match wins. Titles that match no rule
+are listed in `site/data/index.json` under `unmatched_titles`, so you can add rules for them.
+
+## Caveats
+
+- **Cloudflare.** fia.com sits behind Cloudflare. If GitHub's runners ever get challenged (the scrape step fails with HTTP 403),
+  run the scraper locally and push the updated `site/data`.
+- **Title wording.** Categories depend on how the FIA words its titles. New wording lands in **Other** until a rule is added.
+- **Penalty tags are heuristic.** They come from the Decision text, so the full decision is always shown next to them.
