@@ -34,6 +34,25 @@
   <aside class="sidebar" id="sidebar">
     <div class="side-head">Rounds</div>
     <ul id="eventList" class="event-list"></ul>
+    <div class="sync" id="sync">
+      <button class="btn sync-btn" id="syncBtn" type="button">↻ Sync now</button>
+      <div class="sync-status" id="syncStatus"></div>
+      <form class="sync-token" id="syncToken" hidden>
+        <p>Syncing from this page needs a GitHub token with permission to start the update workflow.
+          It's kept only in this browser.</p>
+        <ol>
+          <li><a id="tokenLink" target="_blank" rel="noopener">Create a fine-grained token</a>:
+            <b>Only select repositories</b> → this repo; <b>Permissions → Actions: Read and write</b>.</li>
+          <li>Paste it here:</li>
+        </ol>
+        <input type="password" id="tokenInput" placeholder="github_pat_…" autocomplete="off">
+        <div class="sync-actions">
+          <button class="btn btn-sm" type="submit">Save &amp; sync</button>
+          <button class="btn btn-sm" type="button" id="tokenCancel">Cancel</button>
+        </div>
+        <p>Or <a id="runOnGithub" target="_blank" rel="noopener">run it on GitHub</a> instead.</p>
+      </form>
+    </div>
     <div class="side-foot" id="updated"></div>
   </aside>
   <div class="scrim" id="scrim"></div>

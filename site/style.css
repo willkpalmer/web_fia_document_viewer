@@ -265,3 +265,16 @@ details.ruling[open] { background: color-mix(in srgb, var(--surface-2) 45%, var(
   .brand > div { display: none; }
   .views .view-link { padding: 6px 6px; }
 }
+
+/* sync */
+.sync { margin: 14px 8px 0; padding-top: 12px; border-top: 1px solid var(--border); display: grid; gap: 6px; }
+.sync-btn { width: 100%; font-weight: 500; }
+.sync-btn:disabled { opacity: .6; cursor: progress; }
+.sync-status { font-size: 11px; color: var(--muted); min-height: 14px; }
+.sync-status .bad, .bad { color: var(--o-penalty); }
+.sync-token { font-size: 12px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 8px; padding: 10px; display: grid; gap: 6px; }
+.sync-token[hidden] { display: none; }
+.sync-token p, .sync-token ol { margin: 0; }
+.sync-token ol { padding-left: 18px; }
+.sync-token input { height: 30px; border: 1px solid var(--border); background: var(--surface); border-radius: 6px; padding: 0 8px; width: 100%; }
+.sync-actions { display: flex; gap: 6px; }

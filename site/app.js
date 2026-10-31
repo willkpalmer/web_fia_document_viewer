@@ -97,6 +97,142 @@ function tickClock() {
   $("#clockWhere").textContent = `${clockEvent.name.replace(/ Grand Prix$/, " GP")} · ${fmtOffset(clockEvent.utc_offset_min)}`;
 }
 
+/* ------------------------------------------------------------------ sync */
+
+// Repository that hosts this site: <owner>.github.io/<repo>/ ; fallback for local preview.
+const REPO = (() => {
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  const seg = location.pathname.split("/").filter(Boolean)[0];
+  return m && seg ? `${m[1]}/${seg}` : "willkpalmer/web_fia_document_viewer";
+})();
+const WORKFLOW = "update.yml";
+const TOKEN_KEY = `ghToken:${REPO}`;
+const API = `https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}`;
+
+function getToken() { try { return localStorage.getItem(TOKEN_KEY) || ""; } catch { return ""; } }
+function setToken(t) { try { t ? localStorage.setItem(TOKEN_KEY, t) : localStorage.removeItem(TOKEN_KEY); } catch {} }
+
+function ago(iso) {
+  const s = Math.round((Date.now() - new Date(iso)) / 1000);
+  if (s < 60) return "just now";
+  if (s < 3600) return `${Math.round(s / 60)} min ago`;
+  if (s < 86400) return `${Math.round(s / 3600)} h ago`;
+  return `${Math.round(s / 86400)} d ago`;
+}
+function localClock(iso) {
+  return new Date(iso).toLocaleString(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
+}
+
+async function showUpdated() {
+  let html = "";
+  try {
+    const u = await getJSON("updated.json");
+    html += `<div title="${esc(u.updated)}">Data last changed ${esc(localClock(u.updated))} (${ago(u.updated)})</div>`;
+  } catch {}
+  html += `<div>Source: <a href="${esc(S.index.source)}" target="_blank" rel="noopener">fia.com</a> ·
+    <a href="https://github.com/${REPO}/actions/workflows/${WORKFLOW}" target="_blank" rel="noopener">sync history</a></div>`;
+  $("#updated").innerHTML = html;
+}
+
+async function latestRun(auth) {
+  const r = await fetch(`${API}/runs?per_page=1&_=${Date.now()}`, {
+    headers: auth ? { Authorization: `Bearer ${auth}`, Accept: "application/vnd.github+json" } : { Accept: "application/vnd.github+json" },
+    cache: "no-store",
+  });
+  if (!r.ok) throw new Error(`GitHub API ${r.status}`);
+  return (await r.json()).workflow_runs?.[0] || null;
+}
+
+function runLabel(run) {
+  if (!run) return "No sync runs yet";
+  const how = { schedule: "scheduled", workflow_dispatch: "manual", push: "deploy" }[run.event] || run.event;
+  if (run.status !== "completed") return `Sync running (${how}, started ${ago(run.run_started_at || run.created_at)})…`;
+  const ok = run.conclusion === "success";
+  return `Last check ${ago(run.updated_at)} · ${how}${ok ? "" : ` · <span class="bad">${esc(run.conclusion)}</span>`}`;
+}
+
+async function refreshSyncStatus() {
+  try {
+    const run = await latestRun(getToken());
+    $("#syncStatus").innerHTML = runLabel(run);
+    return run;
+  } catch (e) {
+    $("#syncStatus").textContent = "";
+    return null;
+  }
+}
+
+function initSync() {
+  $("#tokenLink").href = "https://github.com/settings/personal-access-tokens/new";
+  $("#runOnGithub").href = `https://github.com/${REPO}/actions/workflows/${WORKFLOW}`;
+  $("#syncBtn").onclick = () => (getToken() ? runSync() : ($("#syncToken").hidden = false));
+  $("#tokenCancel").onclick = () => { $("#syncToken").hidden = true; };
+  $("#syncToken").onsubmit = (e) => {
+    e.preventDefault();
+    const t = $("#tokenInput").value.trim();
+    if (!t) return;
+    setToken(t);
+    $("#tokenInput").value = "";
+    $("#syncToken").hidden = true;
+    runSync();
+  };
+  refreshSyncStatus();
+  setInterval(() => { if (!S.syncing) refreshSyncStatus(); }, 120000);
+}
+
+async function runSync() {
+  if (S.syncing) return;
+  S.syncing = true;
+  const btn = $("#syncBtn"), status = $("#syncStatus");
+  btn.disabled = true;
+  btn.textContent = "Syncing…";
+  try {
+    const before = await latestRun(getToken()).catch(() => null);
+    const r = await fetch(`${API}/dispatches`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${getToken()}`, Accept: "application/vnd.github+json" },
+      body: JSON.stringify({ ref: "main" }),
+    });
+    if (r.status === 401 || r.status === 403 || r.status === 404) {
+      setToken("");
+      $("#syncToken").hidden = false;
+      throw new Error(r.status === 401 ? "Token rejected — please add a new one" : "Token lacks Actions: write on this repo");
+    }
+    if (!r.ok) throw new Error(`GitHub API ${r.status}`);
+    status.textContent = "Sync started — fetching from fia.com…";
+
+    // wait for the new run to appear and finish (scrape + deploy, typically ~1 min)
+    const t0 = Date.now();
+    let run = null;
+    while (Date.now() - t0 < 6 * 60000) {
+      await new Promise((res) => setTimeout(res, 5000));
+      run = await latestRun(getToken()).catch(() => null);
+      if (!run || (before && run.id === before.id)) continue;
+      status.innerHTML = runLabel(run);
+      if (run.status === "completed") break;
+    }
+    if (!run || run.status !== "completed") throw new Error("Still running — check sync history");
+    if (run.conclusion !== "success") throw new Error(`Sync ${run.conclusion}`);
+
+    // reload data (Pages can take a few seconds to serve the new deploy)
+    status.textContent = "Loading new data…";
+    await new Promise((res) => setTimeout(res, 8000));
+    S.index = await getJSON("index.json");
+    for (const c of S.index.categories) S.catById[c.id] = c;
+    S.events = {};
+    S.penalties = null;
+    await render();
+    showUpdated();
+    status.innerHTML = runLabel(run);
+  } catch (e) {
+    status.innerHTML = `<span class="bad">${esc(e.message)}</span>`;
+  } finally {
+    S.syncing = false;
+    btn.disabled = false;
+    btn.textContent = "↻ Sync now";
+  }
+}
+
 /* ------------------------------------------------------------------ boot */
 
 async function boot() {
@@ -119,10 +255,8 @@ async function boot() {
   }
   for (const c of S.index.categories) S.catById[c.id] = c;
   $("#seasonLabel").textContent = `${S.index.championship} · ${S.index.season}`;
-  getJSON("updated.json").then((u) => {
-    $("#updated").innerHTML = `Data updated ${esc(u.updated.replace("T", " ").replace("Z", " UTC"))}<br>` +
-      `Source: <a href="${esc(S.index.source)}" target="_blank" rel="noopener">fia.com</a>`;
-  }).catch(() => {});
+  showUpdated();
+  initSync();
   window.addEventListener("hashchange", render);
   render();
 }

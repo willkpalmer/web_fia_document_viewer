@@ -75,3 +75,15 @@ are listed in `site/data/index.json` under `unmatched_titles`, so you can add ru
   run the scraper locally and push the updated `site/data`.
 - **Title wording.** Categories depend on how the FIA words its titles. New wording lands in **Other** until a rule is added.
 - **Penalty tags are heuristic.** They come from the Decision text, so the full decision is always shown next to them.
+
+## Manual sync
+
+The sidebar's **Sync now** button starts the update workflow straight away and reloads the page data when it finishes.
+It needs a fine-grained GitHub token, created at **Settings → Developer settings → Fine-grained tokens**, with:
+
+- **Repository access:** only this repository.
+- **Permission:** **Actions: Read and write**.
+
+The token is kept only in that browser's local storage. It's shared by any page on `<you>.github.io`, which is why it
+should be limited to this one repository and the Actions permission.
+The sidebar also shows when the last sync run happened, read from the public GitHub API.
