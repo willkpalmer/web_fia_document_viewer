@@ -6,6 +6,10 @@
   "doc_count": 85,
   "first_published": "2026-07-02T12:59",
   "last_published": "2026-07-05T21:40",
+  "first_local": "2026-07-02T11:59",
+  "last_local": "2026-07-05T20:40",
+  "utc_offset_min": 60,
+  "tz_source": "pdf",
   "counts": {
    "results": 15,
    "stewards": 38,
@@ -24,7 +28,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_championship_points.pdf",
    "published": "2026-07-05T21:40",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T20:40"
   },
   {
    "num": 84,
@@ -34,7 +39,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_race_classification.pdf",
    "published": "2026-07-05T21:35",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T20:35"
   },
   {
    "num": 83,
@@ -75,7 +81,8 @@
    },
    "related": [
     76
-   ]
+   ],
+   "published_local": "2026-07-05T19:57"
   },
   {
    "num": 82,
@@ -154,7 +161,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-05T19:39"
   },
   {
    "num": 81,
@@ -191,7 +199,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:59"
   },
   {
    "num": 80,
@@ -201,7 +210,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_race_scrutineering.pdf",
    "published": "2026-07-05T19:58",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T18:58"
   },
   {
    "num": 79,
@@ -238,7 +248,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:58"
   },
   {
    "num": 78,
@@ -275,7 +286,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:58"
   },
   {
    "num": 77,
@@ -312,7 +324,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:49"
   },
   {
    "num": 76,
@@ -334,7 +347,8 @@
    },
    "related": [
     83
-   ]
+   ],
+   "published_local": "2026-07-05T18:41"
   },
   {
    "num": 75,
@@ -375,7 +389,8 @@
    },
    "related": [
     73
-   ]
+   ],
+   "published_local": "2026-07-05T18:37"
   },
   {
    "num": 74,
@@ -385,7 +400,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_provisional_race_classification.pdf",
    "published": "2026-07-05T18:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T17:00"
   },
   {
    "num": 73,
@@ -416,7 +432,8 @@
    },
    "related": [
     75
-   ]
+   ],
+   "published_local": "2026-07-05T16:49"
   },
   {
    "num": 72,
@@ -453,7 +470,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T16:20"
   },
   {
    "num": 71,
@@ -491,7 +509,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T16:20"
   },
   {
    "num": 70,
@@ -501,7 +520,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_starting_grid.pdf",
    "published": "2026-07-05T15:01",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T14:01"
   },
   {
    "num": 69,
@@ -511,7 +531,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf",
    "published": "2026-07-05T14:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T13:52"
   },
   {
    "num": 68,
@@ -552,7 +573,8 @@
    },
    "related": [
     49
-   ]
+   ],
+   "published_local": "2026-07-05T12:48"
   },
   {
    "num": 67,
@@ -562,7 +584,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_pre-race_procedure.pdf",
    "published": "2026-07-05T10:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T09:52"
   },
   {
    "num": 66,
@@ -572,7 +595,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_post-race_procedure.pdf",
    "published": "2026-07-05T10:03",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T09:03"
   },
   {
    "num": 65,
@@ -582,7 +606,8 @@
    "url": null,
    "published": "2026-07-05T09:57",
    "recalled": true,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-05T08:57"
   },
   {
    "num": 64,
@@ -592,7 +617,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_provisional_starting_grid.pdf",
    "published": "2026-07-04T20:30",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T19:30"
   },
   {
    "num": 63,
@@ -602,7 +628,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_qualifying_classification.pdf",
    "published": "2026-07-04T20:25",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T19:25"
   },
   {
    "num": 62,
@@ -644,7 +671,8 @@
    },
    "related": [
     54
-   ]
+   ],
+   "published_local": "2026-07-04T19:13"
   },
   {
    "num": 61,
@@ -654,7 +682,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_qualifying_scrutineering.pdf",
    "published": "2026-07-04T20:12",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T19:12"
   },
   {
    "num": 60,
@@ -696,7 +725,8 @@
    },
    "related": [
     51
-   ]
+   ],
+   "published_local": "2026-07-04T19:01"
   },
   {
    "num": 59,
@@ -714,7 +744,7 @@
     "infringement": "Alleged Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code by failing to comply with the Race Director's Competition Notes (Item 1, Document 5) and the Note to Teams (Document 17).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. The driver concerned stayed at or above speeds necessary to stay below 1:39.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the driver took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. The driver concerned stayed at or above speeds necessary to stay below 1:39.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the driver took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "6": 1
     },
@@ -737,7 +767,8 @@
    "related": [
     5,
     17
-   ]
+   ],
+   "published_local": "2026-07-04T18:42"
   },
   {
    "num": 58,
@@ -778,7 +809,8 @@
    },
    "related": [
     50
-   ]
+   ],
+   "published_local": "2026-07-04T18:42"
   },
   {
    "num": 57,
@@ -794,7 +826,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 3, 7, 9, 13 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 1,
@@ -842,7 +874,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-04T18:15"
   },
   {
    "num": 56,
@@ -852,7 +885,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_covers-on_time.pdf",
    "published": "2026-07-04T18:43",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T17:43"
   },
   {
    "num": 55,
@@ -881,7 +915,8 @@
     "refs": [
      55
     ]
-   }
+   },
+   "published_local": "2026-07-04T17:31"
   },
   {
    "num": 54,
@@ -912,7 +947,8 @@
    },
    "related": [
     62
-   ]
+   ],
+   "published_local": "2026-07-04T17:25"
   },
   {
    "num": 53,
@@ -922,7 +958,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_provisional_qualifying_classification.pdf",
    "published": "2026-07-04T18:22",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T17:22"
   },
   {
    "num": 52,
@@ -951,7 +988,8 @@
     "refs": [
      52
     ]
-   }
+   },
+   "published_local": "2026-07-04T17:01"
   },
   {
    "num": 51,
@@ -983,7 +1021,8 @@
    },
    "related": [
     60
-   ]
+   ],
+   "published_local": "2026-07-04T17:01"
   },
   {
    "num": 50,
@@ -1014,7 +1053,8 @@
    },
    "related": [
     58
-   ]
+   ],
+   "published_local": "2026-07-04T16:52"
   },
   {
    "num": 49,
@@ -1027,7 +1067,8 @@
    "cars": [],
    "related": [
     68
-   ]
+   ],
+   "published_local": "2026-07-04T16:03"
   },
   {
    "num": 48,
@@ -1037,7 +1078,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_championship_points_after_sprint.pdf",
    "published": "2026-07-04T16:15",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T15:15"
   },
   {
    "num": 47,
@@ -1047,7 +1089,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_sprint_classification.pdf",
    "published": "2026-07-04T16:11",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T15:11"
   },
   {
    "num": 46,
@@ -1088,7 +1131,8 @@
    },
    "related": [
     38
-   ]
+   ],
+   "published_local": "2026-07-04T14:53"
   },
   {
    "num": 45,
@@ -1129,7 +1173,8 @@
    },
    "related": [
     40
-   ]
+   ],
+   "published_local": "2026-07-04T14:47"
   },
   {
    "num": 44,
@@ -1139,7 +1184,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_sprint_scrutineering.pdf",
    "published": "2026-07-04T14:55",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T13:55"
   },
   {
    "num": 43,
@@ -1155,7 +1201,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 3, 9 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 1,
@@ -1193,7 +1239,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-04T13:50"
   },
   {
    "num": 42,
@@ -1231,7 +1278,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-04T13:45"
   },
   {
    "num": 41,
@@ -1260,7 +1308,8 @@
     "refs": [
      41
     ]
-   }
+   },
+   "published_local": "2026-07-04T13:07"
   },
   {
    "num": 40,
@@ -1291,7 +1340,8 @@
    },
    "related": [
     45
-   ]
+   ],
+   "published_local": "2026-07-04T13:06"
   },
   {
    "num": 39,
@@ -1301,7 +1351,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_provisional_sprint_classification.pdf",
    "published": "2026-07-04T14:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T13:00"
   },
   {
    "num": 38,
@@ -1332,7 +1383,8 @@
    },
    "related": [
     46
-   ]
+   ],
+   "published_local": "2026-07-04T12:59"
   },
   {
    "num": 37,
@@ -1342,7 +1394,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_sprint_starting_grid.pdf",
    "published": "2026-07-04T12:02",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T11:02"
   },
   {
    "num": 36,
@@ -1352,7 +1405,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_sprint_parc_ferme.pdf",
    "published": "2026-07-04T11:58",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T10:58"
   },
   {
    "num": 35,
@@ -1393,7 +1447,8 @@
    },
    "related": [
     34
-   ]
+   ],
+   "published_local": "2026-07-04T10:55"
   },
   {
    "num": 34,
@@ -1406,7 +1461,8 @@
    "cars": [],
    "related": [
     35
-   ]
+   ],
+   "published_local": "2026-07-04T10:28"
   },
   {
    "num": 33,
@@ -1416,7 +1472,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_post-qualifying_procedure.pdf",
    "published": "2026-07-04T09:29",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T08:29"
   },
   {
    "num": 32,
@@ -1426,7 +1483,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_post-sprint_procedure.pdf",
    "published": "2026-07-04T09:24",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-04T08:24"
   },
   {
    "num": 31,
@@ -1436,7 +1494,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_provisional_sprint_starting_grid.pdf",
    "published": "2026-07-03T21:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T20:05"
   },
   {
    "num": 30,
@@ -1446,7 +1505,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_sprint_qualifying_classification.pdf",
    "published": "2026-07-03T21:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T20:00"
   },
   {
    "num": 29,
@@ -1491,7 +1551,8 @@
     5,
     17,
     20
-   ]
+   ],
+   "published_local": "2026-07-03T19:47"
   },
   {
    "num": 28,
@@ -1536,7 +1597,8 @@
     5,
     17,
     21
-   ]
+   ],
+   "published_local": "2026-07-03T19:47"
   },
   {
    "num": 27,
@@ -1546,7 +1608,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_fp1_and_sprint_qualifying_scrutineering.pdf",
    "published": "2026-07-03T20:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T19:46"
   },
   {
    "num": 26,
@@ -1559,7 +1622,8 @@
    "cars": [
     23
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-07-03T18:45"
   },
   {
    "num": 25,
@@ -1569,7 +1633,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_drivers_meeting.pdf",
    "published": "2026-07-03T19:24",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T18:24"
   },
   {
    "num": 24,
@@ -1658,7 +1723,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-07-03T18:10"
   },
   {
    "num": 23,
@@ -1674,7 +1740,7 @@
     "session": "Sprint Qualifying",
     "fact": "The F1 car below did not use the track at turn 3",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 1
@@ -1692,7 +1758,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-03T17:50"
   },
   {
    "num": 22,
@@ -1702,7 +1769,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_competition_notes_-_red_zone_v2.pdf",
    "published": "2026-07-03T18:45",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T17:45"
   },
   {
    "num": 21,
@@ -1737,7 +1805,8 @@
     5,
     17,
     28
-   ]
+   ],
+   "published_local": "2026-07-03T17:42"
   },
   {
    "num": 20,
@@ -1772,7 +1841,8 @@
     5,
     17,
     29
-   ]
+   ],
+   "published_local": "2026-07-03T17:39"
   },
   {
    "num": 19,
@@ -1782,7 +1852,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_provisional_sprint_qualifying_classification.pdf",
    "published": "2026-07-03T18:30",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T17:30"
   },
   {
    "num": 18,
@@ -1792,7 +1863,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_timetable_v5.pdf",
    "published": "2026-07-03T17:36",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T16:36"
   },
   {
    "num": 17,
@@ -1809,7 +1881,8 @@
     28,
     29,
     59
-   ]
+   ],
+   "published_local": "2026-07-03T15:22"
   },
   {
    "num": 16,
@@ -1903,7 +1976,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-03T14:42"
   },
   {
    "num": 15,
@@ -1913,7 +1987,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_free_practice_1_classification.pdf",
    "published": "2026-07-03T14:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T13:50"
   },
   {
    "num": 14,
@@ -1923,7 +1998,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_new_pu_elements_for_this_competition.pdf",
    "published": "2026-07-03T13:37",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T12:37"
   },
   {
    "num": 13,
@@ -1933,7 +2009,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_car_presentation_submissions.pdf",
    "published": "2026-07-03T11:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T10:00"
   },
   {
    "num": 12,
@@ -1944,7 +2021,8 @@
    "published": "2026-07-03T10:34",
    "recalled": false,
    "cars": [],
-   "superseded_by": 18
+   "superseded_by": 18,
+   "published_local": "2026-07-03T09:34"
   },
   {
    "num": 11,
@@ -1954,7 +2032,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_entry_list.pdf",
    "published": "2026-07-03T10:15",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T09:15"
   },
   {
    "num": 10,
@@ -1964,7 +2043,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_self_scrutineering.pdf",
    "published": "2026-07-03T10:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T09:05"
   },
   {
    "num": 9,
@@ -1974,7 +2054,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-07-03T10:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T09:05"
   },
   {
    "num": 8,
@@ -1984,7 +2065,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_post-sprint_qualifying_procedure.pdf",
    "published": "2026-07-03T09:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-03T08:52"
   },
   {
    "num": 7,
@@ -1994,7 +2076,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_power_unit_information.pdf",
    "published": "2026-07-02T20:04",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-02T19:04"
   },
   {
    "num": 6,
@@ -2004,7 +2087,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
    "published": "2026-07-02T17:38",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-02T16:38"
   },
   {
    "num": 5,
@@ -2022,7 +2106,8 @@
     28,
     29,
     59
-   ]
+   ],
+   "published_local": "2026-07-02T16:37"
   },
   {
    "num": 4,
@@ -2032,7 +2117,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_car_display_procedure.pdf",
    "published": "2026-07-02T17:35",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-02T16:35"
   },
   {
    "num": 3,
@@ -2043,7 +2129,8 @@
    "published": "2026-07-02T13:00",
    "recalled": false,
    "cars": [],
-   "superseded_by": 18
+   "superseded_by": 18,
+   "published_local": "2026-07-02T12:00"
   },
   {
    "num": 2,
@@ -2053,7 +2140,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_competition_visa.pdf",
    "published": "2026-07-02T12:59",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-02T11:59"
   },
   {
    "num": 1,
@@ -2063,7 +2151,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-07-02T13:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-07-02T12:00"
   }
  ]
 }

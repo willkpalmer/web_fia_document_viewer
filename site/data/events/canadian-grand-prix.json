@@ -6,6 +6,10 @@
   "doc_count": 111,
   "first_published": "2026-05-20T20:38",
   "last_published": "2026-05-29T16:49",
+  "first_local": "2026-05-20T14:38",
+  "last_local": "2026-05-29T10:49",
+  "utc_offset_min": -240,
+  "tz_source": "pdf",
   "counts": {
    "results": 16,
    "stewards": 56,
@@ -24,7 +28,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_championship_points.pdf",
    "published": "2026-05-25T03:16",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T21:16"
   },
   {
    "num": 110,
@@ -34,7 +39,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_race_classification.pdf",
    "published": "2026-05-25T03:10",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T21:10"
   },
   {
    "num": 109,
@@ -52,7 +58,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:22.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:22.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "5": 1,
      "77": 1,
@@ -83,7 +89,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-24T20:46"
   },
   {
    "num": 108,
@@ -202,7 +209,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-24T20:32"
   },
   {
    "num": 107,
@@ -213,7 +221,8 @@
    "published": "2026-05-25T02:30",
    "recalled": true,
    "cars": [],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-05-24T20:30"
   },
   {
    "num": 106,
@@ -250,7 +259,8 @@
      "Stop & go"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T20:25"
   },
   {
    "num": 105,
@@ -260,7 +270,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_race_scrutineering.pdf",
    "published": "2026-05-25T02:24",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T20:24"
   },
   {
    "num": 104,
@@ -303,7 +314,8 @@
    },
    "related": [
     92
-   ]
+   ],
+   "published_local": "2026-05-24T20:22"
   },
   {
    "num": 103,
@@ -340,7 +352,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-05-24T20:12"
   },
   {
    "num": 102,
@@ -377,7 +390,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-24T20:11"
   },
   {
    "num": 101,
@@ -414,7 +428,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-29T10:49"
   },
   {
    "num": 100,
@@ -452,7 +467,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T20:09"
   },
   {
    "num": 99,
@@ -491,7 +507,8 @@
      "Suspended"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T20:08"
   },
   {
    "num": 98,
@@ -528,7 +545,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T19:59"
   },
   {
    "num": 97,
@@ -565,7 +583,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T19:57"
   },
   {
    "num": 96,
@@ -602,7 +621,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T18:52"
   },
   {
    "num": 95,
@@ -630,7 +650,8 @@
     "refs": [
      95
     ]
-   }
+   },
+   "published_local": "2026-05-24T18:14"
   },
   {
    "num": 94,
@@ -658,7 +679,8 @@
     "refs": [
      94
     ]
-   }
+   },
+   "published_local": "2026-05-24T18:14"
   },
   {
    "num": 93,
@@ -668,7 +690,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_race_classification.pdf",
    "published": "2026-05-25T00:13",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T18:13"
   },
   {
    "num": 92,
@@ -699,7 +722,8 @@
    },
    "related": [
     104
-   ]
+   ],
+   "published_local": "2026-05-24T18:13"
   },
   {
    "num": 91,
@@ -709,7 +733,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_starting_grid.pdf",
    "published": "2026-05-24T21:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T15:00"
   },
   {
    "num": 90,
@@ -719,7 +744,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf",
    "published": "2026-05-24T20:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T14:52"
   },
   {
    "num": 89,
@@ -756,7 +782,8 @@
      "Pit lane start"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T13:08"
   },
   {
    "num": 88,
@@ -766,7 +793,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parc_ferme_issues_0.pdf",
    "published": "2026-05-24T17:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T11:46"
   },
   {
    "num": 87,
@@ -776,7 +804,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-race_procedure.pdf",
    "published": "2026-05-24T15:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T09:52"
   },
   {
    "num": 86,
@@ -786,7 +815,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_pre-race_procedure.pdf",
    "published": "2026-05-24T15:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-24T09:50"
   },
   {
    "num": 85,
@@ -796,7 +826,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_starting_grid.pdf",
    "published": "2026-05-24T01:53",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T19:53"
   },
   {
    "num": 84,
@@ -806,7 +837,8 @@
    "url": null,
    "published": "2026-05-24T01:41",
    "recalled": true,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T19:41"
   },
   {
    "num": 83,
@@ -816,7 +848,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_qualifying_classification.pdf",
    "published": "2026-05-24T01:38",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T19:38"
   },
   {
    "num": 82,
@@ -858,7 +891,8 @@
    },
    "related": [
     71
-   ]
+   ],
+   "published_local": "2026-05-23T19:23"
   },
   {
    "num": 81,
@@ -900,7 +934,8 @@
    },
    "related": [
     69
-   ]
+   ],
+   "published_local": "2026-05-23T19:23"
   },
   {
    "num": 80,
@@ -941,7 +976,8 @@
    },
    "related": [
     68
-   ]
+   ],
+   "published_local": "2026-05-23T19:22"
   },
   {
    "num": 79,
@@ -951,7 +987,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_qualifying_sc2-sc1_times.pdf",
    "published": "2026-05-24T01:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T19:20"
   },
   {
    "num": 78,
@@ -961,7 +998,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_qualifying_deleted_lap_times.pdf",
    "published": "2026-05-24T01:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T19:20"
   },
   {
    "num": 77,
@@ -1003,7 +1041,8 @@
    },
    "related": [
     67
-   ]
+   ],
+   "published_local": "2026-05-23T19:10"
   },
   {
    "num": 76,
@@ -1045,7 +1084,8 @@
    },
    "related": [
     66
-   ]
+   ],
+   "published_local": "2026-05-23T19:05"
   },
   {
    "num": 75,
@@ -1055,7 +1095,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_qualifying_scrutineering.pdf",
    "published": "2026-05-24T00:45",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T18:45"
   },
   {
    "num": 74,
@@ -1065,7 +1106,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_qualifying_classification.pdf",
    "published": "2026-05-23T23:17",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T17:17"
   },
   {
    "num": 73,
@@ -1094,7 +1136,8 @@
     "refs": [
      73
     ]
-   }
+   },
+   "published_local": "2026-05-23T17:21"
   },
   {
    "num": 72,
@@ -1123,7 +1166,8 @@
     "refs": [
      72
     ]
-   }
+   },
+   "published_local": "2026-05-23T17:23"
   },
   {
    "num": 71,
@@ -1155,7 +1199,8 @@
    },
    "related": [
     82
-   ]
+   ],
+   "published_local": "2026-05-23T17:07"
   },
   {
    "num": 70,
@@ -1169,7 +1214,8 @@
     10,
     44
    ],
-   "type": "Summons"
+   "type": "Summons",
+   "published_local": "2026-05-23T10:45"
   },
   {
    "num": 69,
@@ -1201,7 +1247,8 @@
    },
    "related": [
     81
-   ]
+   ],
+   "published_local": "2026-05-23T17:07"
   },
   {
    "num": 68,
@@ -1235,7 +1282,8 @@
    "related": [
     6,
     80
-   ]
+   ],
+   "published_local": "2026-05-23T17:04"
   },
   {
    "num": 67,
@@ -1266,7 +1314,8 @@
    },
    "related": [
     77
-   ]
+   ],
+   "published_local": "2026-05-23T17:04"
   },
   {
    "num": 66,
@@ -1297,7 +1346,8 @@
    },
    "related": [
     76
-   ]
+   ],
+   "published_local": "2026-05-23T17:04"
   },
   {
    "num": 65,
@@ -1307,7 +1357,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_new_pu_elements_for_this_competition_1.pdf",
    "published": "2026-05-23T22:33",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T16:33"
   },
   {
    "num": 64,
@@ -1348,7 +1399,8 @@
    },
    "related": [
     59
-   ]
+   ],
+   "published_local": "2026-05-23T15:53"
   },
   {
    "num": 63,
@@ -1358,7 +1410,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_championship_points_after_sprint.pdf",
    "published": "2026-05-23T21:31",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T15:31"
   },
   {
    "num": 62,
@@ -1368,7 +1421,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_sprint_classification.pdf",
    "published": "2026-05-23T21:21",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T15:21"
   },
   {
    "num": 61,
@@ -1378,7 +1432,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_sprint_scrutineering.pdf",
    "published": "2026-05-23T20:45",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T14:45"
   },
   {
    "num": 60,
@@ -1390,7 +1445,8 @@
    "recalled": false,
    "cars": [
     31
-   ]
+   ],
+   "published_local": "2026-05-23T14:41"
   },
   {
    "num": 59,
@@ -1421,7 +1477,8 @@
    },
    "related": [
     64
-   ]
+   ],
+   "published_local": "2026-05-23T14:30"
   },
   {
    "num": 58,
@@ -1431,7 +1488,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_rain_hazard_declaration.pdf",
    "published": "2026-05-23T19:53",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T13:53"
   },
   {
    "num": 57,
@@ -1468,7 +1526,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-23T13:50"
   },
   {
    "num": 56,
@@ -1506,7 +1565,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-23T13:50"
   },
   {
    "num": 55,
@@ -1543,7 +1603,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-23T13:49"
   },
   {
    "num": 54,
@@ -1580,7 +1641,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-23T13:49"
   },
   {
    "num": 53,
@@ -1674,7 +1736,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-23T13:22"
   },
   {
    "num": 52,
@@ -1686,7 +1749,8 @@
    "recalled": true,
    "cars": [
     31
-   ]
+   ],
+   "published_local": "2026-05-23T13:22"
   },
   {
    "num": 51,
@@ -1696,7 +1760,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_sprint_classification.pdf",
    "published": "2026-05-23T18:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T12:50"
   },
   {
    "num": 50,
@@ -1706,7 +1771,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_sprint_starting_grid.pdf",
    "published": "2026-05-23T17:26",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T11:26"
   },
   {
    "num": 49,
@@ -1747,7 +1813,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:18"
   },
   {
    "num": 48,
@@ -1788,7 +1855,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:17"
   },
   {
    "num": 47,
@@ -1828,7 +1896,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:14"
   },
   {
    "num": 46,
@@ -1869,7 +1938,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:14"
   },
   {
    "num": 45,
@@ -1879,7 +1949,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
    "published": "2026-05-23T17:07",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T11:07"
   },
   {
    "num": 44,
@@ -1895,7 +1966,8 @@
     47,
     48,
     49
-   ]
+   ],
+   "published_local": "2026-05-23T10:46"
   },
   {
    "num": 43,
@@ -1905,7 +1977,8 @@
    "url": null,
    "published": "2026-05-23T16:29",
    "recalled": true,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T10:29"
   },
   {
    "num": 42,
@@ -1915,7 +1988,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_curfew.pdf",
    "published": "2026-05-23T16:15",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T10:15"
   },
   {
    "num": 41,
@@ -1925,7 +1999,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-qualifying_procedure.pdf",
    "published": "2026-05-23T15:54",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T09:54"
   },
   {
    "num": 40,
@@ -1935,7 +2010,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-sprint_procedure.pdf",
    "published": "2026-05-23T15:53",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T09:53"
   },
   {
    "num": 39,
@@ -1945,7 +2021,8 @@
    "url": null,
    "published": "2026-05-23T15:52",
    "recalled": true,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-23T09:52"
   },
   {
    "num": 38,
@@ -1986,7 +2063,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-23T09:09"
   },
   {
    "num": 37,
@@ -2025,7 +2103,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-22T21:03"
   },
   {
    "num": 36,
@@ -2035,7 +2114,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_sprint_starting_grid.pdf",
    "published": "2026-05-23T02:04",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T20:04"
   },
   {
    "num": 35,
@@ -2045,7 +2125,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_final_sprint_qualifying_classification.pdf",
    "published": "2026-05-23T02:01",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T20:01"
   },
   {
    "num": 34,
@@ -2055,7 +2136,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_p1_and_sprint_qualifying_scrutineering.pdf",
    "published": "2026-05-23T01:40",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T19:40"
   },
   {
    "num": 33,
@@ -2144,7 +2226,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-22T19:10"
   },
   {
    "num": 32,
@@ -2159,7 +2242,7 @@
    "details": {
     "session": "Sprint Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. No. Turn Car         Driver                   Competitor                                     Time of Day      Lap Time 1   3    6           Isack Hadjar             Oracle Red Bull Racing                         16:40:07         PIT 2      3     18      Lance Stroll             Aston Martin Aramco F1 Team                    16:40:08         PIT 3      3     44      Lewis Hamilton           Scuderia Ferrari HP                            16:40:11         PIT",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "refs": [
      32
@@ -2168,7 +2251,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-22T19:10"
   },
   {
    "num": 31,
@@ -2193,7 +2277,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-22T19:09"
   },
   {
    "num": 30,
@@ -2219,7 +2304,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-22T18:47"
   },
   {
    "num": 29,
@@ -2229,7 +2315,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf",
    "published": "2026-05-23T00:37",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T18:37"
   },
   {
    "num": 28,
@@ -2239,7 +2326,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_provisional_sprint_qualifying_classification.pdf",
    "published": "2026-05-22T23:51",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T17:51"
   },
   {
    "num": 27,
@@ -2265,7 +2353,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-22T17:50"
   },
   {
    "num": 26,
@@ -2303,8 +2392,9 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 50000
-   }
+    "fine_eur": 30000
+   },
+   "published_local": "2026-05-22T17:24"
   },
   {
    "num": 25,
@@ -2317,7 +2407,8 @@
    "cars": [
     30
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-05-22T16:38"
   },
   {
    "num": 24,
@@ -2332,7 +2423,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. 1      4     18      Lance Stroll             Aston Martin Aramco F1 Team                    12:38:07         1:35.239 2      4     12      Kimi Antonelli           Mercedes-AMG PETRONAS F1 Team 12:38:09                          1:41.379 3      7     55      Carlos Sainz             Atlassian Williams F1 Team                     12:57:26         PIT 4      7     63      George Russell           Mercedes-AMG PETRONAS F1 Team 12:57:26                          PIT 5      1     31      Esteban Ocon             TGR Haas F1 Team                               13:41:18         1:27.343 6      1     44      Lewis Hamilton           Scuderia Ferrari HP                            13:41:20         1:49.189 7      1     10      Pierre Gasly             BWT Alpine F1 Team                             13:41:21         1:40.561 8      1     16      Charles Leclerc          Scuderia Ferrari HP                            13:41:24         1:28.037 9      1     87      Oliver Bearman           TGR Haas F1 Team                               13:41:26         1:29.883 10     4     77      Valtteri Bottas          Cadillac Formula 1 Team                        13:43:02         PIT 11     4     16      Charles Leclerc          Scuderia Ferrari HP                            13:43:11         PIT 12     4     87      Oliver Bearman           TGR Haas F1 Team                               13:43:16         PIT",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "refs": [
      6,
@@ -2345,7 +2436,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-22T16:18"
   },
   {
    "num": 23,
@@ -2370,7 +2462,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-22T16:18"
   },
   {
    "num": 22,
@@ -2407,7 +2500,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-22T14:31"
   },
   {
    "num": 21,
@@ -2417,7 +2511,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_free_practice_1_classification.pdf",
    "published": "2026-05-22T20:15",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T14:15"
   },
   {
    "num": 20,
@@ -2427,7 +2522,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
    "published": "2026-05-22T20:12",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T14:12"
   },
   {
    "num": 19,
@@ -2455,7 +2551,8 @@
     "refs": [
      19
     ]
-   }
+   },
+   "published_local": "2026-05-22T13:56"
   },
   {
    "num": 18,
@@ -2493,7 +2590,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 1000
-   }
+   },
+   "published_local": "2026-05-22T13:34"
   },
   {
    "num": 17,
@@ -2513,7 +2611,8 @@
     "refs": [
      17
     ]
-   }
+   },
+   "published_local": "2026-05-22T13:28"
   },
   {
    "num": 16,
@@ -2523,7 +2622,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
    "published": "2026-05-22T18:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T12:52"
   },
   {
    "num": 15,
@@ -2533,7 +2633,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_post-sprint_qualifying_procedure_v2.pdf",
    "published": "2026-05-22T18:29",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T12:29"
   },
   {
    "num": 14,
@@ -2543,7 +2644,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_entry_list.pdf",
    "published": "2026-05-22T16:23",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T10:23"
   },
   {
    "num": 13,
@@ -2553,7 +2655,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_self_scrutineering.pdf",
    "published": "2026-05-22T16:18",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T10:18"
   },
   {
    "num": 12,
@@ -2563,7 +2666,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-05-22T16:18",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T10:18"
   },
   {
    "num": 11,
@@ -2573,7 +2677,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_car_presentation_submissions.pdf",
    "published": "2026-05-22T16:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T10:00"
   },
   {
    "num": 10,
@@ -2584,7 +2689,8 @@
    "published": "2026-05-22T15:14",
    "recalled": false,
    "cars": [],
-   "superseded_by": 15
+   "superseded_by": 15,
+   "published_local": "2026-05-22T09:14"
   },
   {
    "num": 9,
@@ -2594,7 +2700,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_notes_-_circuit_map_v2.pdf",
    "published": "2026-05-22T15:04",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-22T09:04"
   },
   {
    "num": 8,
@@ -2604,7 +2711,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
    "published": "2026-05-22T00:12",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-21T18:12"
   },
   {
    "num": 7,
@@ -2614,7 +2722,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_car_display_procedure.pdf",
    "published": "2026-05-21T23:55",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-21T17:55"
   },
   {
    "num": 6,
@@ -2632,7 +2741,8 @@
     38,
     68,
     109
-   ]
+   ],
+   "published_local": "2026-05-21T17:31"
   },
   {
    "num": 5,
@@ -2642,7 +2752,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_power_unit_information.pdf",
    "published": "2026-05-21T16:10",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-21T10:10"
   },
   {
    "num": 4,
@@ -2652,7 +2763,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_timetable_v3.pdf",
    "published": "2026-05-21T14:56",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-21T08:56"
   },
   {
    "num": 3,
@@ -2662,7 +2774,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-05-20T21:31",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-20T15:31"
   },
   {
    "num": 2,
@@ -2674,7 +2787,8 @@
    "recalled": false,
    "cars": [
     55
-   ]
+   ],
+   "published_local": "2026-05-20T14:48"
   },
   {
    "num": 1,
@@ -2684,7 +2798,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_canadian_grand_prix_-_competition_visa.pdf",
    "published": "2026-05-20T20:38",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-05-20T14:38"
   }
  ]
 }

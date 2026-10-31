@@ -6,6 +6,10 @@
   "doc_count": 55,
   "first_published": "2026-06-24T14:17",
   "last_published": "2026-06-28T19:24",
+  "first_local": "2026-06-24T14:17",
+  "last_local": "2026-06-28T19:24",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
   "counts": {
    "stewards": 21,
    "results": 10,
@@ -51,7 +55,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T19:24"
   },
   {
    "num": 54,
@@ -61,7 +66,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_championship_points.pdf",
    "published": "2026-06-28T18:56",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T18:56"
   },
   {
    "num": 53,
@@ -71,7 +77,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_final_race_classification.pdf",
    "published": "2026-06-28T18:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T18:50"
   },
   {
    "num": 52,
@@ -81,7 +88,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_race_scrutineering.pdf",
    "published": "2026-06-28T18:18",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T18:18"
   },
   {
    "num": 51,
@@ -118,7 +126,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T17:46"
   },
   {
    "num": 50,
@@ -155,7 +164,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T17:42"
   },
   {
    "num": 49,
@@ -196,7 +206,8 @@
    },
    "related": [
     43
-   ]
+   ],
+   "published_local": "2026-06-28T17:41"
   },
   {
    "num": 48,
@@ -209,7 +220,8 @@
    "cars": [
     11
    ],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-06-28T17:38"
   },
   {
    "num": 47,
@@ -250,7 +262,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-28T17:38"
   },
   {
    "num": 46,
@@ -266,7 +279,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 1, 3, 6, 8, 9 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note          Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 3,
@@ -339,7 +352,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-28T17:06"
   },
   {
    "num": 45,
@@ -376,7 +390,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T17:00"
   },
   {
    "num": 44,
@@ -386,7 +401,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_provisional_race_classification.pdf",
    "published": "2026-06-28T16:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T16:46"
   },
   {
    "num": 43,
@@ -419,7 +435,8 @@
    "related": [
     6,
     49
-   ]
+   ],
+   "published_local": "2026-06-28T16:45"
   },
   {
    "num": 42,
@@ -456,7 +473,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-28T16:31"
   },
   {
    "num": 41,
@@ -466,7 +484,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_final_starting_grid.pdf",
    "published": "2026-06-28T14:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T14:00"
   },
   {
    "num": 40,
@@ -476,7 +495,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
    "published": "2026-06-28T13:51",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T13:51"
   },
   {
    "num": 39,
@@ -486,7 +506,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_post-race_procedure.pdf",
    "published": "2026-06-28T10:13",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T10:13"
   },
   {
    "num": 38,
@@ -496,7 +517,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_pre-race_procedure.pdf",
    "published": "2026-06-28T10:10",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-28T10:10"
   },
   {
    "num": 37,
@@ -506,7 +528,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_provisional_starting_grid.pdf",
    "published": "2026-06-27T20:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T20:00"
   },
   {
    "num": 36,
@@ -516,7 +539,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_final_qualifying_classification.pdf",
    "published": "2026-06-27T19:56",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T19:56"
   },
   {
    "num": 35,
@@ -526,7 +550,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
    "published": "2026-06-27T19:35",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T19:35"
   },
   {
    "num": 34,
@@ -544,7 +569,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:12.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:12.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "31": 3,
      "63": 4,
@@ -620,7 +645,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-27T18:20"
   },
   {
    "num": 33,
@@ -635,7 +661,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "6": 1,
@@ -693,7 +719,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-27T18:14"
   },
   {
    "num": 32,
@@ -736,7 +763,8 @@
    "related": [
     6,
     29
-   ]
+   ],
+   "published_local": "2026-06-27T18:13"
   },
   {
    "num": 31,
@@ -752,7 +780,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 1 and 3.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "44": 1,
@@ -775,7 +803,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-27T18:09"
   },
   {
    "num": 30,
@@ -785,7 +814,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_provisional_qualifying_classification.pdf",
    "published": "2026-06-27T17:21",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T17:21"
   },
   {
    "num": 29,
@@ -818,7 +848,8 @@
    "related": [
     6,
     32
-   ]
+   ],
+   "published_local": "2026-06-27T17:10"
   },
   {
    "num": 28,
@@ -834,7 +865,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 1, 3 and 9.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "11": 2,
@@ -892,7 +923,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-27T15:21"
   },
   {
    "num": 27,
@@ -902,7 +934,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_free_practice_3_classification.pdf",
    "published": "2026-06-27T13:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T13:46"
   },
   {
    "num": 26,
@@ -912,7 +945,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_curfew_0.pdf",
    "published": "2026-06-27T10:23",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T10:23"
   },
   {
    "num": 25,
@@ -922,7 +956,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_post-qualifying_procedure.pdf",
    "published": "2026-06-27T09:31",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-27T09:31"
   },
   {
    "num": 24,
@@ -932,7 +967,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_p1_and_p2_scrutineering.pdf",
    "published": "2026-06-26T19:36",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T19:36"
   },
   {
    "num": 23,
@@ -942,7 +978,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_timetable_v4.pdf",
    "published": "2026-06-26T19:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T19:20"
   },
   {
    "num": 22,
@@ -952,7 +989,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
    "published": "2026-06-26T18:28",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T18:28"
   },
   {
    "num": 21,
@@ -967,7 +1005,7 @@
    "details": {
     "session": "Free Practice 2",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "16": 1,
@@ -994,7 +1032,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-26T18:26"
   },
   {
    "num": 20,
@@ -1010,7 +1049,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 1, 3 and 6.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 1,
@@ -1083,7 +1122,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-26T18:23"
   },
   {
    "num": 19,
@@ -1093,7 +1133,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_free_practice_2_classification.pdf",
    "published": "2026-06-26T18:16",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T18:16"
   },
   {
    "num": 18,
@@ -1108,7 +1149,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "81": 1,
@@ -1135,7 +1176,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-26T14:51"
   },
   {
    "num": 17,
@@ -1151,7 +1193,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 1, 3, 4 and 8.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "77": 1,
@@ -1224,7 +1266,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-26T14:51"
   },
   {
    "num": 16,
@@ -1234,7 +1277,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_free_practice_1_classification.pdf",
    "published": "2026-06-26T14:45",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T14:45"
   },
   {
    "num": 15,
@@ -1244,7 +1288,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_new_pu_elements_for_this_competition.pdf",
    "published": "2026-06-26T14:25",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T14:25"
   },
   {
    "num": 14,
@@ -1254,7 +1299,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_car_presentation_submissions.pdf",
    "published": "2026-06-26T11:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T11:00"
   },
   {
    "num": 13,
@@ -1264,7 +1310,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_curfew.pdf",
    "published": "2026-06-26T10:27",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T10:27"
   },
   {
    "num": 12,
@@ -1282,7 +1329,8 @@
     "refs": [
      12
     ]
-   }
+   },
+   "published_local": "2026-06-26T10:23"
   },
   {
    "num": 11,
@@ -1292,7 +1340,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_entry_list.pdf",
    "published": "2026-06-26T10:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T10:05"
   },
   {
    "num": 10,
@@ -1302,7 +1351,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_self_scrutineering.pdf",
    "published": "2026-06-26T09:51",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T09:51"
   },
   {
    "num": 9,
@@ -1312,7 +1362,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-06-26T09:39",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-26T09:39"
   },
   {
    "num": 8,
@@ -1322,7 +1373,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_car_display_procedure.pdf",
    "published": "2026-06-25T18:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-25T18:20"
   },
   {
    "num": 7,
@@ -1332,7 +1384,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
    "published": "2026-06-25T17:25",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-25T17:25"
   },
   {
    "num": 6,
@@ -1351,7 +1404,8 @@
     34,
     43,
     47
-   ]
+   ],
+   "published_local": "2026-06-25T17:21"
   },
   {
    "num": 5,
@@ -1361,7 +1415,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_power_unit_information.pdf",
    "published": "2026-06-25T11:56",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-25T11:56"
   },
   {
    "num": 4,
@@ -1371,7 +1426,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_heat_hazard_declaration_.pdf",
    "published": "2026-06-25T09:14",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-25T09:14"
   },
   {
    "num": 3,
@@ -1381,7 +1437,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-06-24T17:26",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-24T17:26"
   },
   {
    "num": 2,
@@ -1391,7 +1448,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_austrian_grand_prix_-_competition_visa.pdf",
    "published": "2026-06-24T17:16",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-06-24T17:16"
   },
   {
    "num": 1,
@@ -1403,7 +1461,8 @@
    "recalled": false,
    "cars": [
     44
-   ]
+   ],
+   "published_local": "2026-06-24T14:17"
   }
  ]
 }

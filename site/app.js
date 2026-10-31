@@ -44,6 +44,19 @@ function fmtRange(a, b) {
   if (!a) return "";
   return a.slice(0, 10) === (b || "").slice(0, 10) ? fmtWhen(a, false) : `${fmtWhen(a, false)} – ${fmtWhen(b, false)}`;
 }
+function eventFor(d) {
+  return S.index.events.find((e) => e.slug === (d.event_slug || S.currentSlug));
+}
+function localTime(d) { return d.published_local || d.published; }
+function fmtOffset(min) {
+  if (min == null) return "";
+  const sign = min < 0 ? "−" : "+", a = Math.abs(min);
+  return `UTC${sign}${Math.floor(a / 60)}${a % 60 ? ":" + String(a % 60).padStart(2, "0") : ""}`;
+}
+function whenTitle(d) {
+  const ev = eventFor(d);
+  return `Published ${fmtWhen(localTime(d))} track time (${fmtOffset(ev?.utc_offset_min)}) · ${fmtWhen(d.published)} Paris`;
+}
 const euro = (n) => "€" + n.toLocaleString("en-GB");
 
 function driverLabel(car) {
@@ -64,6 +77,24 @@ function searchText(doc) {
 function stripTypePrefix(subject, type) {
   return subject.replace(/^\(?(corrected\s+)?(infringe?ment|infringment|summons|decision)\)?\s*[-–]?\s*/i, "")
     .replace(/^car\s+\d+\s*[-–;:]\s*/i, "") || subject;
+}
+
+/* ------------------------------------------------------------------ track clock */
+
+let clockEvent = null, clockTimer = null;
+function setClock(ev) {
+  clockEvent = ev || null;
+  $("#clock").hidden = !clockEvent || clockEvent.utc_offset_min == null;
+  tickClock();
+  if (!clockTimer) clockTimer = setInterval(tickClock, 1000);
+}
+function tickClock() {
+  if (!clockEvent || clockEvent.utc_offset_min == null) return;
+  const t = new Date(Date.now() + clockEvent.utc_offset_min * 60000);
+  const p2 = (n) => String(n).padStart(2, "0");
+  $("#clockTime").textContent = `${p2(t.getUTCHours())}:${p2(t.getUTCMinutes())}:${p2(t.getUTCSeconds())}`;
+  $("#clockDay").textContent = `${DAYS[t.getUTCDay()]} ${t.getUTCDate()} ${MONTHS[t.getUTCMonth()]}`;
+  $("#clockWhere").textContent = `${clockEvent.name.replace(/ Grand Prix$/, " GP")} · ${fmtOffset(clockEvent.utc_offset_min)}`;
 }
 
 /* ------------------------------------------------------------------ boot */
@@ -99,7 +130,7 @@ async function boot() {
 function renderSidebar(activeSlug) {
   const pens = (e) => e.counts?.stewards || 0;
   $("#eventList").innerHTML = S.index.events.slice().reverse().map((e) => `
-    <li><a href="#/event/${esc(e.slug)}" class="${e.slug === activeSlug ? "active" : ""}" title="${esc(fmtRange(e.first_published, e.last_published))}">
+    <li><a href="#/event/${esc(e.slug)}" class="${e.slug === activeSlug ? "active" : ""}" title="${esc(fmtRange(e.first_local, e.last_local))}">
       <span class="rnd">R${e.round}</span>
       <span>${esc(e.name.replace(/ Grand Prix$/, " GP"))}</span>
       <span class="cnt" title="${e.doc_count} documents, ${pens(e)} stewards documents">${e.doc_count}</span>
@@ -114,11 +145,14 @@ async function render() {
   $("#navPen").classList.toggle("active", view === "penalties");
   if (view === "penalties") {
     renderSidebar(null);
+    setClock(S.index.events[S.index.events.length - 1]);
     return renderPenalties(params);
   }
   const latest = S.index.events[S.index.events.length - 1];
   const slug = parts[1] || latest?.slug;
   renderSidebar(slug);
+  S.currentSlug = slug;
+  setClock(S.index.events.find((e) => e.slug === slug));
   if (!slug) { $("#main").innerHTML = `<p class="empty">No events yet.</p>`; return; }
   if (!S.events[slug]) {
     $("#main").innerHTML = `<p class="muted">Loading…</p>`;
@@ -177,7 +211,7 @@ function renderEvent(data, params) {
       <div>
         <div class="meta">Round ${ev.round} · ${esc(data.season)}</div>
         <h2>${esc(ev.name)}</h2>
-        <div class="meta">${ev.doc_count} documents · ${esc(fmtRange(ev.first_published, ev.last_published))}</div>
+        <div class="meta">${ev.doc_count} documents · ${esc(fmtRange(ev.first_local, ev.last_local))} · times shown in track time (${fmtOffset(ev.utc_offset_min)})</div>
       </div>
       <div class="src">${pdfLink}</div>
     </div>
@@ -213,11 +247,13 @@ function renderEvent(data, params) {
       const list = docs.filter((d) => d.category === c.id);
       if (!list.length) continue;
       html += `<section class="section">
-        <h3 class="section-h" style="${catVar(c.id)}"><span class="dot"></span>${esc(c.label)} <span class="c">${list.length}</span></h3>
-        <div class="card">${list.map((d) => docHTML(d, false)).join("")}</div></section>`;
+        <h3 class="section-h" style="${catVar(c.id)}"><span class="dot"></span>${esc(c.label)} <span class="c">${list.length}</span>
+          ${c.id === "stewards" ? `<span class="spacer"></span>${expandToggle("#sec-stewards")}` : ""}</h3>
+        <div class="card" id="sec-${c.id}">${list.map((d) => docHTML(d, false)).join("")}</div></section>`;
     }
   } else {
-    html += `<div class="card">${docs.map((d) => docHTML(d, true)).join("")}</div>`;
+    html += `<div class="section-h"><span class="spacer"></span>${expandToggle("#flat")}</div>
+      <div class="card" id="flat">${docs.map((d) => docHTML(d, true)).join("")}</div>`;
   }
   $("#main").innerHTML = html;
 
@@ -242,6 +278,7 @@ function renderEvent(data, params) {
   const clr = $("#clear");
   if (clr) clr.onclick = () => updateParams((p) => { for (const k of ["cat", "q", "car", "stype"]) p.delete(k); });
   wireRelated();
+  wireExpand();
   const qi = $("#q");
   if (sessionStorageGet("focusQ")) { qi.focus(); qi.setSelectionRange(qi.value.length, qi.value.length); }
   qi.onfocus = () => sessionStorageSet("focusQ", "1");
@@ -257,6 +294,7 @@ function wireRelated() {
       const el = document.getElementById(a.dataset.goto);
       if (!el) return; // not visible under current filters: let the PDF link open instead
       e.preventDefault();
+      if (el.tagName === "DETAILS") el.open = true;
       el.scrollIntoView({ behavior: "smooth", block: "center" });
       el.classList.remove("flash"); void el.offsetWidth; el.classList.add("flash");
     };
@@ -279,8 +317,13 @@ function docHTML(d, showCat) {
   return `<div class="doc ${d.recalled ? "recalled" : ""} ${d.superseded_by ? "superseded" : ""}" id="doc-${d.num}">
     <div class="num">${d.num != null ? "Doc " + d.num : ""}</div>
     <div class="t">${titleLink(d, d.subject)}${pills.length ? `<div class="tagline">${pills.join("")}</div>` : ""}</div>
-    <div class="when" title="Published (CET)">${esc(fmtWhen(d.published))}</div>
+    <div class="when" title="${esc(whenTitle(d))}">${esc(fmtWhen(localTime(d)))}</div>
   </div>`;
+}
+
+function shortName(full) {
+  const parts = (full || "").trim().split(/\s+/);
+  return parts.length > 1 ? parts.slice(1).join(" ") : parts[0] || "";
 }
 
 function rulingHTML(d, { showCat = false, event = null } = {}) {
@@ -288,57 +331,84 @@ function rulingHTML(d, { showCat = false, event = null } = {}) {
   const drivers = docDrivers(d);
   const typeKey = (d.type || "").split(" ")[0];
   const isTable = !!det.table_rows;
-  const who = isTable ? "" : drivers.length
-    ? drivers.map((x) => `#${x.car} ${esc(x.name || S.index.drivers[String(x.car)]?.name || "")}`).join(", ")
-    : esc(det.competitor || "");
-  const team = drivers.length && det.competitor ? ` <span class="team">· ${esc(det.competitor)}</span>` : "";
-  const headBits = [d.type, det.session].filter(Boolean).map(esc).join(" · ");
-  const subject = stripTypePrefix(d.subject, d.type);
   const isSummons = d.type === "Summons";
-  const pills = [];
-  if (showCat) pills.push(`<span class="pill cat-pill" style="${catVar("stewards")}">Stewards</span>`);
-  if (d.recalled) pills.push(`<span class="pill">Recalled</span>`);
-  if (isTable) {
-    for (const [car, n] of Object.entries(det.table_rows).sort((a, b) => b[1] - a[1] || a[0] - b[0])) {
-      pills.push(`<span class="pill">${esc(driverLabel(car))}${n > 1 ? " ×" + n : ""}</span>`);
-    }
-  }
+  const subject = stripTypePrefix(d.subject, d.type);
+  const nameOf = (x) => x.name || S.index.drivers[String(x.car)]?.name || "";
 
-  let body = "";
-  if (det.fact && det.fact.toLowerCase() !== subject.toLowerCase()) body += `<div class="fact muted">${esc(det.fact)}</div>`;
-  if (isSummons && det.reason) body += `<div class="fact muted">${esc(det.reason)}</div>`;
-  if (det.infringement) body += `<div class="fact muted" style="font-size:12px">${esc(det.infringement)}</div>`;
-  if (det.decision) {
-    const oc = `var(--o-${det.outcome || "other"})`;
-    body += `<div class="outcome" style="--oc:${oc}"><b>Decision</b>${esc(det.decision)}
-      ${det.tags?.length ? `<div class="tagline">${det.tags.map((t) =>
-        `<span class="pill o-${det.outcome || "other"}">${esc(t)}</span>`).join("")}</div>` : ""}</div>`;
+  // ---- one-line summary
+  let whoShort = "";
+  if (isTable) whoShort = `${Object.keys(det.table_rows).length} cars`;
+  else if (drivers.length) whoShort = drivers.map((x) => `#${x.car} ${esc(shortName(nameOf(x)))}`).join(", ");
+  else if (det.competitor) whoShort = esc(det.competitor);
+  const linePills = [];
+  if (event) {
+    const ev = S.index.events.find((e) => e.slug === d.event_slug);
+    linePills.push(`<span class="pill ev-pill">R${ev?.round ?? ""} ${esc(event.replace(/ Grand Prix$/, ""))}</span>`);
   }
-  if (!isSummons && det.reason) body += `<details><summary>Stewards' reasoning</summary><p>${esc(det.reason)}</p></details>`;
+  if (showCat) linePills.push(`<span class="pill cat-pill" style="${catVar("stewards")}">Stewards</span>`);
+  if (d.recalled) linePills.push(`<span class="pill">Recalled</span>`);
+  const outcomeTags = (det.tags || []).filter((t) => t !== "Fine" || !det.fine_eur);
+  if (det.fine_eur) outcomeTags.push(euro(det.fine_eur) + " fine");
+  const outPills = outcomeTags.map((t) => `<span class="pill o-${det.outcome || "other"}">${esc(t)}</span>`).join("");
+
+  // ---- expanded detail
+  let body = "";
+  const who = isTable ? "" : drivers.length
+    ? drivers.map((x) => `#${x.car} ${esc(nameOf(x))}`).join(", ") : esc(det.competitor || "");
+  const meta = [who && `<b>${who}</b>`, drivers.length && det.competitor && esc(det.competitor), det.session && esc(det.session),
+    det.time && `Incident ${esc(det.time)}`].filter(Boolean);
+  if (meta.length) body += `<div class="meta-line">${meta.join(" · ")}</div>`;
+  if (isTable) {
+    body += `<div class="tagline">${Object.entries(det.table_rows).sort((a, b) => b[1] - a[1] || a[0] - b[0])
+      .map(([car, n]) => `<span class="pill">${esc(driverLabel(car))}${n > 1 ? " ×" + n : ""}</span>`).join("")}</div>`;
+  }
+  if (det.fact && det.fact.toLowerCase() !== subject.toLowerCase()) body += `<div class="fact">${esc(det.fact)}</div>`;
+  if (isSummons && det.reason) body += `<div class="fact">${esc(det.reason)}</div>`;
+  if (det.infringement) body += `<div class="fact muted small">${esc(det.infringement)}</div>`;
+  if (det.decision) {
+    body += `<div class="outcome" style="--oc:var(--o-${det.outcome || "other"})"><b>Decision</b>${esc(det.decision)}</div>`;
+  }
+  if (!isSummons && det.reason) body += `<details class="sub"><summary>Stewards' reasoning</summary><p>${esc(det.reason)}</p></details>`;
   if (det.summary) {
     const short = det.summary.length > 320 ? det.summary.slice(0, 300).replace(/\s+\S*$/, "") + "…" : det.summary;
-    body += `<div class="fact muted">${esc(short)}</div>`;
-    if (short !== det.summary) body += `<details><summary>Full text</summary><p>${esc(det.summary)}</p></details>`;
+    body += `<div class="fact">${esc(short)}</div>`;
+    if (short !== det.summary) body += `<details class="sub"><summary>Full text</summary><p>${esc(det.summary)}</p></details>`;
   }
-  if (det.from && !/stewards/i.test(det.from)) body += `<div class="rel">From: ${esc(det.from)}</div>`;
-  if (d.related?.length) {
-    body += `<div class="rel">Related: ${d.related.map((n) =>
-      `<a href="#" data-goto="doc-${n}">Doc ${n}</a>`).join("")}</div>`;
-  }
-  const evLink = event ? `<div class="ev-link"><a href="#/event/${esc(d.event_slug)}">${esc(event)}</a></div>` : "";
+  const foot = [];
+  if (d.url) foot.push(`<a href="${esc(d.url)}" target="_blank" rel="noopener">Open PDF ↗</a>`);
+  if (event) foot.push(`<a href="#/event/${esc(d.event_slug)}">Go to ${esc(event)}</a>`);
+  if (det.from && !/stewards/i.test(det.from)) foot.push(`From: ${esc(det.from)}`);
+  if (d.related?.length) foot.push(`Related: ${d.related.map((n) => `<a href="#" data-goto="doc-${n}">Doc ${n}</a>`).join(" ")}`);
+  if (foot.length) body += `<div class="rel">${foot.join('<span class="sep">·</span>')}</div>`;
 
-  return `<div class="ruling ${d.recalled ? "recalled" : ""}" id="${event ? "" : "doc-" + d.num}">
-    <div class="num muted" style="font-size:12px">${d.num != null ? "Doc " + d.num : ""}</div>
-    <div style="min-width:0">
-      ${evLink}
-      <div class="type type-${esc(typeKey)}">${headBits}</div>
-      ${who ? `<div class="who">${who}${team}</div>` : ""}
-      <div class="fact">${titleLink(d, subject)}</div>
-      ${pills.length ? `<div class="tagline">${pills.join("")}</div>` : ""}
-      ${body}
-    </div>
-    <div class="when muted" style="font-size:12px" title="Published (CET)">${esc(fmtWhen(d.published))}</div>
-  </div>`;
+  return `<details class="ruling ${d.recalled ? "recalled" : ""}" ${event ? "" : `id="doc-${d.num}"`}>
+    <summary>
+      <span class="num">${d.num != null ? "Doc " + d.num : ""}</span>
+      <span class="line">
+        ${linePills.join("")}
+        <span class="type type-${esc(typeKey)}">${esc(d.type || "")}</span>
+        ${whoShort ? `<span class="who">${whoShort}</span>` : ""}
+        <span class="subj">${esc(subject)}</span>
+        ${outPills}
+      </span>
+      <span class="when" title="${esc(whenTitle(d))}">${esc(fmtWhen(localTime(d)))}</span>
+    </summary>
+    <div class="ruling-body">${body || `<div class="muted">No further detail parsed from this document.</div>`}</div>
+  </details>`;
+}
+
+function expandToggle(scopeSel) {
+  return `<button class="btn btn-sm" data-expand="${scopeSel}">Expand all</button>`;
+}
+function wireExpand() {
+  for (const b of document.querySelectorAll("[data-expand]")) {
+    b.onclick = () => {
+      const items = document.querySelectorAll(`${b.dataset.expand} details.ruling`);
+      const open = b.textContent === "Expand all";
+      items.forEach((d) => { d.open = open; });
+      b.textContent = open ? "Collapse all" : "Expand all";
+    };
+  }
 }
 
 /* ------------------------------------------------------------------ penalties view */
@@ -453,8 +523,9 @@ async function renderPenalties(params) {
       </table></div>
     </section>
     <section class="section">
-      <h3 class="section-h" style="${catVar("stewards")}"><span class="dot"></span>Rulings${whoLabel ? " · " + esc(whoLabel) : ""} <span class="c">${rows.length}</span></h3>
-      <div class="card">${rows.length ? rows.slice().sort((a, b) => (b.published || "").localeCompare(a.published || ""))
+      <h3 class="section-h" style="${catVar("stewards")}"><span class="dot"></span>Rulings${whoLabel ? " · " + esc(whoLabel) : ""} <span class="c">${rows.length}</span>
+        <span class="spacer"></span>${expandToggle("#pen-rulings")}</h3>
+      <div class="card" id="pen-rulings">${rows.length ? rows.slice().sort((a, b) => (b.published || "").localeCompare(a.published || ""))
         .map((d) => rulingHTML(d, { event: d.event })).join("") : `<div class="empty">No rulings match.</div>`}</div>
     </section>`;
 
@@ -468,6 +539,7 @@ async function renderPenalties(params) {
   $("#outcome").onchange = (e) => updateParams((p) => p.set("outcome", e.target.value));
   const clr = $("#clear");
   if (clr) clr.onclick = () => updateParams((p) => { for (const k of ["who", "outcome", "event", "q"]) p.delete(k); });
+  wireExpand();
   for (const tr of document.querySelectorAll("tbody tr[data-who]")) {
     tr.onclick = () => updateParams((p) => p.set("who", p.get("who") === tr.dataset.who ? "" : tr.dataset.who));
   }

@@ -21,7 +21,9 @@ import subprocess
 import sys
 import tempfile
 import time
-from datetime import datetime, timezone
+from collections import Counter
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from urllib.parse import unquote, urljoin
 
@@ -95,6 +97,61 @@ def slugify(s: str) -> str:
 DOC_PREFIX = re.compile(r"^(?:doc|document)\s*(\d+)\s*[-–:]?\s*", re.I)
 RECALLED = re.compile(r"^recalled\s*[-–:]?\s*", re.I)
 VERSION = re.compile(r"\s*\b(v\d+|amended|revised following ica judgement\s*-?)\b\s*", re.I)
+
+
+PARIS = ZoneInfo("Europe/Paris")  # fia.com labels times "CET" but they follow Paris summer time
+
+# Fallback only, used before an event has any stewards PDFs to infer the offset from.
+# Matched against the event name; the venue can differ from the name (e.g. 2026
+# "Bahrain Grand Prix in Malaysia"), so the PDF-derived offset always wins.
+EVENT_TZ = [
+    ("australia", "Australia/Melbourne"), ("chin", "Asia/Shanghai"), ("japan", "Asia/Tokyo"),
+    ("bahrain", "Asia/Bahrain"), ("saudi", "Asia/Riyadh"), ("miami", "America/New_York"),
+    ("emilia", "Europe/Rome"), ("monaco", "Europe/Monaco"), ("spanish", "Europe/Madrid"),
+    ("barcelona", "Europe/Madrid"), ("madrid", "Europe/Madrid"), ("canad", "America/Toronto"),
+    ("austria", "Europe/Vienna"), ("british", "Europe/London"), ("belgi", "Europe/Brussels"),
+    ("hungar", "Europe/Budapest"), ("dutch", "Europe/Amsterdam"), ("ital", "Europe/Rome"),
+    ("azerbaijan", "Asia/Baku"), ("singapore", "Asia/Singapore"), ("united states", "America/Chicago"),
+    ("mexic", "America/Mexico_City"), ("sao paulo", "America/Sao_Paulo"), ("são paulo", "America/Sao_Paulo"), ("brazil", "America/Sao_Paulo"),
+    ("las vegas", "America/Los_Angeles"), ("qatar", "Asia/Qatar"), ("abu dhabi", "Asia/Dubai"),
+    ("malaysia", "Asia/Kuala_Lumpur"), ("portug", "Europe/Lisbon"), ("turk", "Europe/Istanbul"),
+]
+
+
+def paris_to_utc(iso: str) -> datetime:
+    return datetime.fromisoformat(iso).replace(tzinfo=PARIS).astimezone(timezone.utc)
+
+
+def infer_offset(samples) -> int | None:
+    """samples: (published Paris ISO, local 'HH:MM' from the PDF). Returns UTC offset in minutes."""
+    votes = Counter()
+    for pub, hhmm in samples:
+        utc = paris_to_utc(pub)
+        h, m = map(int, hhmm.split(":"))
+        utc_min = utc.hour * 60 + utc.minute
+        # documents are published a few minutes after the time printed on them
+        diff = (h * 60 + m - utc_min + 5) % 1440
+        if diff > 840:
+            diff -= 1440
+        votes[round(diff / 30) * 30] += 1
+    if not votes:
+        return None
+    off, n = votes.most_common(1)[0]
+    return off if n >= 2 or len(votes) == 1 else None
+
+
+def fallback_offset(name: str, when: str | None) -> int:
+    at = paris_to_utc(when) if when else datetime.now(timezone.utc)
+    for key, tz in EVENT_TZ:
+        if key in name.lower():
+            return int(at.astimezone(ZoneInfo(tz)).utcoffset().total_seconds() // 60)
+    return int(at.astimezone(PARIS).utcoffset().total_seconds() // 60)
+
+
+def to_local(pub: str | None, offset_min: int) -> str | None:
+    if not pub:
+        return None
+    return (paris_to_utc(pub) + timedelta(minutes=offset_min)).strftime("%Y-%m-%dT%H:%M")
 
 
 def parse_published(s: str | None):
@@ -280,6 +337,10 @@ def parse_stewards_pdf(text: str) -> dict:
             out["summary"] = summary[:2000]
         if re.search(r"grants?\s+permission|permission is granted|allowed to start", summary, re.I):
             out["decision"] = "Permission granted to start the race."
+    for k in list(out):
+        out[k] = re.split(r"\s*(?:Note:?\s*)?Competitors are reminded|\s*Decisions of the Stewards are taken", out[k])[0].strip()
+        if not out[k]:
+            del out[k]
     if "reasons" in out:
         out["reason"] = (out.get("reason", "") + " " + out.pop("reasons")).strip()
     if "offence" in out and "infringement" not in out:
@@ -356,15 +417,12 @@ def penalty_summary(decision: str) -> dict:
     if has(r"suspended"):
         tags.append("Suspended")
 
+    # the first amount is the fine; later ones are usually a suspended portion
     fine = 0
-    for amt in re.findall(r"(?:€|eur(?:o|os)?\s*)\s?([\d][\d.,\s]*\d|\d)", decision, re.I):
-        n = re.sub(r"[^\d]", "", amt)
-        if n:
-            fine += int(n)
-    for amt in re.findall(r"([\d][\d.,]*)\s*(?:€|euros?)", decision, re.I):
-        n = re.sub(r"[^\d]", "", amt)
-        if n and fine == 0:
-            fine += int(n)
+    m = (re.search(r"(?:€|eur(?:o|os)?\s*)\s?(\d[\d.,\s]*\d|\d)", decision, re.I)
+         or re.search(r"(\d[\d.,]*)\s*(?:€|euros?)", decision, re.I))
+    if m:
+        fine = int(re.sub(r"[^\d]", "", m.group(1)) or 0)
     if fine or has(r"\bfined?\b"):
         tags.append("Fine")
 
@@ -462,6 +520,7 @@ def main():
         if not docs:
             continue
         slug = slugify(ev_name)
+        time_samples = []
 
         for d in docs:
             if d["category"] != "stewards" or not d["url"] or args.no_pdfs:
@@ -477,6 +536,9 @@ def main():
                 log(f"  downloaded Doc {d['num']}")
             det = parse_stewards_pdf(text)
             d["details"] = det
+            m_time = re.search(r"\bTime\s+(\d{1,2}:\d{2})\b", text)
+            if m_time and d["published"]:
+                time_samples.append((d["published"], m_time.group(1)))
             if det.get("from") and not re.search(r"stewards", det["from"], re.I):
                 d["type"] = "Report"
             for drv in det.get("drivers", []):
@@ -494,6 +556,12 @@ def main():
                 d["related"] = sorted(d["related"])
 
         dates = sorted(d["published"] for d in docs if d["published"])
+        offset = infer_offset(time_samples)
+        tz_source = "pdf"
+        if offset is None:
+            offset, tz_source = fallback_offset(ev_name, dates[0] if dates else None), "name"
+        for d in docs:
+            d["published_local"] = to_local(d["published"], offset)
         counts = {}
         for d in docs:
             counts[d["category"]] = counts.get(d["category"], 0) + 1
@@ -504,6 +572,10 @@ def main():
             "doc_count": len(docs),
             "first_published": dates[0] if dates else None,
             "last_published": dates[-1] if dates else None,
+            "first_local": to_local(dates[0], offset) if dates else None,
+            "last_local": to_local(dates[-1], offset) if dates else None,
+            "utc_offset_min": offset,
+            "tz_source": tz_source,
             "counts": counts,
         }
         out_events.append(ev_meta)

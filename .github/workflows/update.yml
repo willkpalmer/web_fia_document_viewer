@@ -2,8 +2,8 @@ name: Update documents and deploy
 
 on:
   schedule:
-    # Race weekends (Fri-Sun): every 30 minutes. Other days: every 4 hours.
-    - cron: "*/30 * * * 5,6,0"
+    # Race weekends (Fri-Sun): every 10 minutes. Other days: every 4 hours.
+    - cron: "*/10 * * * 5,6,0"
     - cron: "17 */4 * * 1-4"
   workflow_dispatch:
   push:

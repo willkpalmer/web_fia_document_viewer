@@ -6,6 +6,10 @@
   "doc_count": 58,
   "first_published": "2026-10-21T19:35",
   "last_published": "2026-10-26T11:30",
+  "first_local": "2026-10-21T12:35",
+  "last_local": "2026-10-26T05:30",
+  "utc_offset_min": -300,
+  "tz_source": "pdf",
   "counts": {
    "results": 10,
    "technical": 12,
@@ -24,7 +28,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_championship_points.pdf",
    "published": "2026-10-26T01:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T19:05"
   },
   {
    "num": 57,
@@ -34,7 +39,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_race_classification.pdf",
    "published": "2026-10-26T01:03",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T19:03"
   },
   {
    "num": 56,
@@ -44,7 +50,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_scrutineering.pdf",
    "published": "2026-10-26T00:41",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T18:41"
   },
   {
    "num": 55,
@@ -148,7 +155,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-25T17:06"
   },
   {
    "num": 54,
@@ -158,7 +166,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_race_classification.pdf",
    "published": "2026-10-25T22:55",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T16:55"
   },
   {
    "num": 53,
@@ -195,7 +204,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-10-25T16:59"
   },
   {
    "num": 52,
@@ -232,7 +242,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-10-25T16:29"
   },
   {
    "num": 51,
@@ -269,7 +280,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-10-25T16:59"
   },
   {
    "num": 50,
@@ -279,7 +291,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_starting_grid.pdf",
    "published": "2026-10-25T20:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T14:00"
   },
   {
    "num": 49,
@@ -289,7 +302,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
    "published": "2026-10-25T19:51",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T13:51"
   },
   {
    "num": 48,
@@ -330,7 +344,8 @@
    },
    "related": [
     47
-   ]
+   ],
+   "published_local": "2026-10-25T12:48"
   },
   {
    "num": 47,
@@ -343,7 +358,8 @@
    "cars": [],
    "related": [
     48
-   ]
+   ],
+   "published_local": "2026-10-25T11:26"
   },
   {
    "num": 46,
@@ -353,7 +369,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_post-race_procedure.pdf",
    "published": "2026-10-25T15:32",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T09:32"
   },
   {
    "num": 45,
@@ -363,7 +380,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_pre-race_procedure.pdf",
    "published": "2026-10-25T15:28",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T09:28"
   },
   {
    "num": 44,
@@ -373,7 +391,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_starting_grid.pdf",
    "published": "2026-10-25T02:31",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-24T19:31"
   },
   {
    "num": 43,
@@ -383,7 +402,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_qualifying_classification.pdf",
    "published": "2026-10-25T02:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-24T19:20"
   },
   {
    "num": 42,
@@ -393,7 +413,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
    "published": "2026-10-25T02:06",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-24T19:06"
   },
   {
    "num": 41,
@@ -411,7 +432,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 27).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:55.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:55.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "31": 1,
      "81": 2,
@@ -447,7 +468,8 @@
    },
    "related": [
     27
-   ]
+   ],
+   "published_local": "2026-10-24T17:31"
   },
   {
    "num": 40,
@@ -463,7 +485,7 @@
     "session": "Qualifying",
     "fact": "The F1 Cars below did not use the track at turns 9, 11, 17 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 1,
@@ -506,7 +528,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-24T17:26"
   },
   {
    "num": 39,
@@ -516,7 +539,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_qualifying_classification.pdf",
    "published": "2026-10-25T00:15",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-24T17:15"
   },
   {
    "num": 38,
@@ -558,7 +582,8 @@
    },
    "related": [
     30
-   ]
+   ],
+   "published_local": "2026-10-24T16:03"
   },
   {
    "num": 37,
@@ -599,7 +624,8 @@
    },
    "related": [
     33
-   ]
+   ],
+   "published_local": "2026-10-24T15:49"
   },
   {
    "num": 36,
@@ -640,7 +666,8 @@
    },
    "related": [
     29
-   ]
+   ],
+   "published_local": "2026-10-24T15:40"
   },
   {
    "num": 35,
@@ -681,7 +708,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-10-24T15:34"
   },
   {
    "num": 34,
@@ -785,7 +813,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-25T08:37"
   },
   {
    "num": 33,
@@ -816,7 +845,8 @@
    },
    "related": [
     37
-   ]
+   ],
+   "published_local": "2026-10-25T08:37"
   },
   {
    "num": 32,
@@ -826,7 +856,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_3_classification.pdf",
    "published": "2026-10-25T14:37",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T08:37"
   },
   {
    "num": 31,
@@ -855,7 +886,8 @@
     "refs": [
      31
     ]
-   }
+   },
+   "published_local": "2026-10-25T08:37"
   },
   {
    "num": 30,
@@ -887,7 +919,8 @@
    },
    "related": [
     38
-   ]
+   ],
+   "published_local": "2026-10-25T08:37"
   },
   {
    "num": 29,
@@ -918,7 +951,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-10-25T08:37"
   },
   {
    "num": 28,
@@ -931,7 +965,8 @@
    "cars": [],
    "related": [
     35
-   ]
+   ],
+   "published_local": "2026-10-25T08:35"
   },
   {
    "num": 27,
@@ -944,7 +979,8 @@
    "cars": [],
    "related": [
     41
-   ]
+   ],
+   "published_local": "2026-10-25T08:35"
   },
   {
    "num": 26,
@@ -954,7 +990,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_post-qualifying_procedure.pdf",
    "published": "2026-10-25T14:32",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-25T08:32"
   },
   {
    "num": 25,
@@ -964,7 +1001,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_p1_and_p2_scrutineering.pdf",
    "published": "2026-10-24T02:42",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T19:42"
   },
   {
    "num": 24,
@@ -989,7 +1027,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-23T18:17"
   },
   {
    "num": 23,
@@ -999,7 +1038,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
    "published": "2026-10-24T00:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T17:46"
   },
   {
    "num": 22,
@@ -1009,7 +1049,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_2_classification.pdf",
    "published": "2026-10-24T00:26",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T17:26"
   },
   {
    "num": 21,
@@ -1046,7 +1087,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-10-23T17:26"
   },
   {
    "num": 20,
@@ -1071,7 +1113,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-23T15:45"
   },
   {
    "num": 19,
@@ -1112,7 +1155,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-26T05:30"
   },
   {
    "num": 18,
@@ -1123,7 +1167,8 @@
    "published": "2026-10-23T22:07",
    "recalled": false,
    "cars": [],
-   "superseded_by": 27
+   "superseded_by": 27,
+   "published_local": "2026-10-23T15:07"
   },
   {
    "num": 17,
@@ -1133,7 +1178,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_1_classification.pdf",
    "published": "2026-10-23T20:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T13:50"
   },
   {
    "num": 16,
@@ -1146,7 +1192,8 @@
    "cars": [
     41
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-10-23T15:10"
   },
   {
    "num": 15,
@@ -1186,7 +1233,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-23T13:52"
   },
   {
    "num": 14,
@@ -1226,7 +1274,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-23T13:44"
   },
   {
    "num": 13,
@@ -1241,7 +1290,8 @@
     14,
     15,
     19
-   ]
+   ],
+   "published_local": "2026-10-23T12:38"
   },
   {
    "num": 12,
@@ -1251,7 +1301,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_entry_list.pdf",
    "published": "2026-10-23T17:30",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T10:30"
   },
   {
    "num": 11,
@@ -1261,7 +1312,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_car_presentation_submissions.pdf",
    "published": "2026-10-23T17:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T10:00"
   },
   {
    "num": 10,
@@ -1271,7 +1323,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_self_scrutineering.pdf",
    "published": "2026-10-23T16:25",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T09:25"
   },
   {
    "num": 9,
@@ -1281,7 +1334,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-10-23T16:24",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-23T09:24"
   },
   {
    "num": 8,
@@ -1291,7 +1345,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_power_unit_information.pdf",
    "published": "2026-10-23T00:22",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-22T17:22"
   },
   {
    "num": 7,
@@ -1301,7 +1356,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
    "published": "2026-10-23T00:21",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-22T17:21"
   },
   {
    "num": 6,
@@ -1312,7 +1368,8 @@
    "published": "2026-10-23T00:15",
    "recalled": false,
    "cars": [],
-   "superseded_by": 27
+   "superseded_by": 27,
+   "published_local": "2026-10-22T17:15"
   },
   {
    "num": 5,
@@ -1322,7 +1379,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_car_display_procedure.pdf",
    "published": "2026-10-22T22:32",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-22T15:32"
   },
   {
    "num": 4,
@@ -1332,7 +1390,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_timetable_v4.pdf",
    "published": "2026-10-22T01:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-21T18:05"
   },
   {
    "num": 3,
@@ -1344,7 +1403,8 @@
    "recalled": false,
    "cars": [
     27
-   ]
+   ],
+   "published_local": "2026-10-21T17:56"
   },
   {
    "num": 2,
@@ -1354,7 +1414,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-10-21T21:48",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-21T14:48"
   },
   {
    "num": 1,
@@ -1364,7 +1425,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_competition_visa.pdf",
    "published": "2026-10-21T19:35",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-21T12:35"
   }
  ]
 }

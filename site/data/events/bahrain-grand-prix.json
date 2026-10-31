@@ -6,6 +6,10 @@
   "doc_count": 61,
   "first_published": "2026-09-30T10:30",
   "last_published": "2026-10-04T15:58",
+  "first_local": "2026-09-30T16:30",
+  "last_local": "2026-10-04T21:58",
+  "utc_offset_min": 480,
+  "tz_source": "pdf",
   "counts": {
    "results": 10,
    "stewards": 25,
@@ -24,7 +28,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_championship_points.pdf",
    "published": "2026-10-04T15:55",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T21:55"
   },
   {
    "num": 60,
@@ -34,7 +39,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_final_race_classification.pdf",
    "published": "2026-10-04T15:55",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T21:55"
   },
   {
    "num": 59,
@@ -75,7 +81,8 @@
    },
    "related": [
     54
-   ]
+   ],
+   "published_local": "2026-10-04T21:49"
   },
   {
    "num": 58,
@@ -114,11 +121,12 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 50000
+    "fine_eur": 30000
    },
    "related": [
     51
-   ]
+   ],
+   "published_local": "2026-10-04T21:20"
   },
   {
    "num": 57,
@@ -159,7 +167,8 @@
    },
    "related": [
     49
-   ]
+   ],
+   "published_local": "2026-10-04T20:54"
   },
   {
    "num": 56,
@@ -169,7 +178,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_scrutineering.pdf",
    "published": "2026-10-04T14:35",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T20:35"
   },
   {
    "num": 55,
@@ -185,7 +195,7 @@
     "session": "Race",
     "fact": "The F1 Cars below did not use the track at turns 1, 6, 12, 14 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 2,
@@ -233,7 +243,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-04T19:00"
   },
   {
    "num": 54,
@@ -264,7 +275,8 @@
    },
    "related": [
     59
-   ]
+   ],
+   "published_local": "2026-10-04T18:47"
   },
   {
    "num": 53,
@@ -274,7 +286,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_provisional_race_classification.pdf",
    "published": "2026-10-04T12:41",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T18:41"
   },
   {
    "num": 52,
@@ -312,7 +325,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-10-04T18:22"
   },
   {
    "num": 51,
@@ -343,7 +357,8 @@
    },
    "related": [
     58
-   ]
+   ],
+   "published_local": "2026-10-04T18:22"
   },
   {
    "num": 50,
@@ -372,7 +387,8 @@
     "refs": [
      50
     ]
-   }
+   },
+   "published_local": "2026-10-04T18:04"
   },
   {
    "num": 49,
@@ -403,7 +419,8 @@
    },
    "related": [
     57
-   ]
+   ],
+   "published_local": "2026-10-04T18:00"
   },
   {
    "num": 48,
@@ -441,7 +458,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-10-04T15:05"
   },
   {
    "num": 47,
@@ -451,7 +469,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_final_starting_grid.pdf",
    "published": "2026-10-04T08:04",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T14:04"
   },
   {
    "num": 46,
@@ -461,7 +480,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
    "published": "2026-10-04T08:03",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T14:03"
   },
   {
    "num": 45,
@@ -471,7 +491,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_post-race_procedure.pdf",
    "published": "2026-10-04T03:25",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T09:25"
   },
   {
    "num": 44,
@@ -481,7 +502,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_pre-race_procedure.pdf",
    "published": "2026-10-04T03:24",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-04T09:24"
   },
   {
    "num": 43,
@@ -491,7 +513,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_provisional_starting_grid.pdf",
    "published": "2026-10-03T14:06",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T20:06"
   },
   {
    "num": 42,
@@ -501,7 +524,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_final_qualifying_classification.pdf",
    "published": "2026-10-03T14:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T20:05"
   },
   {
    "num": 41,
@@ -544,7 +568,8 @@
    "related": [
     33,
     34
-   ]
+   ],
+   "published_local": "2026-10-03T19:52"
   },
   {
    "num": 40,
@@ -587,7 +612,8 @@
    "related": [
     33,
     34
-   ]
+   ],
+   "published_local": "2026-10-03T19:50"
   },
   {
    "num": 39,
@@ -605,7 +631,7 @@
     "infringement": "Alleged Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 33).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. Both drivers concerned stayed at or above speeds necessary to stay below 1:59.0 around the vast majority of the circuit. However, in both cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that both drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. Both drivers concerned stayed at or above speeds necessary to stay below 1:59.0 around the vast majority of the circuit. However, in both cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that both drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "18": 1,
      "43": 1
@@ -631,7 +657,8 @@
    },
    "related": [
     33
-   ]
+   ],
+   "published_local": "2026-10-03T19:44"
   },
   {
    "num": 38,
@@ -642,7 +669,8 @@
    "published": "2026-10-04T15:58",
    "recalled": true,
    "cars": [],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-10-04T21:58"
   },
   {
    "num": 37,
@@ -652,7 +680,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_p3_and_qualifying_scrutineering.pdf",
    "published": "2026-10-03T13:18",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T19:18"
   },
   {
    "num": 36,
@@ -668,7 +697,7 @@
     "session": "Qualifying",
     "fact": "The F1 Cars below did not use the track at turns 6 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "87": 2,
@@ -696,7 +725,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-03T17:50"
   },
   {
    "num": 35,
@@ -706,7 +736,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_provisional_qualifying_classification.pdf",
    "published": "2026-10-03T11:23",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T17:23"
   },
   {
    "num": 34,
@@ -740,7 +771,8 @@
     33,
     40,
     41
-   ]
+   ],
+   "published_local": "2026-10-03T17:05"
   },
   {
    "num": 33,
@@ -756,7 +788,8 @@
     39,
     40,
     41
-   ]
+   ],
+   "published_local": "2026-10-03T15:22"
   },
   {
    "num": 32,
@@ -772,7 +805,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 Cars below did not use the track at turns 7, 8 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 1,
@@ -800,7 +833,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-03T13:55"
   },
   {
    "num": 31,
@@ -810,7 +844,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_free_practice_3_classification.pdf",
    "published": "2026-10-03T07:44",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T13:44"
   },
   {
    "num": 30,
@@ -820,7 +855,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_new_pu_elements_for_this_competition_0.pdf",
    "published": "2026-10-03T06:34",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T12:34"
   },
   {
    "num": 29,
@@ -830,7 +866,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_curfew.pdf",
    "published": "2026-10-03T06:24",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T12:24"
   },
   {
    "num": 28,
@@ -841,7 +878,8 @@
    "published": "2026-10-03T05:42",
    "recalled": false,
    "cars": [],
-   "superseded_by": 33
+   "superseded_by": 33,
+   "published_local": "2026-10-03T11:42"
   },
   {
    "num": 27,
@@ -851,7 +889,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_post-qualifying_procedure.pdf",
    "published": "2026-10-03T03:27",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-03T09:27"
   },
   {
    "num": 26,
@@ -895,7 +934,8 @@
    },
    "related": [
     20
-   ]
+   ],
+   "published_local": "2026-10-02T20:22"
   },
   {
    "num": 25,
@@ -905,7 +945,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_p1_and_p2_scrutineering.pdf",
    "published": "2026-10-02T13:08",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T19:08"
   },
   {
    "num": 24,
@@ -915,7 +956,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_race_director_notes_-_sc2_-_sc1_times.pdf",
    "published": "2026-10-02T11:32",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T17:32"
   },
   {
    "num": 23,
@@ -931,7 +973,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 Cars below did not use the track at turns 1, 3, 6, 7, 8 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 3,
@@ -999,7 +1041,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-02T17:29"
   },
   {
    "num": 22,
@@ -1009,7 +1052,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_free_practice_2_classification.pdf",
    "published": "2026-10-02T11:19",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T17:19"
   },
   {
    "num": 21,
@@ -1038,7 +1082,8 @@
     "refs": [
      21
     ]
-   }
+   },
+   "published_local": "2026-10-02T16:58"
   },
   {
    "num": 20,
@@ -1070,7 +1115,8 @@
    },
    "related": [
     26
-   ]
+   ],
+   "published_local": "2026-10-02T16:42"
   },
   {
    "num": 19,
@@ -1111,7 +1157,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-02T14:18"
   },
   {
    "num": 18,
@@ -1152,7 +1199,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-02T14:15"
   },
   {
    "num": 17,
@@ -1193,7 +1241,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-02T14:09"
   },
   {
    "num": 16,
@@ -1203,7 +1252,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_free_practice_1_classification.pdf",
    "published": "2026-10-02T07:49",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T13:49"
   },
   {
    "num": 15,
@@ -1219,7 +1269,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 11 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "1": 3,
@@ -1272,7 +1322,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-02T13:49"
   },
   {
    "num": 14,
@@ -1287,7 +1338,8 @@
     17,
     18,
     19
-   ]
+   ],
+   "published_local": "2026-10-02T12:53"
   },
   {
    "num": 13,
@@ -1297,7 +1349,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_competition_visa_v2.pdf",
    "published": "2026-10-02T06:02",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T12:02"
   },
   {
    "num": 12,
@@ -1307,7 +1360,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_car_presentation_submissions.pdf",
    "published": "2026-10-02T04:06",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T10:06"
   },
   {
    "num": 11,
@@ -1317,7 +1371,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_entry_list.pdf",
    "published": "2026-10-02T03:01",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T09:01"
   },
   {
    "num": 10,
@@ -1327,7 +1382,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_self_scrutineering.pdf",
    "published": "2026-10-02T02:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T08:50"
   },
   {
    "num": 9,
@@ -1337,7 +1393,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-10-02T02:49",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-02T08:49"
   },
   {
    "num": 8,
@@ -1348,7 +1405,8 @@
    "published": "2026-10-01T13:29",
    "recalled": false,
    "cars": [],
-   "superseded_by": 33
+   "superseded_by": 33,
+   "published_local": "2026-10-01T19:29"
   },
   {
    "num": 7,
@@ -1358,7 +1416,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
    "published": "2026-10-01T12:44",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-01T18:44"
   },
   {
    "num": 6,
@@ -1369,7 +1428,8 @@
    "published": "2026-10-02T06:08",
    "recalled": true,
    "cars": [],
-   "superseded_by": 13
+   "superseded_by": 13,
+   "published_local": "2026-10-02T12:08"
   },
   {
    "num": 5,
@@ -1379,7 +1439,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_car_display_procedure.pdf",
    "published": "2026-10-01T11:33",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-01T17:33"
   },
   {
    "num": 4,
@@ -1389,7 +1450,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_power_unit_information.pdf",
    "published": "2026-10-01T06:16",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-01T12:16"
   },
   {
    "num": 3,
@@ -1399,7 +1461,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_heat_hazard_declaration.pdf",
    "published": "2026-09-30T13:42",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-30T19:42"
   },
   {
    "num": 2,
@@ -1411,7 +1474,8 @@
    "recalled": false,
    "cars": [
     16
-   ]
+   ],
+   "published_local": "2026-09-30T16:34"
   },
   {
    "num": 1,
@@ -1421,7 +1485,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_bahrain_grand_prix_in_malaysia_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-09-30T10:30",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-30T16:30"
   }
  ]
 }

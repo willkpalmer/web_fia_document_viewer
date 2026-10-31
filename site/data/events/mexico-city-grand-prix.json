@@ -6,6 +6,10 @@
   "doc_count": 34,
   "first_published": "2026-10-28T21:00",
   "last_published": "2026-10-31T03:58",
+  "first_local": "2026-10-28T14:00",
+  "last_local": "2026-10-30T20:58",
+  "utc_offset_min": -360,
+  "tz_source": "pdf",
   "counts": {
    "stewards": 15,
    "technical": 9,
@@ -42,7 +46,8 @@
     "refs": [
      35
     ]
-   }
+   },
+   "published_local": "2026-10-30T20:58"
   },
   {
    "num": 34,
@@ -86,7 +91,8 @@
    },
    "related": [
     23
-   ]
+   ],
+   "published_local": "2026-10-30T20:53"
   },
   {
    "num": 33,
@@ -130,7 +136,8 @@
    },
    "related": [
     23
-   ]
+   ],
+   "published_local": "2026-10-30T20:52"
   },
   {
    "num": 32,
@@ -172,7 +179,8 @@
    },
    "related": [
     30
-   ]
+   ],
+   "published_local": "2026-10-30T20:50"
   },
   {
    "num": 31,
@@ -182,7 +190,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_fp1_and_fp2_scrutineering.pdf",
    "published": "2026-10-31T02:32",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T19:32"
   },
   {
    "num": 30,
@@ -213,7 +222,8 @@
    },
    "related": [
     32
-   ]
+   ],
+   "published_local": "2026-10-30T19:07"
   },
   {
    "num": 29,
@@ -225,7 +235,8 @@
    "recalled": false,
    "cars": [
     5
-   ]
+   ],
+   "published_local": "2026-10-30T18:04"
   },
   {
    "num": 28,
@@ -235,7 +246,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
    "published": "2026-10-31T00:54",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T17:54"
   },
   {
    "num": 27,
@@ -324,7 +336,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-30T17:22"
   },
   {
    "num": 26,
@@ -334,7 +347,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_free_practice_2_classification.pdf",
    "published": "2026-10-31T00:17",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T17:17"
   },
   {
    "num": 25,
@@ -372,7 +386,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-10-30T17:17"
   },
   {
    "num": 24,
@@ -401,7 +416,8 @@
     "refs": [
      24
     ]
-   }
+   },
+   "published_local": "2026-10-30T16:43"
   },
   {
    "num": 23,
@@ -434,7 +450,8 @@
    "related": [
     33,
     34
-   ]
+   ],
+   "published_local": "2026-10-30T16:38"
   },
   {
    "num": 22,
@@ -476,7 +493,8 @@
    },
    "related": [
     16
-   ]
+   ],
+   "published_local": "2026-10-30T16:38"
   },
   {
    "num": 21,
@@ -491,7 +509,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "62": 2,
@@ -524,7 +542,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-30T14:27"
   },
   {
    "num": 20,
@@ -623,7 +642,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-30T14:27"
   },
   {
    "num": 19,
@@ -633,7 +653,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_free_practice_1_classification.pdf",
    "published": "2026-10-30T21:27",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T14:27"
   },
   {
    "num": 18,
@@ -671,7 +692,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-10-30T14:33"
   },
   {
    "num": 17,
@@ -712,7 +734,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-30T13:52"
   },
   {
    "num": 16,
@@ -743,7 +766,8 @@
    },
    "related": [
     22
-   ]
+   ],
+   "published_local": "2026-10-30T13:52"
   },
   {
    "num": 14,
@@ -756,7 +780,8 @@
    "cars": [],
    "related": [
     17
-   ]
+   ],
+   "published_local": "2026-10-30T13:09"
   },
   {
    "num": 13,
@@ -766,7 +791,8 @@
    "url": null,
    "published": "2026-10-30T19:56",
    "recalled": true,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T12:56"
   },
   {
    "num": 12,
@@ -776,7 +802,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_car_presentation_submissions.pdf",
    "published": "2026-10-30T17:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T10:00"
   },
   {
    "num": 11,
@@ -786,7 +813,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_entry_list.pdf",
    "published": "2026-10-30T16:40",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T09:40"
   },
   {
    "num": 10,
@@ -796,7 +824,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_self_scrutineering.pdf",
    "published": "2026-10-30T15:37",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T08:37"
   },
   {
    "num": 9,
@@ -806,7 +835,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-10-30T15:37",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-30T08:37"
   },
   {
    "num": 8,
@@ -816,7 +846,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_race_directors_competition_notes.pdf",
    "published": "2026-10-29T23:10",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-29T16:10"
   },
   {
    "num": 7,
@@ -826,7 +857,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
    "published": "2026-10-29T23:07",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-29T16:07"
   },
   {
    "num": 6,
@@ -836,7 +868,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_power_unit_information.pdf",
    "published": "2026-10-29T22:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-29T15:46"
   },
   {
    "num": 5,
@@ -846,7 +879,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_car_display_procedure.pdf",
    "published": "2026-10-29T22:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-29T15:00"
   },
   {
    "num": 4,
@@ -856,7 +890,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_timetable_v2.pdf",
    "published": "2026-10-29T15:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-29T08:50"
   },
   {
    "num": 3,
@@ -868,7 +903,8 @@
    "recalled": false,
    "cars": [
     63
-   ]
+   ],
+   "published_local": "2026-10-28T15:12"
   },
   {
    "num": 2,
@@ -878,7 +914,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-10-28T21:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-28T14:46"
   },
   {
    "num": 1,
@@ -888,7 +925,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_visa.pdf",
    "published": "2026-10-28T21:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-10-28T14:00"
   }
  ]
 }

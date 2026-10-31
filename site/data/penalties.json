@@ -38,7 +38,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-08T18:04"
   },
   {
    "event": "Australian Grand Prix",
@@ -56,7 +57,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 3 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 1,
@@ -94,7 +95,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-08T17:58"
   },
   {
    "event": "Australian Grand Prix",
@@ -137,7 +139,8 @@
    },
    "related": [
     57
-   ]
+   ],
+   "published_local": "2026-03-08T17:58"
   },
   {
    "event": "Australian Grand Prix",
@@ -177,7 +180,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-08T17:34"
   },
   {
    "event": "Australian Grand Prix",
@@ -217,7 +221,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-08T17:34"
   },
   {
    "event": "Australian Grand Prix",
@@ -232,7 +237,8 @@
    "cars": [
     11
    ],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-03-08T17:12"
   },
   {
    "event": "Australian Grand Prix",
@@ -271,7 +277,8 @@
      "Stop & go"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-03-08T17:12"
   },
   {
    "event": "Australian Grand Prix",
@@ -310,7 +317,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-08T16:42"
   },
   {
    "event": "Australian Grand Prix",
@@ -330,7 +338,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 29).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. Excepting only the driver of car 5 (BOR), all drivers concerned stayed at or above speeds necessary to stay below 1:37.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. BOR suffered a mechanical failure which meant that he could not maintain the required speed. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. Excepting only the driver of car 5 (BOR), all drivers concerned stayed at or above speeds necessary to stay below 1:37.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. BOR suffered a mechanical failure which meant that he could not maintain the required speed. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "23": 1,
      "31": 1,
@@ -366,7 +374,8 @@
    },
    "related": [
     29
-   ]
+   ],
+   "published_local": "2026-03-07T19:47"
   },
   {
    "event": "Australian Grand Prix",
@@ -384,7 +393,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 2, 3, 7, 9 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "43": 1,
@@ -427,7 +436,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-07T19:47"
   },
   {
    "event": "Australian Grand Prix",
@@ -444,7 +454,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "16": 1
@@ -462,7 +472,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-07T19:46"
   },
   {
    "event": "Australian Grand Prix",
@@ -490,7 +501,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-03-07T19:37"
   },
   {
    "event": "Australian Grand Prix",
@@ -534,7 +546,8 @@
    },
    "related": [
     37
-   ]
+   ],
+   "published_local": "2026-03-07T19:37"
   },
   {
    "event": "Australian Grand Prix",
@@ -578,7 +591,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-03-07T19:37"
   },
   {
    "event": "Australian Grand Prix",
@@ -606,7 +620,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-03-07T19:36"
   },
   {
    "event": "Australian Grand Prix",
@@ -634,7 +649,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-03-07T19:36"
   },
   {
    "event": "Australian Grand Prix",
@@ -673,7 +689,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-07T17:57"
   },
   {
    "event": "Australian Grand Prix",
@@ -691,7 +708,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 car below did not use the track at turn 3.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "11": 1
@@ -709,7 +726,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-07T14:20"
   },
   {
    "event": "Australian Grand Prix",
@@ -752,7 +770,8 @@
    },
    "related": [
     19
-   ]
+   ],
+   "published_local": "2026-03-06T20:44"
   },
   {
    "event": "Australian Grand Prix",
@@ -795,7 +814,8 @@
    },
    "related": [
     17
-   ]
+   ],
+   "published_local": "2026-03-06T20:44"
   },
   {
    "event": "Australian Grand Prix",
@@ -838,7 +858,8 @@
    },
    "related": [
     8
-   ]
+   ],
+   "published_local": "2026-03-06T20:44"
   },
   {
    "event": "Australian Grand Prix",
@@ -856,7 +877,7 @@
     "session": "Free Practice 2",
     "fact": "The cars below did not use the track at turns 2, 3, 6, 9 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 1,
@@ -919,7 +940,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-06T20:00"
   },
   {
    "event": "Australian Grand Prix",
@@ -1005,7 +1027,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-06T15:02"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1044,7 +1067,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T19:24"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1083,7 +1107,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T17:46"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1122,7 +1147,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T17:42"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1165,7 +1191,8 @@
    },
    "related": [
     43
-   ]
+   ],
+   "published_local": "2026-06-28T17:41"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1180,7 +1207,8 @@
    "cars": [
     11
    ],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-06-28T17:38"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1223,7 +1251,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-28T17:38"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1241,7 +1270,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 1, 3, 6, 8, 9 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note          Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 3,
@@ -1314,7 +1343,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-28T17:06"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1353,7 +1383,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-28T17:00"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1392,7 +1423,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-28T16:31"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1412,7 +1444,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:12.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:12.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "31": 3,
      "63": 4,
@@ -1488,7 +1520,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-27T18:20"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1505,7 +1538,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "6": 1,
@@ -1563,7 +1596,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-27T18:14"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1608,7 +1642,8 @@
    "related": [
     6,
     29
-   ]
+   ],
+   "published_local": "2026-06-27T18:13"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1626,7 +1661,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 1 and 3.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "44": 1,
@@ -1649,7 +1684,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-27T18:09"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1667,7 +1703,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 1, 3 and 9.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "11": 2,
@@ -1725,7 +1761,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-27T15:21"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1742,7 +1779,7 @@
    "details": {
     "session": "Free Practice 2",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "16": 1,
@@ -1769,7 +1806,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-26T18:26"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1787,7 +1825,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 1, 3 and 6.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 1,
@@ -1860,7 +1898,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-26T18:23"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1877,7 +1916,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "81": 1,
@@ -1904,7 +1943,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-26T14:51"
   },
   {
    "event": "Austrian Grand Prix",
@@ -1922,7 +1962,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 1, 3, 4 and 8.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "77": 1,
@@ -1995,7 +2035,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-26T14:51"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2040,7 +2081,8 @@
    "related": [
     56,
     61
-   ]
+   ],
+   "published_local": "2026-09-26T19:54"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2085,7 +2127,8 @@
    "related": [
     56,
     62
-   ]
+   ],
+   "published_local": "2026-09-26T19:54"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2128,7 +2171,8 @@
    },
    "related": [
     60
-   ]
+   ],
+   "published_local": "2026-09-26T19:52"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2167,7 +2211,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-09-26T19:40"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2208,7 +2253,8 @@
      "5-place grid drop"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-09-26T19:30"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2248,7 +2294,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-09-26T19:29"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2293,7 +2340,8 @@
    },
    "related": [
     45
-   ]
+   ],
+   "published_local": "2026-09-25T19:17"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2337,7 +2385,8 @@
    },
    "related": [
     41
-   ]
+   ],
+   "published_local": "2026-09-25T19:09"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2354,7 +2403,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "30": 1,
@@ -2387,7 +2436,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-25T18:22"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2473,7 +2523,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-25T18:22"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2512,7 +2563,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-09-25T15:38"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2555,7 +2607,8 @@
    },
    "related": [
     35
-   ]
+   ],
+   "published_local": "2026-09-25T15:35"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2572,7 +2625,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "41": 1,
@@ -2614,7 +2667,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-09-25T14:35"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2715,7 +2769,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-25T14:35"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2758,7 +2813,8 @@
    },
    "related": [
     33
-   ]
+   ],
+   "published_local": "2026-09-25T13:21"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2802,7 +2858,8 @@
    },
    "related": [
     22
-   ]
+   ],
+   "published_local": "2026-09-24T20:05"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2819,7 +2876,7 @@
    "details": {
     "session": "Free Practice 2",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "23": 1,
@@ -2861,7 +2918,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-09-24T17:32"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2879,7 +2937,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 3, and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "43": 1,
@@ -2947,7 +3005,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-24T17:32"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -2990,7 +3049,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-09-24T16:10"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -3033,7 +3093,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-09-24T16:10"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -3076,7 +3137,8 @@
    },
    "related": [
     15
-   ]
+   ],
+   "published_local": "2026-09-24T15:31"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -3093,7 +3155,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "77": 1,
@@ -3141,7 +3203,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-24T14:02"
   },
   {
    "event": "Azerbaijan Grand Prix",
@@ -3159,7 +3222,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 1, 9 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "6": 1,
@@ -3222,7 +3285,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-24T14:00"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3265,7 +3329,8 @@
    },
    "related": [
     54
-   ]
+   ],
+   "published_local": "2026-10-04T21:49"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3306,11 +3371,12 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 50000
+    "fine_eur": 30000
    },
    "related": [
     51
-   ]
+   ],
+   "published_local": "2026-10-04T21:20"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3353,7 +3419,8 @@
    },
    "related": [
     49
-   ]
+   ],
+   "published_local": "2026-10-04T20:54"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3371,7 +3438,7 @@
     "session": "Race",
     "fact": "The F1 Cars below did not use the track at turns 1, 6, 12, 14 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 2,
@@ -3419,7 +3486,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-04T19:00"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3459,7 +3527,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-10-04T18:22"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3499,7 +3568,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-10-04T15:05"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3544,7 +3614,8 @@
    "related": [
     33,
     34
-   ]
+   ],
+   "published_local": "2026-10-03T19:52"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3589,7 +3660,8 @@
    "related": [
     33,
     34
-   ]
+   ],
+   "published_local": "2026-10-03T19:50"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3609,7 +3681,7 @@
     "infringement": "Alleged Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 33).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. Both drivers concerned stayed at or above speeds necessary to stay below 1:59.0 around the vast majority of the circuit. However, in both cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that both drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. Both drivers concerned stayed at or above speeds necessary to stay below 1:59.0 around the vast majority of the circuit. However, in both cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that both drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "18": 1,
      "43": 1
@@ -3635,7 +3707,8 @@
    },
    "related": [
     33
-   ]
+   ],
+   "published_local": "2026-10-03T19:44"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3648,7 +3721,8 @@
    "published": "2026-10-04T15:58",
    "recalled": true,
    "cars": [],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-10-04T21:58"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3666,7 +3740,7 @@
     "session": "Qualifying",
     "fact": "The F1 Cars below did not use the track at turns 6 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards,        in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "87": 2,
@@ -3694,7 +3768,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-03T17:50"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3712,7 +3787,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 Cars below did not use the track at turns 7, 8 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 1,
@@ -3740,7 +3815,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-03T13:55"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3786,7 +3862,8 @@
    },
    "related": [
     20
-   ]
+   ],
+   "published_local": "2026-10-02T20:22"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3804,7 +3881,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 Cars below did not use the track at turns 1, 3, 6, 7, 8 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 3,
@@ -3872,7 +3949,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-02T17:29"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3915,7 +3993,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-02T14:18"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -3958,7 +4037,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-02T14:15"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -4001,7 +4081,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-02T14:09"
   },
   {
    "event": "Bahrain Grand Prix",
@@ -4019,7 +4100,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 11 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "1": 3,
@@ -4072,7 +4153,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-02T13:49"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4111,7 +4193,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-14T19:22"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4131,7 +4214,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turn 10",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 1
@@ -4149,7 +4232,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-14T19:15"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4193,7 +4277,8 @@
    },
    "related": [
     56
-   ]
+   ],
+   "published_local": "2026-06-14T19:08"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4237,7 +4322,8 @@
    },
    "related": [
     55
-   ]
+   ],
+   "published_local": "2026-06-14T19:07"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4282,7 +4368,8 @@
    },
    "related": [
     59
-   ]
+   ],
+   "published_local": "2026-06-14T19:06"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4300,7 +4387,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 2, 4, 10, 13 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 2,
@@ -4348,7 +4435,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-14T18:15"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4387,7 +4475,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-14T17:14"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4426,7 +4515,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-14T17:13"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4469,7 +4559,8 @@
    },
    "related": [
     50
-   ]
+   ],
+   "published_local": "2026-06-14T12:56"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4489,7 +4580,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 9).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:29.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:29.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "refs": [
      9,
      43
@@ -4501,7 +4592,8 @@
    },
    "related": [
     9
-   ]
+   ],
+   "published_local": "2026-06-13T17:35"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4519,7 +4611,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 2, 9 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 1,
@@ -4552,7 +4644,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-13T17:31"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4596,7 +4689,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-06-13T15:38"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4635,7 +4729,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-06-13T14:36"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4653,7 +4748,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 2, 9, 10 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "11": 1,
@@ -4696,7 +4791,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-13T14:18"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4736,7 +4832,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 600
-   }
+   },
+   "published_local": "2026-06-13T13:41"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4754,7 +4851,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 2, 3, 9, 10 and 13. No. Turn       Car Driver                     Competitor                                       Time of Day Lap Time 1   3          63 George Russell              Mercedes-AMG PETRONAS F1 Team                    17:09:26    2:02.240 2      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:11:35         PIT 3      9       18      Lance Stroll           Aston Martin Aramco F1 Team                      17:32:20         PIT 4      2       63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:31:51         PIT 5      2       14      Fernando Alonso        Aston Martin Aramco F1 Team                      17:33:44         PIT 6      10      6       Isack Hadjar           Oracle Red Bull Racing                           17:42:54         1:22.059 7      10      63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:53:02         PIT 8      13      10      Pierre Gasly           BWT Alpine F1 Team                               17:52:59         1:25.456 9      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:54:29         PIT",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "refs": [
      23
@@ -4763,7 +4860,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-12T18:23"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4803,7 +4901,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 500
-   }
+   },
+   "published_local": "2026-06-12T18:26"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4843,7 +4942,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-06-12T18:11"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4882,7 +4982,8 @@
      "Warning"
     ],
     "outcome": "warning"
-   }
+   },
+   "published_local": "2026-06-12T18:02"
   },
   {
    "event": "Barcelona-Catalunya Grand Prix",
@@ -4900,7 +5001,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 8 and 9. No. Turn       Car Driver                      Competitor                    Time of Day Lap Time 1   1          72 Frederik Vesti               Mercedes-AMG PETRONAS F1 Team 13:44:33    PIT 2      9       77      Valtteri Bottas         Cadillac Formula 1 Team                        13:44:59         1:21.196 3      8       5       Gabriel Bortoleto       Audi Revolut F1 Team                           13:59:55         PIT 4      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:13:41         PIT 5      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:24:26         1:22.802",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "refs": [
      17
@@ -4909,7 +5010,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-12T15:53"
   },
   {
    "event": "Belgian Grand Prix",
@@ -4948,7 +5050,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-07-19T19:09"
   },
   {
    "event": "Belgian Grand Prix",
@@ -4989,11 +5092,12 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 40000
+    "fine_eur": 30000
    },
    "related": [
     59
-   ]
+   ],
+   "published_local": "2026-07-19T18:50"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5011,7 +5115,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 4, 6 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 1,
@@ -5064,7 +5168,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-19T17:25"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5107,7 +5212,8 @@
    },
    "related": [
     63
-   ]
+   ],
+   "published_local": "2026-07-19T16:21"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5147,7 +5253,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-19T16:20"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5190,7 +5297,8 @@
    },
    "related": [
     53
-   ]
+   ],
+   "published_local": "2026-07-19T12:22"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5233,7 +5341,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-07-18T15:52"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5276,7 +5385,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-07-18T15:51"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5319,7 +5429,8 @@
    },
    "related": [
     39
-   ]
+   ],
+   "published_local": "2026-07-18T15:09"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5336,7 +5447,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "23": 1,
@@ -5418,7 +5529,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-07-18T14:26"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5509,7 +5621,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-18T14:26"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5524,7 +5637,8 @@
    "cars": [
     14
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-07-18T14:30"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5570,7 +5684,8 @@
    "related": [
     24,
     29
-   ]
+   ],
+   "published_local": "2026-07-17T19:38"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5616,7 +5731,8 @@
    "related": [
     24,
     28
-   ]
+   ],
+   "published_local": "2026-07-17T19:38"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5659,7 +5775,8 @@
    },
    "related": [
     17
-   ]
+   ],
+   "published_local": "2026-07-17T18:58"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5677,7 +5794,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 3,4,10,11,18 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 2,
@@ -5720,7 +5837,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-17T18:51"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5763,7 +5881,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-07-17T16:53"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5806,7 +5925,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-07-17T16:53"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5821,7 +5941,8 @@
    "cars": [
     6
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-07-17T17:00"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5917,7 +6038,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-17T16:51"
   },
   {
    "event": "Belgian Grand Prix",
@@ -5962,7 +6084,8 @@
    "related": [
     6,
     16
-   ]
+   ],
+   "published_local": "2026-07-17T16:33"
   },
   {
    "event": "Belgian Grand Prix",
@@ -6002,7 +6125,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-07-17T16:47"
   },
   {
    "event": "Belgian Grand Prix",
@@ -6046,7 +6170,8 @@
    },
    "related": [
     9
-   ]
+   ],
+   "published_local": "2026-07-17T12:27"
   },
   {
    "event": "British Grand Prix",
@@ -6089,7 +6214,8 @@
    },
    "related": [
     76
-   ]
+   ],
+   "published_local": "2026-07-05T19:57"
   },
   {
    "event": "British Grand Prix",
@@ -6170,7 +6296,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-05T19:39"
   },
   {
    "event": "British Grand Prix",
@@ -6209,7 +6336,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:59"
   },
   {
    "event": "British Grand Prix",
@@ -6248,7 +6376,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:58"
   },
   {
    "event": "British Grand Prix",
@@ -6287,7 +6416,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:58"
   },
   {
    "event": "British Grand Prix",
@@ -6326,7 +6456,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T18:49"
   },
   {
    "event": "British Grand Prix",
@@ -6369,7 +6500,8 @@
    },
    "related": [
     73
-   ]
+   ],
+   "published_local": "2026-07-05T18:37"
   },
   {
    "event": "British Grand Prix",
@@ -6408,7 +6540,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T16:20"
   },
   {
    "event": "British Grand Prix",
@@ -6448,7 +6581,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-05T16:20"
   },
   {
    "event": "British Grand Prix",
@@ -6491,7 +6625,8 @@
    },
    "related": [
     49
-   ]
+   ],
+   "published_local": "2026-07-05T12:48"
   },
   {
    "event": "British Grand Prix",
@@ -6535,7 +6670,8 @@
    },
    "related": [
     54
-   ]
+   ],
+   "published_local": "2026-07-04T19:13"
   },
   {
    "event": "British Grand Prix",
@@ -6579,7 +6715,8 @@
    },
    "related": [
     51
-   ]
+   ],
+   "published_local": "2026-07-04T19:01"
   },
   {
    "event": "British Grand Prix",
@@ -6599,7 +6736,7 @@
     "infringement": "Alleged Breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code by failing to comply with the Race Director's Competition Notes (Item 1, Document 5) and the Note to Teams (Document 17).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. The driver concerned stayed at or above speeds necessary to stay below 1:39.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the driver took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. The driver concerned stayed at or above speeds necessary to stay below 1:39.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the driver took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "6": 1
     },
@@ -6622,7 +6759,8 @@
    "related": [
     5,
     17
-   ]
+   ],
+   "published_local": "2026-07-04T18:42"
   },
   {
    "event": "British Grand Prix",
@@ -6665,7 +6803,8 @@
    },
    "related": [
     50
-   ]
+   ],
+   "published_local": "2026-07-04T18:42"
   },
   {
    "event": "British Grand Prix",
@@ -6683,7 +6822,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 3, 7, 9, 13 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 1,
@@ -6731,7 +6870,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-04T18:15"
   },
   {
    "event": "British Grand Prix",
@@ -6774,7 +6914,8 @@
    },
    "related": [
     38
-   ]
+   ],
+   "published_local": "2026-07-04T14:53"
   },
   {
    "event": "British Grand Prix",
@@ -6817,7 +6958,8 @@
    },
    "related": [
     40
-   ]
+   ],
+   "published_local": "2026-07-04T14:47"
   },
   {
    "event": "British Grand Prix",
@@ -6835,7 +6977,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 3, 9 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 1,
@@ -6873,7 +7015,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-04T13:50"
   },
   {
    "event": "British Grand Prix",
@@ -6913,7 +7056,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-04T13:45"
   },
   {
    "event": "British Grand Prix",
@@ -6956,7 +7100,8 @@
    },
    "related": [
     34
-   ]
+   ],
+   "published_local": "2026-07-04T10:55"
   },
   {
    "event": "British Grand Prix",
@@ -7003,7 +7148,8 @@
     5,
     17,
     20
-   ]
+   ],
+   "published_local": "2026-07-03T19:47"
   },
   {
    "event": "British Grand Prix",
@@ -7050,7 +7196,8 @@
     5,
     17,
     21
-   ]
+   ],
+   "published_local": "2026-07-03T19:47"
   },
   {
    "event": "British Grand Prix",
@@ -7065,7 +7212,8 @@
    "cars": [
     23
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-07-03T18:45"
   },
   {
    "event": "British Grand Prix",
@@ -7156,7 +7304,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-07-03T18:10"
   },
   {
    "event": "British Grand Prix",
@@ -7174,7 +7323,7 @@
     "session": "Sprint Qualifying",
     "fact": "The F1 car below did not use the track at turn 3",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 1
@@ -7192,7 +7341,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-03T17:50"
   },
   {
    "event": "British Grand Prix",
@@ -7288,7 +7438,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-03T14:42"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7308,7 +7459,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 6).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:22.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:22.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "5": 1,
      "77": 1,
@@ -7339,7 +7490,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-24T20:46"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7460,7 +7612,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-24T20:32"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7473,7 +7626,8 @@
    "published": "2026-05-25T02:30",
    "recalled": true,
    "cars": [],
-   "type": "Decision"
+   "type": "Decision",
+   "published_local": "2026-05-24T20:30"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7512,7 +7666,8 @@
      "Stop & go"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T20:25"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7557,7 +7712,8 @@
    },
    "related": [
     92
-   ]
+   ],
+   "published_local": "2026-05-24T20:22"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7596,7 +7752,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-05-24T20:12"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7635,7 +7792,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-24T20:11"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7674,7 +7832,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-29T10:49"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7714,7 +7873,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T20:09"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7755,7 +7915,8 @@
      "Suspended"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T20:08"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7794,7 +7955,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T19:59"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7833,7 +7995,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T19:57"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7872,7 +8035,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T18:52"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7911,7 +8075,8 @@
      "Pit lane start"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-24T13:08"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7955,7 +8120,8 @@
    },
    "related": [
     71
-   ]
+   ],
+   "published_local": "2026-05-23T19:23"
   },
   {
    "event": "Canadian Grand Prix",
@@ -7999,7 +8165,8 @@
    },
    "related": [
     69
-   ]
+   ],
+   "published_local": "2026-05-23T19:23"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8042,7 +8209,8 @@
    },
    "related": [
     68
-   ]
+   ],
+   "published_local": "2026-05-23T19:22"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8086,7 +8254,8 @@
    },
    "related": [
     67
-   ]
+   ],
+   "published_local": "2026-05-23T19:10"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8130,7 +8299,8 @@
    },
    "related": [
     66
-   ]
+   ],
+   "published_local": "2026-05-23T19:05"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8173,7 +8343,8 @@
    },
    "related": [
     59
-   ]
+   ],
+   "published_local": "2026-05-23T15:53"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8212,7 +8383,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-23T13:50"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8252,7 +8424,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-23T13:50"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8291,7 +8464,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-23T13:49"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8330,7 +8504,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-23T13:49"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8426,7 +8601,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-23T13:22"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8469,7 +8645,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:18"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8512,7 +8689,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:17"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8554,7 +8732,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:14"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8597,7 +8776,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-05-23T11:14"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8640,7 +8820,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-23T09:09"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8681,7 +8862,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-22T21:03"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8772,7 +8954,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-22T19:10"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8789,7 +8972,7 @@
    "details": {
     "session": "Sprint Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. No. Turn Car         Driver                   Competitor                                     Time of Day      Lap Time 1   3    6           Isack Hadjar             Oracle Red Bull Racing                         16:40:07         PIT 2      3     18      Lance Stroll             Aston Martin Aramco F1 Team                    16:40:08         PIT 3      3     44      Lewis Hamilton           Scuderia Ferrari HP                            16:40:11         PIT",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "refs": [
      32
@@ -8798,7 +8981,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-22T19:10"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8825,7 +9009,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-22T19:09"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8853,7 +9038,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-22T18:47"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8881,7 +9067,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-22T17:50"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8921,8 +9108,9 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 50000
-   }
+    "fine_eur": 30000
+   },
+   "published_local": "2026-05-22T17:24"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8937,7 +9125,8 @@
    "cars": [
     30
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-05-22T16:38"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8954,7 +9143,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. 1      4     18      Lance Stroll             Aston Martin Aramco F1 Team                    12:38:07         1:35.239 2      4     12      Kimi Antonelli           Mercedes-AMG PETRONAS F1 Team 12:38:09                          1:41.379 3      7     55      Carlos Sainz             Atlassian Williams F1 Team                     12:57:26         PIT 4      7     63      George Russell           Mercedes-AMG PETRONAS F1 Team 12:57:26                          PIT 5      1     31      Esteban Ocon             TGR Haas F1 Team                               13:41:18         1:27.343 6      1     44      Lewis Hamilton           Scuderia Ferrari HP                            13:41:20         1:49.189 7      1     10      Pierre Gasly             BWT Alpine F1 Team                             13:41:21         1:40.561 8      1     16      Charles Leclerc          Scuderia Ferrari HP                            13:41:24         1:28.037 9      1     87      Oliver Bearman           TGR Haas F1 Team                               13:41:26         1:29.883 10     4     77      Valtteri Bottas          Cadillac Formula 1 Team                        13:43:02         PIT 11     4     16      Charles Leclerc          Scuderia Ferrari HP                            13:43:11         PIT 12     4     87      Oliver Bearman           TGR Haas F1 Team                               13:43:16         PIT",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "refs": [
      6,
@@ -8967,7 +9156,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-05-22T16:18"
   },
   {
    "event": "Canadian Grand Prix",
@@ -8994,7 +9184,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-22T16:18"
   },
   {
    "event": "Canadian Grand Prix",
@@ -9033,7 +9224,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-22T14:31"
   },
   {
    "event": "Canadian Grand Prix",
@@ -9073,7 +9265,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 1000
-   }
+   },
+   "published_local": "2026-05-22T13:34"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9091,7 +9284,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 2 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "3": 1,
@@ -9124,7 +9317,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-15T16:59"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9164,7 +9358,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-03-15T16:32"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9207,7 +9402,8 @@
    },
    "related": [
     67
-   ]
+   ],
+   "published_local": "2026-03-15T12:41"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9288,7 +9484,8 @@
    },
    "related": [
     31
-   ]
+   ],
+   "published_local": "2026-03-14T16:35"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9305,7 +9502,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "41": 1,
@@ -9338,7 +9535,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-14T16:32"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9356,7 +9554,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 2 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 1,
@@ -9384,7 +9582,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-14T16:30"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9428,7 +9627,8 @@
    },
    "related": [
     46
-   ]
+   ],
+   "published_local": "2026-03-14T13:30"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9473,7 +9673,8 @@
    "related": [
     31,
     45
-   ]
+   ],
+   "published_local": "2026-03-14T12:57"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9491,7 +9692,7 @@
     "session": "Race",
     "fact": "The F1 car below did not use the track at turn 3.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "3": 1
@@ -9509,7 +9710,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-14T12:41"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9548,7 +9750,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-03-14T12:41"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9588,7 +9791,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-03-14T12:38"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9631,7 +9835,8 @@
    },
    "related": [
     41
-   ]
+   ],
+   "published_local": "2026-03-14T09:53"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9659,7 +9864,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-03-13T19:16"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9676,7 +9882,7 @@
    "details": {
     "session": "Sprint Qualifying",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown.",
     "from": "The Stewards",
     "table_rows": {
      "31": 1
@@ -9694,7 +9900,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-13T18:55"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9775,7 +9982,8 @@
    },
    "related": [
     31
-   ]
+   ],
+   "published_local": "2026-03-13T18:54"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9793,7 +10001,7 @@
     "session": "Sprint Qualifying",
     "fact": "The F1 cars below did not use the track at turns 9 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 1,
@@ -9831,7 +10039,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-13T18:54"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9875,7 +10084,8 @@
    },
    "related": [
     25
-   ]
+   ],
+   "published_local": "2026-03-13T18:55"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9919,7 +10129,8 @@
    },
    "related": [
     23
-   ]
+   ],
+   "published_local": "2026-03-13T17:40"
   },
   {
    "event": "Chinese Grand Prix",
@@ -9937,7 +10148,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 2, 6, 9, 14 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2c of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "43": 1,
@@ -9990,7 +10201,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-13T14:21"
   },
   {
    "event": "Chinese Grand Prix",
@@ -10033,7 +10245,8 @@
    },
    "related": [
     17
-   ]
+   ],
+   "published_local": "2026-03-13T14:20"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10072,7 +10285,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-08-23T18:57"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10111,7 +10325,8 @@
      "Reprimand"
     ],
     "outcome": "reprimand"
-   }
+   },
+   "published_local": "2026-08-23T18:55"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10151,7 +10366,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-08-23T18:09"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10169,7 +10385,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 1, 3, 11 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 2,
@@ -10227,7 +10443,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-08-23T17:50"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10268,7 +10485,8 @@
     ],
     "outcome": "penalty",
     "penalty_points": 1
-   }
+   },
+   "published_local": "2026-08-23T17:37"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10309,7 +10527,8 @@
     ],
     "outcome": "penalty",
     "penalty_points": 1
-   }
+   },
+   "published_local": "2026-08-23T17:36"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10350,7 +10569,8 @@
     ],
     "outcome": "penalty",
     "penalty_points": 2
-   }
+   },
+   "published_local": "2026-08-23T16:48"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10391,7 +10611,8 @@
     ],
     "outcome": "penalty",
     "penalty_points": 2
-   }
+   },
+   "published_local": "2026-08-23T17:14"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10434,7 +10655,8 @@
    },
    "related": [
     58
-   ]
+   ],
+   "published_local": "2026-08-23T12:34"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10477,7 +10699,8 @@
    },
    "related": [
     47
-   ]
+   ],
+   "published_local": "2026-08-22T18:15"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10516,7 +10739,8 @@
      "Warning"
     ],
     "outcome": "warning"
-   }
+   },
+   "published_local": "2026-08-22T14:17"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10559,7 +10783,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-22T13:35"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10602,7 +10827,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-22T13:32"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10645,7 +10871,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-22T13:29"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10688,7 +10915,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-22T13:29"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10731,7 +10959,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-22T13:28"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10749,7 +10978,7 @@
     "session": "Sprint",
     "fact": "The F1 car below did not use the track at turn 3.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 1
@@ -10767,7 +10996,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-08-22T13:21"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10806,7 +11036,8 @@
      "Warning"
     ],
     "outcome": "warning"
-   }
+   },
+   "published_local": "2026-08-22T12:39"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10849,7 +11080,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-08-22T10:45"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10892,7 +11124,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-08-22T10:44"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10937,7 +11170,8 @@
    "related": [
     5,
     17
-   ]
+   ],
+   "published_local": "2026-08-21T19:13"
   },
   {
    "event": "Dutch Grand Prix",
@@ -10957,7 +11191,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 5).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:28.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note          Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:28.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "31": 1,
      "30": 3,
@@ -11028,7 +11262,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-21T17:51"
   },
   {
    "event": "Dutch Grand Prix",
@@ -11046,7 +11281,7 @@
     "session": "Sprint Qualifying",
     "fact": "The F1 cars below did not use the track at turns 1, 3 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 1,
@@ -11074,7 +11309,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-08-21T17:51"
   },
   {
    "event": "Dutch Grand Prix",
@@ -11092,7 +11328,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 3, 11, 12 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 3,
@@ -11125,7 +11361,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-08-21T13:55"
   },
   {
    "event": "Dutch Grand Prix",
@@ -11142,7 +11379,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "14": 1,
@@ -11179,7 +11416,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-08-21T13:55"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11218,7 +11456,8 @@
      "Warning"
     ],
     "outcome": "warning"
-   }
+   },
+   "published_local": "2026-07-26T18:12"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11257,7 +11496,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-26T18:05"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11353,7 +11593,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-26T17:25"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11392,7 +11633,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-26T17:16"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11431,7 +11673,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-07-26T17:03"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11471,7 +11714,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-26T16:55"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11511,7 +11755,8 @@
      "Pit lane start"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-07-26T12:38"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11531,7 +11776,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 4).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. The driver concerned stayed at or above speeds necessary to stay below 1:32.0 around the vast majority of the circuit. However, the Stewards determined that the driver took appropriate actions to not impede other drivers and slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. The driver concerned stayed at or above speeds necessary to stay below 1:32.0 around the vast majority of the circuit. However, the Stewards determined that the driver took appropriate actions to not impede other drivers and slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "63": 1
     },
@@ -11552,7 +11797,8 @@
    },
    "related": [
     4
-   ]
+   ],
+   "published_local": "2026-07-25T19:49"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11597,7 +11843,8 @@
    "related": [
     4,
     35
-   ]
+   ],
+   "published_local": "2026-07-25T19:39"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11642,7 +11889,8 @@
    },
    "related": [
     34
-   ]
+   ],
+   "published_local": "2026-07-25T19:31"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11659,7 +11907,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown.",
     "from": "The Stewards",
     "table_rows": {
      "63": 1
@@ -11677,7 +11925,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-25T18:56"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11695,7 +11944,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 1, 3, 4, 7 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 1,
@@ -11743,7 +11992,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-25T18:50"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11787,7 +12037,8 @@
    },
    "related": [
     32
-   ]
+   ],
+   "published_local": "2026-07-25T18:40"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -11898,7 +12149,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-25T13:58"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -12014,7 +12266,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-24T18:30"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -12057,7 +12310,8 @@
    },
    "related": [
     16
-   ]
+   ],
+   "published_local": "2026-07-24T16:31"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -12096,7 +12350,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-07-24T16:06"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -12139,7 +12394,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-07-24T16:06"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -12215,7 +12471,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-07-24T14:45"
   },
   {
    "event": "Hungarian Grand Prix",
@@ -12255,7 +12512,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 400
-   }
+   },
+   "published_local": "2026-07-24T14:11"
   },
   {
    "event": "Italian Grand Prix",
@@ -12298,7 +12556,8 @@
    },
    "related": [
     62
-   ]
+   ],
+   "published_local": "2026-09-06T19:45"
   },
   {
    "event": "Italian Grand Prix",
@@ -12316,7 +12575,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 5, 6 and 7.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "23": 3,
@@ -12389,7 +12648,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-06T18:42"
   },
   {
    "event": "Italian Grand Prix",
@@ -12428,7 +12688,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-09-06T17:02"
   },
   {
    "event": "Italian Grand Prix",
@@ -12471,7 +12732,8 @@
    },
    "related": [
     48
-   ]
+   ],
+   "published_local": "2026-09-06T16:56"
   },
   {
    "event": "Italian Grand Prix",
@@ -12511,7 +12773,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-09-06T16:43"
   },
   {
    "event": "Italian Grand Prix",
@@ -12554,7 +12817,8 @@
    },
    "related": [
     48
-   ]
+   ],
+   "published_local": "2026-09-06T16:04"
   },
   {
    "event": "Italian Grand Prix",
@@ -12597,7 +12861,8 @@
    },
    "related": [
     48
-   ]
+   ],
+   "published_local": "2026-09-06T16:04"
   },
   {
    "event": "Italian Grand Prix",
@@ -12640,7 +12905,8 @@
    },
    "related": [
     54
-   ]
+   ],
+   "published_local": "2026-09-06T13:01"
   },
   {
    "event": "Italian Grand Prix",
@@ -12683,7 +12949,8 @@
    },
    "related": [
     54
-   ]
+   ],
+   "published_local": "2026-09-06T12:54"
   },
   {
    "event": "Italian Grand Prix",
@@ -12726,7 +12993,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-09-06T12:06"
   },
   {
    "event": "Italian Grand Prix",
@@ -12770,7 +13038,8 @@
    },
    "related": [
     42
-   ]
+   ],
+   "published_local": "2026-09-05T18:27"
   },
   {
    "event": "Italian Grand Prix",
@@ -12813,7 +13082,8 @@
    },
    "related": [
     33
-   ]
+   ],
+   "published_local": "2026-09-05T17:02"
   },
   {
    "event": "Italian Grand Prix",
@@ -12856,7 +13126,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-09-05T16:20"
   },
   {
    "event": "Italian Grand Prix",
@@ -12899,7 +13170,8 @@
    },
    "related": [
     35
-   ]
+   ],
+   "published_local": "2026-09-05T16:20"
   },
   {
    "event": "Italian Grand Prix",
@@ -12916,7 +13188,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 1,
@@ -12968,7 +13240,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-09-05T15:17"
   },
   {
    "event": "Italian Grand Prix",
@@ -12986,7 +13259,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 1, 4, 5, 6, 7, 9 and 11.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "43": 1,
@@ -13074,7 +13347,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-05T15:17"
   },
   {
    "event": "Italian Grand Prix",
@@ -13114,8 +13388,9 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 55000
-   }
+    "fine_eur": 30000
+   },
+   "published_local": "2026-09-05T17:52"
   },
   {
    "event": "Italian Grand Prix",
@@ -13159,7 +13434,8 @@
    },
    "related": [
     21
-   ]
+   ],
+   "published_local": "2026-09-04T19:29"
   },
   {
    "event": "Italian Grand Prix",
@@ -13199,7 +13475,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-09-04T18:22"
   },
   {
    "event": "Italian Grand Prix",
@@ -13217,7 +13494,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 4, 5 and 7.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "46": 4,
@@ -13285,7 +13562,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-04T17:55"
   },
   {
    "event": "Italian Grand Prix",
@@ -13303,7 +13581,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 1, 4, 5, 6 and 10.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note            Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 3,
@@ -13361,7 +13639,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-04T17:40"
   },
   {
    "event": "Italian Grand Prix",
@@ -13404,7 +13683,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-09-04T17:11"
   },
   {
    "event": "Italian Grand Prix",
@@ -13447,7 +13727,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-09-04T17:10"
   },
   {
    "event": "Italian Grand Prix",
@@ -13464,7 +13745,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "16": 1,
@@ -13521,7 +13802,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-09-04T15:00"
   },
   {
    "event": "Italian Grand Prix",
@@ -13534,7 +13816,8 @@
    "published": "2026-09-04T14:30",
    "recalled": true,
    "cars": [],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-09-04T14:30"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13552,7 +13835,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 13 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 1,
@@ -13600,7 +13883,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-29T16:00"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13618,7 +13902,7 @@
     "session": "Qualifying",
     "fact": "The F1 car below did not use the track at turn 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "41": 1
@@ -13636,7 +13920,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-28T17:15"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13656,7 +13941,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 21).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board camera video. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 (refer document 32) around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board camera video. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 (refer document 32) around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "41": 1,
      "5": 1,
@@ -13689,7 +13974,8 @@
    "related": [
     21,
     32
-   ]
+   ],
+   "published_local": "2026-03-28T18:17"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13733,7 +14019,8 @@
    },
    "related": [
     38
-   ]
+   ],
+   "published_local": "2026-03-28T13:34"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13750,7 +14037,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "63": 1,
@@ -13777,7 +14064,8 @@
    },
    "related": [
     21
-   ]
+   ],
+   "published_local": "2026-03-28T12:55"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13795,7 +14083,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 13, 16 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "11": 2,
@@ -13833,7 +14121,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-28T12:55"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13877,7 +14166,8 @@
    },
    "related": [
     27
-   ]
+   ],
+   "published_local": "2026-03-27T17:23"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13894,7 +14184,7 @@
    "details": {
     "session": "Free Practice 2",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "31": 1,
@@ -13936,7 +14226,8 @@
    },
    "related": [
     21
-   ]
+   ],
+   "published_local": "2026-03-27T16:32"
   },
   {
    "event": "Japanese Grand Prix",
@@ -13954,7 +14245,7 @@
     "session": "Free Practice 2",
     "fact": "The F1 cars below did not use the track at turns 13 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "1": 3,
@@ -13982,7 +14273,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-27T16:25"
   },
   {
    "event": "Japanese Grand Prix",
@@ -14022,7 +14314,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-27T15:49"
   },
   {
    "event": "Japanese Grand Prix",
@@ -14062,7 +14355,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-27T15:29"
   },
   {
    "event": "Japanese Grand Prix",
@@ -14102,7 +14396,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-03-27T15:18"
   },
   {
    "event": "Japanese Grand Prix",
@@ -14120,7 +14415,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 9, 13, 14 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "41": 2,
@@ -14183,7 +14478,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-03-27T13:50"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14229,7 +14525,8 @@
    },
    "related": [
     23
-   ]
+   ],
+   "published_local": "2026-10-30T20:53"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14275,7 +14572,8 @@
    },
    "related": [
     23
-   ]
+   ],
+   "published_local": "2026-10-30T20:52"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14319,7 +14617,8 @@
    },
    "related": [
     30
-   ]
+   ],
+   "published_local": "2026-10-30T20:50"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14410,7 +14709,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-30T17:22"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14450,7 +14750,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-10-30T17:17"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14494,7 +14795,8 @@
    },
    "related": [
     16
-   ]
+   ],
+   "published_local": "2026-10-30T16:38"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14511,7 +14813,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "62": 2,
@@ -14544,7 +14846,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-30T14:27"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14645,7 +14948,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-30T14:27"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14685,7 +14989,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-10-30T14:33"
   },
   {
    "event": "Mexico City Grand Prix",
@@ -14728,7 +15033,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-10-30T13:52"
   },
   {
    "event": "Miami Grand Prix",
@@ -14772,7 +15078,8 @@
    },
    "related": [
     81
-   ]
+   ],
+   "published_local": "2026-05-03T17:55"
   },
   {
    "event": "Miami Grand Prix",
@@ -14815,7 +15122,8 @@
    },
    "related": [
     83
-   ]
+   ],
+   "published_local": "2026-05-03T17:48"
   },
   {
    "event": "Miami Grand Prix",
@@ -14858,7 +15166,8 @@
    },
    "related": [
     90
-   ]
+   ],
+   "published_local": "2026-05-03T17:24"
   },
   {
    "event": "Miami Grand Prix",
@@ -14902,7 +15211,8 @@
    },
    "related": [
     85
-   ]
+   ],
+   "published_local": "2026-05-03T17:21"
   },
   {
    "event": "Miami Grand Prix",
@@ -14946,7 +15256,8 @@
    },
    "related": [
     85
-   ]
+   ],
+   "published_local": "2026-05-03T17:22"
   },
   {
    "event": "Miami Grand Prix",
@@ -14985,7 +15296,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-03T17:13"
   },
   {
    "event": "Miami Grand Prix",
@@ -15024,7 +15336,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-03T17:11"
   },
   {
    "event": "Miami Grand Prix",
@@ -15063,7 +15376,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-05-03T17:10"
   },
   {
    "event": "Miami Grand Prix",
@@ -15081,7 +15395,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 5, 6, 7, 8, 11, 15 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "81": 1,
@@ -15139,7 +15453,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-03T15:45"
   },
   {
    "event": "Miami Grand Prix",
@@ -15178,7 +15493,8 @@
      "Drive-through"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-05-03T14:47"
   },
   {
    "event": "Miami Grand Prix",
@@ -15221,7 +15537,8 @@
    },
    "related": [
     74
-   ]
+   ],
+   "published_local": "2026-05-03T10:43"
   },
   {
    "event": "Miami Grand Prix",
@@ -15249,7 +15566,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-03T07:45"
   },
   {
    "event": "Miami Grand Prix",
@@ -15294,7 +15612,8 @@
    "related": [
     67,
     69
-   ]
+   ],
+   "published_local": "2026-05-03T07:30"
   },
   {
    "event": "Miami Grand Prix",
@@ -15309,7 +15628,8 @@
    "cars": [
     6
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-05-02T14:30"
   },
   {
    "event": "Miami Grand Prix",
@@ -15329,7 +15649,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 36).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:48.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:48.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "43": 1,
      "23": 1,
@@ -15410,7 +15730,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-05-02T17:45"
   },
   {
    "event": "Miami Grand Prix",
@@ -15427,7 +15748,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown.",
     "from": "The Stewards",
     "table_rows": {
      "77": 1
@@ -15445,7 +15766,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-02T17:40"
   },
   {
    "event": "Miami Grand Prix",
@@ -15463,7 +15785,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 6, 11 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "23": 1,
@@ -15511,7 +15833,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-02T17:31"
   },
   {
    "event": "Miami Grand Prix",
@@ -15556,7 +15879,8 @@
    "related": [
     51,
     52
-   ]
+   ],
+   "published_local": "2026-05-02T15:07"
   },
   {
    "event": "Miami Grand Prix",
@@ -15576,7 +15900,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 36).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras, team radio, CCTV cameras and spoke to the Team Representative. Car 63 (Russell) failed to stay below the required time limit on the formation lap as stipulated by the Race Director’s Competition Notes V3. Car 63 experienced a technical issue with overheating and a loss of power after leaving the garage. Car 63 was also behind Car 27 (Hulkenberg) who had mechanical failure and his car was spraying fluids. The overheating, loss of power and the situation with Car 27 contributed to the fact that Car 63 was forced to fall back and thereby breach the delta time required. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that he was above the maximum time because he took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras, team radio, CCTV cameras and spoke to the Team Representative. Car 63 (Russell) failed to stay below the required time limit on the formation lap as stipulated by the Race Director’s Competition Notes V3. Car 63 experienced a technical issue with overheating and a loss of power after leaving the garage. Car 63 was also behind Car 27 (Hulkenberg) who had mechanical failure and his car was spraying fluids. The overheating, loss of power and the situation with Car 27 contributed to the fact that Car 63 was forced to fall back and thereby breach the delta time required. The Stewards therefore determine that the driver concerned did not drive “unnecessarily slowly”, and that he was above the maximum time because he took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "63": 1
     },
@@ -15599,7 +15923,8 @@
    "related": [
     36,
     49
-   ]
+   ],
+   "published_local": "2026-05-02T13:35"
   },
   {
    "event": "Miami Grand Prix",
@@ -15641,7 +15966,8 @@
    },
    "related": [
     50
-   ]
+   ],
+   "published_local": "2026-05-02T13:34"
   },
   {
    "event": "Miami Grand Prix",
@@ -15659,7 +15985,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 5, 11 and 15.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "12": 4,
@@ -15717,7 +16043,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-02T13:25"
   },
   {
    "event": "Miami Grand Prix",
@@ -15760,7 +16087,8 @@
    },
    "related": [
     39
-   ]
+   ],
+   "published_local": "2026-05-02T10:54"
   },
   {
    "event": "Miami Grand Prix",
@@ -15788,7 +16116,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-01T20:08"
   },
   {
    "event": "Miami Grand Prix",
@@ -15816,7 +16145,8 @@
      "Permission to start"
     ],
     "outcome": "other"
-   }
+   },
+   "published_local": "2026-05-01T20:00"
   },
   {
    "event": "Miami Grand Prix",
@@ -15838,7 +16168,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 20).",
     "decision": "No Further Action",
     "from": "The Stewards",
-    "reason": "The Stewards heard the driver and the team representative and thoroughly reviewed Marshalling/Positioning data, timing data and on-board camera footage. Car 1 (Norris) failed to stay below the required time limit as stipulated by the Race Director’s Competition Notes. Car 1 was within the approved delta time for almost the whole lap until just before turn 17, where he was suddenly passed by Car 27. That then forced Car 1 to react to create a necessary and appropriate gap to set up a push lap. The Stewards considered this an extenuating circumstance and determined that he did not drive unnecessarily slowly. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards heard the driver and the team representative and thoroughly reviewed Marshalling/Positioning data, timing data and on-board camera footage. Car 1 (Norris) failed to stay below the required time limit as stipulated by the Race Director’s Competition Notes. Car 1 was within the approved delta time for almost the whole lap until just before turn 17, where he was suddenly passed by Car 27. That then forced Car 1 to react to create a necessary and appropriate gap to set up a push lap. The Stewards considered this an extenuating circumstance and determined that he did not drive unnecessarily slowly.",
     "table_rows": {
      "1": 1
     },
@@ -15861,7 +16191,8 @@
    "related": [
     20,
     25
-   ]
+   ],
+   "published_local": "2026-05-01T19:52"
   },
   {
    "event": "Miami Grand Prix",
@@ -15881,7 +16212,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 20).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:48.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:48.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "14": 1,
      "12": 1,
@@ -15932,7 +16263,8 @@
    },
    "related": [
     20
-   ]
+   ],
+   "published_local": "2026-05-01T19:45"
   },
   {
    "event": "Miami Grand Prix",
@@ -15975,7 +16307,8 @@
    },
    "related": [
     24
-   ]
+   ],
+   "published_local": "2026-05-01T19:32"
   },
   {
    "event": "Miami Grand Prix",
@@ -15992,7 +16325,7 @@
    "details": {
     "session": "Sprint Qualifying",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "16": 1,
@@ -16015,7 +16348,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-01T18:31"
   },
   {
    "event": "Miami Grand Prix",
@@ -16033,7 +16367,7 @@
     "session": "Sprint Qualifying",
     "fact": "The F1 cars below did not use the track at turns 5, 6, 11 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 1,
@@ -16076,7 +16410,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-01T18:22"
   },
   {
    "event": "Miami Grand Prix",
@@ -16116,7 +16451,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 200
-   }
+   },
+   "published_local": "2026-05-01T15:01"
   },
   {
    "event": "Miami Grand Prix",
@@ -16133,7 +16469,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "11": 1,
@@ -16165,7 +16501,8 @@
    },
    "related": [
     4
-   ]
+   ],
+   "published_local": "2026-05-01T14:02"
   },
   {
    "event": "Miami Grand Prix",
@@ -16183,7 +16520,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 cars below did not use the track at turns 1, 7, 11, 15, 17 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "44": 2,
@@ -16276,7 +16613,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-05-01T14:00"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16310,7 +16648,8 @@
     94,
     98,
     102
-   ]
+   ],
+   "published_local": "2026-06-12T14:15"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16341,7 +16680,8 @@
     73,
     75,
     99
-   ]
+   ],
+   "published_local": "2026-06-11T14:15"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16380,7 +16720,8 @@
      "Drive-through"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-10T22:30"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16420,7 +16761,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-07T20:28"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16460,7 +16802,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T20:28"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16487,7 +16830,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-07T19:56"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16530,7 +16874,8 @@
    },
    "related": [
     48
-   ]
+   ],
+   "published_local": "2026-06-07T19:42"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16569,7 +16914,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-07T19:42"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16608,7 +16954,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-07T19:42"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16649,7 +16996,8 @@
    },
    "related": [
     78
-   ]
+   ],
+   "published_local": "2026-06-07T19:35"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16692,7 +17040,8 @@
    },
    "related": [
     79
-   ]
+   ],
+   "published_local": "2026-06-07T19:35"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16731,7 +17080,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T18:28"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16775,7 +17125,8 @@
     95,
     98,
     99
-   ]
+   ],
+   "published_local": "2026-06-07T18:27"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16814,7 +17165,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T18:27"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16860,7 +17212,8 @@
     97,
     98,
     99
-   ]
+   ],
+   "published_local": "2026-06-07T18:26"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16899,7 +17252,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T18:26"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16938,7 +17292,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T18:26"
   },
   {
    "event": "Monaco Grand Prix",
@@ -16977,7 +17332,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T16:17"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17016,7 +17372,8 @@
      "Drive-through"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-06-07T15:31"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17059,7 +17416,8 @@
    },
    "related": [
     53
-   ]
+   ],
+   "published_local": "2026-06-06T19:17"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17105,7 +17463,8 @@
    },
    "related": [
     56
-   ]
+   ],
+   "published_local": "2026-06-06T18:58"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17132,7 +17491,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-06T17:45"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17149,7 +17509,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "16": 1,
@@ -17211,7 +17571,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-06T14:17"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17238,7 +17599,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-06T14:17"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17278,7 +17640,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-06-06T14:16"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17318,7 +17681,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 900
-   }
+   },
+   "published_local": "2026-06-06T14:13"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17360,12 +17724,13 @@
      "Fine"
     ],
     "outcome": "penalty",
-    "fine_eur": 40000
+    "fine_eur": 30000
    },
    "related": [
     40,
     41
-   ]
+   ],
+   "published_local": "2026-06-05T20:17"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17382,7 +17747,7 @@
    "details": {
     "session": "Free Practice 2",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "1": 1,
@@ -17409,7 +17774,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-05T18:33"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17540,7 +17906,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-05T18:25"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17580,7 +17947,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-06-05T18:25"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17620,7 +17988,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-06-05T18:25"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17659,7 +18028,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-06-05T16:42"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17676,7 +18046,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
     "table_rows": {
      "6": 1,
@@ -17703,7 +18073,8 @@
    },
    "related": [
     6
-   ]
+   ],
+   "published_local": "2026-06-05T16:41"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17747,7 +18118,8 @@
    },
    "related": [
     22
-   ]
+   ],
+   "published_local": "2026-06-05T16:35"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17791,7 +18163,8 @@
    },
    "related": [
     25
-   ]
+   ],
+   "published_local": "2026-06-05T16:19"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17818,7 +18191,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-06-05T15:56"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17858,7 +18232,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 100
-   }
+   },
+   "published_local": "2026-06-05T15:12"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17903,7 +18278,8 @@
    },
    "related": [
     10
-   ]
+   ],
+   "published_local": "2026-06-05T12:32"
   },
   {
    "event": "Monaco Grand Prix",
@@ -17948,7 +18324,8 @@
    },
    "related": [
     11
-   ]
+   ],
+   "published_local": "2026-06-05T12:32"
   },
   {
    "event": "Singapore Grand Prix",
@@ -17966,7 +18343,7 @@
     "session": "Race",
     "fact": "The F1 Cars below did not use the track at turns 2, 7, 16 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "87": 3,
@@ -18064,7 +18441,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-11T22:53"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18103,7 +18481,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-10-11T22:02"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18146,7 +18525,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-11T22:06"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18189,7 +18569,8 @@
    },
    "related": [
     78
-   ]
+   ],
+   "published_local": "2026-10-11T19:23"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18232,7 +18613,8 @@
    },
    "related": [
     78
-   ]
+   ],
+   "published_local": "2026-10-11T18:27"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18275,7 +18657,8 @@
    },
    "related": [
     78
-   ]
+   ],
+   "published_local": "2026-10-11T18:25"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18318,7 +18701,8 @@
    },
    "related": [
     57
-   ]
+   ],
+   "published_local": "2026-10-11T17:47"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18362,7 +18746,8 @@
    },
    "related": [
     63
-   ]
+   ],
+   "published_local": "2026-10-11T02:47"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18382,7 +18767,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 13).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. The Stewards further note that Car 6 had a technical issues in Q1 but nevertheless did not affect the safe and orderly conduct of the event. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. The Stewards further note that Car 6 had a technical issues in Q1 but nevertheless did not affect the safe and orderly conduct of the event.",
     "table_rows": {
      "6": 2,
      "77": 1,
@@ -18433,7 +18818,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-11T02:02"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18453,7 +18839,8 @@
     "refs": [
      71
     ]
-   }
+   },
+   "published_local": "2026-10-11T01:55"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18470,7 +18857,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "11": 1,
@@ -18503,7 +18890,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-11T01:54"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18521,7 +18909,7 @@
     "session": "Qualifying",
     "fact": "The F1 Cars below did not use the track at turns 1, 2, 5, 11 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "41": 2,
@@ -18574,7 +18962,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-11T01:54"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18618,7 +19007,8 @@
    },
    "related": [
     49
-   ]
+   ],
+   "published_local": "2026-10-10T22:20"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18662,7 +19052,8 @@
    },
    "related": [
     49
-   ]
+   ],
+   "published_local": "2026-10-10T22:20"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18680,7 +19071,7 @@
     "session": "Sprint",
     "fact": "The F1 Cars below did not use the track at turns 2, 7 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "77": 1,
@@ -18733,7 +19124,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-10T21:54"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18777,7 +19169,8 @@
    },
    "related": [
     46
-   ]
+   ],
+   "published_local": "2026-10-10T21:40"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18821,7 +19214,8 @@
    },
    "related": [
     46
-   ]
+   ],
+   "published_local": "2026-10-10T21:40"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18864,7 +19258,8 @@
    },
    "related": [
     44
-   ]
+   ],
+   "published_local": "2026-10-10T21:10"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18907,7 +19302,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-10T21:10"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18951,7 +19347,8 @@
    },
    "related": [
     42
-   ]
+   ],
+   "published_local": "2026-10-10T21:09"
   },
   {
    "event": "Singapore Grand Prix",
@@ -18995,7 +19392,8 @@
    },
    "related": [
     42
-   ]
+   ],
+   "published_local": "2026-10-10T20:57"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19038,7 +19436,8 @@
    },
    "related": [
     36
-   ]
+   ],
+   "published_local": "2026-10-10T15:49"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19058,7 +19457,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 13).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note              Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data and on-board cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:52.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "11": 1,
      "77": 1,
@@ -19114,7 +19513,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-09T23:56"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19131,7 +19531,7 @@
    "details": {
     "session": "Sprint Qualifying",
     "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "81": 1,
@@ -19154,7 +19554,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-09T23:45"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19197,7 +19598,8 @@
    },
    "related": [
     21
-   ]
+   ],
+   "published_local": "2026-10-09T23:39"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19215,7 +19617,7 @@
     "session": "Sprint Qualifying",
     "fact": "The F1 Cars below did not use the track at turns 2, 11, 16 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "27": 1,
@@ -19253,7 +19655,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-09T22:39"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19295,7 +19698,8 @@
    },
    "related": [
     19
-   ]
+   ],
+   "published_local": "2026-10-09T20:03"
   },
   {
    "event": "Singapore Grand Prix",
@@ -19313,7 +19717,7 @@
     "session": "Free Practice 1",
     "fact": "The F1 Cars below did not use the track at turns 2, 9, 11 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "18": 2,
@@ -19381,7 +19785,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-09T18:38"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19399,7 +19804,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 5, 6, 11, 15, 17, 18, 19 and 20.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "81": 4,
@@ -19477,7 +19882,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-13T17:35"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19516,7 +19922,8 @@
      "Warning"
     ],
     "outcome": "warning"
-   }
+   },
+   "published_local": "2026-09-13T17:04"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19555,7 +19962,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-09-13T16:50"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19595,7 +20003,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-09-13T16:13"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19635,7 +20044,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 200
-   }
+   },
+   "published_local": "2026-09-13T15:56"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19678,7 +20088,8 @@
    },
    "related": [
     60
-   ]
+   ],
+   "published_local": "2026-09-13T13:20"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19698,7 +20109,8 @@
     "refs": [
      55
     ]
-   }
+   },
+   "published_local": "2026-09-12T20:43"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19743,7 +20155,8 @@
    "related": [
     28,
     43
-   ]
+   ],
+   "published_local": "2026-09-12T19:35"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19788,7 +20201,8 @@
    "related": [
     28,
     38
-   ]
+   ],
+   "published_local": "2026-09-12T19:26"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19833,7 +20247,8 @@
    "related": [
     28,
     37
-   ]
+   ],
+   "published_local": "2026-09-12T19:23"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19853,7 +20268,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 28).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:42.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:42.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "81": 4,
      "63": 2,
@@ -19904,7 +20319,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-09-12T19:12"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19949,7 +20365,8 @@
    "related": [
     28,
     37
-   ]
+   ],
+   "published_local": "2026-09-12T19:15"
   },
   {
    "event": "Spanish Grand Prix",
@@ -19966,7 +20383,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 1
@@ -19984,7 +20401,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-12T18:43"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20002,7 +20420,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 5, 6, 11, 15 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "41": 1,
@@ -20070,7 +20488,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-12T18:40"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20114,7 +20533,8 @@
    },
    "related": [
     39
-   ]
+   ],
+   "published_local": "2026-09-12T18:29"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20157,7 +20577,8 @@
    },
    "related": [
     30
-   ]
+   ],
+   "published_local": "2026-09-12T16:56"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20197,7 +20618,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 900
-   }
+   },
+   "published_local": "2026-09-12T16:44"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20214,7 +20636,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "1": 1,
@@ -20251,7 +20673,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-09-12T14:30"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20269,7 +20692,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 5, 6, 11, 15, 17, 18 and 20.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 4,
@@ -20352,7 +20775,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-12T14:26"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20395,7 +20819,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-09-12T14:25"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20415,7 +20840,8 @@
     "refs": [
      31
     ]
-   }
+   },
+   "published_local": "2026-09-12T13:57"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20536,7 +20962,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-11T18:31"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20579,7 +21006,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-09-11T16:41"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20596,7 +21024,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "14": 1
@@ -20618,7 +21046,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-09-11T16:20"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20739,7 +21168,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-11T16:15"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20779,7 +21209,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 1000
-   }
+   },
+   "published_local": "2026-09-11T14:01"
   },
   {
    "event": "Spanish Grand Prix",
@@ -20819,7 +21250,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 700
-   }
+   },
+   "published_local": "2026-09-11T14:00"
   },
   {
    "event": "United States Grand Prix",
@@ -20925,7 +21357,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-25T17:06"
   },
   {
    "event": "United States Grand Prix",
@@ -20964,7 +21397,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-10-25T16:59"
   },
   {
    "event": "United States Grand Prix",
@@ -21003,7 +21437,8 @@
      "10s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-10-25T16:29"
   },
   {
    "event": "United States Grand Prix",
@@ -21042,7 +21477,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-10-25T16:59"
   },
   {
    "event": "United States Grand Prix",
@@ -21085,7 +21521,8 @@
    },
    "related": [
     47
-   ]
+   ],
+   "published_local": "2026-10-25T12:48"
   },
   {
    "event": "United States Grand Prix",
@@ -21105,7 +21542,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 27).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:55.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note             Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:55.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "31": 1,
      "81": 2,
@@ -21141,7 +21578,8 @@
    },
    "related": [
     27
-   ]
+   ],
+   "published_local": "2026-10-24T17:31"
   },
   {
    "event": "United States Grand Prix",
@@ -21159,7 +21597,7 @@
     "session": "Qualifying",
     "fact": "The F1 Cars below did not use the track at turns 9, 11, 17 and 19.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 1,
@@ -21202,7 +21640,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-24T17:26"
   },
   {
    "event": "United States Grand Prix",
@@ -21246,7 +21685,8 @@
    },
    "related": [
     30
-   ]
+   ],
+   "published_local": "2026-10-24T16:03"
   },
   {
    "event": "United States Grand Prix",
@@ -21289,7 +21729,8 @@
    },
    "related": [
     33
-   ]
+   ],
+   "published_local": "2026-10-24T15:49"
   },
   {
    "event": "United States Grand Prix",
@@ -21332,7 +21773,8 @@
    },
    "related": [
     29
-   ]
+   ],
+   "published_local": "2026-10-24T15:40"
   },
   {
    "event": "United States Grand Prix",
@@ -21375,7 +21817,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-10-24T15:34"
   },
   {
    "event": "United States Grand Prix",
@@ -21481,7 +21924,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-25T08:37"
   },
   {
    "event": "United States Grand Prix",
@@ -21508,7 +21952,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-23T18:17"
   },
   {
    "event": "United States Grand Prix",
@@ -21547,7 +21992,8 @@
      "No further action"
     ],
     "outcome": "nfa"
-   }
+   },
+   "published_local": "2026-10-23T17:26"
   },
   {
    "event": "United States Grand Prix",
@@ -21574,7 +22020,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-10-23T15:45"
   },
   {
    "event": "United States Grand Prix",
@@ -21617,7 +22064,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-26T05:30"
   },
   {
    "event": "United States Grand Prix",
@@ -21632,7 +22080,8 @@
    "cars": [
     41
    ],
-   "type": "Infringement"
+   "type": "Infringement",
+   "published_local": "2026-10-23T15:10"
   },
   {
    "event": "United States Grand Prix",
@@ -21674,7 +22123,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-23T13:52"
   },
   {
    "event": "United States Grand Prix",
@@ -21716,7 +22166,8 @@
    },
    "related": [
     13
-   ]
+   ],
+   "published_local": "2026-10-23T13:44"
   }
  ]
 }

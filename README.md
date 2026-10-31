@@ -31,7 +31,7 @@ workflow (`.github/workflows/update.yml`) does the scraping instead:
    `scraper/cache/pdf_details.json`.
 4. Commits any changed JSON and redeploys Pages.
 
-It runs every 30 minutes Friday–Sunday and every 4 hours otherwise. Runs with no changes don't commit or redeploy.
+It runs every 10 minutes Friday–Sunday (UTC) and every 4 hours otherwise. Runs with no changes don't commit or redeploy.
 PDFs are always opened from fia.com and are not re-hosted.
 
 ## Setup

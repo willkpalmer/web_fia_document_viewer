@@ -6,6 +6,10 @@
   "doc_count": 73,
   "first_published": "2026-09-09T13:57",
   "last_published": "2026-09-13T20:15",
+  "first_local": "2026-09-09T13:57",
+  "last_local": "2026-09-13T20:15",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
   "counts": {
    "results": 10,
    "technical": 11,
@@ -24,7 +28,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_championship_points.pdf",
    "published": "2026-09-13T20:15",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T20:15"
   },
   {
    "num": 73,
@@ -34,7 +39,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_final_race_classification.pdf",
    "published": "2026-09-13T20:10",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T20:10"
   },
   {
    "num": 72,
@@ -44,7 +50,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_race_scrutineering.pdf",
    "published": "2026-09-13T19:57",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T19:57"
   },
   {
    "num": 71,
@@ -60,7 +67,7 @@
     "session": "Race",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 5, 6, 11, 15, 17, 18, 19 and 20.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "81": 4,
@@ -138,7 +145,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-13T17:35"
   },
   {
    "num": 70,
@@ -148,7 +156,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_provisional_race_classification.pdf",
    "published": "2026-09-13T17:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T17:05"
   },
   {
    "num": 69,
@@ -185,7 +194,8 @@
      "Warning"
     ],
     "outcome": "warning"
-   }
+   },
+   "published_local": "2026-09-13T17:04"
   },
   {
    "num": 68,
@@ -222,7 +232,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-09-13T16:50"
   },
   {
    "num": 67,
@@ -260,7 +271,8 @@
      "5s time penalty"
     ],
     "outcome": "penalty"
-   }
+   },
+   "published_local": "2026-09-13T16:13"
   },
   {
    "num": 66,
@@ -298,7 +310,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 200
-   }
+   },
+   "published_local": "2026-09-13T15:56"
   },
   {
    "num": 65,
@@ -308,7 +321,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_final_starting_grid.pdf",
    "published": "2026-09-13T14:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T14:00"
   },
   {
    "num": 64,
@@ -318,7 +332,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_parts_and_parameters_replaced_and_or_changed_during_parc_ferme.pdf",
    "published": "2026-09-13T13:53",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T13:53"
   },
   {
    "num": 63,
@@ -359,7 +374,8 @@
    },
    "related": [
     60
-   ]
+   ],
+   "published_local": "2026-09-13T13:20"
   },
   {
    "num": 62,
@@ -379,7 +395,8 @@
     "refs": [
      62
     ]
-   }
+   },
+   "published_local": "2026-09-13T11:59"
   },
   {
    "num": 61,
@@ -389,7 +406,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_race_directors_competition_notes_v3.pdf",
    "published": "2026-09-13T11:46",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T11:46"
   },
   {
    "num": 60,
@@ -402,7 +420,8 @@
    "cars": [],
    "related": [
     63
-   ]
+   ],
+   "published_local": "2026-09-13T11:44"
   },
   {
    "num": 59,
@@ -412,7 +431,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_post-race_procedure.pdf",
    "published": "2026-09-13T09:39",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T09:39"
   },
   {
    "num": 58,
@@ -422,7 +442,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_pre-race_procedure.pdf",
    "published": "2026-09-13T09:38",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-13T09:38"
   },
   {
    "num": 57,
@@ -432,7 +453,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_provisional_starting_grid.pdf",
    "published": "2026-09-12T21:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T21:00"
   },
   {
    "num": 56,
@@ -442,7 +464,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_final_qualifying_classification.pdf",
    "published": "2026-09-12T20:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T20:50"
   },
   {
    "num": 55,
@@ -460,7 +483,8 @@
     "refs": [
      55
     ]
-   }
+   },
+   "published_local": "2026-09-12T20:43"
   },
   {
    "num": 54,
@@ -470,7 +494,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_fp3_and_qualifying_scrutineering.pdf",
    "published": "2026-09-12T20:03",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T20:03"
   },
   {
    "num": 53,
@@ -513,7 +538,8 @@
    "related": [
     28,
     43
-   ]
+   ],
+   "published_local": "2026-09-12T19:35"
   },
   {
    "num": 52,
@@ -556,7 +582,8 @@
    "related": [
     28,
     38
-   ]
+   ],
+   "published_local": "2026-09-12T19:26"
   },
   {
    "num": 51,
@@ -599,7 +626,8 @@
    "related": [
     28,
     37
-   ]
+   ],
+   "published_local": "2026-09-12T19:23"
   },
   {
    "num": 50,
@@ -617,7 +645,7 @@
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 28).",
     "decision": "No further action.",
     "from": "The Stewards",
-    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:42.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:42.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
     "table_rows": {
      "81": 4,
      "63": 2,
@@ -668,7 +696,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-09-12T19:12"
   },
   {
    "num": 49,
@@ -711,7 +740,8 @@
    "related": [
     28,
     37
-   ]
+   ],
+   "published_local": "2026-09-12T19:15"
   },
   {
    "num": 48,
@@ -726,7 +756,7 @@
    "details": {
     "session": "Qualifying",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "10": 1
@@ -744,7 +774,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-12T18:43"
   },
   {
    "num": 47,
@@ -760,7 +791,7 @@
     "session": "Qualifying",
     "fact": "The F1 cars below did not use the track at turns 5, 6, 11, 15 and 17.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note               Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "41": 1,
@@ -828,7 +859,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-12T18:40"
   },
   {
    "num": 46,
@@ -870,7 +902,8 @@
    },
    "related": [
     39
-   ]
+   ],
+   "published_local": "2026-09-12T18:29"
   },
   {
    "num": 45,
@@ -880,7 +913,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_timetable_v5.pdf",
    "published": "2026-09-12T17:36",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T17:36"
   },
   {
    "num": 44,
@@ -890,7 +924,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_provisional_qualifying_classification.pdf",
    "published": "2026-09-12T17:16",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T17:16"
   },
   {
    "num": 43,
@@ -921,7 +956,8 @@
    },
    "related": [
     53
-   ]
+   ],
+   "published_local": "2026-09-12T17:27"
   },
   {
    "num": 42,
@@ -949,7 +985,8 @@
     "refs": [
      42
     ]
-   }
+   },
+   "published_local": "2026-09-12T17:27"
   },
   {
    "num": 41,
@@ -990,7 +1027,8 @@
    },
    "related": [
     30
-   ]
+   ],
+   "published_local": "2026-09-12T16:56"
   },
   {
    "num": 40,
@@ -1019,7 +1057,8 @@
     "refs": [
      40
     ]
-   }
+   },
+   "published_local": "2026-09-12T16:54"
   },
   {
    "num": 39,
@@ -1051,7 +1090,8 @@
    },
    "related": [
     46
-   ]
+   ],
+   "published_local": "2026-09-12T16:53"
   },
   {
    "num": 38,
@@ -1084,7 +1124,8 @@
    "related": [
     28,
     52
-   ]
+   ],
+   "published_local": "2026-09-12T16:56"
   },
   {
    "num": 37,
@@ -1116,7 +1157,8 @@
    "related": [
     49,
     51
-   ]
+   ],
+   "published_local": "2026-09-12T16:49"
   },
   {
    "num": 36,
@@ -1154,7 +1196,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 900
-   }
+   },
+   "published_local": "2026-09-12T16:44"
   },
   {
    "num": 35,
@@ -1169,7 +1212,7 @@
    "details": {
     "session": "Free Practice 3",
     "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "1": 1,
@@ -1206,7 +1249,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-09-12T14:30"
   },
   {
    "num": 34,
@@ -1222,7 +1266,7 @@
     "session": "Free Practice 3",
     "fact": "The F1 cars below did not use the track at turns 1, 2, 5, 6, 11, 15, 17, 18 and 20.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
-    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note           Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "55": 4,
@@ -1305,7 +1349,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-12T14:26"
   },
   {
    "num": 33,
@@ -1346,7 +1391,8 @@
    },
    "related": [
     28
-   ]
+   ],
+   "published_local": "2026-09-12T14:25"
   },
   {
    "num": 32,
@@ -1356,7 +1402,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_free_practice_3_classification.pdf",
    "published": "2026-09-12T14:05",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T14:05"
   },
   {
    "num": 31,
@@ -1374,7 +1421,8 @@
     "refs": [
      31
     ]
-   }
+   },
+   "published_local": "2026-09-12T13:57"
   },
   {
    "num": 30,
@@ -1387,7 +1435,8 @@
    "cars": [],
    "related": [
     41
-   ]
+   ],
+   "published_local": "2026-09-12T12:48"
   },
   {
    "num": 29,
@@ -1407,7 +1456,8 @@
     "refs": [
      29
     ]
-   }
+   },
+   "published_local": "2026-09-12T12:23"
   },
   {
    "num": 28,
@@ -1428,7 +1478,8 @@
     51,
     52,
     53
-   ]
+   ],
+   "published_local": "2026-09-12T11:18"
   },
   {
    "num": 27,
@@ -1438,7 +1489,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_post-qualifying_procedure.pdf",
    "published": "2026-09-12T09:43",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T09:43"
   },
   {
    "num": 26,
@@ -1448,7 +1500,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_curfew.pdf",
    "published": "2026-09-12T09:41",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-12T09:41"
   },
   {
    "num": 25,
@@ -1458,7 +1511,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_power_unit_information_v2.pdf",
    "published": "2026-09-11T22:06",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T22:06"
   },
   {
    "num": 24,
@@ -1468,7 +1522,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_p1_and_p2_scrutineering.pdf",
    "published": "2026-09-11T20:52",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T20:52"
   },
   {
    "num": 23,
@@ -1479,7 +1534,8 @@
    "published": "2026-09-11T20:41",
    "recalled": false,
    "cars": [],
-   "superseded_by": 45
+   "superseded_by": 45,
+   "published_local": "2026-09-11T20:41"
   },
   {
    "num": 22,
@@ -1489,7 +1545,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
    "published": "2026-09-11T19:02",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T19:02"
   },
   {
    "num": 21,
@@ -1608,7 +1665,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-11T18:31"
   },
   {
    "num": 20,
@@ -1618,7 +1676,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_free_practice_2_classification.pdf",
    "published": "2026-09-11T18:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T18:20"
   },
   {
    "num": 19,
@@ -1659,7 +1718,8 @@
    },
    "related": [
     14
-   ]
+   ],
+   "published_local": "2026-09-11T16:41"
   },
   {
    "num": 18,
@@ -1674,7 +1734,7 @@
    "details": {
     "session": "Free Practice 1",
     "fact": "The F1 car passed through a double waved yellow flag marshalling sector.",
-    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. Note                Competitors are reminded that they have the right to appeal certain decisions of the Stewards, in accordance with Article 15 of the FIA International Sporting Code and Chapter 5 of the FIA Judicial and Disciplinary Rules, within the applicable time limits.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
     "table_rows": {
      "14": 1
@@ -1696,7 +1756,8 @@
    },
    "related": [
     5
-   ]
+   ],
+   "published_local": "2026-09-11T16:20"
   },
   {
    "num": 17,
@@ -1815,7 +1876,8 @@
      "Lap time deleted"
     ],
     "outcome": "deleted"
-   }
+   },
+   "published_local": "2026-09-11T16:15"
   },
   {
    "num": 16,
@@ -1825,7 +1887,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_free_practice_1_classification.pdf",
    "published": "2026-09-11T15:00",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T15:00"
   },
   {
    "num": 15,
@@ -1853,7 +1916,8 @@
     "refs": [
      15
     ]
-   }
+   },
+   "published_local": "2026-09-11T15:04"
   },
   {
    "num": 14,
@@ -1884,7 +1948,8 @@
    },
    "related": [
     19
-   ]
+   ],
+   "published_local": "2026-09-11T15:03"
   },
   {
    "num": 13,
@@ -1922,7 +1987,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 1000
-   }
+   },
+   "published_local": "2026-09-11T14:01"
   },
   {
    "num": 12,
@@ -1960,7 +2026,8 @@
     ],
     "outcome": "penalty",
     "fine_eur": 700
-   }
+   },
+   "published_local": "2026-09-11T14:00"
   },
   {
    "num": 11,
@@ -1970,7 +2037,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_car_presentation_submissions.pdf",
    "published": "2026-09-11T11:01",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T11:01"
   },
   {
    "num": 10,
@@ -1980,7 +2048,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_entry_list.pdf",
    "published": "2026-09-11T10:20",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T10:20"
   },
   {
    "num": 9,
@@ -1990,7 +2059,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
    "published": "2026-09-11T09:50",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T09:50"
   },
   {
    "num": 8,
@@ -2000,7 +2070,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_self_scrutineering.pdf",
    "published": "2026-09-11T09:47",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-11T09:47"
   },
   {
    "num": 6,
@@ -2010,7 +2081,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf",
    "published": "2026-09-10T19:25",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-10T19:25"
   },
   {
    "num": 5,
@@ -2024,7 +2096,8 @@
    "superseded_by": 61,
    "related": [
     18
-   ]
+   ],
+   "published_local": "2026-09-10T18:45"
   },
   {
    "num": 4,
@@ -2034,7 +2107,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_car_display_procedure.pdf",
    "published": "2026-09-10T18:22",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-10T18:22"
   },
   {
    "num": 3,
@@ -2045,7 +2119,8 @@
    "published": "2026-09-10T15:56",
    "recalled": false,
    "cars": [],
-   "superseded_by": 25
+   "superseded_by": 25,
+   "published_local": "2026-09-10T15:56"
   },
   {
    "num": 2,
@@ -2055,7 +2130,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_competition_visa.pdf",
    "published": "2026-09-10T12:03",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-10T12:03"
   },
   {
    "num": 1,
@@ -2065,7 +2141,8 @@
    "url": "https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
    "published": "2026-09-09T13:57",
    "recalled": false,
-   "cars": []
+   "cars": [],
+   "published_local": "2026-09-09T13:57"
   }
  ]
 }
