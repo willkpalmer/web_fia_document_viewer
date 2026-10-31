@@ -35,7 +35,7 @@ CHAMPIONSHIP_URL = BASE + "/documents/championships/fia-formula-one-world-champi
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "site" / "data"
 CACHE_FILE = Path(__file__).resolve().parent / "cache" / "pdf_details.json"
-CACHE_VERSION = 1
+CACHE_VERSION = 2  # cache stores raw PDF text; parsing reruns every time
 
 session = requests.Session()
 session.headers["User-Agent"] = (
@@ -181,11 +181,16 @@ def mark_superseded(docs):
 # --------------------------------------------------------------------------- PDF parsing
 
 FIELD_LABELS = ["No / Driver", "Competitor", "Time", "Session", "Fact", "Infringement",
-                "Offence", "Decision", "Reason"]
+                "Offence", "Decision", "Reasons", "Reason"]
 FIELD_RX = re.compile(r"^\s{0,2}(" + "|".join(re.escape(x) for x in FIELD_LABELS) + r")\b\s*(.*)$")
 STOP_RX = re.compile(r"^\s*(Competitors are reminded|Decisions of the Stewards are taken|The Stewards\s*$)")
 
-NUM_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6}
+TABLE_HEAD_RX = re.compile(r"^\s*No\.?\s{2,}(?:Turn\s+)?Car\b", re.I)
+TABLE_ROW_RX = re.compile(r"(?<!\S)(\d{1,2})\s{2,}([A-Z][\w'’.\-]+(?:\s[A-Z][\w'’.\-]+){1,3})(?=\s{2,}|$)")
+
+NUM_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8,
+             "nine": 9, "ten": 10}
+NUM = r"(\d+|one|two|three|four|five|six|seven|eight|nine|ten)"
 
 
 def pdf_text(pdf: bytes) -> str:
@@ -202,6 +207,9 @@ def parse_stewards_pdf(text: str) -> dict:
     current = None
     to_lines = []
     in_to = False
+    in_table = False
+    table_cars: list[int] = []
+    table_names: dict[int, str] = {}
 
     for line in lines:
         if not line.strip():
@@ -225,7 +233,18 @@ def parse_stewards_pdf(text: str) -> dict:
                 break
             continue
         m = FIELD_RX.match(line)
+        if TABLE_HEAD_RX.match(line) and not (m and m.group(1) not in fields):
+            in_table, current = True, None
+            continue
+        if in_table and not (m and m.group(1) not in fields):
+            r = TABLE_ROW_RX.search(line)
+            if r:
+                car = int(r.group(1))
+                table_cars.append(car)
+                table_names[car] = r.group(2).strip()
+            continue
         if m and m.group(1) not in fields:
+            in_table = False
             current = m.group(1)
             fields[current] = [m.group(2).strip()] if m.group(2).strip() else []
             continue
@@ -237,15 +256,47 @@ def parse_stewards_pdf(text: str) -> dict:
 
     out = {k.lower().replace(" / ", "_").replace(" ", "_"): " ".join(v).strip()
            for k, v in fields.items() if v}
+
+    m_from = re.search(r"^\s*From\s{2,}(.*?)(?:\s{2,}Document\b.*)?$", text, re.M)
+    if m_from:
+        out["from"] = m_from.group(1).strip()
+
+    if not any(k in out for k in ("decision", "fact", "reason")):
+        # free-form letter / report: keep the body text as a summary
+        body, started = [], False
+        for line in lines:
+            st = line.strip()
+            if not st:
+                continue
+            if not started:
+                if re.match(r"^Time\b|.*\s{2,}Time\s+\d", st) or re.search(r"\bTime\s+\d{1,2}:\d{2}\s*$", st):
+                    started = True
+                continue
+            if STOP_RX.match(line) or re.match(r"^(The Stewards|The FIA Formula 1 Technical Delegate)\s*$", st):
+                break
+            body.append(st)
+        summary = " ".join(body).strip()
+        if summary:
+            out["summary"] = summary[:2000]
+        if re.search(r"grants?\s+permission|permission is granted|allowed to start", summary, re.I):
+            out["decision"] = "Permission granted to start the race."
+    if "reasons" in out:
+        out["reason"] = (out.get("reason", "") + " " + out.pop("reasons")).strip()
     if "offence" in out and "infringement" not in out:
         out["infringement"] = out.pop("offence")
 
     team = " ".join(x for x in to_lines if x and not x.lower().startswith("the team manager")).strip(" ,")
-    if team and "competitor" not in out:
+    if team and "competitor" not in out and not re.match(r"^(the stewards|all )", team, re.I):
         out["competitor"] = team
 
     drivers = []
-    if out.get("no_driver"):
+    if table_cars:
+        counts: dict[int, int] = {}
+        for c in table_cars:
+            counts[c] = counts.get(c, 0) + 1
+        out["table_rows"] = {str(c): n for c, n in counts.items()}
+        drivers = [{"car": c, "name": table_names[c]} for c in counts]
+    if out.get("no_driver") and not drivers:
         for num, name in re.findall(r"(\d{1,2})\s*[-–]\s*([^\d,;()]+?)(?=\s*(?:\d{1,2}\s*[-–]|,|;|\band\b|\(|$))",
                                     out["no_driver"]):
             drivers.append({"car": int(num), "name": name.strip()})
@@ -268,7 +319,7 @@ def penalty_summary(decision: str) -> dict:
     def has(p):
         return re.search(p, d)
 
-    if has(r"no further action"):
+    if has(r"no further action|no penalty (is )?applied|no penalty"):
         tags.append("No further action")
     if has(r"drive[- ]through"):
         tags.append("Drive-through")
@@ -279,15 +330,21 @@ def penalty_summary(decision: str) -> dict:
         tags.append(f"{m.group(1)}s time penalty")
     elif has(r"time penalty"):
         tags.append("Time penalty")
-    m = re.search(r"(\d+)\s*(?:-\s*)?(?:place|position)s?\s+grid", d)
+    m = (re.search(NUM + r"\s*(?:-\s*)?(?:place|position)s?\s+grid", d)
+         or re.search(r"drop of\s*" + NUM + r"\s*grid\s*(?:place|position)s?", d))
     if m:
-        tags.append(f"{m.group(1)}-place grid drop")
+        tags.append(f"{NUM_WORDS.get(m.group(1), m.group(1))}-place grid drop")
     elif has(r"back of the (starting )?grid"):
         tags.append("Back of grid")
     elif has(r"grid (place |position )?(penalty|drop)"):
         tags.append("Grid penalty")
-    if has(r"pit ?lane start|start(ing)? from the pit ?lane"):
+    if has(r"pit ?lane start|from the pit ?lane"):
         tags.append("Pit lane start")
+    m = re.search(r"(\d+)\s*penalty laps?", d)
+    if m:
+        tags.append(f"{m.group(1)} penalty lap{'s' if m.group(1) != '1' else ''}")
+    if has(r"permission granted|grants? permission"):
+        tags.append("Permission to start")
     if has(r"disqualif"):
         tags.append("Disqualified")
     if has(r"reprimand"):
@@ -319,7 +376,11 @@ def penalty_summary(decision: str) -> dict:
 
     if "No further action" in tags and len(tags) == 1:
         outcome = "nfa"
-    elif any(t for t in tags if t not in ("Warning", "Reprimand", "No further action")):
+    elif tags == ["Permission to start"]:
+        outcome = "other"
+    elif tags == ["Lap time deleted"]:
+        outcome = "deleted"
+    elif any(t for t in tags if t not in ("Warning", "Reprimand", "No further action", "Permission to start")):
         outcome = "penalty"
     elif "Reprimand" in tags:
         outcome = "reprimand"
@@ -360,7 +421,7 @@ def write_json(path: Path, obj):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-pdfs", action="store_true", help="skip downloading stewards PDFs")
-    ap.add_argument("--reparse", action="store_true", help="ignore the PDF cache")
+    ap.add_argument("--reparse", action="store_true", help="re-download all PDFs")
     ap.add_argument("--delay", type=float, default=0.4, help="seconds between requests")
     args = ap.parse_args()
 
@@ -405,16 +466,19 @@ def main():
         for d in docs:
             if d["category"] != "stewards" or not d["url"] or args.no_pdfs:
                 continue
-            det = cache["pdfs"].get(d["url"])
-            if det is None:
+            text = cache["pdfs"].get(d["url"])
+            if text is None:
                 time.sleep(args.delay)
                 pdf = get(d["url"], binary=True)
                 if not pdf:
                     continue
-                det = parse_stewards_pdf(pdf_text(pdf))
-                cache["pdfs"][d["url"]] = det
-                log(f"  parsed Doc {d['num']}: {det.get('tags')}")
+                text = pdf_text(pdf)
+                cache["pdfs"][d["url"]] = text
+                log(f"  downloaded Doc {d['num']}")
+            det = parse_stewards_pdf(text)
             d["details"] = det
+            if det.get("from") and not re.search(r"stewards", det["from"], re.I):
+                d["type"] = "Report"
             for drv in det.get("drivers", []):
                 drivers[str(drv["car"])] = {"name": drv["name"], "team": det.get("competitor")}
 

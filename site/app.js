@@ -58,7 +58,7 @@ function docDrivers(doc) {
 function catVar(id) { return `--cc: var(--c-${id})`; }
 function searchText(doc) {
   const d = doc.details || {};
-  return [doc.title, d.no_driver, d.competitor, d.session, d.fact, d.infringement, d.decision, d.reason,
+  return [doc.title, d.no_driver, d.competitor, d.session, d.fact, d.infringement, d.decision, d.reason, d.summary,
     ...(d.tags || []), ...docDrivers(doc).map((x) => x.name)].join(" ").toLowerCase();
 }
 function stripTypePrefix(subject, type) {
@@ -138,7 +138,7 @@ const SORTS = {
 };
 
 function renderEvent(data, params) {
-  const ev = data.event;
+  const ev = { ...data.event, ...(S.index.events.find((e) => e.slug === data.event.slug) || {}) };
   const all = data.documents;
   const cats = new Set((params.get("cat") || "").split(",").filter(Boolean));
   const q = (params.get("q") || "").trim().toLowerCase();
@@ -185,6 +185,7 @@ function renderEvent(data, params) {
       ${S.index.categories.map((c) => {
         const n = catCounts[c.id] || 0;
         const pressed = cats.has(c.id);
+        if (c.id === "other" && !n && !pressed) return "";
         return `<button class="cat ${cats.size && !pressed ? "dim" : ""}" style="${catVar(c.id)}" data-cat="${c.id}"
           aria-pressed="${pressed}" ${n || pressed ? "" : "disabled"} title="${esc(c.description)}">
           <div class="n">${n}</div><div class="l">${esc(c.label)}</div></button>`;
@@ -286,7 +287,8 @@ function rulingHTML(d, { showCat = false, event = null } = {}) {
   const det = d.details || {};
   const drivers = docDrivers(d);
   const typeKey = (d.type || "").split(" ")[0];
-  const who = drivers.length
+  const isTable = !!det.table_rows;
+  const who = isTable ? "" : drivers.length
     ? drivers.map((x) => `#${x.car} ${esc(x.name || S.index.drivers[String(x.car)]?.name || "")}`).join(", ")
     : esc(det.competitor || "");
   const team = drivers.length && det.competitor ? ` <span class="team">· ${esc(det.competitor)}</span>` : "";
@@ -296,6 +298,11 @@ function rulingHTML(d, { showCat = false, event = null } = {}) {
   const pills = [];
   if (showCat) pills.push(`<span class="pill cat-pill" style="${catVar("stewards")}">Stewards</span>`);
   if (d.recalled) pills.push(`<span class="pill">Recalled</span>`);
+  if (isTable) {
+    for (const [car, n] of Object.entries(det.table_rows).sort((a, b) => b[1] - a[1] || a[0] - b[0])) {
+      pills.push(`<span class="pill">${esc(driverLabel(car))}${n > 1 ? " ×" + n : ""}</span>`);
+    }
+  }
 
   let body = "";
   if (det.fact && det.fact.toLowerCase() !== subject.toLowerCase()) body += `<div class="fact muted">${esc(det.fact)}</div>`;
@@ -308,6 +315,12 @@ function rulingHTML(d, { showCat = false, event = null } = {}) {
         `<span class="pill o-${det.outcome || "other"}">${esc(t)}</span>`).join("")}</div>` : ""}</div>`;
   }
   if (!isSummons && det.reason) body += `<details><summary>Stewards' reasoning</summary><p>${esc(det.reason)}</p></details>`;
+  if (det.summary) {
+    const short = det.summary.length > 320 ? det.summary.slice(0, 300).replace(/\s+\S*$/, "") + "…" : det.summary;
+    body += `<div class="fact muted">${esc(short)}</div>`;
+    if (short !== det.summary) body += `<details><summary>Full text</summary><p>${esc(det.summary)}</p></details>`;
+  }
+  if (det.from && !/stewards/i.test(det.from)) body += `<div class="rel">From: ${esc(det.from)}</div>`;
   if (d.related?.length) {
     body += `<div class="rel">Related: ${d.related.map((n) =>
       `<a href="#" data-goto="doc-${n}">Doc ${n}</a>`).join("")}</div>`;
@@ -330,7 +343,8 @@ function rulingHTML(d, { showCat = false, event = null } = {}) {
 
 /* ------------------------------------------------------------------ penalties view */
 
-const OUTCOMES = [["penalty", "Penalties"], ["reprimand", "Reprimands"], ["warning", "Warnings"], ["nfa", "No further action"], ["other", "Other"]];
+const OUTCOMES = [["penalty", "Penalties"], ["reprimand", "Reprimands"], ["warning", "Warnings"], ["nfa", "No further action"],
+  ["deleted", "Lap times deleted"], ["other", "Other"]];
 
 function penaltyKeys(d) {
   const ds = docDrivers(d);
@@ -363,9 +377,14 @@ async function renderPenalties(params) {
   for (const d of base) {
     const det = d.details || {};
     for (const k of penaltyKeys(d)) {
-      if (!agg.has(k.key)) agg.set(k.key, { ...k, total: 0, penalty: 0, reprimand: 0, warning: 0, nfa: 0, other: 0, points: 0, fines: 0 });
+      if (!agg.has(k.key)) agg.set(k.key, { ...k, total: 0, penalty: 0, reprimand: 0, warning: 0, nfa: 0, other: 0, deleted: 0, laps: 0, points: 0, fines: 0 });
       const a = agg.get(k.key);
       if (k.team && !a.team) a.team = k.team;
+      if (det.outcome === "deleted") {
+        a.deleted++;
+        a.laps += det.table_rows?.[String(k.car)] || 1;
+        continue;
+      }
       a.total++;
       a[det.outcome || "other"]++;
       a.points += det.penalty_points || 0;
@@ -377,6 +396,7 @@ async function renderPenalties(params) {
     ["total", "Rulings", (a) => a.total, true], ["penalty", "Penalties", (a) => a.penalty, true],
     ["reprimand", "Reprimands", (a) => a.reprimand, true], ["warning", "Warnings", (a) => a.warning, true],
     ["nfa", "NFA", (a) => a.nfa, true], ["points", "Pen. points", (a) => a.points, true], ["fines", "Fines", (a) => a.fines, true],
+    ["laps", "Laps deleted", (a) => a.laps, true],
   ];
   const col = cols.find((c) => c[0] === sortKey) || cols[4];
   const summary = [...agg.values()].sort((x, y) => {
@@ -385,7 +405,7 @@ async function renderPenalties(params) {
     return (asc ? r : -r) || (y.total - x.total);
   });
 
-  const tot = { penalty: 0, reprimand: 0, warning: 0, nfa: 0, fines: 0, points: 0 };
+  const tot = { penalty: 0, reprimand: 0, warning: 0, nfa: 0, deleted: 0, fines: 0, points: 0 };
   for (const d of base) {
     const det = d.details || {};
     if (tot[det.outcome] != null) tot[det.outcome]++;
@@ -401,16 +421,17 @@ async function renderPenalties(params) {
     <div class="ev-head"><div>
       <div class="meta">${esc(S.index.season)}</div>
       <h2>Season penalties</h2>
-      <div class="meta">Every stewards' Infringement and Decision document, parsed from the PDFs</div>
+      <div class="meta">Every stewards' Infringement and Decision document, parsed from the PDFs. Deleted lap times (track limits) are counted separately.</div>
     </div></div>
     <div class="stat-row">
-      <div class="stat"><div class="n">${base.length}</div><div class="l">Rulings</div></div>
+      <div class="stat"><div class="n">${base.length - tot.deleted}</div><div class="l">Rulings</div></div>
       <div class="stat"><div class="n" style="color:var(--o-penalty)">${tot.penalty}</div><div class="l">Penalties</div></div>
       <div class="stat"><div class="n" style="color:var(--o-reprimand)">${tot.reprimand}</div><div class="l">Reprimands</div></div>
       <div class="stat"><div class="n" style="color:var(--o-warning)">${tot.warning}</div><div class="l">Warnings</div></div>
       <div class="stat"><div class="n" style="color:var(--o-nfa)">${tot.nfa}</div><div class="l">No further action</div></div>
       <div class="stat"><div class="n">${tot.points}</div><div class="l">Penalty points</div></div>
       <div class="stat"><div class="n">${euro(tot.fines)}</div><div class="l">Fines</div></div>
+      <div class="stat"><div class="n">${tot.deleted}</div><div class="l">Deleted-lap rulings</div></div>
     </div>
     <div class="toolbar">
       <input type="search" id="q" placeholder="Search offences, decisions, drivers…" value="${esc(params.get("q") || "")}">
@@ -428,7 +449,7 @@ async function renderPenalties(params) {
           <td class="num">${a.car ?? ""}</td><td>${esc(a.name)}</td><td class="muted">${esc(a.team)}</td>
           <td class="num">${a.total}</td><td class="num">${a.penalty || ""}</td><td class="num">${a.reprimand || ""}</td>
           <td class="num">${a.warning || ""}</td><td class="num">${a.nfa || ""}</td><td class="num">${a.points || ""}</td>
-          <td class="num">${a.fines ? euro(a.fines) : ""}</td></tr>`).join("")}</tbody>
+          <td class="num">${a.fines ? euro(a.fines) : ""}</td><td class="num">${a.laps || ""}</td></tr>`).join("")}</tbody>
       </table></div>
     </section>
     <section class="section">

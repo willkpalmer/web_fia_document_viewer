@@ -19,6 +19,7 @@
   --o-warning: #a16207;
   --o-nfa: #3f7d4e;
   --o-other: #6b6b73;
+  --o-deleted: #6b6b73;
   --shadow: 0 1px 2px rgba(0,0,0,.05), 0 2px 8px rgba(0,0,0,.04);
   color-scheme: light;
 }
@@ -28,7 +29,7 @@
     --text: #ececef; --muted: #9a9aa5; --accent: #ff3b30; --accent-soft: #3a1715; --link: #6cb2ff;
     --c-stewards: #ff6b5e; --c-technical: #5aa9ef; --c-race_director: #e0a43a; --c-results: #5cc274;
     --c-admin: #a98bf0; --c-other: #9a9aa5;
-    --o-penalty: #ff6b5e; --o-reprimand: #f59e0b; --o-warning: #eab308; --o-nfa: #5cc274; --o-other: #9a9aa5;
+    --o-penalty: #ff6b5e; --o-reprimand: #f59e0b; --o-warning: #eab308; --o-nfa: #5cc274; --o-other: #9a9aa5; --o-deleted: #9a9aa5;
     --shadow: none; color-scheme: dark;
   }
 }
@@ -37,7 +38,7 @@
   --text: #ececef; --muted: #9a9aa5; --accent: #ff3b30; --accent-soft: #3a1715; --link: #6cb2ff;
   --c-stewards: #ff6b5e; --c-technical: #5aa9ef; --c-race_director: #e0a43a; --c-results: #5cc274;
   --c-admin: #a98bf0; --c-other: #9a9aa5;
-  --o-penalty: #ff6b5e; --o-reprimand: #f59e0b; --o-warning: #eab308; --o-nfa: #5cc274; --o-other: #9a9aa5;
+  --o-penalty: #ff6b5e; --o-reprimand: #f59e0b; --o-warning: #eab308; --o-nfa: #5cc274; --o-other: #9a9aa5; --o-deleted: #9a9aa5;
   --shadow: none; color-scheme: dark;
 }
 
@@ -151,7 +152,7 @@ button, input, select { font: inherit; color: inherit; }
 .pill.o-reprimand { color: var(--o-reprimand); background: color-mix(in srgb, var(--o-reprimand) 13%, transparent); }
 .pill.o-warning { color: var(--o-warning); background: color-mix(in srgb, var(--o-warning) 13%, transparent); }
 .pill.o-nfa { color: var(--o-nfa); background: color-mix(in srgb, var(--o-nfa) 13%, transparent); }
-.pill.o-other { color: var(--o-other); }
+.pill.o-other, .pill.o-deleted { color: var(--o-other); }
 
 /* stewards rulings */
 .ruling { padding: 12px 14px; border-top: 1px solid var(--border); display: grid; grid-template-columns: 52px minmax(0,1fr) auto; gap: 12px; }
@@ -162,6 +163,7 @@ button, input, select { font: inherit; color: inherit; }
 .type-Summons { color: var(--muted); }
 .type-Infringement, .type-Corrected { color: var(--o-penalty); }
 .type-Decision { color: var(--o-nfa); }
+.type-Report, .type-Stewards, .type-Right, .type-Hearing { color: var(--c-technical); }
 .ruling .fact { margin-top: 3px; }
 .ruling .outcome { margin-top: 6px; padding: 6px 10px; background: var(--surface-2); border-radius: 6px; border-left: 3px solid var(--oc, var(--border)); }
 .ruling .outcome b { font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); font-weight: 600; margin-right: 6px; }
