@@ -3,24 +3,93 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 61,
+  "doc_count": 64,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-11-01T16:40",
+  "last_published": "2026-11-01T19:22",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-11-01T09:40",
+  "last_local": "2026-11-01T12:22",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
-   "race_director": 9,
+   "stewards": 29,
+   "technical": 13,
+   "race_director": 10,
    "results": 6,
-   "stewards": 28,
-   "technical": 12,
    "admin": 5,
    "other": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 65,
+   "title": "Doc 65 - Infringement - Car 30 - Changes made during Parc Ferme",
+   "subject": "Infringement - Car 30 - Changes made during Parc Ferme",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_changes_made_during_parc_ferme.pdf",
+   "published": "2026-11-01T19:22",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "10:56",
+    "session": "Qualifying",
+    "fact": "The setup of the suspension has been changed while under parc fermé. The team continued to work on the car beyond the covers-on time. The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH) 7th Power Unit Ancillary Component (PU-ANC) All Power Unit elements were replaced without the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breaches of Articles B3.4.3, B3.5.3 and B3.5.4 of the FIA F1 Regulations.",
+    "decision": "Required to start the Race from the pit lane.",
+    "reason": "Visa Cash App Racing Bulls F1 Team changed the setup of the suspension of Car 30 under parc fermé before the start of the Race, without the approval of the Technical Delegate. This is not accordance with Article B3.5.4 of the FIA F1 Regulations. In addition, the change of setup is not in accordance with Article B3.5.3 of the FIA F1 Regulations. Car 30 is therefore required to start the Race from pit lane as per Article B3.5.3a of the FIA F1 Regulations. Visa Cash App Racing Bulls F1 Team continued to work on the car beyond the covers-on time which is a breach of Article B3.4.3 of the FIA F1 Regulations. Car 30 is therefore required to start the Race from pit lane as per Article B3.5.3a of the FIA F1 Regulations for this infringement too. The replacement of the Power Unit elements listed above would additionally result in a cumulative grid position penalty of 40 places. Furthermore, Car 30 had previously received a one grid position penalty at this Event (Document 34). The Stewards determine that these grid position penalties are absorbed by the requirement for Car 30 to start the Race from the pit lane and will therefore be considered served.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     34,
+     64,
+     65
+    ],
+    "tags": [
+     "Pit lane start"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    34,
+    64
+   ],
+   "published_local": "2026-11-01T12:22"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - Parc Ferme Issues",
+   "subject": "Parc Ferme Issues",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_parc_ferme_issues.pdf",
+   "published": "2026-11-01T18:23",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    65
+   ],
+   "published_local": "2026-11-01T11:23"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-11-01T17:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-01T10:25"
+  },
   {
    "num": 62,
    "title": "Doc 62 - Post-Race Procedure",
@@ -833,7 +902,8 @@
     "penalty_points": 1
    },
    "related": [
-    23
+    23,
+    65
    ],
    "published_local": "2026-10-30T20:53"
   },
@@ -1590,6 +1660,7 @@
    "published": "2026-10-29T23:10",
    "recalled": false,
    "cars": [],
+   "superseded_by": 63,
    "related": [
     50,
     51,
