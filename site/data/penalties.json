@@ -14484,6 +14484,46 @@
   {
    "event": "Mexico City Grand Prix",
    "event_slug": "mexico-city-grand-prix",
+   "num": 71,
+   "title": "Doc 71 - Infringement - Car 11 - Pit Lane Speeding",
+   "subject": "Infringement - Car 11 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_11_-_pit_lane_speeding.pdf",
+   "published": "2026-11-01T22:44",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "15:04",
+    "session": "Race",
+    "fact": "Pit lane speeding – 80.2 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "5 second time penalty.",
+    "reason": "Car 11 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.2 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     71
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-01T15:44"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
    "num": 69,
    "title": "Doc 69 - Infringement - Car 16 - Left the track and gained a lasting advantage",
    "subject": "Infringement - Car 16 - Left the track and gained a lasting advantage",
