@@ -3,24 +3,46 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 64,
+  "doc_count": 66,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-11-01T19:22",
+  "last_published": "2026-11-01T20:00",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-11-01T12:22",
+  "last_local": "2026-11-01T13:00",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
+   "results": 7,
+   "technical": 14,
    "stewards": 29,
-   "technical": 13,
    "race_director": 10,
-   "results": 6,
    "admin": 5,
    "other": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 67,
+   "title": "Doc 67 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-11-01T20:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-01T13:00"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - Parts and Parameters been replaced and or changed during Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-11-01T19:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-01T12:51"
+  },
   {
    "num": 65,
    "title": "Doc 65 - Infringement - Car 30 - Changes made during Parc Ferme",
