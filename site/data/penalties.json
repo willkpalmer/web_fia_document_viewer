@@ -14484,6 +14484,47 @@
   {
    "event": "Mexico City Grand Prix",
    "event_slug": "mexico-city-grand-prix",
+   "num": 68,
+   "title": "Doc 68 - Infringement - Car 55 - Pit Lane Speeding",
+   "subject": "Infringement - Car 55 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_55_-_pit_lane_speeding.pdf",
+   "published": "2026-11-01T21:14",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "13:22",
+    "session": "Reconnaissance Laps",
+    "fact": "Pit lane speeding – 90.9 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Atlassian Williams F1 Team) is fined €1000.",
+    "reason": "Car 55 exceeded the pit lane speed limit which is set at 80 km/h for this event by 10.9 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     68
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 1000
+   },
+   "published_local": "2026-11-01T14:14"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
    "num": 65,
    "title": "Doc 65 - Infringement - Car 30 - Changes made during Parc Ferme",
    "subject": "Infringement - Car 30 - Changes made during Parc Ferme",
