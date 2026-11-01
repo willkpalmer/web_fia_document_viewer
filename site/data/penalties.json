@@ -14484,6 +14484,46 @@
   {
    "event": "Mexico City Grand Prix",
    "event_slug": "mexico-city-grand-prix",
+   "num": 69,
+   "title": "Doc 69 - Infringement - Car 16 - Left the track and gained a lasting advantage",
+   "subject": "Infringement - Car 16 - Left the track and gained a lasting advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_16_-_left_the_track_and_gained_a_lasting_advantage.pdf",
+   "published": "2026-11-01T21:54",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "14:03",
+    "session": "Race",
+    "fact": "Car 16 left the track and gained a lasting advantage",
+    "infringement": "Breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "5 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video and in-car video evidence. The Stewards have determined that both cars entered turn 4 with excessive speed and therefore neither would have been able to make the corner on track, as demonstrated by the fact that car 44 which was on the inside, had to go off track to make the corner. Car 16 was therefore not entitled to claim the corner due to the excessive entry speed. The driver then completed an overtake whilst off track and accordingly this warrants a penalty. The baseline penalty guideline is 10 seconds however in mitigation is the fact that car 44 was also off track on the inside of car 16 and this occurred early in the first lap.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     69
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-01T14:54"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
    "num": 68,
    "title": "Doc 68 - Infringement - Car 55 - Pit Lane Speeding",
    "subject": "Infringement - Car 55 - Pit Lane Speeding",
