@@ -3,24 +3,46 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 59,
+  "doc_count": 61,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-11-01T02:15",
+  "last_published": "2026-11-01T16:40",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-10-31T19:15",
+  "last_local": "2026-11-01T09:40",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
+   "race_director": 9,
    "results": 6,
    "stewards": 28,
    "technical": 12,
    "admin": 5,
-   "other": 1,
-   "race_director": 7
+   "other": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 62,
+   "title": "Doc 62 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-11-01T16:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-01T09:40"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-11-01T16:36",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-01T09:36"
+  },
   {
    "num": 60,
    "title": "Doc 60 - Provisional Starting Grid",
