@@ -3,24 +3,112 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 55,
+  "doc_count": 59,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-11-01T01:53",
+  "last_published": "2026-11-01T02:15",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-10-31T18:53",
+  "last_local": "2026-10-31T19:15",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
+   "results": 6,
+   "stewards": 28,
    "technical": 12,
-   "stewards": 26,
    "admin": 5,
    "other": 1,
-   "results": 4,
    "race_director": 7
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 60,
+   "title": "Doc 60 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-11-01T02:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T19:15"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-11-01T02:10",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T19:10"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Decision - Car 30 - Permission to start",
+   "subject": "Decision - Car 30 - Permission to start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_car_30_-_permission_to_start.pdf",
+   "published": "2026-11-01T02:06",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards determine the following F1 Car is eligible to start the Race: 1. 30 - Liam Lawson – Visa Cash App Racing Bulls F1 Team The F1 Car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "refs": [
+     58
+    ]
+   },
+   "published_local": "2026-10-31T19:06"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Infringement - Car 30 - Technical nonconformity",
+   "subject": "Infringement - Car 30 - Technical nonconformity",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_technical_nonconformity.pdf",
+   "published": "2026-11-01T02:06",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "15:47",
+    "session": "Qualifying",
+    "fact": "Car 30 did not comply with with the requirements of Articles C5.12.6 and C5.12.7 of the F1 Regulations",
+    "infringement": "Breach of Articles C5.12.6 and C5.12.7 of the FIA F1 Regulations.",
+    "decision": "Car 30 is disqualified from the results of the Provisional Qualifying Classifications.",
+    "reason": "The Stewards heard from the team representatives of Car 30 (Liam Lawson), the driver, the Single Seater Sporting Director and members of the FIA Technical team including the FIA Technical Delegate. Evidence submitted, which was accepted by all parties present, showed that after the control line at the end of his fastest lap in Q2, the driver did not lift off the power immediately. This resulted in the rate of reduction of MGUK deployment required to achieve the regulated “step down”, not being achieved. The team argued that this did not provide any performance advantage however it is clear that non-compliance with the Technical Regulations is not excused if no performance advantage is gained. Further, these regulations require that a car must comply with them at all times during an event. The Stewards note in particular that the team self-disclosed the breach however there are a multitude of precedents that require us, despite all mitigating circumstances, to impose a penalty of Disqualfication where a car does not comply with the Technical Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     53,
+     55,
+     57
+    ],
+    "tags": [
+     "Disqualified"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    53,
+    55
+   ],
+   "published_local": "2026-10-31T19:06"
+  },
   {
    "num": 56,
    "title": "Doc 56 - P3 and Qualifying Scrutineering",
@@ -59,6 +147,9 @@
      55
     ]
    },
+   "related": [
+    57
+   ],
    "published_local": "2026-10-31T17:06"
   },
   {
@@ -82,6 +173,9 @@
    "recalled": false,
    "cars": [
     30
+   ],
+   "related": [
+    57
    ],
    "published_local": "2026-10-31T16:54"
   },
