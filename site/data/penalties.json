@@ -14484,6 +14484,86 @@
   {
    "event": "Mexico City Grand Prix",
    "event_slug": "mexico-city-grand-prix",
+   "num": 76,
+   "title": "Doc 76 - Decision - Car 10 - Alleged leaving the track and gaining an advantage",
+   "subject": "Decision - Car 10 - Alleged leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_car_10_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-11-02T00:12",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "16:12",
+    "session": "Race",
+    "fact": "The driver left the track at turn 1 and rejoined after turn 3, gave a position back to car 43, then at the end of the straight after turn 3, he was passed by car 30 at turn 4. Minor contact occurred during that passing manoeuvre.",
+    "infringement": "Alleged breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video and in-car video evidence. Although the additional guidelines issued by the Stewards on October 31 advised that a car leaving the track at turn 1 after a Restart should yield the position by Turn 4, the fact that the correct positions were achieved by turn 5 confirms to the Stewards that no further action is required. In leaving the track Car 10 did not gain a position, in fact the car ultimately lost a position to car 30. The minor contact between the cars does not require penalization to either driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     76
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-11-01T17:12"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
+   "num": 74,
+   "title": "Doc 74 - Infringement - Car 27 - Causing a collision",
+   "subject": "Infringement - Car 27 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_27_-_causing_a_collision.pdf",
+   "published": "2026-11-01T23:47",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "15:48",
+    "session": "Race",
+    "fact": "Car 27 collided with Car 87 in turn 4",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed video and in-car video evidence. Car 27 collided with the rear of Car 87 into turn 4. Even though this was a first lap (after a Restart) incident, the stewards have determined that no other cars contributed to the incident which was soley the fault of the driver of Car 27 hence no mitigating circumstances exist.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     74
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-01T16:47"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
    "num": 71,
    "title": "Doc 71 - Infringement - Car 11 - Pit Lane Speeding",
    "subject": "Infringement - Car 11 - Pit Lane Speeding",
@@ -14520,6 +14600,46 @@
     "outcome": "penalty"
    },
    "published_local": "2026-11-01T15:44"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
+   "num": 70,
+   "title": "Doc 70 - Infringement - Car 63 - Causing a collision",
+   "subject": "Infringement - Car 63 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_63_-_causing_a_collision.pdf",
+   "published": "2026-11-01T23:48",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "14:04",
+    "session": "Race",
+    "fact": "Car 63 collided with car 6 in turn 6.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video and in-car video evidence. On the entry to turn 6, car 6 was ahead and car 63 attempted to overtake. The stewards do not consider turns 5 and 6 to be part of a chicane therefore this incident is considered only on the situation on the approach to and exit from turn 6. Car 63 being on the inside, fails to satisfy the conditions for claiming the right to the corner as its front axle is not level with the mirror of Car 6. There being no mitigating circumstances, the baseline penalty is applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     70
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-01T16:48"
   },
   {
    "event": "Mexico City Grand Prix",
