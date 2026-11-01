@@ -3,24 +3,35 @@
   "slug": "mexico-city-grand-prix",
   "name": "Mexico City Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Mexico%20City%20Grand%20Prix",
-  "doc_count": 54,
+  "doc_count": 55,
   "first_published": "2026-10-28T21:00",
-  "last_published": "2026-11-01T00:06",
+  "last_published": "2026-11-01T01:53",
   "first_local": "2026-10-28T14:00",
-  "last_local": "2026-10-31T17:06",
+  "last_local": "2026-10-31T18:53",
   "utc_offset_min": -360,
   "tz_source": "pdf",
   "counts": {
+   "technical": 12,
    "stewards": 26,
    "admin": 5,
    "other": 1,
-   "technical": 11,
    "results": 4,
    "race_director": 7
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 56,
+   "title": "Doc 56 - P3 and Qualifying Scrutineering",
+   "subject": "P3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_p3_and_qualifying_scrutineering.pdf",
+   "published": "2026-11-01T01:53",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-10-31T18:53"
+  },
   {
    "num": 55,
    "title": "Doc 55 - Summons - Car 30 - Alleged MGU-K infringement",
