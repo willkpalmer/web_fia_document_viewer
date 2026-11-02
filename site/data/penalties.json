@@ -14484,6 +14484,259 @@
   {
    "event": "Mexico City Grand Prix",
    "event_slug": "mexico-city-grand-prix",
+   "num": 85,
+   "title": "Doc 85 - Infringement - Car 43 - Failing to slow under yellow flags",
+   "subject": "Infringement - Car 43 - Failing to slow under yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_43_-_failing_to_slow_under_yellow_flags.pdf",
+   "published": "2026-11-02T02:35",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "16:04",
+    "session": "Race",
+    "fact": "The driver passed through a single yellow flag sector and did not make the required reduction in speed.",
+    "infringement": "Breach of Article B1.8.4a of the FIA F1 Regulations.",
+    "decision": "10 second time penalty imposed after the Race. 1 penalty points (total of 5 for the 12 month period).",
+    "reason": "The Stewards heard from the driver of Car 43 (Franco Colapinto), team representative and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. The driver and team presented telemetry and photographic evidence claiming it demonstrated that the driver had complied with the regulations which state that the driver must reduce speed and be prepared to change direction. A detailed examination of the telemetry and on board camera failed to satisfy the Stewards that the driver had sufficiently reduced speed through that single yellow sector. In relation to the previous double yellow flag sector the Stewards determined that there was sufficient doubt that the driver had sufficient warning in order to comply with the requirements, so did not determine that there was any breach in relation to that sector",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     78,
+     85
+    ],
+    "tags": [
+     "10s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    78
+   ],
+   "published_local": "2026-11-01T19:35"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
+   "num": 84,
+   "title": "Doc 84 - Infringement - Car 10 - Failing to slow under yellow flags",
+   "subject": "Infringement - Car 10 - Failing to slow under yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_10_-_failing_to_slow_under_yellow_flags.pdf",
+   "published": "2026-11-02T02:34",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Pierre Gasly",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "16:04",
+    "session": "Race",
+    "fact": "The driver passed through a double yellow flag sector and did not make the required reduction in speed.",
+    "infringement": "Breach of Article B1.8.4b of the FIA F1 Regulations.",
+    "decision": "Stop and go penalty imposed after the Race. 2 penalty points (total of 2 for the 12 month period).",
+    "reason": "The Stewards heard from the driver of Car 10 (Pierre Gasly), team representative and reviewed positioning/marshalling system data, video, timing, telemetry and in-car video evidence. The driver and team representative claimed that the driver had made a significant reduction in speed in the double yellow flag sector however a detailed examination of the telemetry and that of other cars passing through that sector, led the Stewards to conclude that the small reduction noted was not sufficient to satisfy the requirements of the regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     77,
+     84
+    ],
+    "tags": [
+     "Stop & go",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    77
+   ],
+   "published_local": "2026-11-01T19:34"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
+   "num": 83,
+   "title": "Doc 83 - Infringement - Car 63 - Failure to attend mandatory post-race commitments",
+   "subject": "Infringement - Car 63 - Failure to attend mandatory post-race commitments",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_63_-_failure_to_attend_mandatory_post-race_commitments.pdf",
+   "published": "2026-11-02T02:33",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "16:40",
+    "session": "Race",
+    "fact": "The driver did not attend the post race media commitments.",
+    "infringement": "Breach of Article B10.1.4e of the FIA F1 Regulations.",
+    "decision": "The competitor (Mercedes-AMG PETRONAS F1 Team) is fined €5,000.",
+    "reason": "The Stewards heard from the team representative that the driver had left the circuit without attending the post race media commitments. Noting that the Stewards can proceed to make a determination in the case of a non attendance at a hearing, a penalty of €5,000 is imposed on the competitor.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     82,
+     83
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "related": [
+    82
+   ],
+   "published_local": "2026-11-01T19:33"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
+   "num": 80,
+   "title": "Doc 80 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-11-02T01:05",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 Cars below did not use the track at turns 1, 2, 11 and 12.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "81": 2,
+     "23": 1,
+     "18": 1,
+     "5": 2,
+     "50": 2,
+     "10": 2,
+     "1": 2,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 50,
+      "name": "Ryo Hirakawa"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     80
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-01T18:05"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
+   "num": 79,
+   "title": "Doc 79 - Infringement - Car 81 - Causing a collision",
+   "subject": "Infringement - Car 81 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_81_-_causing_a_collision.pdf",
+   "published": "2026-11-02T00:57",
+   "recalled": false,
+   "cars": [
+    81
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "16:04",
+    "session": "Race",
+    "fact": "Car 81 collided with Car 41 at the entry to turn 2",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty imposed after the Race.",
+    "reason": "The Stewards heard from the driver of Car 81 (Oscar Piastri), the driver of Car 41 (Arvid Lindblad), team representatives and reviewed positioning/marshalling system data, video and in-car video evidence. On the approach to turn 1 the driver of Car 81 attempted an overtake on the outside of Car 41. Car 81 was never fully alongside Car 41 so was not able to claim the right to the corner. Through turn 1, the driver of Car 41 defended his position by releasing the brakes however does not force Car 81 off the track, allowing racing room on the outside – which he is not required to do. The Stewards determined that the collision could have been avoided if the driver of Car 81 had moved further to the left after turn 1, even if this involved leaving the track prior to turn 2.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     72,
+     79
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    72
+   ],
+   "published_local": "2026-11-01T17:57"
+  },
+  {
+   "event": "Mexico City Grand Prix",
+   "event_slug": "mexico-city-grand-prix",
    "num": 76,
    "title": "Doc 76 - Decision - Car 10 - Alleged leaving the track and gaining an advantage",
    "subject": "Decision - Car 10 - Alleged leaving the track and gaining an advantage",
