@@ -3,20 +3,43 @@
   "slug": "s-o-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 2,
+  "doc_count": 4,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-05T09:14",
+  "last_published": "2026-11-05T20:31",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-05T05:14",
+  "last_local": "2026-11-05T16:31",
   "utc_offset_min": -180,
   "tz_source": "name",
   "counts": {
-   "race_director": 1,
+   "race_director": 2,
+   "technical": 1,
    "admin": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 4,
+   "title": "Doc 4 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-11-05T20:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-05T16:31"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Power Unit Information",
+   "subject": "Power Unit Information",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_power_unit_information.pdf",
+   "published": "2026-11-05T20:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-05T16:23"
+  },
   {
    "num": 2,
    "title": "Doc 2 - Competition Notes - Pirelli Preview",
