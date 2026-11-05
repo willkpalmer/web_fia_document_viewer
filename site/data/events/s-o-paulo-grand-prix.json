@@ -3,21 +3,43 @@
   "slug": "s-o-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 4,
+  "doc_count": 6,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-05T20:31",
+  "last_published": "2026-11-05T22:47",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-05T16:31",
+  "last_local": "2026-11-05T18:47",
   "utc_offset_min": -180,
   "tz_source": "name",
   "counts": {
-   "race_director": 2,
-   "technical": 1,
-   "admin": 1
+   "race_director": 3,
+   "admin": 2,
+   "technical": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 6,
+   "title": "Doc 6 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-11-05T22:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-05T18:47"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Timetable V3",
+   "subject": "Timetable V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_timetable_v3.pdf",
+   "published": "2026-11-05T22:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-05T18:21"
+  },
   {
    "num": 4,
    "title": "Doc 4 - Car Display Procedure",
