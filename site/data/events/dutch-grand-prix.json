@@ -10,6 +10,43 @@
   "last_local": "2026-09-05T19:15",
   "utc_offset_min": 120,
   "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice 1",
+    "classified_local": "2026-08-21T14:21",
+    "start_utc": "2026-08-21T12:21Z",
+    "end_utc": "2026-08-21T12:21Z",
+    "inferred": true
+   },
+   {
+    "name": "Sprint Qualifying",
+    "classified_local": "2026-08-21T17:40",
+    "start_utc": "2026-08-21T15:40Z",
+    "end_utc": "2026-08-21T15:40Z",
+    "inferred": true
+   },
+   {
+    "name": "Sprint",
+    "classified_local": "2026-08-22T12:53",
+    "start_utc": "2026-08-22T10:53Z",
+    "end_utc": "2026-08-22T10:53Z",
+    "inferred": true
+   },
+   {
+    "name": "Qualifying",
+    "classified_local": "2026-08-22T17:15",
+    "start_utc": "2026-08-22T15:15Z",
+    "end_utc": "2026-08-22T15:15Z",
+    "inferred": true
+   },
+   {
+    "name": "Race",
+    "classified_local": "2026-08-23T17:31",
+    "start_utc": "2026-08-23T15:31Z",
+    "end_utc": "2026-08-23T15:31Z",
+    "inferred": true
+   }
+  ],
   "counts": {
    "results": 17,
    "technical": 14,

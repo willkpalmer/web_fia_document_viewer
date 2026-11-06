@@ -10,6 +10,43 @@
   "last_local": "2026-10-04T21:58",
   "utc_offset_min": 480,
   "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice 1",
+    "classified_local": "2026-10-02T13:49",
+    "start_utc": "2026-10-02T05:49Z",
+    "end_utc": "2026-10-02T05:49Z",
+    "inferred": true
+   },
+   {
+    "name": "Practice 2",
+    "classified_local": "2026-10-02T17:19",
+    "start_utc": "2026-10-02T09:19Z",
+    "end_utc": "2026-10-02T09:19Z",
+    "inferred": true
+   },
+   {
+    "name": "Practice 3",
+    "classified_local": "2026-10-03T13:44",
+    "start_utc": "2026-10-03T05:44Z",
+    "end_utc": "2026-10-03T05:44Z",
+    "inferred": true
+   },
+   {
+    "name": "Qualifying",
+    "classified_local": "2026-10-03T17:23",
+    "start_utc": "2026-10-03T09:23Z",
+    "end_utc": "2026-10-03T09:23Z",
+    "inferred": true
+   },
+   {
+    "name": "Race",
+    "classified_local": "2026-10-04T18:41",
+    "start_utc": "2026-10-04T10:41Z",
+    "end_utc": "2026-10-04T10:41Z",
+    "inferred": true
+   }
+  ],
   "counts": {
    "results": 10,
    "stewards": 25,

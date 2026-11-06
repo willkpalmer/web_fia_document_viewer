@@ -79,6 +79,84 @@ function stripTypePrefix(subject, type) {
     .replace(/^car\s+\d+\s*[-–;:]\s*/i, "") || subject;
 }
 
+/* ------------------------------------------------------------------ sessions panel */
+
+let sessionsEvent = null;
+function setSessions(ev) {
+  sessionsEvent = ev || null;
+  renderSessions();
+}
+
+function fmtDur(ms) {
+  const m = Math.max(0, Math.round(ms / 60000));
+  if (m < 60) return `${m} min`;
+  const h = Math.floor(m / 60), r = m % 60;
+  if (h < 48) return r ? `${h} h ${r} min` : `${h} h`;
+  return `${Math.round(h / 24)} days`;
+}
+const p2 = (n) => String(n).padStart(2, "0");
+function trackDayTime(iso) {               // "2026-11-06T12:30" (track local) -> "Fri 12:30"
+  const [d, t] = iso.split("T");
+  const [y, m, day] = d.split("-").map(Number);
+  return { day: `${DAYS[new Date(Date.UTC(y, m - 1, day)).getUTCDay()]} ${day} ${MONTHS[m - 1]}`, time: t.slice(0, 5) };
+}
+function viewerDayTime(utcIso) {
+  const dt = new Date(utcIso);
+  return {
+    day: dt.toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" }),
+    time: dt.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" }),
+    tz: (Intl.DateTimeFormat(undefined, { timeZoneName: "short" }).formatToParts(dt)
+      .find((x) => x.type === "timeZoneName") || {}).value || "",
+  };
+}
+
+function sessionState(s, now) {
+  if (s.inferred) return "done";
+  const st = Date.parse(s.start_utc), en = Date.parse(s.end_utc);
+  return now >= en ? "done" : now >= st ? "live" : "next";
+}
+
+function renderSessions() {
+  const box = $("#sessions");
+  const ev = sessionsEvent;
+  if (!ev) { box.hidden = true; document.body.classList.remove("has-sessions"); return; }
+  box.hidden = false;
+  document.body.classList.add("has-sessions");
+  const now = Date.now();
+  const list = ev.sessions || [];
+  const firstNext = list.find((s) => sessionState(s, now) === "next");
+
+  const rows = list.map((s) => {
+    const state = sessionState(s, now);
+    let when = "", badge = "";
+    if (s.inferred) {
+      const c = trackDayTime(s.classified_local);
+      when = `<div class="s-when s-plain">${esc(c.day)}</div>
+        <div class="s-sub" title="No timetable on fia.com covers this session; time is when its classification was published">Results published ${esc(c.time)} track time</div>`;
+    } else {
+      const a = trackDayTime(s.start_local), b = trackDayTime(s.end_local);
+      when = `<div class="s-when"><span class="s-tag">Track</span><span>${esc(a.day)} · <b>${esc(a.time)}–${esc(b.time)}</b></span></div>`;
+      if (state === "next") {
+        const va = viewerDayTime(s.start_utc), vb = viewerDayTime(s.end_utc);
+        when += `<div class="s-when s-mine" title="Your time zone${va.tz ? ": " + esc(va.tz) : ""}"><span class="s-tag">You${va.tz ? " · " + esc(va.tz) : ""}</span><span>${esc(va.day)} · <b>${esc(va.time)}–${esc(vb.time)}</b></span></div>`;
+      }
+    }
+    if (state === "done") badge = `<span class="s-badge done">✓ Complete</span>`;
+    else if (state === "live") badge = `<span class="s-badge live"><i></i>In progress · ${fmtDur(Date.parse(s.end_utc) - now)} left</span>`;
+    else badge = `<span class="s-badge next">${s === firstNext ? "Next · " : ""}in ${fmtDur(Date.parse(s.start_utc) - now)}</span>`;
+    return `<li class="s-row ${state}">
+      <div class="s-head"><span class="s-name">${esc(s.name)}</span>${badge}</div>
+      ${when}
+    </li>`;
+  }).join("");
+
+  box.innerHTML = `
+    <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
+    ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
+    ${list.some((s) => s.inferred) ? `<p class="s-note">Some sessions aren't covered by a timetable on fia.com, so they're shown from their published results.</p>` : ""}
+    ${list.some((s) => !s.inferred) ? `<p class="s-note">From the FIA event timetable. Race end times are approximate.</p>` : ""}`;
+}
+
 /* ------------------------------------------------------------------ track clock */
 
 let clockEvent = null, clockTimer = null;
@@ -88,7 +166,9 @@ function setClock(ev) {
   tickClock();
   if (!clockTimer) clockTimer = setInterval(tickClock, 1000);
 }
+let tickCount = 0;
 function tickClock() {
+  if (++tickCount % 30 === 0) renderSessions();
   if (!clockEvent || clockEvent.utc_offset_min == null) return;
   const t = new Date(Date.now() + clockEvent.utc_offset_min * 60000);
   const p2 = (n) => String(n).padStart(2, "0");
@@ -312,13 +392,15 @@ async function render() {
   if (view === "penalties") {
     renderSidebar(null);
     setClock(S.index.events[S.index.events.length - 1]);
+    setSessions(null);
     return renderPenalties(params);
   }
   const latest = S.index.events[S.index.events.length - 1];
-  const slug = parts[1] || latest?.slug;
+  const slug = S.index.events.some((e) => e.slug === parts[1]) ? parts[1] : latest?.slug;
   renderSidebar(slug);
   S.currentSlug = slug;
   setClock(S.index.events.find((e) => e.slug === slug));
+  setSessions(S.index.events.find((e) => e.slug === slug));
   if (!slug) { $("#main").innerHTML = `<p class="empty">No events yet.</p>`; return; }
   if (!S.events[slug]) {
     $("#main").innerHTML = `<p class="muted">Loading…</p>`;

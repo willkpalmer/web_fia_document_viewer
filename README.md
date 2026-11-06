@@ -92,3 +92,11 @@ The sidebar also shows when the last sync run happened, read from the public Git
 on race weekends (Friday–Sunday UTC) and every hour otherwise. Even without a token, an open page checks for new data
 every minute and reloads as soon as any sync publishes some. This matters because GitHub's own schedule can be delayed or
 skipped when GitHub is busy.
+
+## Session times
+
+The right-hand panel lists the selected event's Formula 1 sessions, read from the FIA **Timetable** documents. Reissued
+timetables are merged, with later versions overriding earlier ones. Each session is marked **Complete**, **In progress**
+(with time remaining) or upcoming (with a countdown). Upcoming sessions show both track time and your own time.
+Some events have no usable timetable on fia.com: the document is missing, or it's only a cover page. For those, sessions
+are taken from their classification documents and marked complete, with the time the results were published.

@@ -21,6 +21,7 @@ import subprocess
 import sys
 import tempfile
 import time
+import unicodedata
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -91,6 +92,7 @@ def find_select(soup, placeholder):
 
 
 def slugify(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
@@ -233,6 +235,83 @@ def mark_superseded(docs):
         latest = items[-1]
         for d in items[:-1]:
             d["superseded_by"] = latest["num"]
+
+
+# --------------------------------------------------------------------------- timetables
+
+TIMETABLE_RX = re.compile(r"^timetable\b", re.I)
+DAY_RX = re.compile(r"^\s*(MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY)\s+(\d{1,2})\s+([A-Z]+)\s+(\d{4})\s*$")
+# "12:30        13:301   FORMULA 1      TRACK      FIRST PRACTICE SESSION"  (trailing digit = footnote marker)
+ROW_RX = re.compile(r"^\s*(\d{1,2}:\d{2})\d?\*?\s+(\d{1,2}:\d{2})\d?\s+FORMULA 1\s{2,}TRACK\s{2,}(.+?)\s*$")
+SESSION_NAMES = [
+    (r"^FIRST PRACTICE", "Practice 1"), (r"^SECOND PRACTICE", "Practice 2"), (r"^THIRD PRACTICE", "Practice 3"),
+    (r"^SPRINT QUALIFYING", "Sprint Qualifying"), (r"^SPRINT\b", "Sprint"),
+    (r"^QUALIFYING", "Qualifying"), (r"^GRAND PRIX\b", "Race"),
+]
+SESSION_ORDER = [n for _, n in SESSION_NAMES]
+MONTHS = {m: i for i, m in enumerate(["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST",
+                                       "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"], 1)}
+
+
+def parse_timetable(text: str) -> dict:
+    """Formula 1 track sessions in one timetable PDF -> {name: (start_local, end_local)}."""
+    out, day = {}, None
+    for line in text.splitlines():
+        m = DAY_RX.match(line)
+        if m and m.group(3) in MONTHS:
+            day = f"{m.group(4)}-{MONTHS[m.group(3)]:02d}-{int(m.group(2)):02d}"
+            continue
+        m = ROW_RX.match(line)
+        if not (m and day):
+            continue
+        desc = m.group(3).upper()
+        for rx, name in SESSION_NAMES:
+            if re.match(rx, desc):
+                start, end = (f"{int(t.split(':')[0]):02d}:{t.split(':')[1]}" for t in m.group(1, 2))
+                end_day = day
+                if end < start:  # runs past midnight
+                    end_day = (datetime.fromisoformat(day) + timedelta(days=1)).strftime("%Y-%m-%d")
+                out[name] = (f"{day}T{start}", f"{end_day}T{end}")
+                break
+    return out
+
+
+# classification titles -> session, used when no timetable covers a session
+CLASSIFICATION_RX = [
+    (r"free practice 1 classification", "Practice 1"), (r"free practice 2 classification", "Practice 2"),
+    (r"free practice 3 classification", "Practice 3"), (r"sprint qualifying classification", "Sprint Qualifying"),
+    (r"(?<!qualifying )sprint classification", "Sprint"), (r"(?<!sprint )qualifying classification", "Qualifying"),
+    (r"race classification", "Race"),
+]
+
+
+def build_sessions(timetables, offset_min: int, docs=()):
+    """Merge all timetable versions (later documents override earlier ones, since reissues can cover
+    only some days) and add UTC times. Sessions no timetable covers are inferred from their
+    classification documents (time = first classification published, marked as such)."""
+    merged = {}
+    for _, text in sorted(timetables, key=lambda t: t[0]):
+        merged.update(parse_timetable(text))
+    inferred = {}
+    for d in docs:
+        if d.get("category") != "results" or not d.get("published_local"):
+            continue
+        for rx, name in CLASSIFICATION_RX:
+            if re.search(rx, d["subject"], re.I) and name not in merged:
+                if name not in inferred or d["published_local"] < inferred[name]:
+                    inferred[name] = d["published_local"]
+                break
+    sessions = []
+    for name, (start, end) in merged.items():
+        to_utc = lambda iso: (datetime.fromisoformat(iso) - timedelta(minutes=offset_min)).strftime("%Y-%m-%dT%H:%MZ")
+        sessions.append({"name": name, "start_local": start, "end_local": end,
+                         "start_utc": to_utc(start), "end_utc": to_utc(end)})
+    for name, published in inferred.items():
+        utc = (datetime.fromisoformat(published) - timedelta(minutes=offset_min)).strftime("%Y-%m-%dT%H:%MZ")
+        sessions.append({"name": name, "classified_local": published, "start_utc": utc, "end_utc": utc,
+                         "inferred": True})
+    sessions.sort(key=lambda s: s["start_utc"])
+    return sessions
 
 
 # --------------------------------------------------------------------------- PDF parsing
@@ -522,8 +601,10 @@ def main():
         slug = slugify(ev_name)
         time_samples = []
 
+        timetables = []
         for d in docs:
-            if d["category"] != "stewards" or not d["url"] or args.no_pdfs:
+            is_tt = bool(TIMETABLE_RX.match(d["subject"]))
+            if (d["category"] != "stewards" and not is_tt) or not d["url"] or args.no_pdfs:
                 continue
             text = cache["pdfs"].get(d["url"])
             if text is None:
@@ -534,6 +615,9 @@ def main():
                 text = pdf_text(pdf)
                 cache["pdfs"][d["url"]] = text
                 log(f"  downloaded Doc {d['num']}")
+            if is_tt:
+                timetables.append((d["num"] or 0, text))
+                continue
             det = parse_stewards_pdf(text)
             d["details"] = det
             m_time = re.search(r"\bTime\s+(\d{1,2}:\d{2})\b", text)
@@ -562,6 +646,7 @@ def main():
             offset, tz_source = fallback_offset(ev_name, dates[0] if dates else None), "name"
         for d in docs:
             d["published_local"] = to_local(d["published"], offset)
+        sessions = build_sessions(timetables, offset, docs)
         counts = {}
         for d in docs:
             counts[d["category"]] = counts.get(d["category"], 0) + 1
@@ -576,6 +661,7 @@ def main():
             "last_local": to_local(dates[-1], offset) if dates else None,
             "utc_offset_min": offset,
             "tz_source": tz_source,
+            "sessions": sessions,
             "counts": counts,
         }
         out_events.append(ev_meta)

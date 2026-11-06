@@ -10,6 +10,43 @@
   "last_local": "2026-03-29T19:16",
   "utc_offset_min": 540,
   "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice 1",
+    "start_local": "2026-03-27T11:30",
+    "end_local": "2026-03-27T12:30",
+    "start_utc": "2026-03-27T02:30Z",
+    "end_utc": "2026-03-27T03:30Z"
+   },
+   {
+    "name": "Practice 2",
+    "start_local": "2026-03-27T15:00",
+    "end_local": "2026-03-27T16:00",
+    "start_utc": "2026-03-27T06:00Z",
+    "end_utc": "2026-03-27T07:00Z"
+   },
+   {
+    "name": "Practice 3",
+    "start_local": "2026-03-28T11:30",
+    "end_local": "2026-03-28T12:30",
+    "start_utc": "2026-03-28T02:30Z",
+    "end_utc": "2026-03-28T03:30Z"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-03-28T15:00",
+    "end_local": "2026-03-28T16:00",
+    "start_utc": "2026-03-28T06:00Z",
+    "end_utc": "2026-03-28T07:00Z"
+   },
+   {
+    "name": "Race",
+    "start_local": "2026-03-29T14:00",
+    "end_local": "2026-03-29T16:00",
+    "start_utc": "2026-03-29T05:00Z",
+    "end_utc": "2026-03-29T07:00Z"
+   }
+  ],
   "counts": {
    "results": 11,
    "technical": 11,
