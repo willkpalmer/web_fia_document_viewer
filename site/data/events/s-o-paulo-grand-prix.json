@@ -3,21 +3,32 @@
   "slug": "s-o-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 6,
+  "doc_count": 7,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-05T22:47",
+  "last_published": "2026-11-05T23:18",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-05T18:47",
+  "last_local": "2026-11-05T19:18",
   "utc_offset_min": -180,
   "tz_source": "name",
   "counts": {
-   "race_director": 3,
+   "race_director": 4,
    "admin": 2,
    "technical": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 7,
+   "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-11-05T23:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-05T19:18"
+  },
   {
    "num": 6,
    "title": "Doc 6 - Race Director's Competition Notes",
