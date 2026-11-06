@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 20,
+  "doc_count": 23,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-06T20:51",
+  "last_published": "2026-11-06T21:30",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-06T16:51",
+  "last_local": "2026-11-06T17:30",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -53,15 +53,112 @@
    }
   ],
   "counts": {
-   "stewards": 6,
-   "results": 1,
+   "race_director": 6,
+   "stewards": 7,
+   "results": 2,
    "technical": 5,
-   "admin": 3,
-   "race_director": 5
+   "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 24,
+   "title": "Doc 24 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-11-06T21:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-06T17:30"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-11-06T21:30",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 Cars below did not use the track at turns 1 and 4.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "30": 1,
+     "51": 1,
+     "23": 2,
+     "11": 1,
+     "63": 1,
+     "12": 1,
+     "18": 1,
+     "10": 1,
+     "44": 1
+    },
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-06T17:30"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-11-06T21:17",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-06T17:17"
+  },
   {
    "num": 21,
    "title": "Doc 21 - Summons - Car 16 - Alleged impeding by Car 51",
