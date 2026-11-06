@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>F1 Session Times</title>
+<meta name="description" content="Session times for the current FIA Formula One event, in track time and your time.">
+<meta name="theme-color" content="#e10600">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="F1 Sessions">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23e10600'/><path d='M8 9h12v3h-8v3h7v3h-7v5H8z' fill='white'/></svg>">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="sessions.css">
+</head>
+<body class="mpage">
+<header class="m-top">
+  <a class="m-back" href="./" aria-label="Back to documents">‹ Documents</a>
+  <select id="evSelect" aria-label="Event"></select>
+  <button class="icon-btn" id="themeBtn" aria-label="Toggle theme" title="Toggle theme">◐</button>
+</header>
+
+<main class="m-main">
+  <section class="m-hero">
+    <div class="m-round" id="round"></div>
+    <h1 id="evName">Loading…</h1>
+    <div class="m-clocks">
+      <div class="m-clock">
+        <div class="m-clock-label">Your time <span id="youTz"></span></div>
+        <div class="m-clock-time" id="youTime">--:--</div>
+        <div class="m-clock-day" id="youDay"></div>
+      </div>
+      <div class="m-clock">
+        <div class="m-clock-label">Track time <span id="trackTz"></span></div>
+        <div class="m-clock-time" id="trackTime">--:--</div>
+        <div class="m-clock-day" id="trackDay"></div>
+      </div>
+    </div>
+    <div class="m-next" id="next" hidden></div>
+  </section>
+
+  <ol class="m-list" id="list"></ol>
+  <p class="m-note" id="note"></p>
+</main>
+
+<script src="sessions.js"></script>
+</body>
+</html>

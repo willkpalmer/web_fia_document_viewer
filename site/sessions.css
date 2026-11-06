@@ -1,0 +1,57 @@
+/* Phone-first session times page (tokens and .s-badge come from style.css) */
+body.mpage { min-height: 100vh; padding-bottom: env(safe-area-inset-bottom); }
+.m-top {
+  position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 8px;
+  padding: 10px 16px; padding-top: max(10px, env(safe-area-inset-top));
+  background: var(--surface); border-bottom: 1px solid var(--border);
+}
+.m-back { font-weight: 500; white-space: nowrap; }
+.m-top select {
+  flex: 1; min-width: 0; height: 36px; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--surface); padding: 0 8px; font-size: 15px;
+}
+.m-main { max-width: 560px; margin: 0 auto; padding: 16px; }
+
+.m-hero { margin-bottom: 14px; }
+.m-round { color: var(--muted); font-size: 13px; }
+.m-hero h1 { margin: 2px 0 12px; font-size: 26px; letter-spacing: -.02em; line-height: 1.15; }
+.m-clocks { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.m-clock { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; }
+.m-clock:first-child { border-color: color-mix(in srgb, var(--link) 45%, var(--border)); }
+.m-clock-label { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.m-clock-label span { text-transform: none; letter-spacing: 0; }
+.m-clock-time { font-size: 30px; font-weight: 650; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.m-clock:first-child .m-clock-time { color: var(--link); }
+.m-clock-day { font-size: 13px; color: var(--muted); }
+
+.m-next {
+  margin-top: 10px; padding: 10px 12px; border-radius: 12px; background: var(--surface-2);
+  font-size: 15px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+}
+.m-next.live { background: var(--accent); color: #fff; }
+.m-next.live i { width: 8px; height: 8px; border-radius: 50%; background: #fff; animation: pulse 1.2s ease-in-out infinite; }
+
+.m-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.m-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; }
+.m-card.done { background: var(--surface-2); }
+.m-card.done .m-name, .m-card.done .m-t { color: var(--muted); }
+.m-card.live { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+.m-card-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 6px; }
+.m-name { font-size: 18px; font-weight: 650; }
+.m-card .s-badge { font-size: 12px; padding: 2px 9px; }
+.m-t {
+  display: grid; grid-template-columns: 54px 1fr auto; align-items: baseline; gap: 8px;
+  font-size: 15px; font-variant-numeric: tabular-nums; padding: 2px 0;
+}
+.m-t b { font-weight: 650; font-size: 17px; }
+.m-you { color: var(--link); }
+.m-tag { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.m-you .m-tag { color: inherit; opacity: .8; }
+.m-sub { font-size: 13px; color: var(--muted); }
+.m-empty { color: var(--muted); padding: 20px 0; }
+.m-note { font-size: 12px; color: var(--muted); margin: 14px 2px 0; }
+
+@media (min-width: 700px) {
+  .m-main { padding-top: 28px; }
+  .m-hero h1 { font-size: 32px; }
+}

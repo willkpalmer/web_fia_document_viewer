@@ -154,7 +154,8 @@ function renderSessions() {
     <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
     ${list.some((s) => s.inferred) ? `<p class="s-note">Some sessions aren't covered by a timetable on fia.com, so they're shown from their published results.</p>` : ""}
-    ${list.some((s) => !s.inferred) ? `<p class="s-note">From the FIA event timetable. Race end times are approximate.</p>` : ""}`;
+    ${list.some((s) => !s.inferred) ? `<p class="s-note">From the FIA event timetable. Race end times are approximate.</p>` : ""}
+    <a class="btn s-open" href="sessions.html?event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
 }
 
 /* ------------------------------------------------------------------ track clock */

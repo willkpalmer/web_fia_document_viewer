@@ -100,3 +100,14 @@ timetables are merged, with later versions overriding earlier ones. Each session
 (with time remaining) or upcoming (with a countdown). Upcoming sessions show both track time and your own time.
 Some events have no usable timetable on fia.com: the document is missing, or it's only a cover page. For those, sessions
 are taken from their classification documents and marked complete, with the time the results were published.
+
+The **Open session times page** button under the panel opens `sessions.html`, a standalone page laid out for phones.
+It has:
+
+- your time and track time as live clocks
+- a banner with the live session or a countdown to the next one
+- a card per session
+- a dropdown to switch events
+
+It opens on the event you were viewing. Opened on its own, it picks the event with the next live or upcoming session.
+It works well saved to a phone's home screen.

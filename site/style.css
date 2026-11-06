@@ -334,3 +334,6 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
   .s-list { grid-auto-columns: minmax(190px, 78%); }
 }
 .s-when.s-plain { display: block; }
+.s-open { display: flex; align-items: center; justify-content: center; margin-top: 12px; width: 100%; font-weight: 500; color: var(--text); text-decoration: none; }
+.s-open:hover { text-decoration: none; }
+@media (max-width: 1279px) { .s-open { width: auto; display: inline-flex; margin-top: 8px; height: 30px; font-size: 13px; } }
