@@ -1,0 +1,2314 @@
+{
+ "event": {
+  "slug": "miami",
+  "name": "Miami",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Miami",
+  "doc_count": 79,
+  "first_published": "2026-05-01T11:18",
+  "last_published": "2026-05-07T15:30",
+  "first_local": "2026-05-01T05:18",
+  "last_local": "2026-05-07T09:30",
+  "utc_offset_min": -240,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-05-01T09:30",
+    "end_local": "2026-05-01T10:15",
+    "start_utc": "2026-05-01T13:30Z",
+    "end_utc": "2026-05-01T14:15Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-05-01T14:30",
+    "end_local": "2026-05-01T15:00",
+    "start_utc": "2026-05-01T18:30Z",
+    "end_utc": "2026-05-01T19:00Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-05-02T10:00",
+    "end_local": "2026-05-02T10:50",
+    "start_utc": "2026-05-02T14:00Z",
+    "end_utc": "2026-05-02T14:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-05-03T09:25",
+    "end_local": "2026-05-03T10:30",
+    "start_utc": "2026-05-03T13:25Z",
+    "end_utc": "2026-05-03T14:30Z",
+    "source": "fia"
+   }
+  ],
+  "counts": {
+   "stewards": 48,
+   "results": 13,
+   "technical": 5,
+   "race_director": 8,
+   "admin": 5
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 79,
+   "title": "Doc 79 - DECISION - PREMA Racing - Right of Review Withdrawal",
+   "subject": "DECISION - PREMA Racing - Right of Review Withdrawal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_decision_-_prema_racing_-_right_of_review_withdrawal.pdf",
+   "published": "2026-05-07T15:30",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "decision": "1. The petition for review submitted by PREMA Racing in respect of Decision Document 74 is treated as withdrawn. The Stewards make no determination under Article 14.1.1 of the FIA International Sporting Code as to whether the petition disclosed a significant and relevant new element. 2. Of the deposit of €2,000 lodged in respect of the petition, €1,000 is retained and €1,000 is returned to PREMA Racing. 3. Decision Document 74 is unaffected by the present Decision and stands as issued.",
+    "from": "The Stewards",
+    "refs": [
+     74,
+     79
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 2000
+   },
+   "related": [
+    74
+   ],
+   "published_local": "2026-05-07T09:30"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - F2 Team Championship - Miami 2026",
+   "subject": "F2 Team Championship - Miami 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_team_championship_-_miami_2026.pdf",
+   "published": "2026-05-03T21:48",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T15:48"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - F2 Driver Championship - Miami 2026",
+   "subject": "F2 Driver Championship - Miami 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_driver_championship_-_miami_2026.pdf",
+   "published": "2026-05-03T21:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T15:46"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - F2 Race 2 (Feature) - Final classification",
+   "subject": "F2 Race 2 (Feature) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_2_feature_-_final_classification.pdf",
+   "published": "2026-05-03T21:29",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T15:29"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - DECISION - Car 24 - Alleged unsafe release",
+   "subject": "DECISION - Car 24 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_decision_-_car_24_-_alleged_unsafe_release.pdf",
+   "published": "2026-05-03T21:23",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "competitor": "Trident Motorsport",
+    "time": "10:02",
+    "session": "Race 2",
+    "fact": "During the feature race Car 24 was released from its pit box ahead of Car 22.",
+    "infringement": "Alleged breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action",
+    "reason": "The Stewards summoned (Documents 58 and 59) and heard the Driver and team representative of Car 3 and Car 12 and reviewed video evidence. The driver of car 24 reported that he left his pit position as soon as he was signaled to do so. He said he saw that there were no cars in the fast lane behind. He said that he had some wheel spin from the wet conditions but upon entering the fast lane he saw that car 22 was now fully in the fast lane, and decided that it was safer to continue than to brake. The driver of car 22 reported that he saw car 24 entering ahead and had to lift and tap his brakes a little. The stewards considered the evidence and determined that the fast lane was indeed still empty when car 24 was released, car 22 having been released only a moment before and still accelerating to the pit lane speed as car 24 entered. Although the cars ended up in close proximity, it did not reach the threshold of being unsafe in the conditions and under these particular circumstances. It appeared that both drivers acted appropriately and no rule was breached.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     58,
+     75
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    58
+   ],
+   "published_local": "2026-05-03T15:23"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - DECISION - Car 3 - Alleged unsafe release",
+   "subject": "DECISION - Car 3 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_decision_-_car_3_-_alleged_unsafe_release.pdf",
+   "published": "2026-05-03T21:21",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "10:03",
+    "session": "Race 2",
+    "fact": "Car 3 (Miyata) was allegedly released unsafely from pit stop into the path of Car 12 (Boya).",
+    "infringement": "Alleged breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action",
+    "reason": "The Stewards summoned (Documents 56 and 57) and heard the Driver and team representative of Car 3 and Car 12 and reviewed video evidence. The driver of Car 3 reported that he left his pit position as soon as he was signaled to do so. He said he had some wheel spin from the wet conditions but thought he was only slightly delayed. The driver of Car 12 reported that he saw Car 3 being released and had to lift and brake in order not to have a collision. He felt that the release by the team of car 3 created an unsafe situation. The stewards considered the evidence and concluded that the situation was very close to being unsafe but it did not reach the threshold in the conditions and under these particular circumstances. It appeared that both drivers acted appropriately and no rule was breached.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     56,
+     74
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    56,
+    79
+   ],
+   "published_local": "2026-05-03T15:21"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - INFRINGEMENT - Race 2 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_race_2_-_lap_time_cancellations.pdf",
+   "published": "2026-05-03T21:11",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. MIAMI EVENT 30 APRIL TO 3 MAY 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "9": 1,
+     "1": 2,
+     "20": 2,
+     "24": 2,
+     "16": 2,
+     "17": 1,
+     "7": 2
+    },
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 20,
+      "name": "Enzo Fittipaldi"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     73
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-03T15:11"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - INFRINGEMENT - TRIDENT - Pit lane infringement - protective eye wear",
+   "subject": "INFRINGEMENT - TRIDENT - Pit lane infringement - protective eye wear",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_trident_-_pit_lane_infringement_-_protective_eye_wear.pdf",
+   "published": "2026-05-03T21:08",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "competitor": "Trident Motorsport",
+    "time": "10:02",
+    "session": "Race 2",
+    "fact": "Car 24 - it was reported that the rear jack man on Car 24 did not have his visor down during the pit stop at 10:02 in Race 2.",
+    "infringement": "Breach of Article 28.11 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Team. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the team representative (document 61). Having considered the matter extensively, the Stewards determined that the front jack man working on the car was not wearing the mandatory eye protection as required by regulations.",
+    "from": "The Stewards",
+    "refs": [
+     61,
+     72
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    61
+   ],
+   "published_local": "2026-05-03T15:08"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - INFRINGEMENT - Car 16 - Safety car infringement",
+   "subject": "INFRINGEMENT - Car 16 - Safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_16_-_safety_car_infringement.pdf",
+   "published": "2026-05-03T20:59",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "09:41",
+    "session": "Race 2",
+    "fact": "Crossed the white line at pit entry.",
+    "infringement": "Breach of ISC Apdx L Chap IV (d)",
+    "decision": "Warning to driver",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 54). At the start of the race Lap 1 Turn 1 an incident occurred necessitating the deployment of the Safety Car. As the leaders were approaching T17 the Race Director notified the teams that the drivers should follow Safety Car through the pit lane. Panels 19 and 20 were illuminated with a yellow arrow pointing to the right. The RD used this signal per Art 40.11 with the intention of notifying the drivers to enter the pit lane. The leader was approximately 50 meters before panel 19 when it was illuminated. The track condition was very wet and there was significant spray reducing visibility although it appeared from the drivers onboard camera that the panels were visible. There is no way for the Stewards to know when the drivers were notified by radio of the RD’s instruction to enter the pit lane. Some teams may react quicker than others and it is impossible to know what other radio traffic may affect how quickly the message can be delivered to individual drivers. The light panel signal showing a red arrow on a yellow background is used to indicate to a driver the side of the track that they should chose because of an issue in the area. It is not an exclusive instruction to enter the pit lane. The RD Competition Notes does not specifically state that when panels 19 and 20 are illuminated in this way that drivers are to enter the pit lane. Car 16 (Maini) entered the pit entry road and then returned to the track after the bollard at SC1 in breach of ISC Apex L Ch IV (d) and in contravention to the Race Directors instructions. The driver explained that he did not have clear radio communication from his engineer until very late and it was to “follow safety car through pit lane”. He did not see a Safety Car. He understood that the arrow signal on light panel 20 meant that he was to stay to that side of the track and take an alternate route. Having no clear instruction on what to do and then seeing drivers behind him staying out on track he chose to return to the track after the bollard. While the driver failed to follow the intended instructions from the Race Director no driver benefited nor was harmed. When racing was resumed after the safety car period all drivers were in the correct positions with no advantage gained. Consequently the Stewards decide that while the regulations were breached the appropriate penalty in this case is a Warning to the driver given the late call and the lack of clarity surrounding the instructions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     54,
+     71
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    54
+   ],
+   "published_local": "2026-05-03T14:59"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - INFRINGEMENT - Car 10 - Safety car infringement",
+   "subject": "INFRINGEMENT - Car 10 - Safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_10_-_safety_car_infringement.pdf",
+   "published": "2026-05-03T20:59",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "09:41",
+    "session": "Race 2",
+    "fact": "Car 10 (Goethe) crossed the white line at pit entry.",
+    "infringement": "Breach of ISC Apdx L Chap IV (d)",
+    "decision": "Warning to driver",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 55). At the start of the race Lap 1 Turn 1 an incident occurred necessitating the deployment of the Safety Car. As the leaders were approaching T17 the Race Director notified the teams that the drivers should follow Safety Car through the pit lane. Panels 19 and 20 were illuminated with a yellow arrow pointing to the right. The RD used this signal per Art 40.11 with the intention of notifying the drivers to enter the pit lane. The leader was approximately 50 meters before panel 19 when it was illuminated. The track condition was very wet and there was significant spray reducing visibility although it appeared from the drivers onboard camera that the panels were visible. There is no way for the Stewards to know when the drivers were notified by radio of the RD’s instruction to enter the pit lane. Some teams may react quicker than others and it is impossible to know what other radio traffic may affect how quickly the message can be delivered to individual drivers. The light panel signal showing a red arrow on a yellow background is used to indicate to a driver the side of the track that they should chose because of an issue in the area. It is not an exclusive instruction to enter the pit lane. The RD Competition Notes does not specifically state that when panels 19 and 20 are illuminated in this way that drivers are to enter the pit lane. Car 10 (Goethe) entered the pit entry road after the bollard at SC1 crossing the solid white line in breach of ISC Apex L Ch IV (d). The driver explained that he got the call very late from his engineer and up to that time had only understood that the signals on panel 19 and 20 were for him to stay to the right. Once he had a clear instruction to enter the pit lane he determined that it would be more safe to ignore the white line and do as instructed as opposed to staying out. While the driver contravened Apdx L he did prioritize safety and followed the Race Directors instruction as he understood it. No driver benefited nor was harmed by this action. When racing was resumed after the safety car period all drivers were in the correct positions with no advantage gained. Consequently the Stewards decide that while the regulations were breached the appropriate penalty in this case is a Warning to the driver given the late call and the lack of clarity surrounding the instructions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     55,
+     70
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    55
+   ],
+   "published_local": "2026-05-03T14:59"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - INFRINGEMENT - Car 9 - Safety car infringement",
+   "subject": "INFRINGEMENT - Car 9 - Safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_9_-_safety_car_infringement.pdf",
+   "published": "2026-05-03T20:57",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "09:41",
+    "session": "Race 2",
+    "fact": "Car 9 (Mini) crossed the white line at pit entry.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 4 (d) of the FIA International Sporting Code.",
+    "decision": "Warning to driver",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 62). At the start of the race Lap 1 Turn 1 an incident occurred necessitating the deployment of the Safety Car. As the leaders were approaching T17 the Race Director notified the teams that the drivers should follow Safety Car through the pit lane. Panels 19 and 20 were illuminated with a yellow arrow pointing to the right. The RD used this signal per Art 40.11 with the intention of notifying the drivers to enter the pit lane. The leader was approximately 50 meters before panel 19 when it was illuminated. The track condition was very wet and there was significant spray reducing visibility although it appeared from the drivers onboard camera that the panels were visible. There is no way for the Stewards to know when the drivers were notified by radio of the RD’s instruction to enter the pit lane. Some teams may react quicker than others and it is impossible to know what other radio traffic may affect how quickly the message can be delivered to individual drivers. The light panel signal showing a red arrow on a yellow background is used to indicate to a driver the side of the track that they should chose because of an issue in the area. It is not an exclusive instruction to enter the pit lane. The RD Competition Notes does not specifically state that when panels 19 and 20 are illuminated in this way that drivers are to enter the pit lane. Car 9 (Mini) entered the pit entry road after the bollard at SC1 crossing the solid white line in breach of ISC Apex L Ch IV (d). The driver explained that he got the call very late from his engineer and up to that time had only understood that the signals on panel 19 and 20 were for him to stay to the right. Once he had a clear instruction to enter the pit lane he determined that it would be more safe to ignore the white line and do as instructed as opposed to staying out. While the driver contravened Apdx L he did prioritize safety and followed the Race Directors instruction as he understood it. No driver benefited nor was harmed by this action. When racing was resumed after the safety car period all drivers were in the correct positions with no advantage gained. Consequently the Stewards decide that while the regulations were breached the appropriate penalty in this case is a Warning to the driver given the late call and the lack of clarity surrounding the instructions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     62,
+     69
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    62
+   ],
+   "published_local": "2026-05-03T14:57"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - INFRINGEMENT - Car 1 - Safety car infringement",
+   "subject": "INFRINGEMENT - Car 1 - Safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_1_-_safety_car_infringement.pdf",
+   "published": "2026-05-03T20:57",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "09:41",
+    "session": "Race 2",
+    "fact": "Driver failed to follow the instructions from the Race Director to drive through pit lane.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code",
+    "decision": "Warning to driver",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 60). At the start of the race Lap 1 Turn 1 an incident occurred necessitating the deployment of the Safety Car. As the leaders were approaching T17 the Race Director notified the teams that the drivers should follow Safety Car through the pit lane. Panels 19 and 20 were illuminated with a yellow arrow pointing to the right. The RD used this signal per Art 40.11 with the intention of notifying the drivers to enter the pit lane. The leader was approximately 50 meters before panel 19 when it was illuminated. The track condition was very wet and there was significant spray reducing visibility although it appeared from the drivers onboard camera that the panels were visible. There is no way for the Stewards to know when the drivers were notified by radio of the RD’s instruction to enter the pit lane. Some teams may react quicker than others and it is impossible to know what other radio traffic may affect how quickly the message can be delivered to individual drivers. The light panel signal showing a red arrow on a yellow background is used to indicate to a driver the side of the track that they should chose because of an issue in the area. It is not an exclusive instruction to enter the pit lane. The RD Competition Notes does not specifically state that when panels 19 and 20 are illuminated in this way that drivers are to enter the pit lane. Car 1 (Camara) did not enter the pit road as the race director had intended. The driver explained that he got the message from his engineer after he had already passed the bollard and given that he knew he was not to cross the solid line he chose to stay out. The Team Manager explained that the call he had verbally was for the drivers to follow the Safety Car through the pit lane which was conveyed via the individual driver engineer to the driver. While the driver failed to follow the intended instructions from the Race Director no driver benefited nor was harmed. When racing was resumed after the safety car period all drivers were in the correct positions with no advantage gained. Consequently the Stewards decide that while the regulations were breached the appropriate penalty in this case is a Warning to the driver given the late call and the lack of clarity surrounding the instructions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     60,
+     68
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    60
+   ],
+   "published_local": "2026-05-03T14:57"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - INFRINGEMENT - Car 22 - Causing a collsion",
+   "subject": "INFRINGEMENT - Car 22 - Causing a collsion",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_22_-_causing_a_collsion.pdf",
+   "published": "2026-05-03T20:37",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "10:11",
+    "session": "Race 2",
+    "fact": "Car 22 (Varrone) collided with Car 14 (Stenshorne) in Turn 17",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 penalty points to be added to the driver’s record. Total for the 2026 season = 2 penalty points",
+    "reason": "The Stewards reviewed video evidence. Car 22 (Varrone) collided with the left rear of Car 14 (Stenshorne) in the entry to Turn 17. Having considered the matter extensively, the Stewards determined that the Driver of Car 22 was wholly to blame for the collision and impose a 10 second penalty on Car 22 accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     67
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-05-03T14:37"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - INFRINGEMENT - Car 14 - Starting procedure infringement",
+   "subject": "INFRINGEMENT - Car 14 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_14_-_starting_procedure_infringement_.pdf",
+   "published": "2026-05-03T20:33",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "competitor": "Rodin Motorsport",
+    "time": "09:28",
+    "session": "Race 2",
+    "fact": "In the starting procedure, after the three-minute signal was shown team personnel torqued wheels on Car 14.",
+    "infringement": "Breach of Article 37.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten-second (10) stop-and-go time penalty in accordance with Article 39.3 (d) of the FIA F2 Sporting Regulations.",
+    "reason": "The Stewards reviewed video evidence. Having considered the matter extensively, the Stewards determined that Car 14 did not have their wheels fully fitted after the three-minute signal as required by the FIA F2 Sporting Regulations. Therefore the Stewards impose the penalty required by Article 37.4.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     66
+    ],
+    "tags": [
+     "Stop & go",
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-05-03T14:33"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - INFRINGEMENT - Car 17 - Failing to serve time penalty correctly",
+   "subject": "INFRINGEMENT - Car 17 - Failing to serve time penalty correctly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_17_-_failing_to_serve_time_penalty_correctly.pdf",
+   "published": "2026-05-03T20:30",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "09:54",
+    "session": "Race 2",
+    "fact": "Car 17 (Inthraphuvasak) failed to serve the ten-second (10) time penalty (Document 64) correctly.",
+    "infringement": "Breach of Article 39.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Drive through penalty in accordance with Article 39.3 (c.) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and reviewed timing. Having considered the matter extensively, the Stewards determined that having been previously issued a ten-second time penalty for causing a collision, Car 17 made a pit stop and failed to serve the referred penalty correctly. In the light of the present case, the Stewards elected to impose the Drive Through for failing to serve correctly the time penalty imposed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     64,
+     65
+    ],
+    "tags": [
+     "Drive-through"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    64
+   ],
+   "published_local": "2026-05-03T14:30"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - INFRINGEMENT - Car 17 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 17 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_17_-_causing_a_collision.pdf",
+   "published": "2026-05-03T20:28",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "09:39",
+    "session": "Race 2",
+    "fact": "Car 17 (Inthraphuvasak) collided with Car 6 in Turn 1",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. In addition, 2 penalty points to be added to the driver’s record. Total for the 2026 season = 2 penalty points.",
+    "reason": "The Stewards reviewed video evidence. On the first lap Car 17 attempted an inside pass on Car 6 in the braking zone to Turn 1 and collided prior to the apex, with the left front of Car 17 making contact with the right rear of Car 6. It is clearly evident that Car 17 never achieved a substantial overlap on Car 6, Car 17's front axle only coming forward of Car 6's rear axle immediately prior to the collision. Although the incident occurred on the first lap, the Stewards do not find any pressure on either car that would mitigate the incident. Having considered the matter extensively, the Stewards determined that the Driver of Car 17 was wholly to blame for the collision and impose a 10 second penalty on Car 17 accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     64
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    65
+   ],
+   "published_local": "2026-05-03T14:28"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_technical_report_4.pdf",
+   "published": "2026-05-03T20:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T14:25"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - SUMMONS - Car 9 - Alleged safety car infringement",
+   "subject": "SUMMONS - Car 9 - Alleged safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_9_-_alleged_safety_car_infringement.pdf",
+   "published": "2026-05-03T19:56",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 40.11 of the FIA F2 Sporting Regulations - Safety car infringement.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     62
+    ]
+   },
+   "related": [
+    69
+   ],
+   "published_local": "2026-05-03T13:56"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - SUMMONS - TRIDENT - Alleged pit lane infringement - eye protection",
+   "subject": "SUMMONS - TRIDENT - Alleged pit lane infringement - eye protection",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_trident_-_alleged_pit_lane_infringement_-_eye_protection.pdf",
+   "published": "2026-05-03T19:56",
+   "recalled": false,
+   "cars": [],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 28.11 of the FIA F2 Sporting Regulations - Team personnel allegedly not wearing protective eye wear during a pit stop on Car 24 at 10:02 in Race 2.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "refs": [
+     61
+    ]
+   },
+   "related": [
+    72
+   ],
+   "published_local": "2026-05-03T13:56"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - SUMMONS - Car 1 - Alleged safety car infringement",
+   "subject": "SUMMONS - Car 1 - Alleged safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_1_-_alleged_safety_car_infringement.pdf",
+   "published": "2026-05-03T19:56",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Article 40.11 of the FIA F2 Sporting Regulations - Safety car infringement.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     60
+    ]
+   },
+   "related": [
+    68
+   ],
+   "published_local": "2026-05-03T13:56"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - SUMMONS - Car 22 - Alleged unsafe release of car 24 in front of car 22",
+   "subject": "SUMMONS - Car 22 - Alleged unsafe release of car 24 in front of car 22",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_22_-_alleged_unsafe_release_of_car_24_in_front_of_car_22.pdf",
+   "published": "2026-05-03T19:52",
+   "recalled": false,
+   "cars": [
+    22,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "reason": "Alleged breach of Article 28.12 (a) of the FIA F2 Sporting Regulations - Alleged unsafe release of car 24 (van Hoepen) in front of car 22 (Varrone).",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     59
+    ]
+   },
+   "published_local": "2026-05-03T13:52"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - SUMMONS - Car 24 - Alleged unsafe release in front of car 22",
+   "subject": "SUMMONS - Car 24 - Alleged unsafe release in front of car 22",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_24_-_alleged_unsafe_release_in_front_of_car_22.pdf",
+   "published": "2026-05-03T19:51",
+   "recalled": false,
+   "cars": [
+    22,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Article 28.12 (a) of the FIA F2 Sporting Regulations - Alleged unsafe release of car 24 (van Hoepen) in front of car 22 (Varrone).",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     58
+    ]
+   },
+   "related": [
+    75
+   ],
+   "published_local": "2026-05-03T13:51"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - SUMMONS - Car 12 - Alleged unsafe release of car 3",
+   "subject": "SUMMONS - Car 12 - Alleged unsafe release of car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_12_-_alleged_unsafe_release_of_car_3.pdf",
+   "published": "2026-05-03T19:50",
+   "recalled": false,
+   "cars": [
+    3,
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "reason": "Alleged breach of Article 28.12 (a) of the FIA F2 Sporting Regulations - Alleged unsafe release of car 3 (Miyata) in front of car 12 (Boya).",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     57
+    ]
+   },
+   "published_local": "2026-05-03T13:50"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - SUMMONS - Car 3 - Alleged unsafe release in front of car 12",
+   "subject": "SUMMONS - Car 3 - Alleged unsafe release in front of car 12",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_3_-_alleged_unsafe_release_in_front_of_car_12.pdf",
+   "published": "2026-05-03T19:50",
+   "recalled": false,
+   "cars": [
+    3,
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Article 28.12 (a) of the FIA F2 Sporting Regulations - Alleged unsafe release of car 3 (Miyata) in front of car 12 (Boya).",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     56
+    ]
+   },
+   "related": [
+    74
+   ],
+   "published_local": "2026-05-03T13:50"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - SUMMONS - Car 10 - Alleged safety car infringement",
+   "subject": "SUMMONS - Car 10 - Alleged safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_10_-_alleged_safety_car_infringement.pdf",
+   "published": "2026-05-03T19:48",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Article 40.11 of the FIA F2 Sporting Regulations - Safety car infringement.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     55
+    ]
+   },
+   "related": [
+    70
+   ],
+   "published_local": "2026-05-03T13:48"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - SUMMONS - Car 16 - Alleged safety car infringement",
+   "subject": "SUMMONS - Car 16 - Alleged safety car infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_16_-_alleged_safety_car_infringement.pdf",
+   "published": "2026-05-03T19:48",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 40.11 of the FIA F2 Sporting Regulations - Safety car infringement.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     54
+    ]
+   },
+   "related": [
+    71
+   ],
+   "published_local": "2026-05-03T13:48"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - F2 Race 2 (Feature) - Provisional classification",
+   "subject": "F2 Race 2 (Feature) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_2_feature_-_provisional_classification.pdf",
+   "published": "2026-05-03T16:58",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T10:58"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - F2 Race 2 (Feature) - Final starting grid",
+   "subject": "F2 Race 2 (Feature) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-05-03T14:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T08:25"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F2 Procedures relating to Lightning Risk",
+   "subject": "F2 Procedures relating to Lightning Risk",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_procedures_relating_to_lightning_risk.pdf",
+   "published": "2026-05-03T14:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T08:16"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Timetable V6 - Miami 2026",
+   "subject": "Timetable V6 - Miami 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_timetable_v6_-_miami_2026.pdf",
+   "published": "2026-05-03T14:10",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-03T08:10"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - F2 Miami Competition Notes 2026 v4",
+   "subject": "F2 Miami Competition Notes 2026 v4",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_miami_competition_notes_2026_v4.pdf",
+   "published": "2026-05-03T04:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-02T22:43"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - F2 Race 2 (Feature) - Provisional starting grid",
+   "subject": "F2 Race 2 (Feature) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-05-02T20:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-02T14:45"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - F2 Race 1 (Sprint) - Final classification",
+   "subject": "F2 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-05-02T20:42",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-02T14:42"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_technical_report_3.pdf",
+   "published": "2026-05-02T20:08",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-02T14:08"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - INFRINGEMENT - Race 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_race_1_-_lap_time_cancellations_.pdf",
+   "published": "2026-05-02T18:51",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "3": 5,
+     "21": 2,
+     "10": 3,
+     "6": 1,
+     "25": 2,
+     "23": 1,
+     "16": 1,
+     "20": 3,
+     "1": 2,
+     "7": 1,
+     "11": 5,
+     "12": 4,
+     "4": 2,
+     "8": 1
+    },
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 20,
+      "name": "Enzo Fittipaldi"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-02T12:51"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - INFRINGEMENT - Car 16 - Pit lane infringement",
+   "subject": "INFRINGEMENT - Car 16 - Pit lane infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_16_-_pit_lane_infringement.pdf",
+   "published": "2026-05-02T18:44",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "10:13",
+    "session": "Race 1",
+    "fact": "Team personnel from Car 16 worked on the car in the fast lane at pit exit",
+    "infringement": "Breach of Article 28.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Team. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 42). Car 16 Maini stalled on the formation lap and was pushed by marshals to the pit lane. Team personnel retrieved the car and started it again. However, they sent the car to the pit exit too early and it had to sit for an extended period and the driver had to shut off the engine to avoid an overheating situation. Team personnel then started the car while it was in the fast lane at the pit exit. There were no other cars in the pit lane at the time and the driver gained no sporting advantage by this team error. Consequently the stewards determine that a team fine is appropriate.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     42,
+     44
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    42
+   ],
+   "published_local": "2026-05-02T12:44"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - INFRINGEMENT - Car 20 - Gaining lasting advantage",
+   "subject": "INFRINGEMENT - Car 20 - Gaining lasting advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_20_-_gaining_lasting_advantage.pdf",
+   "published": "2026-05-02T18:22",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "10:39",
+    "session": "Race 1",
+    "fact": "Car 20 (Fittipaldi) went off track while completing a pass on Car 4 (Herta) at Turns 11-12 thereby gaining lasting advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 12.4.1.h of the FIA International Sporting Code. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. Approaching Turn 11 Car 20 attempted an outside pass on Car 4, then went off track and rejoined at Turn 12 completing an overtake over Car 4. To have the rights for a turn the car who is trying to overtake on the outside has to have its front axle ahead of the front axle of the other car at the apex, and in this case Car 20 was not in this position. The Stewards considered that Car 20 went off track at the exit of Turn 11 and rejoined at Turn 12 gaining a position over Car 4. A successful overtake requires the driver to complete the manoeuvre on track. Having analysed extensively the matter, the Stewards, under these circumstances considered that failing to lose an advantage constitutes gaining an advantage. The stewards elect to impose the standard penalty for leaving the track and gaining a lasting advantage.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     43
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-05-02T12:22"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - SUMMONS - Car 16 - Alleged pit lane infringement",
+   "subject": "SUMMONS - Car 16 - Alleged pit lane infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_16_-_alleged_pit_lane_infringement.pdf",
+   "published": "2026-05-02T17:45",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 28.4 of the FIA F2 Sporting Regulations - team personnel working on car 16 in the fast lane at 10:13 (alleged pit lane infringement).",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     42
+    ]
+   },
+   "related": [
+    44
+   ],
+   "published_local": "2026-05-02T11:45"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Timetable V5 - Miami 2026",
+   "subject": "Timetable V5 - Miami 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_timetable_v5_-_miami_2026.pdf",
+   "published": "2026-05-02T17:33",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 50,
+   "published_local": "2026-05-02T11:33"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - F2 Race 1 (Sprint) - Provisional classification",
+   "subject": "F2 Race 1 (Sprint) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-05-02T17:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-02T11:24"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-05-02T15:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-02T09:00"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - F2 Miami Competition Notes 2026 v3",
+   "subject": "F2 Miami Competition Notes 2026 v3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_miami_competition_notes_2026_v3.pdf",
+   "published": "2026-05-02T13:31",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 49,
+   "published_local": "2026-05-02T07:31"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - F2 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-05-02T00:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T18:46"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - F2 Qualifying - Final classification",
+   "subject": "F2 Qualifying - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_qualifying_-_final_classification.pdf",
+   "published": "2026-05-02T00:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T18:43"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_technical_report_2.pdf",
+   "published": "2026-05-02T00:38",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T18:38"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - F2 Miami Competition Notes 2026 v2",
+   "subject": "F2 Miami Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_miami_competition_notes_2026_v2.pdf",
+   "published": "2026-05-02T00:02",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 49,
+   "published_local": "2026-05-01T18:02"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - INFRINGEMENT - Car 15 - Pit lane speeding in Qualifying",
+   "subject": "INFRINGEMENT - Car 15 - Pit lane speeding in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_15_-_pit_lane_speeding_in_qualifying.pdf",
+   "published": "2026-05-01T22:07",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "14:49",
+    "session": "Qualifying",
+    "fact": "Car 15 (Dunne) - Pit lane speeding - 67.1 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 800 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 15 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 7.1 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     33
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 800
+   },
+   "published_local": "2026-05-01T16:07"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - INFRINGEMENT - Qualifying - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_qualifying_-_lap_time_cancellations.pdf",
+   "published": "2026-05-01T21:40",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "15": 2,
+     "23": 2,
+     "9": 1,
+     "4": 3,
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-01T15:40"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - F2 Qualifying - Provisional classification",
+   "subject": "F2 Qualifying - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_qualifying_-_provisional_classification.pdf",
+   "published": "2026-05-01T21:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T15:15"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - INFRINGEMENT - Car 16 - Pit lane speeding in Qualifying",
+   "subject": "INFRINGEMENT - Car 16 - Pit lane speeding in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_16_-_pit_lane_speeding_in_qualifying.pdf",
+   "published": "2026-05-01T21:01",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "14:44",
+    "session": "Qualifying",
+    "fact": "Car 16 (Maini) - Pit lane speeding - 60.8 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 100 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 16 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 0.8 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     30
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-05-01T15:01"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - INFRINGEMENT - Practice - Lap time classifications",
+   "subject": "INFRINGEMENT - Practice - Lap time classifications",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_practice_-_lap_time_classifications.pdf",
+   "published": "2026-05-01T20:32",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "23": 2,
+     "20": 1,
+     "1": 1,
+     "9": 1,
+     "25": 1,
+     "16": 1,
+     "21": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     29
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-01T14:32"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - INFRINGEMENT - Car 8 - DAMS - Breach of SR 22.15",
+   "subject": "INFRINGEMENT - Car 8 - DAMS - Breach of SR 22.15",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_8_-_dams_-_breach_of_sr_22.15_.pdf",
+   "published": "2026-05-01T20:28",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:00",
+    "session": "Practice",
+    "fact": "A team member of Car 8 (Roman Bilinski) was not in compliance with Article 22.15 by failing to wear long trousers in the pit lane.",
+    "infringement": "Breach of Article 22.15 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of €500 to be paid by the Team. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined photographic evidence. They summoned and heard the team representative (document 17). The team representative explained that the man wearing shorts was the physio of Car 20 not an operational team personnel member. Consistent with previous decisions the Stewards apply the rule to all personnel working near the car including physios. Having considered the matter extensively, Stewards determined that a team member of Car 8 working near the car was not wearing long trousers during the session, therefore decided to fine the team with 500 Euros.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     17,
+     28
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    17
+   ],
+   "published_local": "2026-05-01T14:28"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - INFRINGEMENT - Car 20 - AIX Racing - Breach of SR 22.15",
+   "subject": "INFRINGEMENT - Car 20 - AIX Racing - Breach of SR 22.15",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_20_-_aix_racing_-_breach_of_sr_22.15_.pdf",
+   "published": "2026-05-01T20:28",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "09:49",
+    "session": "Practice",
+    "fact": "A team member of Car 20 (Emerson Fittipaldi) was not in compliance with Article 22.15 by failing to wear long trousers in the pit lane.",
+    "infringement": "Breach of Article 22.15 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of €500 to be paid by the Team. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined photographic evidence. They summoned and heard the team representative (document 16). The team representative accepted the fact that the team member wearing shorts. Stewards determined that a team member of Car 20 working near the car was not wearing long trousers during the session, therefore decided to fine the team with 500 Euros.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     16,
+     27
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    16
+   ],
+   "published_local": "2026-05-01T14:28"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - INFRINGEMENT - Car 20 - Failure to follow RD instructions - chequered flag",
+   "subject": "INFRINGEMENT - Car 20 - Failure to follow RD instructions - chequered flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_20_-_failure_to_follow_rd_instructions_-_chequered_flag_.pdf",
+   "published": "2026-05-01T20:26",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "10:15",
+    "session": "Practice",
+    "fact": "Car 20 (Fittipaldi) failed to follow the Race Director Competition Notes (document 4) instructions for returning to the Support Paddock pit lane after the end of the session.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - in conjunction with Item 25.1 of the Race Director’s Competition Notes.",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 15). The drivers were informed by the FIA Race Director during the Drivers Meeting that after taking the chequered flag they must continue and leave the track via the exit after Turn 10, to the F2 Paddock Parc Fermé. Car 9 was the first car to receive the chequered flag in the Practice session closely followed by Car 20. It is noteworthy that the last car not to have received the chequered flag was just in front of Cars 9 and 20. The Driver reported that he did not see the chequered flag at the line nor any yellow flag / light panel nor marshals on track signalling for him to turn into the support paddock, as they had expected. As a result he did not exit after Turn 10 and he continued on the track in breach of the RD instructions. The Stewards considered the mitigating circumstances that no yellow flag was shown nor light panel was illuminated and the facts of the configuration of this new circuit and the short time between the last car that had not seen the chequered flag and the first car that crossed the line after the session finished was very short and as such the marshals could not be on track and waving the flag. However, it is responsibility of the driver to follow the RD instructions and he did not. Therefore, in the light of the present case and given the mitigating circumstances mentioned above, the Stewards elect to give a warning to the driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     4,
+     15,
+     26
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    4,
+    15
+   ],
+   "published_local": "2026-05-01T14:26"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - INFRINGEMENT - Car 9 - Failure to follow RD instructions - chequered flag",
+   "subject": "INFRINGEMENT - Car 9 - Failure to follow RD instructions - chequered flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_9_-_failure_to_follow_rd_instructions_-_chequered_flag_.pdf",
+   "published": "2026-05-01T20:24",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "10:15",
+    "session": "Practice",
+    "fact": "Car 9 (Mini) failed to follow the Race Director Competition Notes (document 4) instructions for returning to the Support Paddock pit lane after the end of the session.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - in conjunction with Item 25.1 of the Race Director’s Competition Notes.",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 14). The drivers were informed by the FIA Race Director during the Drivers Meeting that after taking the chequered flag they must continue and leave the track via the exit after Turn 10, to the F2 Paddock Parc Fermé. Car 9 was the first car to receive the chequered flag in the Practice session closely followed by Car 20. It is noteworthy that the last car not to have received the chequered flag was just in front of Car 9. The Driver reported that he did not see the chequered flag at the line nor any yellow flag / light panel nor marshals on track signalling for him to turn into the support paddock, as they had expected. As a result he did not exit after Turn 10 and he continued on the track in breach of the RD instructions. Having considered the matter extensively, the Stewards considered the mitigating circumstances that no yellow flag was shown nor light panel was illuminated and the facts of the configuration of this new circuit and the short time between the last car that had not seen the chequered flag and the first car that crossed the line after the session finished was very short and as such the marshals could not be on track and waving the flag. However, it is responsibility of the driver to follow the RD instructions and he did not. Therefore, in the light of the present case and given the mitigating circumstances mentioned above, the Stewards elect to give a warning to the driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     4,
+     14,
+     25
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    4,
+    14
+   ],
+   "published_local": "2026-05-01T14:24"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - INFRINGEMENT - Car 1 - Failure to follow RD instructions",
+   "subject": "INFRINGEMENT - Car 1 - Failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_1_-_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-05-01T20:22",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "09:50",
+    "session": "Practice",
+    "fact": "Car 1 (Rafael Camara) conducted a practice start from outside the marked grid boxes.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code in conjunction with Item 16.1 of the Race Director’s Competition Notes.",
+    "decision": "Reprimand (non driving) given to the Driver of Car 1. This is his first Reprimand of the 2026 Season.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the drivers and team representatives (documents 13). In a queue departing Pit Lane at the resumption of the session, Car #1 moved to the right side of the Pit Exit and slowed but came to a stop forward of both marked \"grid boxes\" on the right-hand side of the Pit Exit, and conducted a practice start. The driver of #1 explained that he intended to conduct a practice start but admitted that he had missed the location of the first markings because he was looking down while adjusting their settings. Noting that the driver did leave adequate room for other cars to pass, the Stewards accept the driver’s prompt admission of an error but nonetheless find that this was failure to follow the Race Director’s instructions for conducting practice starts and warrants the imposition of a Reprimand as the appropriate penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     13,
+     24
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    13
+   ],
+   "published_local": "2026-05-01T14:22"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - DECISION - Car 10 - Alleged yellow flag infringement",
+   "subject": "DECISION - Car 10 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_decision_-_car_10_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-05-01T20:20",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "09:43",
+    "session": "Practice",
+    "fact": "Car 10, Oliver Goethe, was alleged to have failed to comply with the double waving yellow flag requirements.at Turns11 and 12 during the practice session.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action",
+    "reason": "The Stewards examined video evidence and GPS evidence. They summoned and heard the drivers and team representative (document 12). A yellow flag was shown at the entrance to turn 11 and then a double yellow entering turn 12 where there was a stopped car on the outside of the track on the exit. The driver of Car 10 reported that he was aware of both the yellow flag and the double yellow flag and he thought that he had lifted sufficiently. The mini sector data was reviewed with the driver and after analysis it was determined that the driver had slowed significantly in both mini sectors. As a result the Stewards find that the driver acted appropriately and no rule was breached and therefore take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     12,
+     23
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    12
+   ],
+   "published_local": "2026-05-01T14:20"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - INFRINGEMENT - Car 23 - Yellow flag infringement",
+   "subject": "INFRINGEMENT - Car 23 - Yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_23_-_yellow_flag_infringement.pdf",
+   "published": "2026-05-01T20:18",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "competitor": "Van Amersfoort Racing",
+    "time": "09:43",
+    "session": "Practice",
+    "fact": "Car 23, Rafael Villagomez, did not comply with the requirement to reduce speed under single and double yellow flags at Turns 11 and 12 during the practice session.",
+    "infringement": "Breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "A drop of 10 places on the grid for the Sprint and Feature races in which the driver participates. In addition, 3 points to be added to the driver’s record. Total for the 2026 season = 3 points.",
+    "reason": "The Stewards examined video evidence and GPS evidence. They summoned and heard the drivers and team representative (document 11). A yellow flag was shown at the entrance to turn 11 and then a double yellow entering turn 12 where there was a stopped car on the outside of the track on the exit. The driver of Car 23 reported that he was aware of both the yellow flag and the double yellow flag and he thought that he had lifted sufficiently. He then reported that after seeing that he was clear of the stopped car he resumed his push lap. The mini sector timing data revealed that the driver achieved his fastest time in both mini sectors up to that point in the session. There was no indication that the driver had lifted nor that he had abandoned his lap as is required when passing through a double yellow flag area. This is a violation of the regulations and relates to safety. The standard penalty of 10 grid drops is used as the Stewards could find no mitigating circumstances to vary the penalty. In keeping with Art 31.5 of the 2026 F2 Sporting Regulations the grid drop penalty will be applied to both the Sprint and Feature races.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     11,
+     22
+    ],
+    "tags": [
+     "10-place grid drop",
+     "3 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 3
+   },
+   "related": [
+    11
+   ],
+   "published_local": "2026-05-01T14:18"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - INFRINGEMENT - Car 8 - Pit lane speeding in Practice",
+   "subject": "INFRINGEMENT - Car 8 - Pit lane speeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_8_-_pit_lane_speeding_in_practice.pdf",
+   "published": "2026-05-01T19:57",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "competitor": "DAMS Lucas Oil",
+    "time": "09:41",
+    "session": "Practice",
+    "fact": "Car 8 (Bilinski) - Pit lane speeding - 62.2 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 300 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 8 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 2.2 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     21
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 300
+   },
+   "published_local": "2026-05-01T13:57"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENT - Car 6 - Pit lane speeding in Practice",
+   "subject": "INFRINGEMENT - Car 6 - Pit lane speeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_6_-_pit_lane_speeding_in_practice.pdf",
+   "published": "2026-05-01T19:57",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "time": "09:32",
+    "session": "Practice",
+    "fact": "Car 6 (Tsolov) - Pit lane speeding - 64.3 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 500 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 6 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 4.3 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-05-01T13:57"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Car 2 - Pit lane speeding in Practice",
+   "subject": "INFRINGEMENT - Car 2 - Pit lane speeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_2_-_pit_lane_speeding_in_practice.pdf",
+   "published": "2026-05-01T19:57",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "10:00",
+    "session": "Practice",
+    "fact": "Car 2 (Durksen) - Pit lane speeding - 60.2 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 100 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 2 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 0.2 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-05-01T13:57"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - INFRINGEMENT - Car 15 - Pit lane speeding in Practice",
+   "subject": "INFRINGEMENT - Car 15 - Pit lane speeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_infringement_-_car_15_-_pit_lane_speeding_in_practice.pdf",
+   "published": "2026-05-01T19:56",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "09:57",
+    "session": "Practice",
+    "fact": "Car 15 (Dunne) - Pit lane speeding - 60.4 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 100 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the FIA International Sporting Code, fines shall be paid within forty-eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 15 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 0.4 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-05-01T13:56"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - SUMMONS - DAMS - Alleged breach SR 22.15",
+   "subject": "SUMMONS - DAMS - Alleged breach SR 22.15",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_dams_-_alleged_breach_sr_22.15.pdf",
+   "published": "2026-05-01T18:13",
+   "recalled": false,
+   "cars": [],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 22.15 the 2026 FIA Formula 2 Sporting Regulations - Team / Technical personnel of DAMS (Car 8) wearing short trousers in the pit lane.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "refs": [
+     17
+    ]
+   },
+   "related": [
+    28
+   ],
+   "published_local": "2026-05-01T12:13"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - SUMMONS - AIX Racing - Alleged breach SR 22.15",
+   "subject": "SUMMONS - AIX Racing - Alleged breach SR 22.15",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_aix_racing_-_alleged_breach_sr_22.15.pdf",
+   "published": "2026-05-01T18:11",
+   "recalled": false,
+   "cars": [],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 22.15 the 2026 FIA Formula 2 Sporting Regulations - Team / Technical personnel of AIX Racing (Car 20) wearing short trousers in the pit lane.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "refs": [
+     16
+    ]
+   },
+   "related": [
+    27
+   ],
+   "published_local": "2026-05-01T12:11"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - SUMMONS - Car 20 - Alleged failure to follow RD instructions - chequered flag",
+   "subject": "SUMMONS - Car 20 - Alleged failure to follow RD instructions - chequered flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_20_-_alleged_failure_to_follow_rd_instructions_-_chequered_flag.pdf",
+   "published": "2026-05-01T18:08",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - Car 20 - breaching Race Director Event Notes (document 4) item 25.1 - at the end of practice after taking the chequered flag car did not leave the track via the exit after Turn 10 to the F2 Paddock.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     4,
+     15
+    ]
+   },
+   "related": [
+    4,
+    26
+   ],
+   "published_local": "2026-05-01T12:08"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - SUMMONS - Car 9 - Alleged failure to follow RD instructions - chequered flag",
+   "subject": "SUMMONS - Car 9 - Alleged failure to follow RD instructions - chequered flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_9_-_alleged_failure_to_follow_rd_instructions_-_chequered_flag.pdf",
+   "published": "2026-05-01T18:06",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - Car 9 - breaching Race Director Event Notes (document 4) item 25.1 - at the end of practice after taking the chequered flag car did not leave the track via the exit after Turn 10 to the F2 Paddock.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     4,
+     14
+    ]
+   },
+   "related": [
+    4,
+    25
+   ],
+   "published_local": "2026-05-01T12:06"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - SUMMONS - Car 1 - Alleged failure to follow Race Director instructions",
+   "subject": "SUMMONS - Car 1 - Alleged failure to follow Race Director instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_1_-_alleged_failure_to_follow_race_director_instructions.pdf",
+   "published": "2026-05-01T18:04",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - not following Race Directors instructions item 16.1 (Practice starts) at 09:50.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     13
+    ]
+   },
+   "related": [
+    24
+   ],
+   "published_local": "2026-05-01T12:04"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - SUMMONS - Car 10 - Alleged yellow flag infringement",
+   "subject": "SUMMONS - Car 10 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_10_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-05-01T18:02",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code - Yellow flag infringement at 09:43.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     12
+    ]
+   },
+   "related": [
+    23
+   ],
+   "published_local": "2026-05-01T12:02"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - SUMMONS - Car 23 - Alleged yellow flag infringement",
+   "subject": "SUMMONS - Car 23 - Alleged yellow flag infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_summons_-_car_23_-_alleged_yellow_flag_infringement.pdf",
+   "published": "2026-05-01T18:01",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "reason": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code - Yellow flag infringement at 09:43.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     11
+    ]
+   },
+   "related": [
+    22
+   ],
+   "published_local": "2026-05-01T12:01"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - F2 Practice - Classification",
+   "subject": "F2 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-05-01T16:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T10:46"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F2 Miami Pit Lane Drawings 2026 v2",
+   "subject": "F2 Miami Pit Lane Drawings 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_miami_pit_lane_drawings_2026_v2.pdf",
+   "published": "2026-05-01T14:20",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T08:20"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F2 Entry List - Miami 2026",
+   "subject": "F2 Entry List - Miami 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_entry_list_-_miami_2026.pdf",
+   "published": "2026-05-01T11:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T05:41"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_technical_report_1.pdf",
+   "published": "2026-05-01T11:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T05:40"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - F2 Podium and Parc Fermé instructions - Miami",
+   "subject": "F2 Podium and Parc Fermé instructions - Miami",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_podium_and_parc_ferme_instructions_-_miami.pdf",
+   "published": "2026-05-01T11:39",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T05:39"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - F2 Miami Pit Lane Drawings 2026",
+   "subject": "F2 Miami Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_miami_pit_lane_drawings_2026.pdf",
+   "published": "2026-05-01T11:39",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 9,
+   "published_local": "2026-05-01T05:39"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - F2 Miami Competition Notes 2026 v1",
+   "subject": "F2 Miami Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_f2_miami_competition_notes_2026_v1.pdf",
+   "published": "2026-05-01T11:38",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 49,
+   "related": [
+    14,
+    15,
+    25,
+    26
+   ],
+   "published_local": "2026-05-01T05:38"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_bulletin_1_-_restricted_period.pdf",
+   "published": "2026-05-01T11:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T05:37"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Circuit Map - Miami 2026",
+   "subject": "Circuit Map - Miami 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_circuit_map_-_miami_2026.pdf",
+   "published": "2026-05-01T11:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T05:25"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F2 Miami 2026",
+   "subject": "VISA - F2 Miami 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_miami_event_-_visa_-_f2_miami_2026.pdf",
+   "published": "2026-05-01T11:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-01T05:18"
+  }
+ ]
+}

@@ -1,4 +1,4 @@
-# F1 Document Viewer
+# FIA Document Viewer (F1 & F2)
 
 A tidier view of the [FIA Formula One decision documents](https://www.fia.com/documents/championships/fia-formula-one-world-championship-14)
 for the current season, published with GitHub Pages.
@@ -114,3 +114,22 @@ It has:
 
 It opens on the event you were viewing. Opened on its own, it picks the event with the next live or upcoming session.
 It works well saved to a phone's home screen.
+
+## Formula 2
+
+The same viewer covers the FIA Formula 2 Championship at `./?series=f2`, using the **F1 / F2** switch at the top of the
+rounds sidebar. The sessions page takes the series too: `sessions.html?series=f2`. Each run scrapes both championships,
+so the update workflow didn't need changing. F1 data stays in `site/data/` and F2 data is in `site/data/f2/`.
+
+F2 differences the scraper handles:
+
+- **Titles:** some carry a "2026 Monza Event - " prefix, plus F2-only wording such as "Technical Report", "Bulletin" and
+  "final grid".
+- **Track-limits tables:** these start with a "Decision" column.
+- **Penalty wording:** for example "Five seconds (5) time penalty", "A drop of 3 places on the grid" and
+  "In addition, 2 points".
+- **Session times:** taken from FIA timetables, including the F2 rows listed in the F1 timetable for the same weekend.
+  Otherwise they come from the F2 classification documents. Race names are worked out per event, so Baku's
+  "Feature Race 1 / 2" weekend comes out right.
+
+formula1.com doesn't publish F2 schedules, so it isn't used for F2.

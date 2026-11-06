@@ -1,12 +1,22 @@
 "use strict";
 
 const S = { index: null, events: {}, penalties: null, catById: {} };
+
+// Which championship this page shows: ./ (F1) or ./?series=f2. F1 data lives at data/, others at data/<id>/.
+const SERIES_LIST = [{ id: "f1", short: "F1" }, { id: "f2", short: "F2" }];
+const SERIES = (() => {
+  const want = new URLSearchParams(location.search).get("series");
+  return SERIES_LIST.some((x) => x.id === want) ? want : "f1";
+})();
+const SERIES_SHORT = SERIES_LIST.find((x) => x.id === SERIES).short;
+const DATA_DIR = SERIES === "f1" ? "data/" : `data/${SERIES}/`;
+const SERIES_QS = SERIES === "f1" ? "" : `series=${SERIES}`;
 const $ = (sel, el = document) => el.querySelector(sel);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 async function getJSON(path) {
-  const r = await fetch(`data/${path}`, { cache: "no-cache" });
+  const r = await fetch(`${DATA_DIR}${path}`, { cache: "no-cache" });
   if (!r.ok) throw new Error(`${path}: HTTP ${r.status}`);
   return r.json();
 }
@@ -165,7 +175,7 @@ function renderSessions() {
     <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
     ${list.length ? `<p class="s-note">${esc(sourceNote(list))}</p>` : ""}
-    <a class="btn s-open" href="sessions.html?event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
+    <a class="btn s-open" href="sessions.html?${SERIES_QS ? SERIES_QS + "&" : ""}event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
 }
 
 /* ------------------------------------------------------------------ track clock */
@@ -379,6 +389,11 @@ async function boot() {
   }
   for (const c of S.index.categories) S.catById[c.id] = c;
   $("#seasonLabel").textContent = `${S.index.championship} · ${S.index.season}`;
+  $("#brandTitle").textContent = `${SERIES_SHORT} Document Viewer`;
+  document.title = `${SERIES_SHORT} Document Viewer`;
+  $("#seriesSwitch").innerHTML = SERIES_LIST.map((x) =>
+    `<a href="./${x.id === "f1" ? "" : "?series=" + x.id}" class="${x.id === SERIES ? "active" : ""}"
+        ${x.id === SERIES ? 'aria-current="page"' : ""}>${x.short}</a>`).join("");
   showUpdated();
   initSync();
   window.addEventListener("hashchange", render);

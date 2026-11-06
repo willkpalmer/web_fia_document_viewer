@@ -29,14 +29,16 @@ RULES = [
                  r"hearing|steward|notification)\b"),
     ("stewards", r"right of review|withdrawal|^car \d|^cars \d|tyre return infringement|"
                  r"penalty points|^[a-z ]+ - car \d"),
-    ("technical", r"scrutineering|pu element|power unit|parc ferm|parts and parameters|covers-on|"
+    ("technical", r"technical report|tyre schedule|scrutineering|pu element|power unit|parc ferm|parts and parameters|covers-on|"
                   r"covering of components|post-race (checks|inspections)|tyre pressure|"
                   r"car presentation|technical delegate|homologation|fuel|plank|skid"),
     ("race_director", r"race director|competition notes|event notes|drivers' meeting|procedure|"
                       r"curfew|restricted period|hazard|lightning|deleted lap|sc\d|safety car|"
                       r"pit lane|track limits"),
-    ("results", r"classification|starting grid|championship points|lap times|speed trap|results"),
-    ("admin", r"entry list|timetable|competition visa|biograph|circuit map|stewards|accreditation"),
+    ("results", r"classification|starting grid|\bgrid\b|championship points|driver championship|"
+                r"team championship|lap times|speed trap|results"),
+    ("admin", r"entry list|timetable|competition visa|\bvisa\b|bulletin|regulations|biograph|circuit map|"
+              r"stewards|accreditation"),
 ]
 
 _COMPILED = [(cat, re.compile(p, re.I)) for cat, p in RULES]

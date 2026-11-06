@@ -337,3 +337,11 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .s-open { display: flex; align-items: center; justify-content: center; margin-top: 12px; width: 100%; font-weight: 500; color: var(--text); text-decoration: none; }
 .s-open:hover { text-decoration: none; }
 @media (max-width: 1279px) { .s-open { width: auto; display: inline-flex; margin-top: 8px; height: 30px; font-size: 13px; } }
+
+/* championship switch (top of the events sidebar) */
+.series-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; padding: 3px; margin: 0 2px 12px;
+  background: var(--surface-2); border: 1px solid var(--border); border-radius: 8px; }
+.series-switch a { text-align: center; padding: 6px 0; border-radius: 6px; color: var(--muted); font-weight: 600; letter-spacing: .02em; }
+.series-switch a:hover { text-decoration: none; color: var(--text); }
+.series-switch a.active { background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+.series-switch a.active::before { content: ""; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); margin-right: 6px; vertical-align: middle; }

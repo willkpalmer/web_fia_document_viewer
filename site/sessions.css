@@ -55,3 +55,4 @@ body.mpage { min-height: 100vh; padding-bottom: env(safe-area-inset-bottom); }
   .m-main { padding-top: 28px; }
   .m-hero h1 { font-size: 32px; }
 }
+.m-next[hidden] { display: none; }

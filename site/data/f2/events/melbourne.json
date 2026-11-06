@@ -1,0 +1,2097 @@
+{
+ "event": {
+  "slug": "melbourne",
+  "name": "Melbourne",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Melbourne",
+  "doc_count": 73,
+  "first_published": "2026-03-05T20:24",
+  "last_published": "2026-03-08T05:46",
+  "first_local": "2026-03-06T06:24",
+  "last_local": "2026-03-08T15:46",
+  "utc_offset_min": 660,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-03-06T10:00",
+    "end_local": "2026-03-06T10:45",
+    "start_utc": "2026-03-05T23:00Z",
+    "end_utc": "2026-03-05T23:45Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-03-06T14:55",
+    "end_local": "2026-03-06T15:25",
+    "start_utc": "2026-03-06T03:55Z",
+    "end_utc": "2026-03-06T04:25Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-03-07T14:30",
+    "end_local": "2026-03-07T15:20",
+    "start_utc": "2026-03-07T03:30Z",
+    "end_utc": "2026-03-07T04:20Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-03-08T11:25",
+    "end_local": "2026-03-08T12:30",
+    "start_utc": "2026-03-08T00:25Z",
+    "end_utc": "2026-03-08T01:30Z",
+    "source": "fia"
+   }
+  ],
+  "counts": {
+   "results": 13,
+   "stewards": 44,
+   "technical": 6,
+   "admin": 7,
+   "race_director": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 73,
+   "title": "Doc 73 - F2 Team Championship - Melbourne 2026",
+   "subject": "F2 Team Championship - Melbourne 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_team_championship_-_melbourne_2026.pdf",
+   "published": "2026-03-08T05:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T15:46"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - F2 Driver Championship - Melbourne 2026",
+   "subject": "F2 Driver Championship - Melbourne 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_driver_championship_-_melbourne_2026.pdf",
+   "published": "2026-03-08T05:44",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T15:44"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - F2 Race 2 (Feature) - final classification",
+   "subject": "F2 Race 2 (Feature) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_2_feature_-_final_classification.pdf",
+   "published": "2026-03-08T05:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T15:43"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - INFRINGEMENT - Race 2 track limit violations",
+   "subject": "INFRINGEMENT - Race 2 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_race_2_track_limit_violations.pdf",
+   "published": "2026-03-08T05:18",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. MELBOURNE EVENT 5 TO 8 MARCH 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "21": 5,
+     "3": 2,
+     "24": 2,
+     "20": 1,
+     "25": 1,
+     "4": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 20,
+      "name": "Enzo Fittipaldi"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     70
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-08T15:18"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - INFRINGEMENT - Car 2 - moved before start lights extinguished",
+   "subject": "INFRINGEMENT - Car 2 - moved before start lights extinguished",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_2_-_moved_before_start_lights_extinguished.pdf",
+   "published": "2026-03-08T05:18",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "11:28",
+    "session": "Race 2",
+    "fact": "Car 2 (Durksen) moved prior to the race start.",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 2 (Duerksen) moved slightly after the third light and before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose the least of the penalties available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     69
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-08T15:18"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - INFRINGEMENT - Car 21 - Track Limit violations",
+   "subject": "INFRINGEMENT - Car 21 - Track Limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_21_-_track_limit_violations.pdf",
+   "published": "2026-03-08T05:17",
+   "recalled": false,
+   "cars": [
+    21
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "competitor": "AIX Racing",
+    "time": "12:23",
+    "session": "Race 2",
+    "fact": "Car 21 exceeded track limits on 4 separate occasions, despite receiving the black and white warning flag.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 21 exceeded track limits on four separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     68
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-08T15:17"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - INFRINGEMENT - Car 22 - pit lane speeding",
+   "subject": "INFRINGEMENT - Car 22 - pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_22_-_pit_lane_speeding.pdf",
+   "published": "2026-03-08T05:16",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "12:01",
+    "session": "Race 2",
+    "fact": "Car 22 was reported for Pit Lane Speeding – 60.1 km/h.",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "Car 22 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 0.1 km/h",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     67
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-08T15:16"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - INFRINGEMENT - AIX Racing - failure to wear mandatory eye protection",
+   "subject": "INFRINGEMENT - AIX Racing - failure to wear mandatory eye protection",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_aix_racing_-_failure_to_wear_mandatory_eye_protection.pdf",
+   "published": "2026-03-08T05:16",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "competitor": "AIX Racing",
+    "time": "11:59",
+    "session": "Race 2",
+    "fact": "Eye protection was not worn when Car 21 pitted - the mechanic on the front right wheel.",
+    "infringement": "Breach of Article 28.11 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively, the Stewards determined that the mechanic on the front right tyre of Car 21 was not wearing the mandatory eye protections as required by the regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     66
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-03-08T15:16"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - INFRINGEMENT - Campos Racing - alleged pit lane violation",
+   "subject": "INFRINGEMENT - Campos Racing - alleged pit lane violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_campos_racing_-_alleged_pit_lane_violation.pdf",
+   "published": "2026-03-08T05:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "competitor": "Campos Racing",
+    "time": "11:42",
+    "session": "Race 2",
+    "fact": "Team personnel are only allowed in the pit lane immediately before they are required to work on the car - Campos Racing did not comply with this regulation.",
+    "infringement": "Breach of Article 28.11 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Team Reprimand.",
+    "reason": "The Stewards summoned (Documents 59) and heard the team representative. They examined video evidence. During Race 2, Campos was planning a “double stack” pit stop. At the same time one of their cars reported damage to the front wing and they changed the order that the cars were to arrive in the pit lane by giving an instruction to the driver to remain on track. This change in strategy resulted in confusion with the pit crew who were preparing for a quick double stack. The video and telemetry show the sequence of events and also confirm that no other team was affected by this breach of the regulations. The regulation is designed in recognition of the tight area that is available for all the teams and it is not safe to have personnel in the pit lane unnecessarily. The Stewards therefore find that a breach has occurred but elect in this case to issue a reprimand to the team given the circumstances.",
+    "from": "The Stewards",
+    "refs": [
+     59,
+     65
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    59
+   ],
+   "published_local": "2026-03-08T15:15"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - INFRINGEMENT - Car 11 - pit lane speeding",
+   "subject": "INFRINGEMENT - Car 11 - pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_11_-_pit_lane_speeding.pdf",
+   "published": "2026-03-08T05:15",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "competitor": "PREMA Racing",
+    "time": "11:41",
+    "session": "Race 2",
+    "fact": "Car 11 was reported for Pit Lane Speeding – 64.3 km/h.",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "Car 11 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 4.3 km/h",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     64
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-08T15:15"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - DECISION - MP Motorsport - alleged pit lane violation (recon lap)",
+   "subject": "DECISION - MP Motorsport - alleged pit lane violation (recon lap)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_mp_motorsport_-_alleged_pit_lane_violation_recon_lap.pdf",
+   "published": "2026-03-08T05:14",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "competitor": "MP Motorsport",
+    "time": "11:14",
+    "session": "Race 2",
+    "fact": "Prior to the start of the race, Car 8 (Bilinksi) was released from a practice pit stop, and as the car moved into the fast lane it ran over a wheel gun belonging to the Competitor, MP Motorsport.",
+    "infringement": "Alleged breach of Article 28.10 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action",
+    "reason": "The Stewards summoned (Document 57) and heard the team representative and reviewed the available video footage of the incident. The Team Manager said that the spare wheel gun had been placed in position for a practice pit stop for Car 9, which had taken place immediately before the practice pit stop undertaken by Car 8. He explained that the usual procedure is that the rear jackman would be responsible to pick up the spare gun after the pit stop but was unable to safely do so on this occasion because Car 8 was being released from its pit box and that to step back out toward the fast lane would have put himself at risk of being hit by the car. He pointed out that the space in the pit lane is tight and there was no other spot for the spare wheel gun to be positioned. The video of the incident confirms the Team Manager’s explanation and the Stewards accept that the space in the pit lane is limited and, in the circumstances, decide to take no further action.",
+    "from": "The Stewards",
+    "refs": [
+     57,
+     63
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    57
+   ],
+   "published_local": "2026-03-08T15:14"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - INFRINGEMENT - Car 11 - unsafe release (recon lap)",
+   "subject": "INFRINGEMENT - Car 11 - unsafe release (recon lap)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_11_-_unsafe_release_recon_lap.pdf",
+   "published": "2026-03-08T05:13",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "competitor": "PREMA Racing",
+    "time": "11:14",
+    "session": "Race 2",
+    "fact": "Car 11 (Montoya) was released in to Car 8 (Bilinski) during the reconnaissance laps prior to Race 2.",
+    "infringement": "Breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards summoned (Documents 55 & 56) and heard the Drivers of Car 11 (Montoya) and Car 8 (Bilinski) and the team representatives. They examined video evidence. Car 11 was released from its pit stop position into the path of Car 8. Car 8 was unable to avoid Car 11 and contact occurred, resulting in Car 8 colliding with the pit wall. The Stewards note that the incident resulted from an error by the team personnel of Car 11, who misjudged the speed and distance of the approaching Car 8. However, it remains the responsibility of the team to release a car from its garage or pit stop position in a manner that does not endanger another driver. Accordingly, the Stewards determine that this constitutes an unsafe release.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     55,
+     62
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    55
+   ],
+   "published_local": "2026-03-08T15:13"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - INFRINGEMENT - MP Motorsport - failure to wear mandatory eye protection",
+   "subject": "INFRINGEMENT - MP Motorsport - failure to wear mandatory eye protection",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_mp_motorsport_-_failure_to_wear_mandatory_eye_protection.pdf",
+   "published": "2026-03-08T05:12",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "11:14",
+    "session": "Race 2",
+    "fact": "Eye protection was not worn when Car 9 pitted on the reconnaissance lap - the mechanic on the rear right wheel.",
+    "infringement": "Breach of Article 28.11 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively, the Stewards determined that the mechanic on the right rear tyre of Car 9 was not wearing the mandatory eye protections as required by the regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     61
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-03-08T15:12"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_technical_report_4.pdf",
+   "published": "2026-03-08T05:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T15:03"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - SUMMONS - Campos Racing - personnel in pit lane in advance to their mandatory pit stop",
+   "subject": "SUMMONS - Campos Racing - personnel in pit lane in advance to their mandatory pit stop",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_campos_racing_-_personnel_in_pit_lane_in_advance_to_their_mandatory_pit_stop.pdf",
+   "published": "2026-03-08T04:13",
+   "recalled": false,
+   "cars": [],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 28.11 of the FIA F2 Sporting Regulations - Team personnel are only permitted in pit lane immediately before they are required to work on a car, it is alleged that Campos did not comply with this requirement in Race 2.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "refs": [
+     59
+    ]
+   },
+   "related": [
+    65
+   ],
+   "published_local": "2026-03-08T14:13"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - INFRINGEMENT - Car 15 - causing a collision",
+   "subject": "INFRINGEMENT - Car 15 - causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_15_-_causing_a_collision.pdf",
+   "published": "2026-03-08T03:54",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "11:32",
+    "session": "Race 2",
+    "fact": "Car 15 (Dunne) made contact with Car 14 (Stenshorne) on the approach to Turn 1.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty , which since Car 15 was not classified, is converted to a drop of 5 places on the grid for Feature Race in which the driver participates. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 2 points.",
+    "reason": "The Stewards summoned (Documents 53 & 54) and heard the Drivers of Car 14 (Stenshorne) and Car 15 (Dunne) and the team representative. They examined video evidence. Car 15 was following Car 14 on the main straight. Car 15 had DRS and made a pass on the left. Car 15 moved aggressively over to the right when he was almost past Car 14. Car 14 had to take evasive action and there may even have been contact as a result of this aggressive and unnecessary move. As soon as Car 15 was in front of Car 14 he commenced braking which was earlier than expected and as a result Car 14 collided with the rear of Car 15. Both cars retired as a result of the contact. The Stewards concluded that the driver of Car 15 was predominantly to blame for the collision and apply the standard penalty, which in this case is converted to 5 grid drops for the driver in the next feature race in which he competes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     53,
+     58
+    ],
+    "tags": [
+     "10s time penalty",
+     "5-place grid drop",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    53
+   ],
+   "published_local": "2026-03-08T13:54"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - SUMMONS - MP - pit equipment in pit lane",
+   "subject": "SUMMONS - MP - pit equipment in pit lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_mp_-_pit_equipment_in_pit_lane.pdf",
+   "published": "2026-03-08T03:54",
+   "recalled": false,
+   "cars": [],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 28.11 of the FIA F2 Sporting Regulations - allegedly a wheel gun belonging to the MP Motorsport was left on the ground in the pit lane after the conclusion of their pit stop.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "refs": [
+     57
+    ]
+   },
+   "related": [
+    63
+   ],
+   "published_local": "2026-03-08T13:54"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - SUMMONS - Car 8 - alleged unsafe release recon lap from Car 11",
+   "subject": "SUMMONS - Car 8 - alleged unsafe release recon lap from Car 11",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_8_-_alleged_unsafe_release_recon_lap_from_car_11.pdf",
+   "published": "2026-03-08T03:38",
+   "recalled": false,
+   "cars": [
+    8,
+    11
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "reason": "Alleged breach of Article 28.12 a of the FIA F2 Sporting Regulations - alleged unsafe release from Car 11 to Car 8 on the Reconnaissance Lap.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     56
+    ]
+   },
+   "published_local": "2026-03-08T13:38"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - SUMMONS - Car 11 - alleged unsafe release recon lap with Car 8",
+   "subject": "SUMMONS - Car 11 - alleged unsafe release recon lap with Car 8",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_11_-_alleged_unsafe_release_recon_lap_with_car_8.pdf",
+   "published": "2026-03-08T03:38",
+   "recalled": false,
+   "cars": [
+    8,
+    11
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "reason": "Alleged breach of Article 28.12 a of the FIA F2 Sporting Regulations - alleged unsafe release from Car 11 to Car 8 on the Reconnaissance Lap.",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     55
+    ]
+   },
+   "related": [
+    62
+   ],
+   "published_local": "2026-03-08T13:38"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - SUMMONS - Car 15 - contact with Car 14 in Race 2",
+   "subject": "SUMMONS - Car 15 - contact with Car 14 in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_15_-_contact_with_car_14_in_race_2.pdf",
+   "published": "2026-03-08T03:26",
+   "recalled": false,
+   "cars": [
+    14,
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - alleged contact between Car 14 and Car 15 on the approach to Turn 1 in Race 2.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     54
+    ]
+   },
+   "published_local": "2026-03-08T13:26"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - SUMMONS - Car 14 - contact with Car 15 in Race 2",
+   "subject": "SUMMONS - Car 14 - contact with Car 15 in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_14_-_contact_with_car_15_in_race_2.pdf",
+   "published": "2026-03-08T03:25",
+   "recalled": false,
+   "cars": [
+    14,
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - alleged contact between Car 14 and Car 15 on the approach to Turn 1 in Race 2.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     53
+    ]
+   },
+   "related": [
+    58
+   ],
+   "published_local": "2026-03-08T13:25"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - F2 Race 2 (Feature) provisional classification",
+   "subject": "F2 Race 2 (Feature) provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_2_feature_provisional_classification.pdf",
+   "published": "2026-03-08T02:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T12:51"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F2 Race 2 (Feature) - final starting grid",
+   "subject": "F2 Race 2 (Feature) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-03-08T00:27",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T10:27"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - F2 Race 2 (Feature) - provisional starting grid",
+   "subject": "F2 Race 2 (Feature) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-03-07T08:10",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T18:10"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - F2 Race 1 (Sprint) - final classification",
+   "subject": "F2 Race 1 (Sprint) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-03-07T08:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T18:06"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_technical_report_3.pdf",
+   "published": "2026-03-07T07:57",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T17:57"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - INFRINGEMENT - Race 1 track limit violations",
+   "subject": "INFRINGEMENT - Race 1 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_race_1_track_limit_violations.pdf",
+   "published": "2026-03-07T07:22",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. MELBOURNE EVENT 5 TO 8 MARCH 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "7": 3,
+     "17": 1,
+     "24": 1,
+     "14": 1,
+     "6": 2,
+     "11": 1,
+     "12": 1,
+     "16": 1,
+     "20": 1,
+     "23": 2,
+     "8": 1,
+     "1": 1,
+     "9": 1
+    },
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 20,
+      "name": "Enzo Fittipaldi"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     46,
+     47
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    46
+   ],
+   "published_local": "2026-03-07T17:22"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - INFRINGEMENT - Race 1 track limit violations",
+   "subject": "INFRINGEMENT - Race 1 track limit violations",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-03-07T07:04",
+   "recalled": true,
+   "cars": [],
+   "type": "Infringement",
+   "related": [
+    47
+   ],
+   "published_local": "2026-03-07T17:04"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - DECISION - Car 22 - alleged pit lane incident with Car 21 in Race 1",
+   "subject": "DECISION - Car 22 - alleged pit lane incident with Car 21 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_car_22_-_alleged_pit_lane_incident_with_car_21_in_race_1.pdf",
+   "published": "2026-03-07T06:54",
+   "recalled": false,
+   "cars": [
+    21,
+    22
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "14:59",
+    "session": "Race 1",
+    "fact": "Incident between Car 22 (Varrone) in the fast lane and Car 21 (Shields) waiting to depart his pit box.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 40 & 41) and heard the Drivers of Car 22 (Varrone) and Car 21 (Shields) and the team representatives. The Stewards reviewed the available evidence, including video footage from the pit lane cameras. During the Safety Car period, Car 22 entered the pit lane to perform a tyre change. The team of Car 22 was conducting a double-stacked pit stop. When Car 22 was approaching its pit position, its team-mate was still stationary due to a problem during the pit stop and could therefore not be released in time. At the same time, Car 21, which was pitted in the pit position behind Car 22, was ready to be released. However, the team of Car 21 acted conservatively and delayed the release of Car 21 in order to avoid a potential unsafe release into the fast lane with Car 22. As the driver of Car 22 did not want to stop in the fast lane, he proceeded forward in the pit lane and moved ahead of Car 21. Only after Car 22 had cleared the area was Car 21 able to leave its pit position. The Stewards acknowledge that Car 21 was impeded as a result of this situation. However, having considered the circumstances, the Stewards determined that Car 22 did not stop in the fast lane and did not perform any manoeuvre considered dangerous or in breach of the pit lane regulations. The situation arose as a consequence of the delayed release of Car 22’s team-mate during the double-stack pit stop and the cautious release decision taken by the team of Car 21. Accordingly, the Stewards find no breach of the Regulations and therefore take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     40,
+     45
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    40
+   ],
+   "published_local": "2026-03-07T16:54"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - DECISION - Car 4 - incident involving Car 6 in Race 1",
+   "subject": "DECISION - Car 4 - incident involving Car 6 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_car_4_-_incident_involving_car_6_in_race_1.pdf",
+   "published": "2026-03-07T06:46",
+   "recalled": false,
+   "cars": [
+    4,
+    6
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "competitor": "Hitech",
+    "time": "14:40",
+    "session": "Race 1",
+    "fact": "Incident between Car 4 (Herta) and Car 6 (Tsolov) at Turn 5.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 38 & 39) and heard the Drivers of Car 6 (Tsolov) and Car 4 (Herta) and the team representatives. They examined video evidence. Car 6 was passed by another car on the run from T1 to T3. Car 4 was behind Car 6 at T3. Car 6 chose to exit T3 leaving room on the outside for Car 4. Car 4 then made a passing attempt on the inside of T4 and had gained rights per the DSGs. Car 6 appeared at first to be aware of Car 4 and was leaving room but at the apex he squeezed Car 4 unto the curb causing car 4 to understeer. Car 6 still had more room on the outside of T4 but by squeezing Car 4 there was contact. Both drivers contributed in some measure to the incident although Car 6 moreso. Car 6 spun as a result of the contact and Car 4 continued. Based on the entire circumstances, the Stewards determine that neither driver was wholly nor predominately at fault and hence take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     38,
+     44
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    38
+   ],
+   "published_local": "2026-03-07T16:46"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - DECISION - Car 6 - incident involving Car 4 in Race 1",
+   "subject": "DECISION - Car 6 - incident involving Car 4 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_car_6_-_incident_involving_car_4_in_race_1.pdf",
+   "published": "2026-03-07T06:46",
+   "recalled": false,
+   "cars": [
+    4,
+    6
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "time": "14:40",
+    "session": "Race 1",
+    "fact": "Incident between Car 4 (Herta) and Car 6 (Tsolov) at Turn 5.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 38 & 39) and heard the Drivers of Car 6 (Tsolov) and Car 4 (Herta) and the team representatives. They examined video evidence. Car 6 was passed by another car on the run from T1 to T3. Car 4 was behind Car 6 at T3. Car 6 chose to exit T3 leaving room on the outside for Car 4. Car 4 then made a passing attempt on the inside of T4 and had gained rights per the DSGs. Car 6 appeared at first to be aware of Car 4 and was leaving room but at the apex he squeezed Car 4 unto the curb causing car 4 to understeer. Car 6 still had more room on the outside of T4 but by squeezing Car 4 there was contact. Both drivers contributed in some measure to the incident although Car 6 moreso. Car 6 spun as a result of the contact and Car 4 continued. Based on the entire circumstances, the Stewards determine that neither driver was wholly nor predominately at fault and hence take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     38,
+     43
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    38
+   ],
+   "published_local": "2026-03-07T16:46"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - INFRINGEMENT - Car 14 - off track and gained lasting advantage",
+   "subject": "INFRINGEMENT - Car 14 - off track and gained lasting advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_14_-_off_track_and_gained_lasting_advantage.pdf",
+   "published": "2026-03-07T06:45",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "competitor": "Rodin Motorsport",
+    "time": "14:40",
+    "session": "Race 1",
+    "fact": "Car 14 (Stenshorne) overtook Car 6 (Tsolov) on the inside of Turn 2 by leaving the track and gained a lasting advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations and of Appendix L, Chapter IV, Article 2 (c) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards reviewed available footage of the Incident. Car 14 was overtaking Car 6 on the outside of Turn 1 but had not completed the overtake. Car 14 continued to fight for position. Between Turn 1 and Turn 2 Car 14 left the track and then re-entered the track at the exit of Turn 2 and gained a position over Car 6. The Stewards find that mitigating circumstances exist to impose a 5 second Time Penalty on this occasion rather than the usual penalty of 10 seconds. The mitigating circumstances are that the driver of Car 14 attempted to redress and allow Car 6 ahead, however, because of Car 16's defensive manoeuvre, he had a slower exit from Turn 2 and became vulnerable to following cars and lost positions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-07T16:45"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - SUMMONS - Car 21 - pit lane incident with Car 22 in Race 1",
+   "subject": "SUMMONS - Car 21 - pit lane incident with Car 22 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_21_-_pit_lane_incident_with_car_22_in_race_1.pdf",
+   "published": "2026-03-07T05:49",
+   "recalled": false,
+   "cars": [
+    21,
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 5 b of the FIA ISC - incident in pit lane between Car 22 and Car 21 during Race 1. ** In accordance with Article 9.15.4 of the ISC, competitors are responsible for conveying to the drivers, or any personnel allowed access to the Reserved Areas, any communication in relation to them from the appointed officials.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     41
+    ]
+   },
+   "published_local": "2026-03-07T15:49"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - SUMMONS - Car 22 - pit lane incident with Car 21 in Race 1",
+   "subject": "SUMMONS - Car 22 - pit lane incident with Car 21 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_22_-_pit_lane_incident_with_car_21_in_race_1.pdf",
+   "published": "2026-03-07T05:48",
+   "recalled": false,
+   "cars": [
+    21,
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 5 b of the FIA ISC - incident in pit lane between Car 22 and Car 21 during Race 1. ** In accordance with Article 9.15.4 of the ISC, competitors are responsible for conveying to the drivers, or any personnel allowed access to the Reserved Areas, any communication in relation to them from the appointed officials.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     40
+    ]
+   },
+   "related": [
+    45
+   ],
+   "published_local": "2026-03-07T15:48"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - SUMMONS - Car 4 - incident involving Car 6 at Turn 5 in Race 1",
+   "subject": "SUMMONS - Car 4 - incident involving Car 6 at Turn 5 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_4_-_incident_involving_car_6_at_turn_5_in_race_1.pdf",
+   "published": "2026-03-07T05:45",
+   "recalled": false,
+   "cars": [
+    4,
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - incident between Car 4 and Car 6 at Turn 5 in Race 1. ** In accordance with Article 9.15.4 of the ISC, competitors are responsible for conveying to the drivers, or any personnel allowed access to the Reserved Areas, any communication in relation to them from the appointed officials.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     39
+    ]
+   },
+   "published_local": "2026-03-07T15:45"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - SUMMONS - Car 6 - incident involving Car 4 at Turn 5 in Race 1",
+   "subject": "SUMMONS - Car 6 - incident involving Car 4 at Turn 5 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_6_-_incident_involving_car_4_at_turn_5_in_race_1.pdf",
+   "published": "2026-03-07T05:45",
+   "recalled": false,
+   "cars": [
+    4,
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - incident between Car 4 and Car 6 at Turn 5 in Race 1. ** In accordance with Article 9.15.4 of the ISC, competitors are responsible for conveying to the drivers, or any personnel allowed access to the Reserved Areas, any communication in relation to them from the appointed officials.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     38
+    ]
+   },
+   "related": [
+    43,
+    44
+   ],
+   "published_local": "2026-03-07T15:45"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - F2 Race 1 (Sprint) - provisional classification",
+   "subject": "F2 Race 1 (Sprint) - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-03-07T05:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T15:33"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - TIMETABLE V4",
+   "subject": "TIMETABLE V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_timetable_v4.pdf",
+   "published": "2026-03-07T03:54",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T13:54"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-03-07T03:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T13:11"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Podium and Parc Fermé instructions - Melbourne 2026",
+   "subject": "Podium and Parc Fermé instructions - Melbourne 2026",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_podium_and_parc_ferme_instructions_-_melbourne_2026_0.pdf",
+   "published": "2026-03-07T00:12",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T10:12"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Race 1 (Sprint) provisional starting grid",
+   "subject": "Race 1 (Sprint) provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_race_1_sprint_provisional_starting_grid.pdf",
+   "published": "2026-03-06T09:01",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T19:01"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Qualifying - final classification",
+   "subject": "Qualifying - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_qualifying_-_final_classification.pdf",
+   "published": "2026-03-06T08:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T18:59"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_technical_report_2.pdf",
+   "published": "2026-03-06T08:52",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T18:52"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": null,
+   "published": "2026-03-06T08:38",
+   "recalled": true,
+   "cars": [],
+   "published_local": "2026-03-06T18:38"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - INFRINGEMENT - Qualifying - track limit violations",
+   "subject": "INFRINGEMENT - Qualifying - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_qualifying_-_track_limit_violations.pdf",
+   "published": "2026-03-06T07:53",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "12": 1,
+     "22": 2,
+     "15": 1,
+     "6": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     29
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-06T17:53"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - INFRINGEMENT - Car 6 - failure to follow RD instructions",
+   "subject": "INFRINGEMENT - Car 6 - failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_6_-_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T07:48",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "time": "15:38",
+    "session": "Qualifying",
+    "fact": "Car 6 (Tsolov) failed to follow the Race Director Competition Notes (Document 6) returned to the F1 pit lane instead of the F2 pit lane.",
+    "infringement": "Breach of Article 12.2.1.i of the 2026 FIA International Sporting Code - Failure to follow the instructions of the relevant officials for the safe and orderly conduct of the Event. Item 25.2 of the Race Director’s Competition Notes - General Instructions and Information - At the end of the qualifying session all cars must continue after taking the chequered flag, and leave the track via the Support Pit Lane, proceeding directly to Parc Fermé. Drivers must follow marshals’ instructions.",
+    "decision": "Reprimand given to the Driver of Car 6. This is his first Reprimand of the 2026 Season.",
+    "reason": "The Stewards summoned (Document 20) and heard the Driver of Car 6 (Tsolov) and the team representative. They examined video evidence. The driver readily admitted that he entered the incorrect pit lane at the end of the session and apologised for his error. The Stewards accept the driver’s prompt admission of an error and apology but nonetheless find that this was failure to follow the Race Director’s instructions for the end of the qualifying session and warrants the imposition of a Reprimand as the appropriate penalty. This Reprimand counts towards the driver’s number of reprimands for the purposes of Art 18.2 of the 2026 FIA Formula 2 Sporting Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     6,
+     20,
+     28
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    6,
+    20
+   ],
+   "published_local": "2026-03-06T17:48"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - INFRINGEMENT - Car 15 - failure to follow RD instructions",
+   "subject": "INFRINGEMENT - Car 15 - failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_15_-_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T07:47",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "15:38",
+    "session": "Qualifying",
+    "fact": "Car 15 (Dunne) failed to follow the Race Director Competition Notes (Document 6) returned to the F1 pit lane instead of the F2 pit lane.",
+    "infringement": "Breach of Article 12.2.1.i of the 2026 FIA International Sporting Code - Failure to follow the instructions of the relevant officials for the safe and orderly conduct of the Event. Item 25.2 of the Race Director’s Competition Notes - General Instructions and Information - At the end of the qualifying session all cars must continue after taking the chequered flag, and leave the track via the Support Pit Lane, proceeding directly to Parc Fermé. Drivers must follow marshals’ instructions.",
+    "decision": "Reprimand given to the Driver of Car 15. This is his first Reprimand of the 2026 Season.",
+    "reason": "The Stewards summoned (Document 19) and heard the Driver of Car 15 (Dunne) and the team representative. They examined video evidence. The driver readily admitted that he entered the incorrect pit lane at the end of the session and apologised for his error. The Stewards accept the driver’s prompt admission of an error and apology but nonetheless find that this was failure to follow the Race Director’s instructions for the end of the qualifying session and warrants the imposition of a Reprimand as the appropriate penalty. This Reprimand counts towards the driver’s number of reprimands for the purposes of Art 18.2 of the 2026 FIA Formula 2 Sporting Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     6,
+     19,
+     27
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    6,
+    19
+   ],
+   "published_local": "2026-03-06T17:47"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - DECISION - Car 24 - alleged failure to follow RD instructions",
+   "subject": "DECISION - Car 24 - alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_car_24_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T07:41",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "competitor": "Trident Motorsport",
+    "time": "15:38",
+    "session": "Qualifying",
+    "fact": "Car 24 (Van Hoepen) was alleged to have failed to follow the Race Director Competition Notes (Document 6) and returned to the F1 pit lane instead of the F2 pit lane.",
+    "infringement": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code - Failure to follow the instructions of the relevant officials for the safe and orderly conduct of the Event. Item 25.2 - Race Director’s Competition Notes - General Instructions and Information - At the end of the qualifying session all cars must continue after taking the chequered flag, and leave the track via the Support Pit Lane, proceeding directly to Parc Fermé. Drivers must follow marshals’ instructions.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 22) and heard the Driver of Car 24 (Van Hoepen) and the team representative. They examined video evidence. The driver admitted that he drove into the Formula 1 pit lane at the end of the qualifying session but explained that he intended to enter the support pit lane but, as he was doing so, he saw a marshal standing in the pit lane pointing towards the Formula 1 Pit Lane and understood this to be a direction not to enter the support pit lane but to enter the Formula 1 pit lane and did so. The Stewards reviewed the available footage from the car, which confirms the driver’s version and accept that is a reasonable excuse for the driver not to follow the Race Director’s instructions for the end of the qualifying session and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     6,
+     22,
+     26
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    6,
+    22
+   ],
+   "published_local": "2026-03-06T17:41"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - DECISION - Car 11 - alleged failure to follow RD instructions",
+   "subject": "DECISION - Car 11 - alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_car_11_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T07:40",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "competitor": "PREMA Racing",
+    "time": "15:38",
+    "session": "Qualifying",
+    "fact": "Car 11 (Montoya) was alleged to have failed to follow the Race Director Competition Notes (Document 6) and returned to the F1 pit lane instead of the F2 pit lane.",
+    "infringement": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code - Failure to follow the instructions of the relevant officials for the safe and orderly conduct of the Event. Item 25.2 of the Race Director’s Competition Notes - General Instructions and Information - At the end of the qualifying session all cars must continue after taking the chequered flag, and leave the track via the Support Pit Lane, proceeding directly to Parc Fermé. Drivers must follow marshals’ instructions.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 21) and heard the Driver of Car 11 (Montoya) and the team representative. They examined video evidence. The driver admitted that he drove into the Formula 1 pit lane at the end of the qualifying session but explained that he intended to enter the support pit lane but, as he was doing so, he saw a marshal standing in the pit lane pointing towards the Formula 1 Pit Lane and understood this to be a direction not to enter the support pit lane but to enter the Formula 1 pit lane and did so. The Stewards reviewed the available footage from the car, which confirms the driver’s version and accept that is a reasonable excuse for the driver not to follow the Race Director’s instructions for the end of the qualifying session and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     6,
+     21,
+     25
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    6,
+    21
+   ],
+   "published_local": "2026-03-06T17:40"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - DECISION - Car 9 - alleged sole cause of red flag in Qualifying",
+   "subject": "DECISION - Car 9 - alleged sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_car_9_-_alleged_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-03-06T07:20",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "15:25",
+    "session": "Qualifying",
+    "fact": "Car 9 (Mini) stopped on track at Turn 11, which resulted in the session being red flagged.",
+    "infringement": "Alleged breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 23) and heard the Driver of Car 9 (Mini) and the team representative. They examined video evidence. During the qualifying session Car 9 stopped on track causing a Red Flag. The onboard video appeared to show the driver struggling with a mechanical or electrical issue with the car. The Stewards requested the Technical Delegate to offer an opinion as to why the car stopped on track. The Technical Delegate indicated that it appeared to be a technical fault outside of the control of the driver and/or team. At the hearing the driver reported that the car lost power on the track for no obvious reason and although he tried to return to the pit lane he had no choice but to stop safely off the track. Given the evidence from the driver and the confirmation from the Technical Delegate the Stewards concluded that the driver was not the sole cause of the issuance of the Red Flag and therefore take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     23,
+     24
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    23
+   ],
+   "published_local": "2026-03-06T17:20"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - SUMMONS - Car 9 - allegedly sole cause of a red flag in Qualifying",
+   "subject": "SUMMONS - Car 9 - allegedly sole cause of a red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_9_-_allegedly_sole_cause_of_a_red_flag_in_qualifying.pdf",
+   "published": "2026-03-06T06:56",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - Car 9 was allegedly the sole cause of a red flag at 15:25 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     23
+    ]
+   },
+   "related": [
+    24
+   ],
+   "published_local": "2026-03-06T16:56"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - SUMMONS - Car 24 - alleged failure to follow RD instructions",
+   "subject": "SUMMONS - Car 24 - alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_24_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T06:41",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - Car 24 allegedly failed to follow the Race Director Competition Notes (Document 6) section F2 Paddock Departure and Return – Trolleys and Cars at the end of Qualifying. Returned to the F1 pit lane instead of the F2 pit lane.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     6,
+     22
+    ]
+   },
+   "related": [
+    6,
+    26
+   ],
+   "published_local": "2026-03-06T16:41"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - SUMMONS - Car 11 - alleged failure to follow RD instructions",
+   "subject": "SUMMONS - Car 11 - alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_11_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T06:41",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - Car 15 allegedly failed to follow the Race Director Competition Notes (Document 6) section F2 Paddock Departure and Return – Trolleys and Cars at the end of Qualifying. Returned to the F1 pit lane instead of the F2 pit lane.",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     6,
+     21
+    ]
+   },
+   "related": [
+    6,
+    25
+   ],
+   "published_local": "2026-03-06T16:41"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - SUMMONS - Car 6 - alleged failure to follow RD instructions",
+   "subject": "SUMMONS - Car 6 - alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_6_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T06:40",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - Car 15 allegedly failed to follow the Race Director Competition Notes (Document 6) section F2 Paddock Departure and Return – Trolleys and Cars at the end of Qualifying. Returned to the F1 pit lane instead of the F2 pit lane.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     6,
+     20
+    ]
+   },
+   "related": [
+    6,
+    28
+   ],
+   "published_local": "2026-03-06T16:40"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - SUMMONS - Car 15 - alleged failure to follow RD instructions",
+   "subject": "SUMMONS - Car 15 - alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_15_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-03-06T06:40",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - Car 15 allegedly failed to follow the Race Director Competition Notes (Document 6) section F2 Paddock Departure and Return – Trolleys and Cars at the end of Qualifying. They returned to the F1 pit lane instead of the F2 pit lane.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     6,
+     19
+    ]
+   },
+   "related": [
+    6,
+    27
+   ],
+   "published_local": "2026-03-06T16:40"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - INFRINGEMENT - Car 17 - pit lane speeding",
+   "subject": "INFRINGEMENT - Car 17 - pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_17_-_pit_lane_speeding.pdf",
+   "published": "2026-03-06T06:13",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "15:23",
+    "session": "Qualifying",
+    "fact": "Car 17 (Inthraphuvasak) was reported for Pit Lane Speeding – 64.5 km/h.",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations",
+    "decision": "A fine of 500 Euros to be paid by the Team/Driver. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 17 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 4.5 km/h",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-03-06T16:13"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - INFRINGEMENT - Car 12 - sole cause of red flag in Qualifying",
+   "subject": "INFRINGEMENT - Car 12 - sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_12_-_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-03-06T05:55",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "competitor": "PREMA Racing",
+    "time": "15:07",
+    "session": "Qualifying",
+    "fact": "Car 12 (Boya) went off at Turn 12 and crashed, he was the sole cause of the red flag.",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Deletion of the fastest lap time set by Car 12 in the Qualifying Session. No driver penalty points are associated with this infringement. This puts him outside of 107% of the fastest lap time. Permission is given to start Race 1 and Race 2 at the rear of the grid, in the position required by Article 34.2 of the F2 Sporting Regulations.",
+    "reason": "The Stewards examined video evidence. The Stewards determined that Car 12 went off at Turn 12. The Race Director red flagged the session due to this incident. Having considered the matter extensively and consulted with the Race Director, the Stewards determined that Car 12 was the sole cause of the red flag. The Stewards concluded that the failure of the driver to negotiate Turn 12 was within the driver and team’s control and as such a penalty is warranted.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Permission to start",
+     "Lap time deleted"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-06T15:55"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Qualifying - provisional classification",
+   "subject": "Qualifying - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_qualifying_-_provisional_classification.pdf",
+   "published": "2026-03-06T05:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T15:51"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - INFRINGEMENT - Practice - track limits",
+   "subject": "INFRINGEMENT - Practice - track limits",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_practice_-_track_limits.pdf",
+   "published": "2026-03-06T01:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "5": 1,
+     "12": 1,
+     "4": 2,
+     "22": 1,
+     "9": 1,
+     "20": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     15
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-06T11:45"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - INFRINGEMENT - Car 20 impeded Car 7",
+   "subject": "INFRINGEMENT - Car 20 impeded Car 7",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_20_impeded_car_7_.pdf",
+   "published": "2026-03-06T01:30",
+   "recalled": false,
+   "cars": [
+    7,
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "10:11",
+    "session": "Practice",
+    "fact": "Car 20 (Fittipaldi) impeded Car 7 (Beganovic) between Turn 12 and Turn 13.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning given to the Driver of Car 20.",
+    "reason": "The Stewards summoned (Documents 11 & 12) and heard the Drivers of Car 20 (Fittipaldi) and Car 7 (Beganovic) and the team representatives. They examined video evidence. The driver of Car 20 was preparing to start a push lap but was not driving at full speed after the bridge between T12 and T13. Car 7 was completing his push lap and caught Car 20 at the entry to T13 and was unnecessarily impeded. The Competition Notes give specific instructions to the drivers on expected behaviour in this area. The driver of Car 20 admitted his mistake and took responsibility for the error. In keeping with the Penalty Guidelines the Stewards give a formal Warning to the driver of Car 20 and use the opportunity to remind all drivers of paragraph 19 last sentence in the RD Competition notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     11,
+     14
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    11
+   ],
+   "published_local": "2026-03-06T11:30"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - F2 Practice - classification",
+   "subject": "F2 Practice - classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-03-06T00:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T10:59"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - SUMMONS - Car 7 - allegedly impeded by Car 20 in FP",
+   "subject": "SUMMONS - Car 7 - allegedly impeded by Car 20 in FP",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_7_-_allegedly_impeded_by_car_20_in_fp.pdf",
+   "published": "2026-03-06T00:32",
+   "recalled": false,
+   "cars": [
+    7,
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 20 allegedly impeded Car 7 between T12 and T13 in Free Practice.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     12
+    ]
+   },
+   "published_local": "2026-03-06T10:32"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - SUMMONS - Car 20 - allegedly impeded Car 7 in FP",
+   "subject": "SUMMONS - Car 20 - allegedly impeded Car 7 in FP",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_20_-_allegedly_impeded_car_7_in_fp.pdf",
+   "published": "2026-03-06T00:30",
+   "recalled": false,
+   "cars": [
+    7,
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 20 allegedly impeded Car 7 between T12 and T13 in Free Practice.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     11
+    ]
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-03-06T10:30"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - F2 Melbourne Pit Lane Drawings 2026",
+   "subject": "F2 Melbourne Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_melbourne_pit_lane_drawings_2026.pdf",
+   "published": "2026-03-05T22:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:19"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Entry List - Melbourne 2026",
+   "subject": "Entry List - Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_entry_list_-_melbourne_2026.pdf",
+   "published": "2026-03-05T22:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:19"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_technical_report_1.pdf",
+   "published": "2026-03-05T22:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:19"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - TIMETABLE V3",
+   "subject": "TIMETABLE V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_timetable_v3.pdf",
+   "published": "2026-03-05T22:19",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 36,
+   "published_local": "2026-03-06T08:19"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - F2 Melbourne Competition Notes 2026",
+   "subject": "F2 Melbourne Competition Notes 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f2_melbourne_competition_notes_2026.pdf",
+   "published": "2026-03-05T22:18",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    19,
+    20,
+    21,
+    22,
+    25,
+    26,
+    27,
+    28
+   ],
+   "published_local": "2026-03-06T08:18"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Bulletin 3 - Assistant RD name correction",
+   "subject": "Bulletin 3 - Assistant RD name correction",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_bulletin_3_-_assistant_rd_name_correction.pdf",
+   "published": "2026-03-05T22:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:18"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Circuit Map - Melbourne 2026",
+   "subject": "Circuit Map - Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_circuit_map_-_melbourne_2026.pdf",
+   "published": "2026-03-05T22:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:18"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - VISA - F2 Melbourne 2026",
+   "subject": "VISA - F2 Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_visa_-_f2_melbourne_2026.pdf",
+   "published": "2026-03-05T22:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:18"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Bulletin 2 - Restricted Periods",
+   "subject": "Bulletin 2 - Restricted Periods",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_bulletin_2_-_restricted_periods.pdf",
+   "published": "2026-03-05T22:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:18"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - BULLETIN 1 - System Check - Thursday",
+   "subject": "BULLETIN 1 - System Check - Thursday",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_bulletin_1_-_system_check_-_thursday.pdf",
+   "published": "2026-03-05T20:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T06:24"
+  }
+ ]
+}

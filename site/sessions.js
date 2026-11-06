@@ -9,6 +9,10 @@ const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "
 const p2 = (n) => String(n).padStart(2, "0");
 
 let INDEX = null, EV = null;
+const SERIES = ["f1", "f2"].includes(new URLSearchParams(location.search).get("series"))
+  ? new URLSearchParams(location.search).get("series") : "f1";
+const DATA_DIR = SERIES === "f1" ? "data/" : `data/${SERIES}/`;
+const SERIES_QS = SERIES === "f1" ? "" : `series=${SERIES}&`;
 
 function fmtOffset(min) {
   if (min == null) return "";
@@ -77,9 +81,9 @@ function sourceNote(list) {
 function render() {
   const now = Date.now();
   const list = EV.sessions || [];
-  $("#round").textContent = `Round ${EV.round} · ${INDEX.season}`;
   $("#evName").textContent = EV.name;
-  document.title = `${EV.name.replace(/ Grand Prix$/, " GP")} · Sessions`;
+  document.title = `${SERIES.toUpperCase()} ${EV.name.replace(/ Grand Prix$/, " GP")} · Sessions`;
+  $("#round").textContent = `${INDEX.series_label || SERIES.toUpperCase()} · Round ${EV.round} · ${INDEX.season}`;
 
   const live = list.find((s) => state(s, now) === "live");
   const nextS = list.find((s) => state(s, now) === "next");
@@ -126,13 +130,13 @@ function render() {
 function selectEvent(slug, push) {
   EV = INDEX.events.find((e) => e.slug === slug) || pickDefault(INDEX.events);
   $("#evSelect").value = EV.slug;
-  $(".m-back").href = `./#/event/${EV.slug}`;
-  if (push) history.replaceState(null, "", `?event=${encodeURIComponent(EV.slug)}`);
+  $(".m-back").href = `./${SERIES === "f1" ? "" : "?series=" + SERIES}#/event/${EV.slug}`;
+  if (push) history.replaceState(null, "", `?${SERIES_QS}event=${encodeURIComponent(EV.slug)}`);
   render();
 }
 
 async function load() {
-  const r = await fetch("data/index.json", { cache: "no-cache" });
+  const r = await fetch(`${DATA_DIR}index.json`, { cache: "no-cache" });
   if (!r.ok) throw new Error(`HTTP ${r.status}`);
   return r.json();
 }

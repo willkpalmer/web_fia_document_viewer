@@ -1,0 +1,1528 @@
+{
+ "event": {
+  "slug": "spielberg",
+  "name": "Spielberg",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Spielberg",
+  "doc_count": 54,
+  "first_published": "2026-06-25T11:51",
+  "last_published": "2026-06-28T14:38",
+  "first_local": "2026-06-25T11:51",
+  "last_local": "2026-06-28T14:38",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-06-26T11:05",
+    "end_local": "2026-06-26T11:50",
+    "start_utc": "2026-06-26T09:05Z",
+    "end_utc": "2026-06-26T09:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-06-26T15:55",
+    "end_local": "2026-06-26T16:25",
+    "start_utc": "2026-06-26T13:55Z",
+    "end_utc": "2026-06-26T14:25Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-06-27T14:15",
+    "end_local": "2026-06-27T15:05",
+    "start_utc": "2026-06-27T12:15Z",
+    "end_utc": "2026-06-27T13:05Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-06-28T10:10",
+    "end_local": "2026-06-28T11:15",
+    "start_utc": "2026-06-28T08:10Z",
+    "end_utc": "2026-06-28T09:15Z",
+    "source": "fia"
+   }
+  ],
+  "counts": {
+   "results": 13,
+   "stewards": 28,
+   "technical": 5,
+   "admin": 5,
+   "race_director": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 54,
+   "title": "Doc 54 - F2 Team Championship - Spielberg 2026",
+   "subject": "F2 Team Championship - Spielberg 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_team_championship_-_spielberg_2026.pdf",
+   "published": "2026-06-28T14:38",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T14:38"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - F2 Driver Championship - Spielberg 2026",
+   "subject": "F2 Driver Championship - Spielberg 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_driver_championship_-_spielberg_2026.pdf",
+   "published": "2026-06-28T14:34",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T14:34"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - F2 Race 2 (Feature) final classification",
+   "subject": "F2 Race 2 (Feature) final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_2_feature_final_classification.pdf",
+   "published": "2026-06-28T14:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T14:31"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - INFRINGEMENT - F2 Race 2 - T10 lap cancellations",
+   "subject": "INFRINGEMENT - F2 Race 2 - T10 lap cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_f2_race_2_-_t10_lap_cancellations.pdf",
+   "published": "2026-06-28T14:25",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The car below did not use the track at Turn 10",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "15": 1
+    },
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     }
+    ],
+    "refs": [
+     51
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-28T14:25"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - DECISION - Car 5 - allegedly forced Car 24 off track at Turn 4",
+   "subject": "DECISION - Car 5 - allegedly forced Car 24 off track at Turn 4",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_decision_-_car_5_-_allegedly_forced_car_24_off_track_at_turn_4.pdf",
+   "published": "2026-06-28T14:09",
+   "recalled": false,
+   "cars": [
+    5,
+    24
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "11:09",
+    "session": "Race 2",
+    "fact": "Car 5 (Leon) was alleged to have forced Car 24 (Van Hoepen) off track at Turn 4.",
+    "infringement": "Alleged breach of Appendix L Chapter IV, Article 2 (b) of the FIA International Sporting Code",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 43 & 44) and heard the Drivers of Car 5 (Leon) and Car 24 (Van Hoepen) and the team representatives. They examined video evidence. The Driver of Car 24 told the Stewards that he was on a different race strategy to Car 5 and for this reason he was faster than Car 5 at this stage of the race. He said that he caught up to Car 5 on the approach to Turn 4 and decided to pass on the outside. He said that he came alongside Car 5 and was ahead of it at the apex of Turn 4 and had earned priority at the exit pursuant to the Driving Standard Guidelines. He said that Car 5 did not provide him with room on the exit as a result of which he was forced off the circuit to the left and lost momentum and Car 5 remained in front of him. The Driver of Car 5 acknowledged to the Stewards that Car 24 was on a different race strategy, had caught him in the approach to Turn 4 and commenced an overtaking manoeuvre on the outside, but said that Car 24 had not earned priority in accordance with the Driving Standard Guidelines and that he retained priority. He further said that he considered Car 24 had run on to the marbles that accumulated on the outside of Turn 4 and suggested that was the cause for Car 24 to leave the circuit to the left. Both drivers confirmed to the Stewards that there was no contact between the cars to caused Car 24 to leave the circuit. The Stewards accept both drivers provided an honest account of their version of events. The only available vision of the incident was not of sufficient clarity for the Stewards to determine whether Car 24 had in fact earned priority pursuant to the Driving Standard Guidelines. The Stewards also note that a car attempting an overtaking manoeuvre on the outside of a corner is making a more difficult manoeuvre to accomplish. As the Stewards are not sufficiently satisfied that Car 5 forced Car 24 off the circuit at the exit of Turn 4 and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     43,
+     50
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    43
+   ],
+   "published_local": "2026-06-28T14:09"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - DECISION - Car 15 - allegedly forced Car 1 off track at Turn 3",
+   "subject": "DECISION - Car 15 - allegedly forced Car 1 off track at Turn 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_decision_-_car_15_-_allegedly_forced_car_1_off_track_at_turn_3.pdf",
+   "published": "2026-06-28T14:07",
+   "recalled": false,
+   "cars": [
+    1,
+    15
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "10:59",
+    "session": "Race 2",
+    "fact": "Car 15 (Dunne) was alleged to have forced Car 1 (Camara) off track at Turn 3.",
+    "infringement": "Alleged breach of Appendix L Chapter IV, Article 2 (b) of the FIA International Sporting Code",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 41 & 42) and heard the Drivers of Car 15 (Dunne) and Car 1 (Camara) and the team representatives. They examined video evidence. On the run to Turn 3 Car 1 made and outside pass on Car 15. Car 1 was ahead approaching the corner but the race continued towards the apex. At the apex the cars were almost alongside each other with Car 1 possibly a few centimetres ahead. At the hearing the driver of Car 1 reported that he made a clean pass on the outside and felt he was fully ahead at the apex and entitled to room on the exit. He felt that the driver of Car 15 should have conceded the corner and not forced him off. He had to take evasive action went over the sausage kerb and lost time and position to Car 15. The driver of Car 15 said that he was aware that Car 1 was making and outside pass and he left him room. However at the apex he was squeezed by Car 1 on to the kerb to his left. This unsettled the car and caused him to have to adjust his line. He explained that he had no intention of forcing Car 1 off but he was left with no option in his racing line due to being forced over the kerb on the inside. The Stewards were unable to conclude which car was ahead at the apex even after looking at multiple angles for an extended period. In the circumstances and considering that neither driver appeared to breach the Driving Standard Guidelines they have elected to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     41,
+     49
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    41
+   ],
+   "published_local": "2026-06-28T14:07"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - INFRINGEMENT - F2 Race 2 - lap cancellations",
+   "subject": "INFRINGEMENT - F2 Race 2 - lap cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_f2_race_2_-_lap_cancellations.pdf",
+   "published": "2026-06-28T14:04",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. SPIELBERG EVENT 25 TO 28 JUNE 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "22": 2,
+     "14": 1,
+     "21": 1,
+     "8": 1,
+     "7": 1,
+     "20": 1,
+     "17": 2,
+     "1": 2,
+     "2": 2
+    },
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     }
+    ],
+    "refs": [
+     48
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-28T14:04"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - INFRINGEMENT - Car 14 - failure to serve mandatory pit stop",
+   "subject": "INFRINGEMENT - Car 14 - failure to serve mandatory pit stop",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_14_-_failure_to_serve_mandatory_pit_stop.pdf",
+   "published": "2026-06-28T14:00",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "competitor": "Rodin Motorsport",
+    "time": "10:49",
+    "session": "Race 2",
+    "fact": "Car 14 (Stenshorne) failed to complete the mandatory pit stop.",
+    "infringement": "Breach of Article 38.9 b of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Stop & Go Penalty assessed after the race – Car 14 was assessed a stop and go penalty which, since it could not be served during the race, was converted to a 30 second time penalty in the final classification in accordance with Article 39.3. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards summoned (Document 45) and heard the Driver of Car 14 (Stenshorne) and the team representative. The Stewards examined video & GPS evidence. Having considered the matter extensively, the Stewards determine that Car 14 was on the section of track leading to the pit lane when VSC was implemented. While he was committed to pitting, he had not yet reached the dotted line defining the pit entry as described in the Race Director Competition Notes when the VSC was displayed. Car 14 continued to pit and performed a tyre change. This pit stop did not satisfy the mandatory pit stop requirement since the mandatory pit stop cannot be performed under VSC unless the driver is already in the pit entry or pit lane. The Stewards appreciate that the driver was close to the specified pit entry line when the VSC was implemented and completely understand why he did what he did. However, Article 38.9 of the Formula 2 Sporting Regulations makes it clear that a pit stop made under VSC does not count as the mandatory pit stop unless the Driver was already in pit entry road. Accordingly, the Stewards determine that Car 14 did not perform its mandatory pit stop. In determining the Stop and Go penalty which was converted to 30 seconds, the Stewards considered the mandatory penalties for similar offences, namely entering the pit lane when it is closed and for failing to complete a mandatory pit stop during a race that is suspended and not resumed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     45,
+     47
+    ],
+    "tags": [
+     "Stop & go",
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    45
+   ],
+   "published_local": "2026-06-28T14:00"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_technical_report_4.pdf",
+   "published": "2026-06-28T13:36",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T13:36"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - SUMMONS - Car 14 - allegedly carried out mandatory pit stop during VSC period",
+   "subject": "SUMMONS - Car 14 - allegedly carried out mandatory pit stop during VSC period",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_14_-_allegedly_carried_out_mandatory_pit_stop_during_vsc_period.pdf",
+   "published": "2026-06-28T11:59",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "reason": "Alleged breach of Article 38.9 b of the F2 Sporting Regulations - Car 14 is alleged to have carried out the mandatory pit stop during the VSC period commencing at 10:49 in Race 2 (Feature Race).",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     45
+    ]
+   },
+   "related": [
+    47
+   ],
+   "published_local": "2026-06-28T11:59"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - SUMMONS - Car 24 - allegedly forced off track by Car 5",
+   "subject": "SUMMONS - Car 24 - allegedly forced off track by Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_24_-_allegedly_forced_off_track_by_car_5.pdf",
+   "published": "2026-06-28T11:56",
+   "recalled": false,
+   "cars": [
+    5,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 b of the FIA ISC - Car 5 allegedly forced Car 24 off track at Turn 4 in Race 2 at 11:09",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     44
+    ]
+   },
+   "published_local": "2026-06-28T11:56"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - SUMMONS - Car 5 - allegedly forced Car 24 off track",
+   "subject": "SUMMONS - Car 5 - allegedly forced Car 24 off track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_5_-_allegedly_forced_car_24_off_track.pdf",
+   "published": "2026-06-28T11:56",
+   "recalled": false,
+   "cars": [
+    5,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 b of the FIA ISC - Car 5 allegedly forced Car 24 off track at Turn 4 in Race 2 at 11:09",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     43
+    ]
+   },
+   "related": [
+    50
+   ],
+   "published_local": "2026-06-28T11:56"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - SUMMONS - Car 1 - allegedly forced off track by Car 15",
+   "subject": "SUMMONS - Car 1 - allegedly forced off track by Car 15",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_1_-_allegedly_forced_off_track_by_car_15.pdf",
+   "published": "2026-06-28T11:54",
+   "recalled": false,
+   "cars": [
+    1,
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 b of the FIA ISC - Car 15 allegedly forced Car 1 off track at Turn 3 in Race 2 at 10:59",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     42
+    ]
+   },
+   "published_local": "2026-06-28T11:54"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - SUMMONS - Car 15 - allegedly forced Car 1 off track",
+   "subject": "SUMMONS - Car 15 - allegedly forced Car 1 off track",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_15_-_allegedly_forced_car_1_off_track.pdf",
+   "published": "2026-06-28T11:54",
+   "recalled": false,
+   "cars": [
+    1,
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 b of the FIA ISC - Car 15 allegedly forced Car 1 off track at Turn 3 in Race 2 at 10:59",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     41
+    ]
+   },
+   "related": [
+    49
+   ],
+   "published_local": "2026-06-28T11:54"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - F2 Race 2 (Feature) provisional classification",
+   "subject": "F2 Race 2 (Feature) provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_2_feature_provisional_classification.pdf",
+   "published": "2026-06-28T11:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T11:33"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - F2 Race 2 (Feature) - final starting grid",
+   "subject": "F2 Race 2 (Feature) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-06-28T09:09",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T09:09"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - F2 Race 2 (Feature) - provisional starting grid",
+   "subject": "F2 Race 2 (Feature) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-06-27T17:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T17:56"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - F2 Race 1 (Sprint) - final classification",
+   "subject": "F2 Race 1 (Sprint) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-06-27T17:55",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T17:55"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - INFRINGEMENT - Race 1 track limit violations",
+   "subject": "INFRINGEMENT - Race 1 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_race_1_track_limit_violations.pdf",
+   "published": "2026-06-27T17:46",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident           Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. SPIELBERG EVENT 25 TO 28 JUNE 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "7": 3,
+     "21": 1,
+     "3": 1,
+     "2": 1,
+     "14": 1,
+     "12": 1,
+     "24": 2,
+     "23": 1,
+     "15": 1
+    },
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     }
+    ],
+    "refs": [
+     36
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-27T17:46"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - INFRINGEMENT - Car 1 - Alleged weaving",
+   "subject": "INFRINGEMENT - Car 1 - Alleged weaving",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_1_-_alleged_weaving.pdf",
+   "published": "2026-06-27T17:45",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "14:56",
+    "session": "Race 1",
+    "fact": "Car 1 (Camara) was alleged to have weaved in front of Car 8 (Bilinski) between Turn 3 and Turn 4.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 29 & 30) and heard the Drivers of Car 1 (Camara) and Car 8 (Bilinski) and the team representatives. Together they examined video evidence and onboard footage. Car 1 and Car 8 emerged side by side from Turn 3, with Car 1 on the outside, and was therefore able to carry more speed on to the next section. This allowed Car 1 to pull ahead of Car 8 by about 3 car lengths. On the run-up to Turn 4 (a long, straight downhill section), Car 8 had DRS available and attempted to get into a good position for an overtaking manoeuvre by staying in the slip stream of Car 1. Car 1, at the front, attempted to break the tow of the following car by initiating 3 changes of line. Car 8 reacted to the moves of the car in front and attempted to stay in the slip stream although at this point he was not in a position to overtake and was a safe distance behind Car 1. In the approach to the braking zone of Turn 4, Car 1 chose to defend on the inside line and remained there. Car 8 attempted to make a pass on the outside line but was not successful. After reviewing the totality of the situation the Stewards found that at all times, Car 1 followed the Driving Standard Guidelines by safely making moves designed to break the tow. None of the moves were in reaction to an attack from the following driver. Consequently the Stewards find that no rule was breached. For this reason, the stewards take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     29,
+     35
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-06-27T17:45"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_technical_report_3.pdf",
+   "published": "2026-06-27T17:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T17:31"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - INFRINGEMENT - Car 1 - causing a collision",
+   "subject": "INFRINGEMENT - Car 1 - causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_1_-_causing_a_collision.pdf",
+   "published": "2026-06-27T17:18",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "14:18",
+    "session": "Race 1",
+    "fact": "Contact from Car 1 (Camara) to Car 17 (Inthraphuvasak) on Lap 1 at Turn 3.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 2 points",
+    "reason": "The Stewards summoned (Documents 27 & 28) and heard the Drivers of Car 1 (Camara) and Car 17 (Inthraphuvasak) and the team representatives and investigated the incident involving contact between the front of Car 1 and the rear of Car 17 at Turn 3 on Lap 1 of the Race. The Stewards reviewed the available video of the incident, which included vision from the in-car camera from Car 1 and front and side external views of the incident, and heard from the Drivers and the Team Representatives from both cars. The Driver of Car 17 told the Stewards that his concentration was on the cars in front of him when at the turn-in point for Turn 3 there was contact with the rear of his car, causing it to spin and collide with other vehicles. He said that he did not brake early and was close to the car in front of him. The Driver of Car 1 said that he was behind Car 17 in the approach to Turn 3 and that he was readying to brake. He felt he was in full control of his car. He said that there was a group of cars in front of him that all were racing through Turn 3 and that there was a concertina affect, which caught him out when braking. He said that there was only a light touch between the front of his car and the rear of Car 17. The onboard images from Car 1 shows that the driver confirms it was the following car and that the Driver had full vision of what was occurring in front of him and that he had an opportunity to have braked early and avoid the collision. For this reason, the Stewards find that the Driver of Car 1 was wholly to blame for causing the collision and therefore in breach of the rules. The usual penalty for causing a collision is a 10 second Time Penalty. In this instance the Stewards find there were mitigating factors existing to warrant a reduction of the usual penalty to a 5 second Time Penalty, which are that the incident happened on the first lap while there were a large group of cars competing for space which created a concertina effect.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     27,
+     33
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    27
+   ],
+   "published_local": "2026-06-27T17:18"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - DECISION - Car 2 - allegedly caused a collision",
+   "subject": "DECISION - Car 2 - allegedly caused a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_decision_-_car_2_-_allegedly_caused_a_collision.pdf",
+   "published": "2026-06-27T17:15",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "14:18",
+    "session": "Race 1",
+    "fact": "Contact from Car 2 (Durksen) to Car 6 (Tsolov) on Lap 1 at Turn 3.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 25 & 26) and heard the Drivers of Car 2 (Durksen) and Car 6 (Tsolov) and the team representatives. Together they examined video evidence and onboard footage. On the first lap on the exit of Turn 2, Car 2 was in 10th place passing Car 5 on the inside and approaching Turn 3. Ahead of them both an incident occurs between Car 1 and Car 17 causing Car 17 to spin and crash into Car 10. In reaction to this incident Car 6, who is ahead of Car 2, and also on the inside with a full view of the incident ahead slows more than anticipated. Car 2 has no view of the incident that is unfolding and is caught out by how quickly Car 6 slows, and Car 2 crashes into the rear of Car 6 causing him to lose control. At the hearing Car 6 reported that he slowed more than he anticipated in reaction to the incident ahead in an attempt to avoid it. He reported that he was hit from behind and this caused him to go across the inside of Turn 3 thereby avoiding the incident on the track ahead. The Stewards concluded from the testimony of the drivers that the contact initiated by Car 2 was a consequence of the other incident and therefore do not find that the driver of Car 2 was wholly or predominantly at fault. As it is therefore a driving incident the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     25,
+     32
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    25
+   ],
+   "published_local": "2026-06-27T17:15"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - INFRINGEMENT - Car 3 - VSC violation",
+   "subject": "INFRINGEMENT - Car 3 - VSC violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_3_-_vsc_violation.pdf",
+   "published": "2026-06-27T16:50",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "14:48",
+    "session": "Race 1",
+    "fact": "Car 3 (Miyata) exceeded the VSC minimum delta time at the end of the VSC period.",
+    "infringement": "Breach of Article 41.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 4 points",
+    "reason": "Car 3 was reported to have exceeded the VSC minimum delta time by 1.1 seconds at the end of the VSC in marshalling sector 5, the Stewards examined data evidence and concluded that the driver has committed an infringement of Article 41.5 of the FIA F2 Sporting Regulations and decide to apply the standard time penalty of 5 seconds for this matter.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     31
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-06-27T16:50"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - SUMMONS - Car 8 - allegedly weaving from Car 1 between T3-T4 ahead of Car 8",
+   "subject": "SUMMONS - Car 8 - allegedly weaving from Car 1 between T3-T4 ahead of Car 8",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_8_-_allegedly_weaving_from_car_1_between_t3-t4_ahead_of_car_8.pdf",
+   "published": "2026-06-27T15:42",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 b of the FIA ISC - Car 1 was allegedly weaving between Turn 3 and Turn 4 ahead of Car 8 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "published_local": "2026-06-27T15:42"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - SUMMONS - Car 1 - allegedly weaving between T3-T4 ahead of Car 8",
+   "subject": "SUMMONS - Car 1 - allegedly weaving between T3-T4 ahead of Car 8",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_1_-_allegedly_weaving_between_t3-t4_ahead_of_car_8.pdf",
+   "published": "2026-06-27T15:41",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 b of the FIA ISC - Car 1 was allegedly weaving between Turn 3 and Turn 4 ahead of Car 8 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "related": [
+    35
+   ],
+   "published_local": "2026-06-27T15:41"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - SUMMONS - Car 17 - Car 1 allegedly made contact with Car 17",
+   "subject": "SUMMONS - Car 17 - Car 1 allegedly made contact with Car 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_17_-_car_1_allegedly_made_contact_with_car_17.pdf",
+   "published": "2026-06-27T15:37",
+   "recalled": false,
+   "cars": [
+    1,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - alleged contact from Car 1 to Car 17 on Lap 1 at Turn 3.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     28
+    ]
+   },
+   "published_local": "2026-06-27T15:37"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - SUMMONS - Car 1 - allegedly made contact with Car 17",
+   "subject": "SUMMONS - Car 1 - allegedly made contact with Car 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_1_-_allegedly_made_contact_with_car_17.pdf",
+   "published": "2026-06-27T15:36",
+   "recalled": false,
+   "cars": [
+    1,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - alleged contact from Car 1 to Car 17 on Lap 1 at Turn 3.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     27
+    ]
+   },
+   "related": [
+    33
+   ],
+   "published_local": "2026-06-27T15:36"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - SUMMONS - Car 6 - allegedly made contact with Car 6",
+   "subject": "SUMMONS - Car 6 - allegedly made contact with Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_6_-_allegedly_made_contact_with_car_6.pdf",
+   "published": "2026-06-27T15:34",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - alleged contact from Car 2 to Car 6 on Lap 1 at Turn 3.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     26
+    ]
+   },
+   "published_local": "2026-06-27T15:34"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - SUMMONS - Car 2 - allegedly made contact with Car 6",
+   "subject": "SUMMONS - Car 2 - allegedly made contact with Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_2_-_allegedly_made_contact_with_car_6.pdf",
+   "published": "2026-06-27T15:34",
+   "recalled": false,
+   "cars": [
+    2,
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - alleged contact from Car 2 to Car 6 on Lap 1 at Turn 3.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     25
+    ]
+   },
+   "related": [
+    32
+   ],
+   "published_local": "2026-06-27T15:34"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - F2 Race 1 (Sprint) - provisional classification",
+   "subject": "F2 Race 1 (Sprint) - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-06-27T15:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T15:11"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-06-27T13:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T13:15"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - F2 Race 1 (Sprint) - provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-06-26T20:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T20:05"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - F2 Qualifying - final classification",
+   "subject": "F2 Qualifying - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_qualifying_-_final_classification.pdf",
+   "published": "2026-06-26T20:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T20:02"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Timetable V4 - Spielberg",
+   "subject": "Timetable V4 - Spielberg",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_timetable_v4_-_spielberg.pdf",
+   "published": "2026-06-26T20:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T20:00"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_technical_report_2.pdf",
+   "published": "2026-06-26T19:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T19:59"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Podium and Parc Fermé instructions - Spielberg",
+   "subject": "Podium and Parc Fermé instructions - Spielberg",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_podium_and_parc_ferme_instructions_-_spielberg_0.pdf",
+   "published": "2026-06-26T17:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T17:46"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - INFRINGEMENT - F2 Qualifying T10 track limit violations",
+   "subject": "INFRINGEMENT - F2 Qualifying T10 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_f2_qualifying_t10_track_limit_violations.pdf",
+   "published": "2026-06-26T17:13",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The cars below did not use the track at Turn 10.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "4": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T17:13"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - INFRINGEMENT - F2 Qualifying track limit violations",
+   "subject": "INFRINGEMENT - F2 Qualifying track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_f2_qualifying_track_limit_violations.pdf",
+   "published": "2026-06-26T17:12",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations. SPIELBERG EVENT 25 TO 28 JUNE 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "22": 3,
+     "15": 1,
+     "14": 3,
+     "8": 1,
+     "7": 2,
+     "16": 1,
+     "4": 2,
+     "6": 1,
+     "17": 1,
+     "12": 1,
+     "21": 2
+    },
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     16
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T17:12"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - F2 Qualifying - provisional classification",
+   "subject": "F2 Qualifying - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_qualifying_-_provisional_classification.pdf",
+   "published": "2026-06-26T16:39",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:39"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - INFRINGEMENT - Practice - T10 track limit violations",
+   "subject": "INFRINGEMENT - Practice - T10 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_practice_-_t10_track_limit_violations.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "The car below did not use the track at Turn 10.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The car failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "24": 1
+    },
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     }
+    ],
+    "refs": [
+     14
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - INFRINGEMENT - Practice - track limit violations",
+   "subject": "INFRINGEMENT - Practice - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_practice_-_track_limit_violations.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations. SPIELBERG EVENT 25 TO 28 JUNE 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "15": 2,
+     "9": 4,
+     "22": 3,
+     "16": 1,
+     "4": 2,
+     "17": 1,
+     "8": 1,
+     "7": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     13
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - INFRINGEMENT - Car 20 - released in an unsafe condition",
+   "subject": "INFRINGEMENT - Car 20 - released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_20_-_released_in_an_unsafe_condition.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "11:29",
+    "session": "Practice",
+    "fact": "Car 20 (Fittipaldi) was released in an unsafe condition (wrench on the rear wing).",
+    "infringement": "Breach of Article 28.12 (b) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitior. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards summoned (Documents 10) and heard the team representative. They examined video evidence, as well as a report from a Pit Lane Marshal. The Stewards reviewed available CCTV footage which depicted a team mechanic placing a tool on the top of the rear wing of the car and then went to undertake other duties without first removing the tool. The car was then released into the pit lane. As the car approached the pit exit, the tool from the rear of the wing fell on the track. The Team Manager admitted the breach and acknowledged how this could have led to a potentially dangerous situation. The Stewards find the Team in breach of the article and impose a fine of 500 Euros on the Competitor, which is consistent with penalties imposed for breaches of a similar nature in free practice.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     10,
+     12
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    10
+   ],
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - INFRINGEMENT - Car 16 - pit lane speeding - Practice",
+   "subject": "INFRINGEMENT - Car 16 - pit lane speeding - Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_16_-_pit_lane_speeding_-_practice.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "11:42",
+    "session": "Practice",
+    "fact": "Car 16 was reported for Pit Lane Speeding – 70.6 km/h.",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 1100 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.)",
+    "reason": "Car 16 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 10.6 km/h",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     11
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 1100
+   },
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - SUMMONS - Car 20 - allegedly released in unsafe condition in Practice",
+   "subject": "SUMMONS - Car 20 - allegedly released in unsafe condition in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_20_-_allegedly_released_in_unsafe_condition_in_practice.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "reason": "Alleged breach of Article 28.12 b of the FIA F2 Sporting Regulations - Car 20 was allegedly released in an unsafe condition (wrench allegedly left on rear wing).",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     10
+    ]
+   },
+   "related": [
+    12
+   ],
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F2 Practice - classification",
+   "subject": "F2 Practice - classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Circuit Map - V5 - Spielberg 2026",
+   "subject": "Circuit Map - V5 - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_circuit_map_-_v5_-_spielberg_2026.pdf",
+   "published": "2026-06-26T16:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:47"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F2 Spielberg Pit Lane Drawings 2026",
+   "subject": "F2 Spielberg Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f2_spielberg_pit_lane_drawings_2026.pdf",
+   "published": "2026-06-26T16:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:46"
+  },
+  {
+   "num": 6,
+   "title": "DOC 6 - F2 Entry List - Spielberg 2026",
+   "subject": "F2 Entry List - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_6_-_2026_spielberg_event_-_f2_entry_list_-_spielberg_2026.pdf",
+   "published": "2026-06-25T18:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T18:15"
+  },
+  {
+   "num": 5,
+   "title": "DOC 5 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/documents/doc_5_-_2026_spielberg_event_-_technical_report_1.pdf",
+   "published": "2026-06-25T15:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T15:30"
+  },
+  {
+   "num": 4,
+   "title": "DOC 4 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/documents/doc_4_-_2026_spielberg_event_-_bulletin_1_-_restricted_period.pdf",
+   "published": "2026-06-25T13:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T13:15"
+  },
+  {
+   "num": 3,
+   "title": "DOC 3 - F2 Spielberg Competition Notes 2026",
+   "subject": "F2 Spielberg Competition Notes 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/documents/doc_3_-_2026_spielberg_event_-_f2_spielberg_competition_notes_2026_v1.pdf",
+   "published": "2026-06-25T13:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T13:15"
+  },
+  {
+   "num": 2,
+   "title": "DOC 2 - Circuit Map - Spielberg 2026",
+   "subject": "Circuit Map - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_2_-_2026_spielberg_event_-_circuit_map_-_spielberg_2026.pdf",
+   "published": "2026-06-25T12:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T12:45"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F2 Spielberg 2026",
+   "subject": "VISA - F2 Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_visa_-_f2_spielberg_2026.pdf",
+   "published": "2026-06-25T11:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T11:51"
+  }
+ ]
+}

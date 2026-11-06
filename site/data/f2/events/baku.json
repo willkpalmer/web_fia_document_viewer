@@ -1,0 +1,2844 @@
+{
+ "event": {
+  "slug": "baku",
+  "name": "Baku",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Baku",
+  "doc_count": 99,
+  "first_published": "2026-09-23T16:42",
+  "last_published": "2026-09-26T13:07",
+  "first_local": "2026-09-23T18:42",
+  "last_local": "2026-09-26T15:07",
+  "utc_offset_min": 240,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "classified_local": "2026-09-24T11:06",
+    "start_utc": "2026-09-24T07:06Z",
+    "end_utc": "2026-09-24T07:06Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Qualifying 1",
+    "classified_local": "2026-09-24T15:16",
+    "start_utc": "2026-09-24T11:16Z",
+    "end_utc": "2026-09-24T11:16Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Qualifying 2",
+    "classified_local": "2026-09-24T15:19",
+    "start_utc": "2026-09-24T11:19Z",
+    "end_utc": "2026-09-24T11:19Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Sprint Race",
+    "classified_local": "2026-09-25T09:35",
+    "start_utc": "2026-09-25T05:35Z",
+    "end_utc": "2026-09-25T05:35Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Feature Race 1",
+    "classified_local": "2026-09-25T15:44",
+    "start_utc": "2026-09-25T11:44Z",
+    "end_utc": "2026-09-25T11:44Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Feature Race 2",
+    "classified_local": "2026-09-26T12:28",
+    "start_utc": "2026-09-26T08:28Z",
+    "end_utc": "2026-09-26T08:28Z",
+    "inferred": true,
+    "source": "results"
+   }
+  ],
+  "counts": {
+   "results": 20,
+   "technical": 8,
+   "stewards": 61,
+   "admin": 6,
+   "race_director": 4
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 101,
+   "title": "Doc 101 - F2 Team Championship - Baku 2026",
+   "subject": "F2 Team Championship - Baku 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_team_championship_-_baku_2026.pdf",
+   "published": "2026-09-26T13:07",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-26T15:07"
+  },
+  {
+   "num": 100,
+   "title": "Doc 100 - F2 Driver Championship - Baku 2026",
+   "subject": "F2 Driver Championship - Baku 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_driver_championship_-_baku_2026.pdf",
+   "published": "2026-09-26T13:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-26T15:02"
+  },
+  {
+   "num": 99,
+   "title": "Doc 99 - F2 Race 3 (Feature 2) - final classification",
+   "subject": "F2 Race 3 (Feature 2) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_3_feature_2_-_final_classification.pdf",
+   "published": "2026-09-26T12:57",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-26T14:57"
+  },
+  {
+   "num": 98,
+   "title": "Doc 98 - Technical Report 6",
+   "subject": "Technical Report 6",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_technical_report_6.pdf",
+   "published": "2026-09-26T12:52",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-26T14:52"
+  },
+  {
+   "num": 97,
+   "title": "Doc 97 - DECISION - Car 15 - alleged yellow flag violation",
+   "subject": "DECISION - Car 15 - alleged yellow flag violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_car_15_-_alleged_yellow_flag_violation.pdf",
+   "published": "2026-09-26T11:34",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "11:24",
+    "session": "Race 3",
+    "fact": "Car 15 (Dunne) was alleged to have breached yellow flag regulations at Turn 16 (mini sectors 16 and 17) on Lap 9.",
+    "infringement": "Alleged breach of Appendix L Chapter IV, Article 1 and Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 93) and heard the Driver of Car 15 (Dunne) and the team representative. They examined video and telemetry evidence. The driver of Car 15 was reported as potentially not respecting the yellow flag that was present in sectors 16 and 17. Sector 16 starts at the exit of Turn 15 and ends at the entrance to T16 where sector 17 begins and then ends at the entrance to Turn 17. Car 21 was ahead of Car 15 entering T15 and was the first car to be shown the yellow flag. Car 15 is the second car to be shown the yellow flag that is clearly visible from the drivers onboard camera at both panels 16 and 17. Panel 18 is green. On the lap in question car 15 is on his 3rd lap of new tyres having pitted at the end of lap 6. His sector times are some of the quickest prior to this point on this lap and it appears that his tyres have reached their peak performance. The sector times reveal that Car 15 does his fastest time through sector 16 and is then is 0.093 slower than his fastest sector in sector 17. At the hearing the driver reported that he had seen the yellow flags. that he had braked earlier and did not accelerate to full throttle until he was clear of the area and could see the green flag. The Technical Delegate provided the telemetry from Car 15 and confirmed that the driver braked 50 meters earlier into T16 and accelerated more than 50 meters later out of T16. This clearly demonstrates compliance with the regulations. Accordingly the Stewards take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     93,
+     97
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    93
+   ],
+   "published_local": "2026-09-26T13:34"
+  },
+  {
+   "num": 96,
+   "title": "Doc 96 - INFRINGEMENT - Race 3 track limit violations",
+   "subject": "INFRINGEMENT - Race 3 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_race_3_track_limit_violations.pdf",
+   "published": "2026-09-26T11:07",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 3",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident     Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "23": 2,
+     "22": 1,
+     "2": 2
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 22,
+      "name": "Hiyu Yamakoshi"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     }
+    ],
+    "refs": [
+     96
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-26T13:07"
+  },
+  {
+   "num": 95,
+   "title": "Doc 95 - INFRINGEMENT - Car 23 - pit lane speeding",
+   "subject": "INFRINGEMENT - Car 23 - pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_23_-_pit_lane_speeding.pdf",
+   "published": "2026-09-26T11:02",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "competitor": "Van Amersfoort Racing",
+    "time": "11:40",
+    "session": "Race 3",
+    "fact": "Car 23 was reported for Pit Lane Speeding – 64.7 km/h.",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "Car 23 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 4.7 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     95
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-09-26T13:02"
+  },
+  {
+   "num": 94,
+   "title": "Doc 94 - INFRINGEMENT - Car 15 - crossed pit entry white line in Race 3 (Feature Race 2)",
+   "subject": "INFRINGEMENT - Car 15 - crossed pit entry white line in Race 3 (Feature Race 2)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_15_-_crossed_pit_entry_white_line_in_race_3_feature_race_2.pdf",
+   "published": "2026-09-26T11:02",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "11:18",
+    "session": "Race 3",
+    "fact": "Car 15 (Dunne) crossed the pit entry white line in Race 3 (Feature Race 2) at 11:18 on approach for the mandatory pit stop.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 4 (d) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 5 points",
+    "reason": "The Stewards examined video evidence. When entering the pit lane the driver of Car 15 crossed over the white line separating pit lane from the track in violation of ISC Appendix L Ch IV 4(d). The driver appeared to make a misjudgement as he was already fully committed to the pit entry road but did not stay far enough to the left and hence crossed the pit entry line with his right wheels by about 1 meter. As such the Stewards chose the lesser of the penalties in the guidelines of 5 seconds. The guidelines prescribe a single penalty point as this error is considered potentially dangerous.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     94
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-09-26T13:02"
+  },
+  {
+   "num": 93,
+   "title": "Doc 93 - SUMMONS - Car 15 - alleged breach of yellow flag regulations",
+   "subject": "SUMMONS - Car 15 - alleged breach of yellow flag regulations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_15_-_alleged_breach_of_yellow_flag_regulations.pdf",
+   "published": "2026-09-26T10:42",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 15 is alleged to have breached yellow flag regulations in Feature Race 2 (Race 3) at 11:24 at Turn 15 (mini sectors 16 and 17) on Lap 9.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     93
+    ]
+   },
+   "related": [
+    97
+   ],
+   "published_local": "2026-09-26T12:42"
+  },
+  {
+   "num": 92,
+   "title": "Doc 92 - F2 Race 3 (Feature 2) - provisional classification",
+   "subject": "F2 Race 3 (Feature 2) - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_3_feature_2_-_provisional_classification.pdf",
+   "published": "2026-09-26T10:28",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-26T12:28"
+  },
+  {
+   "num": 91,
+   "title": "Doc 91 - F2 Race 3 (Feature 2) - final grid",
+   "subject": "F2 Race 3 (Feature 2) - final grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_3_feature_2_-_final_grid.pdf",
+   "published": "2026-09-26T08:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-26T10:00"
+  },
+  {
+   "num": 90,
+   "title": "Doc 90 - F2 Race 2 (Feature 2) - provisional grid",
+   "subject": "F2 Race 2 (Feature 2) - provisional grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_2_feature_2_-_provisional_grid.pdf",
+   "published": "2026-09-25T16:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T18:24"
+  },
+  {
+   "num": 89,
+   "title": "Doc 89 - F2 Race 2 (Feature 1) - final classification",
+   "subject": "F2 Race 2 (Feature 1) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_2_feature_1_-_final_classification.pdf",
+   "published": "2026-09-25T16:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T18:15"
+  },
+  {
+   "num": 88,
+   "title": "Doc 88 - Technical Report 5",
+   "subject": "Technical Report 5",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_technical_report_5.pdf",
+   "published": "2026-09-25T16:09",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T18:09"
+  },
+  {
+   "num": 87,
+   "title": "Doc 87 - INFRINGEMENT - Race 2 track limit violations",
+   "subject": "INFRINGEMENT - Race 2 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_race_2_track_limit_violations.pdf",
+   "published": "2026-09-25T16:01",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The car below did not use the track at the turns detailed below. Incident     Lap",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The car left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "refs": [
+     87
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-25T18:01"
+  },
+  {
+   "num": 86,
+   "title": "Doc 86 - INFRINGEMENT - Car 16 - pit lane speeding",
+   "subject": "INFRINGEMENT - Car 16 - pit lane speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_16_-_pit_lane_speeding.pdf",
+   "published": "2026-09-25T16:00",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 / Kush Maini",
+    "competitor": "ART Grand Prix",
+    "session": "Race 2",
+    "time": "14:33",
+    "fact": "Car 16 was reported for Pit Lane Speeding – 60.1 km/h.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "Car 16 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 0.1 km/h.",
+    "from": "The Stewards",
+    "infringement": "Breach of Article 22.9 of the FIA F2 Sporting Regulations.",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     86
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-09-25T18:00"
+  },
+  {
+   "num": 85,
+   "title": "Doc 85 - INFRINGEMENT - Car 6 - crossed white line at pit entry",
+   "subject": "INFRINGEMENT - Car 6 - crossed white line at pit entry",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_6_-_crossed_white_line_at_pit_entry.pdf",
+   "published": "2026-09-25T15:58",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "06 / Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "session": "Race 2",
+    "time": "14:31",
+    "fact": "Car 6 crossed the white line at pit entry",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. As the driver was not classified, this is converted to a 3 place grid drop for the next race in which the driver participates. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 7 points.",
+    "reason": "The Stewards examined video evidence. When entering the pit lane the driver of car 6 crossed over the white line separating pit lane from the track in violation of ISC Apex L Ch IV 4(d). The driver appeared to make a misjudgment as he was already fully committed to the pit entry road but did not stay far enough to the left and hence crossed the pit entry line with his right wheels by about 1 meter. As such the Stewards chose the lesser of the penalties in the guidelines of 5 sec. However, the guidelines prescribe a single penalty point as this error is considered potentially dangerous. The driver retired from the race and therefor the time penalty could not be served and in keeping with the agreed procedures unserved time penalties that have penally points associated are converted to grid drops for the next feature race that the driver participates. In this case that will be 3 grid places for Feature Race 2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L Chapter IV Article 4 d of the FIA ISC.",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     85
+    ],
+    "tags": [
+     "5s time penalty",
+     "3-place grid drop",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-09-25T17:58"
+  },
+  {
+   "num": 84,
+   "title": "Doc 84 - INFRINGEMENT - Car 6 - driving through another team's pit box",
+   "subject": "INFRINGEMENT - Car 6 - driving through another team's pit box",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_6_-_driving_through_another_teams_pit_box.pdf",
+   "published": "2026-09-25T15:57",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "06 / Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "session": "Race 2",
+    "time": "14:31",
+    "fact": "Car 6 drove through the pit box of the adjoining team after his mandatory pit stop.",
+    "decision": "Reprimand given to the Driver of Car 6. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards summoned (Document 83) and heard the Driver of Car 6 (Tsolov) and the team representative. They examined video evidence. Car 6 came into the pit lane to complete the mandatory pit stop. After this, the driver of Car 6 drove through the DAMS team’s pit box. The driver explained that, as soon as the teams released, he noticed there was no one in the DAMS pit box, and he chose to continue straight to avoid an approaching car in the fast lane. Having considered the matter extensively, the Stewards determine that Car 6 cannot drive through a pit box of another team, therefore they issue a driving reprimand to the driver of Car 6. BAKU EVENT 23 TO 26 SEPTEMBER 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Article 28.14 of the FIA F2 Sporting Regulations.",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     83,
+     84
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    83
+   ],
+   "published_local": "2026-09-25T17:57"
+  },
+  {
+   "num": 83,
+   "title": "Doc 83 - SUMMONS - Car 6 - allegedly driving through another team's pit box",
+   "subject": "SUMMONS - Car 6 - allegedly driving through another team's pit box",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_6_-_allegedly_driving_through_another_teams_pit_box.pdf",
+   "published": "2026-09-25T14:06",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "reason": "Alleged breach of Article 28.14 of the FIA F2 Sporting Regulations - Car 6 is alleged to have driving through another team's pit box when performing his mandatory pit stop in Race 2 (Feature 1).",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     83
+    ]
+   },
+   "related": [
+    84
+   ],
+   "published_local": "2026-09-25T16:06"
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - F2 Race 2 (Feature 1) - provisional classification",
+   "subject": "F2 Race 2 (Feature 1) - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_2_feature_1_-_provisional_classification.pdf",
+   "published": "2026-09-25T13:44",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T15:44"
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - F2 Race 1 (Sprint) - final classification",
+   "subject": "F2 Race 1 (Sprint) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-09-25T11:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T13:41"
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_technical_report_4.pdf",
+   "published": "2026-09-25T11:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T13:35"
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - F2 Race 2 (Feature 1) - final grid",
+   "subject": "F2 Race 2 (Feature 1) - final grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_2_feature_1_-_final_grid.pdf",
+   "published": "2026-09-25T11:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T13:15"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - Podium and Parc Ferme instructions - Baku v2",
+   "subject": "Podium and Parc Ferme instructions - Baku v2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_podium_and_parc_ferme_instructions_-_baku_v2.pdf",
+   "published": "2026-09-25T09:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T11:51"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - F2 Race 2 (Feature 1) - provisional starting grid",
+   "subject": "F2 Race 2 (Feature 1) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_2_feature_1_-_provisional_starting_grid.pdf",
+   "published": "2026-09-25T09:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T11:03"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - INFRINGEMENT - F2 Race 1 - track limit violations",
+   "subject": "INFRINGEMENT - F2 Race 1 - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_f2_race_1_-_track_limit_violations.pdf",
+   "published": "2026-09-25T08:55",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident           Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes. BAKU EVENT 23 TO 26 SEPTEMBER 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "23": 2,
+     "22": 2,
+     "17": 2,
+     "2": 1,
+     "9": 1,
+     "10": 1,
+     "25": 1,
+     "11": 1,
+     "20": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 22,
+      "name": "Hiyu Yamakoshi"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     76
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-25T10:55"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - DECISION - Car 3 - alleged incident at Turn 1 with Car 5",
+   "subject": "DECISION - Car 3 - alleged incident at Turn 1 with Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_car_3_-_alleged_incident_at_turn_1_with_car_5.pdf",
+   "published": "2026-09-25T08:50",
+   "recalled": false,
+   "cars": [
+    3,
+    5
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "09:15",
+    "session": "Race 1",
+    "fact": "Car 5 (Leon) and Car 3 (Miyata) collided at Turn 1 after the second safety car restart.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 69 & 70) and heard the Drivers of Car 5 (Leon) and Car 3 (Miyata) and the team representatives. They examined video evidence. During the restart of the safety car, as the cars approached Turn 1, Cars 3 and 5 were involved in a collision. The driver of Car 5 stated that, while approaching Turn 1, he moved fully to the left in an attempt to avoid contact with Car 3 but was unable to do so. The driver of car 3 also stated that the previous incident with Car 10 led him to a position where he tried to avoid contact with the car in front but unfortunately, contact with Car 5 still occurred. Having considered the matter extensively, the Stewards determined that neither Car 3 nor Car 5 was predominantly or solely responsible for the collision. The contact is considered a consequence of the earlier incident involving Cars 3, 9, and 10. As a result, no further action will be taken on this occasion.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     69,
+     75
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    69
+   ],
+   "published_local": "2026-09-25T10:50"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - DECISION - Car 5 - alleged incident at Turn 1 with Car 3",
+   "subject": "DECISION - Car 5 - alleged incident at Turn 1 with Car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_car_5_-_alleged_incident_at_turn_1_with_car_3.pdf",
+   "published": "2026-09-25T08:49",
+   "recalled": false,
+   "cars": [
+    3,
+    5
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "09:15",
+    "session": "Race 1",
+    "fact": "Car 5 (Leon) and Car 3 (Miyata) collided at Turn 1 after the second safety car restart.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 69 & 70) and heard the Drivers of Car 5 (Leon) and Car 3 (Miyata) and the team representatives. They examined video evidence. During the restart of the safety car, as the cars approached Turn 1, Cars 3 and 5 were involved in a collision. The driver of Car 5 stated that, while approaching Turn 1, he moved fully to the left in an attempt to avoid contact with Car 3 but was unable to do so. The driver of car 3 also stated that the previous incident with Car 10 led him to a position where he tried to avoid contact with the car in front but unfortunately, contact with Car 5 still occurred. Having considered the matter extensively, the Stewards determined that neither Car 3 nor Car 5 was predominantly or solely responsible for the collision. The contact is considered a consequence of the earlier incident involving Cars 3, 9, and 10. As a result, no further action will be taken on this occasion.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     69,
+     74
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    69
+   ],
+   "published_local": "2026-09-25T10:49"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - INFRINGEMENT - Car 10 - causing a collision T1",
+   "subject": "INFRINGEMENT - Car 10 - causing a collision T1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_10_-_causing_a_collision_t1.pdf",
+   "published": "2026-09-25T08:41",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "09:15",
+    "session": "Race 1",
+    "fact": "Car 10 (Goethe) made contact with Car 3 (Miyata) and Car 9 (Mini) at the second safety car restart.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 2 points",
+    "reason": "The Stewards summoned (Documents 66, 67 & 68) and heard the Drivers of Car 10 (Goethe), Car 9 (Mini) and Car 3 (Miyata) and the team representatives. They examined video evidence. At the restart Car 10 was behind Car 3 following close in his slipstream. The driver of Car 10 explained that he misjudged the loss of downforce from being so close and he locked his brakes, lost control, collided with Car 3 and then with Car 9. Car 10 and 9 continued. Car 3 was subsequently involved in another collision and did not continue. The Stewards concluded that this was a standard collision and applied the baseline penalty of 10 seconds.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     66,
+     73
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    66
+   ],
+   "published_local": "2026-09-25T10:41"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - INFRINGEMENT - Car 1 - causing a collision L1 T2",
+   "subject": "INFRINGEMENT - Car 1 - causing a collision L1 T2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_1_-_causing_a_collision_l1_t2.pdf",
+   "published": "2026-09-25T08:40",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "08:31",
+    "session": "Race 1",
+    "fact": "Car 1 (Camara) made contact with Car 12 (Boya) on Lap 1 at Turn 2.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 6 points",
+    "reason": "The Stewards examined video evidence. On the opening lap, as the cars approached Turn 2, Car 1 made nose-to-tail contact with Car 12, causing Car 12 to hit the barrier and retire from the race. Having considered the matter extensively, the Stewards determined that Car 1 was wholly to blame for the incident. As a result, a standard 10-second time penalty was issued to Car 1 in accordance with the Stewards’ Guidelines, which was served during the race.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     72
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-09-25T10:40"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - INFRINGEMENT - Car 2 - causing a collision L1 T2",
+   "subject": "INFRINGEMENT - Car 2 - causing a collision L1 T2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_2_-_causing_a_collision_l1_t2.pdf",
+   "published": "2026-09-25T08:39",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Durksen",
+    "competitor": "Invicta Racing",
+    "time": "08:31",
+    "session": "Race 1",
+    "fact": "Car 2 (Durksen) made contact with Car 25 (Bennett) on Lap 1 at Turn 2.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. As Car 2 is not classified, this converts to a 3 place grid drop for the next race in which the driver participates. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 6 points.",
+    "reason": "The Stewards summoned (Documents 64 & 65) and heard the Drivers of Car 2 (Durksen) and Car 25 (Bennett) and the team representatives. They examined video evidence. During the opening lap, as the cars reached Turn 2, Car 2 made light nose-to-tail contact with Car 25, which resulted in Car 25 dropping several positions. The driver of Car 2 stated that it was challenging for him to see what was happening in front as a result of the previous incident of Cars 1 and 12, he explained that he tried to avoid the contact but was unable to do it. The driver of Car 25 stated that they felt contact from behind, which caused him to lose several positions. Having considered the matter extensively, the Stewards determined that Car 2 was wholly responsible for the incident. They also found that the earlier incident involving Cars 1 and 12 constituted a mitigating factor, contributing to the collision between Cars 2 and 25. Consequently, they imposed a five-second time penalty on Car 2, which will be converted into a three-place grid penalty for the next race in which the driver participates, as he did not finish the race.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     }
+    ],
+    "refs": [
+     64,
+     71
+    ],
+    "tags": [
+     "5s time penalty",
+     "3-place grid drop",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    64
+   ],
+   "published_local": "2026-09-25T10:39"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - SUMMONS - Car 5 - alleged incident at T1 involving Car 3",
+   "subject": "SUMMONS - Car 5 - alleged incident at T1 involving Car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_5_-_alleged_incident_at_t1_involving_car_3.pdf",
+   "published": "2026-09-25T08:08",
+   "recalled": false,
+   "cars": [
+    3,
+    5
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Incident at Turn 1 involving Car 3 and Car 5 after the second safety car restart in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     70
+    ]
+   },
+   "published_local": "2026-09-25T10:08"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - SUMMONS - Car 3 - alleged incident at T1 involving Car 5",
+   "subject": "SUMMONS - Car 3 - alleged incident at T1 involving Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_3_-_alleged_incident_at_t1_involving_car_5.pdf",
+   "published": "2026-09-25T08:07",
+   "recalled": false,
+   "cars": [
+    3,
+    5
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Incident at Turn 1 involving Car 3 and Car 5 after the second safety car restart in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     69
+    ]
+   },
+   "related": [
+    74,
+    75
+   ],
+   "published_local": "2026-09-25T10:07"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - SUMMONS - Car 3 - alleged contact at T1 involving Car 9 and Car 10",
+   "subject": "SUMMONS - Car 3 - alleged contact at T1 involving Car 9 and Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_3_-_alleged_contact_at_t1_involving_car_9_and_car_10.pdf",
+   "published": "2026-09-25T08:04",
+   "recalled": false,
+   "cars": [
+    3,
+    9,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 10 is alleged to have made contact at Turn 1 in an incident involving Car 3 and Car 9 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     68
+    ]
+   },
+   "published_local": "2026-09-25T10:04"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - SUMMONS - Car 9 - alleged contact at T1 involving Car 3 and Car 10",
+   "subject": "SUMMONS - Car 9 - alleged contact at T1 involving Car 3 and Car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_9_-_alleged_contact_at_t1_involving_car_3_and_car_10.pdf",
+   "published": "2026-09-25T08:04",
+   "recalled": false,
+   "cars": [
+    3,
+    9,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 10 is alleged to have made contact at Turn 1 in an incident involving Car 3 and Car 9 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     67
+    ]
+   },
+   "published_local": "2026-09-25T10:04"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - SUMMONS - Car 10 - alleged contact at T1 involving Car 3 and Car 5",
+   "subject": "SUMMONS - Car 10 - alleged contact at T1 involving Car 3 and Car 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_10_-_alleged_contact_at_t1_involving_car_3_and_car_5.pdf",
+   "published": "2026-09-25T08:04",
+   "recalled": false,
+   "cars": [
+    3,
+    5,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 10 is alleged to have made contact at Turn 1 in an incident involving Car 3 and Car 9 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     66
+    ]
+   },
+   "related": [
+    73
+   ],
+   "published_local": "2026-09-25T10:04"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - SUMMONS - Car 25 alleged contact from Car 2 L1 T2",
+   "subject": "SUMMONS - Car 25 alleged contact from Car 2 L1 T2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_25_alleged_contact_from_car_2_l1_t2.pdf",
+   "published": "2026-09-25T07:55",
+   "recalled": false,
+   "cars": [
+    2,
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 2 allegedly made contact with the rear of Car 25 on Lap 1 Turn 2 of Race 1.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     65
+    ]
+   },
+   "published_local": "2026-09-25T09:55"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - SUMMONS - Car 2 alleged contact with Car 25 L1 T2",
+   "subject": "SUMMONS - Car 2 alleged contact with Car 25 L1 T2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_2_alleged_contact_with_car_25_l1_t2.pdf",
+   "published": "2026-09-25T07:54",
+   "recalled": false,
+   "cars": [
+    2,
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Durksen",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 2 allegedly made contact with the rear of Car 25 on Lap 1 Turn 2 of Race 1.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     }
+    ],
+    "refs": [
+     64
+    ]
+   },
+   "related": [
+    71
+   ],
+   "published_local": "2026-09-25T09:54"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - F2 Race 1 (Sprint) - provisional classification",
+   "subject": "F2 Race 1 (Sprint) - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-09-25T07:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T09:35"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Circuit Map - Baku 2026 - updated",
+   "subject": "Circuit Map - Baku 2026 - updated",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_circuit_map_-_baku_2026_-_updated.pdf",
+   "published": "2026-09-25T05:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T07:59"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-09-25T05:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-25T07:15"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - F2 Race 1 (Sprint) - provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-09-24T18:26",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T20:26"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - F2 Qualifying 2 - final classification",
+   "subject": "F2 Qualifying 2 - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_qualifying_2_-_final_classification.pdf",
+   "published": "2026-09-24T18:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T20:19"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - F2 Qualifying 1 - final classification",
+   "subject": "F2 Qualifying 1 - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_qualifying_1_-_final_classification.pdf",
+   "published": "2026-09-24T18:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T20:18"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - INFRINGEMENT - Qualifying 2 - track limit violations",
+   "subject": "INFRINGEMENT - Qualifying 2 - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_qualifying_2_-_track_limit_violations.pdf",
+   "published": "2026-09-24T18:13",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying 2",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "11": 1,
+     "1": 1,
+     "17": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     57
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-24T20:13"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - INFRINGEMENT - Qualifying 1 - track limit violations",
+   "subject": "INFRINGEMENT - Qualifying 1 - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_qualifying_1_-_track_limit_violations.pdf",
+   "published": "2026-09-24T18:11",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying 1",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "25": 1,
+     "22": 1,
+     "12": 1,
+     "4": 1,
+     "1": 2,
+     "9": 1,
+     "8": 1,
+     "15": 1,
+     "2": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 22,
+      "name": "Hiyu Yamakoshi"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     56
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-24T20:11"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - DECISION - Car 5 - allegedly impeded Car 17",
+   "subject": "DECISION - Car 5 - allegedly impeded Car 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_car_5_-_allegedly_impeded_car_17.pdf",
+   "published": "2026-09-24T18:07",
+   "recalled": false,
+   "cars": [
+    5,
+    17
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "14:34",
+    "session": "Qualifying",
+    "fact": "Car 5 (Leon) allegedly impeded Car 17 (Inthraphuvasak) from Turn 2 in Qualifying 1.",
+    "infringement": "Alleged breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "After the session, the Race Director reported a potential impeding incident involving Cars 5 and 17. The Stewards summoned (Documents 35 & 36) and heard the Drivers of Car 5 (Leon) and Car 17 (Inthraphuvasak) and the team representatives. They examined video, GPS and timing evidence. Car 17 was running behind Car 5 when both cars began a push lap. As they approached Turn 1, Cars 15 and 9 positioned ahead of Car 5 left the track, resulting in Car 5 effectively leading the pack through the subsequent corners. From that point onward, Car 17 steadily reduced the gap to Car 5, bringing it down to approximately one second by the approach to Turn 4. Both drivers continued pushing throughout the lap, with the driver of Car 17 opting to stay behind the car in front. At no point did Car 17 show a clear intention to overtake, and based on the available evidence, a pass was not achievable. The data showed that the driver of Car 5 achieved 2 of his fastest sectors in the early part of the lap but then he progressively lost time although still on a push lap. When assessing a potential impeding situation, the Stewards consider whether a driver has been unnecessarily impeded and whether the driver was affected. Having considered the matter extensively, the Stewards determined that the driver of Car 17 was affected but was not unnecessarily impeded by the driver of Car 5. Accordingly, no further action will be taken on this occasion.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     35,
+     55
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    35
+   ],
+   "published_local": "2026-09-24T20:07"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - DECISION - Car 14 - allegedly impeded Car 17",
+   "subject": "DECISION - Car 14 - allegedly impeded Car 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_car_14_-_allegedly_impeded_car_17.pdf",
+   "published": "2026-09-24T18:06",
+   "recalled": false,
+   "cars": [
+    14,
+    17
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "competitor": "Rodin Motorsport",
+    "time": "14:34",
+    "session": "Qualifying",
+    "fact": "Car 14 (Stenshorne) allegedly impeded Car 17 (Inthraphuvasak) between Turn 18-19 in Qualifying 1.",
+    "infringement": "Alleged breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 33 & 34) and heard the Drivers of Car 14 (Stenshorne) and Car 17 (Inthraphuvasak) and the team representatives. They examined video and GPS evidence. Car 14 and Car 17 were preparing to start a push lap and this is done from the exit of Turn 16 on the preceding lap. Car 17 was behind Car 14 with an approximate 1 second gap. Video evidence showed that Car 17 had closed the gap to Car 14 by Turn 19 and given that he had the benefit of a tow he had to slow. Car 17 then passed Car 14 and started his push lap. Car 14 abandoned the lap and entered the pit lane. The driver of Car 14 reported that he intended to start a push lap but when he saw that Car 17 had benefited from the tow and that he would likely be passed or would have to fight into Turn 1 he abandoned the lap. The driver of Car 17 reported that the preparation for a push lap starts at the exit of T16 and he expected Car 14 to be at full speed through T19 and T20 and he was surprised that Car 14 stayed on the line and appeared not to be at full speed. As a result of not having a tow on the main straight leading to the start of the push lap Car 17 was 10 kph slower than he had been on previous laps when he had a car in front to give a tow. The only sector that could be affected by the interaction of Cars 14 and 17 on the push lap that started was Sector 1. In that sector Car 17 was 0.11 seconds slower than his fastest sector time which was achieved when he had the benefit of the tow. There is no doubt that Car 17 was affected by Car 14 who was not as fast through Turns 18 and 19 but that of itself is not evidence of unnecessary impeding. In fact Car 17 may have benefited from a tow from Car 14 up until Car 14 moved to the left to enter the pit lane. The Stewards therefore conclude that there is no evidence of unnecessary impeding and take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     33,
+     54
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    33
+   ],
+   "published_local": "2026-09-24T20:06"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - DECISION - Qualifying 1 - allegedly driving unnecessarily slowly",
+   "subject": "DECISION - Qualifying 1 - allegedly driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_qualifying_1_-_allegedly_driving_unnecessarily_slowly.pdf",
+   "published": "2026-09-24T18:05",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying 1",
+    "time": "14:23",
+    "fact": "The drivers listed below were allegedly driving unnecessarily slowly between Turn 4 and Turn 7.",
+    "decision": "No further action.",
+    "reason": "The stewards received a report from the Race Director that Cars #7, 9, 6, 14, 20, 5, 3, 2, 15, 16, 24, 17 were driving unnecessarily slowly between Turns 4 and 7. After reviewing the video and telemetry the Stewards could see that all 12 cars involved were on the same sequence having just completed a push lap and were now on a cool down lap. Car 7 (the first car) slowed progressively without any sudden braking or change of direction and at all times remained off the racing line. As each driver behind caught up to Car 7 they also slowed and stayed in line without affecting any other driver. Eventually there was a line of 12 cars and at the exit of Turn 6 the entire pack of cars slowed to approximately 30 kph. BAKU EVENT 23 TO 26 SEPTEMBER 2026 The Stewards summoned and heard the drivers listed above and their team representatives, as well as the driver of Car 7 (Beganovic) and his team representative (Documents 37 to 48). The drivers each reported that they were aware that the following cars were all on the same sequence and were trying to stay in the order without passing They further reported that in their experience it is safer to stay in the sequence rather than pull out into the racing line and potentially end up impeding a following driver or driving side by side with another car. Eventually one of the cars at the rear of the pack did pull out and passed the line and the whole group accelerated without issue to Turns 7 and 8. Having considered the matter extensively and with special attention to recent similar incidents in this season the Stewards found that the conditions in this case were material different as there was no erratic driving, unusual braking and there did not appear to be any dangerous situation created. However, the driver of car 7 did not need to slow to this level and still considered that the slow speed was unnecessary and in a separate decision issued a penalty. For the remaining drivers the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 e of the FIA International Sporting Code.",
+    "table_rows": {
+     "9": 1,
+     "6": 1,
+     "14": 1,
+     "20": 1,
+     "5": 1,
+     "3": 1,
+     "2": 1,
+     "15": 1,
+     "16": 1,
+     "17": 1
+    },
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     37,
+     53
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    37,
+    52
+   ],
+   "published_local": "2026-09-24T20:05"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - INFRINGEMENT - Car 7 - driving unnecessarily slowly",
+   "subject": "INFRINGEMENT - Car 7 - driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_7_-_driving_unnecessarily_slowly.pdf",
+   "published": "2026-09-24T17:45",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "competitor": "DAMS Lucas Oil",
+    "time": "14:23",
+    "session": "Qualifying",
+    "fact": "Car 7 (Beganovic) drove unnecessarily slowly in Qualifying 1 at 14:23 from Turn 4 to Turn 7.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (e) of the FIA International Sporting Code.",
+    "decision": "Reprimand given to the Driver of Car 7. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards summoned (Documents 37 to 48) and heard the Driver of Car 7 (Beganovic) and his Team Representative, as well as the Drivers and Team Representatives of 11 additional cars (see Document 53). They examined video evidence. The Stewards received a report from the Race Director that Car 7 was driving unnecessarily slowly between Turns 4 and 7. After reviewing the video and telemetry the Stewards could see that all 12 cars involved were on the same sequence having just completed a push lap and were now on a cool down lap. Car 7 slowed progressively without any sudden braking or change of direction and at all times remained off the racing line. As each driver behind caught up to the growing pack, they also slowed and stayed in line without affecting any other driver. Eventually there was a line of 12 cars and at the exit of Turn 6 the driver of Car 7 slowed to approximately 30 kph. The driver reported that he was aware that the cars behind were on the same sequence and all would be doing a cool down lap. He reported that he slowed progressively and at all times remained off line and was aware of the cars behind him. He was anticipating that one of the cars would pass him such that he would no longer be at the head of the pack. Eventually one of the cars did so and then the entire group accelerated without incident. Having considered the matter extensively and with special attention to recent similar incidents in this season the Stewards found that the conditions in this case were materially different as there was no erratic driving, unusual braking and there did not appear to be any dangerous situation created. However, the Driver of Car 7 did not need to slow to this level and we still considered that the slow speed was unnecessary. Given the special circumstances we elect to issue a Driving Reprimand only.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     37,
+     52,
+     53
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    37,
+    53
+   ],
+   "published_local": "2026-09-24T19:45"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - INFRINGEMENT - Car 9 - unsafe release",
+   "subject": "INFRINGEMENT - Car 9 - unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_9_-_unsafe_release.pdf",
+   "published": "2026-09-24T17:20",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "14:45",
+    "session": "Qualifying",
+    "fact": "Car 9 (Mini) was released into the path of Car 4 (Herta) in Qualifying 2 at 14:45",
+    "infringement": "Breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards summoned (Documents 29 & 30) and heard the Drivers of Car 9 (Mini) and Car 4 (Herta) and the team representatives. They examined video evidence. According to the driver of Car 9, he followed his mechanic's instructions and moved to the fast lane from the pit stop position. Car 4 was travelling in the fast lane and the driver of Car 4 stated that he braked to avoid a collision. Video evidence verified that the driver of Car 9 was released by the team mechanic and he moved immediately. Having considered the matter extensively, the Stewards determined that Car 9 was released in an unsafe manner. As the driver acted in accordance with the mechanic’s instructions, the Stewards found the driver not at fault. Consequently, following the Stewards Guidelines, the team has been issued the standard fine of €500.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     29,
+     51
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-09-24T19:20"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - INFRINGEMENT - Car 4 impeded Car 21 in Q2",
+   "subject": "INFRINGEMENT - Car 4 impeded Car 21 in Q2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_4_impeded_car_21_in_q2.pdf",
+   "published": "2026-09-24T17:19",
+   "recalled": false,
+   "cars": [
+    4,
+    21
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "competitor": "Hitech",
+    "time": "15:01",
+    "session": "Qualifying",
+    "fact": "Car 4 (Herta) impeded Car 21 (Shields) at Turn 14 in Qualifying 2 at 15:01.",
+    "infringement": "Breach of Article 31.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A drop of 3 places on the grid for Feature Race 2 at this Competition. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards summoned (Documents 31 & 32) and heard the Drivers of Car 4 (Herta) and Car 21 (Shields) and the team representatives. They examined video evidence. Car 4 was on a cool down lap, while Car 21 was on a push lap approaching Turn 14. The driver of Car 4 stated that he did not see Car 21 coming and had no time to react in Turn 14, allowing him through at the following corner. The driver of Car 21 stated that he was impeded and consequently aborted the lap. Having considered the matter extensively, the Stewards determined that Car 21 was unnecessarily impeded by Car 4 in Turn 14; as a result, they elect to apply the standard three-place grid penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     31,
+     50
+    ],
+    "tags": [
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    31
+   ],
+   "published_local": "2026-09-24T19:19"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_technical_report_3.pdf",
+   "published": "2026-09-24T16:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T18:21"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - SUMMONS - Car 17 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 17 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_17_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:36",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 17 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     48
+    ]
+   },
+   "published_local": "2026-09-24T17:36"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - SUMMONS - Car 24 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 24 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_24_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:34",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 24 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     47
+    ]
+   },
+   "published_local": "2026-09-24T17:34"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - SUMMONS - Car 16 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 16 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_16_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:29",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 16 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     46
+    ]
+   },
+   "published_local": "2026-09-24T17:29"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - SUMMONS - Car 15 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 15 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_15_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:28",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 15 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     45
+    ]
+   },
+   "published_local": "2026-09-24T17:28"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - SUMMONS - Car 2 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 2 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_2_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:26",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Durksen",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 2 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     }
+    ],
+    "refs": [
+     44
+    ]
+   },
+   "published_local": "2026-09-24T17:26"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - SUMMONS - Car 3 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 3 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_3_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:25",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 3 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     43
+    ]
+   },
+   "published_local": "2026-09-24T17:25"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - SUMMONS - Car 5 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 5 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_5_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:21",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 5 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     42
+    ]
+   },
+   "published_local": "2026-09-24T17:21"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - SUMMONS - Car 20 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 20 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_20_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:20",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 20 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     41
+    ]
+   },
+   "published_local": "2026-09-24T17:20"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - SUMMONS - Car 14 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 14 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_14_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:19",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 14 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     40
+    ]
+   },
+   "published_local": "2026-09-24T17:19"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - SUMMONS - Car 6 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 6 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_6_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:16",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 6 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     39
+    ]
+   },
+   "published_local": "2026-09-24T17:16"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - SUMMONS - Car 9 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 9 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_9_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:13",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 9 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     38
+    ]
+   },
+   "published_local": "2026-09-24T17:13"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - SUMMONS - Car 7 - allegedly driving unnecessarily slowly in Q1",
+   "subject": "SUMMONS - Car 7 - allegedly driving unnecessarily slowly in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_7_-_allegedly_driving_unnecessarily_slowly_in_q1.pdf",
+   "published": "2026-09-24T15:12",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 7 was alleged to have been driving unnecessarily slowly in Q1 at 14:23",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     37
+    ]
+   },
+   "related": [
+    52,
+    53
+   ],
+   "published_local": "2026-09-24T17:12"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - SUMMONS - Car 5 - allegedly impeded Car 17 from Turn 2 in Q1",
+   "subject": "SUMMONS - Car 5 - allegedly impeded Car 17 from Turn 2 in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_5_-_allegedly_impeded_car_17_from_turn_2_in_q1.pdf",
+   "published": "2026-09-24T15:06",
+   "recalled": false,
+   "cars": [
+    5,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 5 is alleged to have impeded Car 17 from Turn 2 in Qualifying 1.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     36
+    ]
+   },
+   "published_local": "2026-09-24T17:06"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - SUMMONS - Car 17 - allegedly impeded by Car 5 from Turn 2 in Q1",
+   "subject": "SUMMONS - Car 17 - allegedly impeded by Car 5 from Turn 2 in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_17_-_allegedly_impeded_by_car_5_from_turn_2_in_q1.pdf",
+   "published": "2026-09-24T15:05",
+   "recalled": false,
+   "cars": [
+    5,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 5 is alleged to have impeded Car 17 from Turn 2 in Qualifying 1.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     35
+    ]
+   },
+   "related": [
+    55
+   ],
+   "published_local": "2026-09-24T17:05"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - SUMMONS - Car 17 - allegedly impeded by Car 14 at T18-19 in Q1",
+   "subject": "SUMMONS - Car 17 - allegedly impeded by Car 14 at T18-19 in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_17_-_allegedly_impeded_by_car_14_at_t18-19_in_q1.pdf",
+   "published": "2026-09-24T15:02",
+   "recalled": false,
+   "cars": [
+    14,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 14 is alleged to have impeded Car 17 at Turn 18-19 in Qualifying 1.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     34
+    ]
+   },
+   "published_local": "2026-09-24T17:02"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - SUMMONS - Car 14 - allegedly impeded Car 17 at T18-19 in Q1",
+   "subject": "SUMMONS - Car 14 - allegedly impeded Car 17 at T18-19 in Q1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_14_-_allegedly_impeded_car_17_at_t18-19_in_q1.pdf",
+   "published": "2026-09-24T15:02",
+   "recalled": false,
+   "cars": [
+    14,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 14 is alleged to have impeded Car 17 at Turn 18-19 in Qualifying 1.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     33
+    ]
+   },
+   "related": [
+    54
+   ],
+   "published_local": "2026-09-24T17:02"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - SUMMONS - Car 4 - allegedly impeded Car 21 at T14 in Q2",
+   "subject": "SUMMONS - Car 4 - allegedly impeded Car 21 at T14 in Q2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_4_-_allegedly_impeded_car_21_at_t14_in_q2.pdf",
+   "published": "2026-09-24T14:59",
+   "recalled": false,
+   "cars": [
+    4,
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 4 is alleged to have impeded Car 21 at Turn 14 in Qualifying 2.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     32
+    ]
+   },
+   "published_local": "2026-09-24T16:59"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - SUMMONS - Car 21 - alleged impeded by Car 4 at T14 in Q2",
+   "subject": "SUMMONS - Car 21 - alleged impeded by Car 4 at T14 in Q2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_21_-_alleged_impeded_by_car_4_at_t14_in_q2.pdf",
+   "published": "2026-09-24T14:58",
+   "recalled": false,
+   "cars": [
+    4,
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 4 is alleged to have impeded Car 21 at Turn 14 in Qualifying 2.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   },
+   "related": [
+    50
+   ],
+   "published_local": "2026-09-24T16:58"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - SUMMONS - Car 4 alleged unsafe release from Car 9 in Q2",
+   "subject": "SUMMONS - Car 4 alleged unsafe release from Car 9 in Q2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_4_alleged_unsafe_release_from_car_9_in_q2.pdf",
+   "published": "2026-09-24T14:54",
+   "recalled": false,
+   "cars": [
+    4,
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "reason": "Alleged breach of Article 28.12 a of the FIA F2 Sporting Regulations - Car 9 was allegedly released into the path of Car 4 at 14:45 in Qualifying 2.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "published_local": "2026-09-24T16:54"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - SUMMONS - Car 9 alleged unsafe release in Q2",
+   "subject": "SUMMONS - Car 9 alleged unsafe release in Q2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_9_alleged_unsafe_release_in_q2.pdf",
+   "published": "2026-09-24T14:53",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 28.12 a of the FIA F2 Sporting Regulations - Car 9 was allegedly released into the path of Car 4 at 14:45 in Qualifying 2.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "related": [
+    51
+   ],
+   "published_local": "2026-09-24T16:53"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - F2 Qualifying 2 - provisional classification",
+   "subject": "F2 Qualifying 2 - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_qualifying_2_-_provisional_classification.pdf",
+   "published": "2026-09-24T13:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T15:19"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - F2 Qualifying 1 - provisional classification",
+   "subject": "F2 Qualifying 1 - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_qualifying_1_-_provisional_classification.pdf",
+   "published": "2026-09-24T13:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T15:16"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - F2 Practice - AMENDED classification",
+   "subject": "F2 Practice - AMENDED classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_practice_-_amended_classification.pdf",
+   "published": "2026-09-24T11:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T13:03"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Podium and Parc Ferme instructions - Baku",
+   "subject": "Podium and Parc Ferme instructions - Baku",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_podium_and_parc_ferme_instructions_-_baku.pdf",
+   "published": "2026-09-24T11:02",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 78,
+   "published_local": "2026-09-24T13:02"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - INFRINGEMENT - F2 Practice - DWYF lap time cancellations",
+   "subject": "INFRINGEMENT - F2 Practice - DWYF lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_f2_practice_-_dwyf_lap_time_cancellations.pdf",
+   "published": "2026-09-24T10:59",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "22": 2,
+     "16": 2,
+     "4": 2,
+     "3": 2,
+     "20": 1,
+     "10": 1,
+     "14": 1,
+     "5": 1,
+     "8": 1,
+     "17": 1,
+     "24": 1,
+     "23": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Hiyu Yamakoshi"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     24
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-24T12:59"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - INFRINGEMENT - F2 Practice - track limit violations",
+   "subject": "INFRINGEMENT - F2 Practice - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_f2_practice_-_track_limit_violations.pdf",
+   "published": "2026-09-24T10:57",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "17": 1,
+     "10": 1,
+     "24": 1,
+     "6": 1,
+     "11": 1,
+     "9": 1
+    },
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-24T12:57"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - INFRINGEMENT - Car 20 - overtook Car 3 under yellow flag conditions",
+   "subject": "INFRINGEMENT - Car 20 - overtook Car 3 under yellow flag conditions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_20_-_overtook_car_3_under_yellow_flag_conditions.pdf",
+   "published": "2026-09-24T10:47",
+   "recalled": false,
+   "cars": [
+    3,
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "10:13",
+    "session": "Practice",
+    "fact": "Car 20 (Fittipaldi) overtook Car 3 (Miyata) under single yellow conditions between Turn 2 and Turn 3.",
+    "infringement": "Breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "Reprimand given to the Driver of Car 20. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards summoned (Documents 14 & 16) and heard the Drivers of Car 20 (Fittipaldi) and Car 3 (Miyata) and the team representatives. They examined video and GPS evidence. A car was stationary on track in T3 and this caused a single yellow to be displayed at panels 4 and 5. Panel 4 is at the exit of Turn 2 on the outside. Car 3 was on a cool down lap and was aware that Car 20 was on a push lap and approaching at high speed into Turn 2. Car 3 moved to the left off the racing line after exiting Turn 2. The driver of Car 20 explained that he was on a push lap and saw Car 3 ahead and was expecting to pass him after exiting Turn 2. He further explained that at the exit he saw Car 3 move to the left and he concentrated on avoiding him and still managing the exit of Turn 2. He noticed the panel ahead (panel 5) and immediately reduced speed. However, he admitted that by then he had passed Car 3 within the yellow flag sector which he had not seen. The Stewards find that Car 20 overtook Car 3 after passing Panel 4 while it was displaying a single-yellow signal. The driver’s failure to notice that signal does not remove the obligation to comply with it, and the Stewards therefore find a breach of Appendix H, Article 2.5.5(b). In determining the penalty, the Stewards took into account the relative speeds of the cars, Car 3’s movement off the racing line at the exit of Turn 2, the interaction between the cars at the start of the yellow-flag sector, and Car 20’s immediate reduction in speed upon observing Panel 5. Having considered the penalty recommended in the Penalty Guidelines for failing to slow under a single yellow as a comparator, the Stewards determine that a Driving Reprimand is proportionate to the particular circumstances of this overtaking infringement.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     14,
+     22
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-09-24T12:47"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - DECISION - Car 10 - alleged incident under VSC in Practice",
+   "subject": "DECISION - Car 10 - alleged incident under VSC in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_decision_-_car_10_-_alleged_incident_under_vsc_in_practice.pdf",
+   "published": "2026-09-24T10:46",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "10:17",
+    "session": "Practice",
+    "fact": "Car 10 (Goethe) had an incident at Turn 5 during VSC conditions.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 13) and heard the Driver of Car 10 (Goethe) and the team representative. They examined video evidence. During the VSC procedure, the driver of car 10 locked up the tires and made contact with the wall prior to the entry of Turn 5. The driver stated that he experienced a mechanical failure in which the throttle became stuck at full throttle. He explained that he attempted to slow the car but was unable to do so, despite doing everything he could to bring it under control, ultimately resulting in contact with the wall. Having considered the matter extensively, the Stewards determined that the driver made an attempt to bring the car to a stop. However, a mechanical failure occurred, which prevented him from doing so safely. As a result, no further action is taken in relation to his actions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     13,
+     21
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    13
+   ],
+   "published_local": "2026-09-24T12:46"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENT - Car 9 - technical non conformity (fuel sample)",
+   "subject": "INFRINGEMENT - Car 9 - technical non conformity (fuel sample)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_infringement_-_car_9_-_technical_non_conformity_fuel_sample.pdf",
+   "published": "2026-09-24T10:45",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "11:39",
+    "session": "Practice",
+    "fact": "Car 9 (Mini) was not able to provide a fuel sample of a minimum of 0.8kg after the Practice Session.",
+    "infringement": "Breach of Article 6.3.1 of the FIA Formula 2 Technical Regulations.",
+    "decision": "Disqualification of Car 9 from the results of the Practice Session. Removal of all times set by Car 9 in the Practice Session.",
+    "reason": "The Stewards, having summoned the Team Representative and the Driver of Car 9, and having heard from the Team Representative (the Driver did not attend), determine that the Competitor contravened Article 6.3.1 of the 2026 FIA Formula 2 Technical Regulations in that the team failed to ensure that a sample of 0.8kg of fuel could be taken from Car 9 for analysis at the end of the session. The FIA Technical Delegate reported that only 0.17Kg of fuel remained in Car 9 at the end of the session (Document 17). The Team Manager explained that the team miscalculated the anticipated fuel usage of Car 9 in the session. The Stewards are satisfied that the breach was a consequence of a misjudgement by the team. Car 9 was found to be technically non-conformant with the FIA F2 Technical Regulations, therefore, the Stewards imposed a penalty of disqualification of Car 9 from the Practice session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     17,
+     20
+    ],
+    "tags": [
+     "Disqualified"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    17
+   ],
+   "published_local": "2026-09-24T12:45"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - SUMMONS - Car 9 - alleged technical non-conformity (fuel sample)",
+   "subject": "SUMMONS - Car 9 - alleged technical non-conformity (fuel sample)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_9_-_alleged_technical_non-conformity_fuel_sample.pdf",
+   "published": "2026-09-24T10:30",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 6.3.1 of the FIA Formula 2 Technical Regulations - Car 9 was not able to provide a fuel sample of a minimum of 0.8 kg after the Practice Session.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     19
+    ]
+   },
+   "published_local": "2026-09-24T12:30"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - SUMMONS - Car 10 - alleged technical non-conformity (fuel sample)",
+   "subject": "SUMMONS - Car 10 - alleged technical non-conformity (fuel sample)",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-09-24T10:29",
+   "recalled": true,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "published_local": "2026-09-24T12:29"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_technical_report_2.pdf",
+   "published": "2026-09-24T09:58",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    20
+   ],
+   "published_local": "2026-09-24T11:58"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - SUMMONS - Car 3 - allegedly overtaken by Car 20 under YF during Practice",
+   "subject": "SUMMONS - Car 3 - allegedly overtaken by Car 20 under YF during Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_3_-_allegedly_overtaken_by_car_20_under_yf_during_practice.pdf",
+   "published": "2026-09-25T16:46",
+   "recalled": false,
+   "cars": [
+    3,
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 20 allegedly overtook Car 3 under yellow flag conditions at 10:13 during Practice.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     16
+    ]
+   },
+   "published_local": "2026-09-25T18:46"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - SUMMONS - Car 20 - allegedly overtook Car 3 under YF during Practice",
+   "subject": "SUMMONS - Car 20 - allegedly overtook Car 3 under YF during Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_20_-_allegedly_overtook_car_3_under_yf_during_practice.pdf",
+   "published": "2026-09-25T16:09",
+   "recalled": false,
+   "cars": [
+    3,
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 20 allegedly overtook Car 3 under yellow flag conditions at 10:13 during Practice.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     14
+    ]
+   },
+   "related": [
+    22
+   ],
+   "published_local": "2026-09-25T18:09"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - SUMMONS - Car 10 - alleged incident under VSC in Practice",
+   "subject": "SUMMONS - Car 10 - alleged incident under VSC in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_summons_-_car_10_-_alleged_incident_under_vsc_in_practice.pdf",
+   "published": "2026-09-25T16:09",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 10 allegedly incident during VSC conditions at Turn 5 at 10:17 in Practice.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     13
+    ]
+   },
+   "related": [
+    21
+   ],
+   "published_local": "2026-09-25T18:09"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - F2 Practice - classification",
+   "subject": "F2 Practice - classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-09-24T09:06",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 26,
+   "published_local": "2026-09-24T11:06"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - F2 VISA - Baku 2026 - V2",
+   "subject": "F2 VISA - Baku 2026 - V2",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_visa_-_baku_2026_-_v2.pdf",
+   "published": "2026-09-24T08:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T10:06"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F2 Entry List - Baku 2026",
+   "subject": "F2 Entry List - Baku 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_entry_list_-_baku_2026.pdf",
+   "published": "2026-09-24T07:48",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T09:48"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F2 Baku Competition Notes 2026 v2",
+   "subject": "F2 Baku Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_baku_competition_notes_2026_v2.pdf",
+   "published": "2026-09-24T07:26",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-24T09:26"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F2 Baku Pit Lane Drawings 2026",
+   "subject": "F2 Baku Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_baku_pit_lane_drawings_2026.pdf",
+   "published": "2026-09-23T19:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-23T21:25"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Bulletin 2 - Baku specific - sporting",
+   "subject": "Bulletin 2 - Baku specific - sporting",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_bulletin_2_-_baku_specific_-_sporting.pdf",
+   "published": "2026-09-23T16:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-23T18:45"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - F2 Baku Competition Notes 2026 v1",
+   "subject": "F2 Baku Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_baku_competition_notes_2026_v1.pdf",
+   "published": "2026-09-23T16:45",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 8,
+   "published_local": "2026-09-23T18:45"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_technical_report_1.pdf",
+   "published": "2026-09-23T16:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-23T18:45"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Circuit Map - Baku 2026",
+   "subject": "Circuit Map - Baku 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_circuit_map_-_baku_2026.pdf",
+   "published": "2026-09-23T16:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-23T18:45"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Bulletin 1 - Restricted Periods",
+   "subject": "Bulletin 1 - Restricted Periods",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_bulletin_1_-_restricted_periods.pdf",
+   "published": "2026-09-23T16:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-23T18:43"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - F2 VISA - Baku 2026",
+   "subject": "F2 VISA - Baku 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_baku_event_-_f2_visa_-_baku_2026.pdf",
+   "published": "2026-09-23T16:42",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 10,
+   "published_local": "2026-09-23T18:42"
+  }
+ ]
+}

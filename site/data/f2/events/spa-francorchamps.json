@@ -1,0 +1,2866 @@
+{
+ "event": {
+  "slug": "spa-francorchamps",
+  "name": "Spa-Francorchamps",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Spa-Francorchamps",
+  "doc_count": 86,
+  "first_published": "2026-07-16T11:05",
+  "last_published": "2026-07-19T16:22",
+  "first_local": "2026-07-16T11:05",
+  "last_local": "2026-07-19T16:22",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-07-17T11:05",
+    "end_local": "2026-07-17T11:50",
+    "start_utc": "2026-07-17T09:05Z",
+    "end_utc": "2026-07-17T09:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-07-17T15:55",
+    "end_local": "2026-07-17T16:25",
+    "start_utc": "2026-07-17T13:55Z",
+    "end_utc": "2026-07-17T14:25Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-07-18T14:15",
+    "end_local": "2026-07-18T15:05",
+    "start_utc": "2026-07-18T12:15Z",
+    "end_utc": "2026-07-18T13:05Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-07-19T10:00",
+    "end_local": "2026-07-19T11:05",
+    "start_utc": "2026-07-19T08:00Z",
+    "end_utc": "2026-07-19T09:05Z",
+    "source": "fia"
+   }
+  ],
+  "counts": {
+   "results": 13,
+   "stewards": 60,
+   "technical": 4,
+   "admin": 4,
+   "race_director": 5
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 89,
+   "title": "Doc 89 - F2 Team Championship - Spa 2026",
+   "subject": "F2 Team Championship - Spa 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_team_championship_-_spa_2026.pdf",
+   "published": "2026-07-19T16:22",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-19T16:22"
+  },
+  {
+   "num": 88,
+   "title": "Doc 88 - F2 Driver Championship - Spa 2026",
+   "subject": "F2 Driver Championship - Spa 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_driver_championship_-_spa_2026.pdf",
+   "published": "2026-07-19T16:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-19T16:21"
+  },
+  {
+   "num": 87,
+   "title": "Doc 87 - F2 Race 2 (Feature) final classification",
+   "subject": "F2 Race 2 (Feature) final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_2_feature_final_classification.pdf",
+   "published": "2026-07-19T16:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-19T16:19"
+  },
+  {
+   "num": 86,
+   "title": "Doc 86 - INFRINGEMENT - F2 Race 2 - T19 track limit violations",
+   "subject": "INFRINGEMENT - F2 Race 2 - T19 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_f2_race_2_-_t19_track_limit_violations.pdf",
+   "published": "2026-07-19T16:18",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The car below did not use the track at Turn 19.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "2": 1,
+     "23": 1,
+     "25": 1
+    },
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     86
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-19T16:18"
+  },
+  {
+   "num": 85,
+   "title": "Doc 85 - INFRINGEMENT - F2 Race 2 - track limit violations",
+   "subject": "INFRINGEMENT - F2 Race 2 - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_f2_race_2_-_track_limit_violations.pdf",
+   "published": "2026-07-19T16:16",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes. SPA-FRANCORCHAMPS EVENT 16 TO 19 JULY 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "11": 4,
+     "2": 1,
+     "17": 4,
+     "14": 2,
+     "6": 4,
+     "9": 3,
+     "3": 3,
+     "23": 4,
+     "4": 4,
+     "5": 4,
+     "22": 4,
+     "15": 4,
+     "24": 2,
+     "16": 5,
+     "8": 2,
+     "1": 2,
+     "21": 4,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     85
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-19T16:16"
+  },
+  {
+   "num": 84,
+   "title": "Doc 84 - INFRINGEMENT - Car 5 - breach of non operational personnel regulations",
+   "subject": "INFRINGEMENT - Car 5 - breach of non operational personnel regulations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_5_-_breach_of_non_operational_personnel_regulations.pdf",
+   "published": "2026-07-19T16:05",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "10:53",
+    "session": "Race 2",
+    "fact": "Report received at 10:53 of a breach by non operational personnel associated with Campos in the Pit Lane during the Red Flag period.",
+    "infringement": "Breach of Article 21.5 and Appendix 5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "- 20.000€ fine to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA - Disqualification of Car 5 from the Feature Race (Race 2). All cars originally classified behind Car 5 are moved up one place in the Race classification. All lap times set by Car 5 during the Race are cancelled. - Withdrawal of 25 championship points from the Team, Campos Racing. This penalty is applied with suspension of sentence subject to no further breach of the above mentioned article of the 2026 FIA F2 Sporting Regulations at any FIA F2 events during the remainder of the 2026 F2 Season..",
+    "reason": "The Stewards examined the available evidence, summoned the Drivers and Team Manager (documents 69, 73 & 74). As the driver Noel LEON had already left the track, they only heard from Nikola TSOLOV and the Team Manager. A person declared as Non-Operational Personnel was observed wearing a radio headset fitted with a microphone, and therefore had the appearance of potentially being able to transit, and therefore not a “listen only headset”. This is alleged to be a breach of Appendix 5 and Article 21.5 of the F2 Sporting Regulations. Under the applicable regulations, Non-Operational Personnel may only be in possession of a listen-only radio headset. During the hearing, the Team Manager explained that the person concerned, who was a team guest, had inadvertently taken the wrong type of headset. The Stewards noted that the team guest had been approached by a Scrutineer and informed that the headset was not permitted as it was fitted with a microphone. The Scrutineer was advised in response that the microphone was folded upwards. Despite having been specifically advised that the headset was not permitted, the team guest subsequently put the headset back on and continued to use it. Nevertheless, the Team remains responsible for ensuring that radio equipment provided to Non-Operational Personnel and team guests complies with the applicable requirements. The regulations in this respect are clear: Non-Operational Personnel may only be in possession of a listen-only radio headset. The Team is expected to exercise greater care in controlling the allocation and use of such equipment. In determining the scope of the penalty, the Stewards also established that the team guest concerned was associated exclusively with Car 5 and had no involvement with the Team’s other car. The Stewards therefore considered that it would not be appropriate to apply the sporting consequence of this infringement to the other car and determined that the disqualification should apply only to Car 5. Furthermore, the team guest was observed using the non-compliant headset only during this session. There was no evidence before the Stewards that the guest had used the headset during any other session of the Competition. The Stewards therefore determined that the disqualification should be limited to Car 5 from the results of this session only. The Stewards emphasise that it remains the responsibility of the Team to ensure compliance with these requirements and to put appropriate measures in place to prevent any recurrence. Taking into account the circumstances above, the Stewards apply the above mentioned penalties.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     69,
+     84
+    ],
+    "tags": [
+     "Disqualified",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 20000
+   },
+   "related": [
+    69
+   ],
+   "published_local": "2026-07-19T16:05"
+  },
+  {
+   "num": 83,
+   "title": "Doc 83 - DECISION - Car 17 - alleged unsafe release",
+   "subject": "DECISION - Car 17 - alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_17_-_alleged_unsafe_release.pdf",
+   "published": "2026-07-19T15:22",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "10:18",
+    "session": "Race 2",
+    "fact": "Alleged unsafe release from Car 17 (Inthraphuvasak) when Car 15 (Dunne) was in the fast lane.",
+    "infringement": "Breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Documents 67 & 68) and heard the Drivers of Car 17 (Inthraphuvasak) and Car 15 (Dunne) and the team representatives. They examined video evidence. Car 15 entered the pit lane ahead of Car 17 both carrying out their mandatory pit stops. Car 15 was held in his pit position in order for another car to pass in the fast lane. This delay combined with perhaps a faster stop by car 17 resulted in Car 17 being released just after car 15 but in the pit position further ahead in the lane and hence ahead in position. When the driver of Car 17 was signalled to go, Car 15 was just leaving his pit area but was not yet in the fast lane. The Stewards used the other car in the fast lane as a reference point for the release of both Car 15 and 17 and concluded that each was released in a similar fashion relative to that car. Car 17 experienced some wheel spin when leaving his pit position and joined the fast lane immediately ahead of Car 15 but they were momentarily along side each other. The available space for Car 15 reduced as the two cars converged, and the driver of Car 15 elected to lift and fall behind Car 17. Car 17 was also seen to take avoiding action and briefly straddled the painted area in the pit lane separating the fast lane from the working lane. In judging if an unsafe release had occurred the Stewards assessed the circumstances at the point Car 17 completely cleared its pit-stop position, as required by Article 28.12 and also considered the point that the release signal was given to Car 17 and concluded that there was sufficient gap for the release to be done safely. The subsequent convergence between Cars 15 and 17 arose from simultaneous movement and Car 17’s wheelspin rather than an objectively unsafe gap at the release point. At all times both drivers were fully aware of each other and managed the situation appropriately. At the hearing the stewards were asked to consider whether either car had breached a regulation by driving along side each other briefly. Given the entire circumstances and how the drivers managed the situation the Stewards did not find that this reached to the level of a breach of the regulations either.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     67,
+     83
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    67
+   ],
+   "published_local": "2026-07-19T15:22"
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - INFRINGEMENT - Car 16 - multiple track limit violations",
+   "subject": "INFRINGEMENT - Car 16 - multiple track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_16_-_multiple_track_limit_violations_0.pdf",
+   "published": "2026-07-19T14:35",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "11:14",
+    "session": "Race 2",
+    "fact": "Car 16 (Maini) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 16 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     82
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-19T14:35"
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - INFRINGEMENT - Car 21 - multiple track limit violations",
+   "subject": "INFRINGEMENT - Car 21 - multiple track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_21_-_multiple_track_limit_violations.pdf",
+   "published": "2026-07-19T14:35",
+   "recalled": false,
+   "cars": [
+    21
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "competitor": "AIX Racing",
+    "time": "11:13",
+    "session": "Race 2",
+    "fact": "Car 21 (Shields) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 21 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     81
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-19T14:35"
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - INFRINGEMENT - Car 15 - multiple track limit violations",
+   "subject": "INFRINGEMENT - Car 15 - multiple track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_15_-_multiple_track_limit_violations.pdf",
+   "published": "2026-07-19T14:34",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "11:02",
+    "session": "Race 2",
+    "fact": "Car 15 (Dunne) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 15 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     80
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-19T14:34"
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - INFRINGEMENT - Car 4 - multiple track limit violations",
+   "subject": "INFRINGEMENT - Car 4 - multiple track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_4_-_multiple_track_limit_violations.pdf",
+   "published": "2026-07-19T14:33",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "competitor": "Hitech",
+    "time": "11:02",
+    "session": "Race 2",
+    "fact": "Car 4 (Herta) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 4 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     79
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-19T14:33"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - INFRINGEMENT - Car 5 - multiple track limit violations",
+   "subject": "INFRINGEMENT - Car 5 - multiple track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_5_-_multiple_track_limit_violations.pdf",
+   "published": "2026-07-19T14:32",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "11:01",
+    "session": "Race 2",
+    "fact": "Car 5 (Leon) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 5 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     78
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-19T14:32"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - INFRINGEMENT - Car 9 - causing a collision",
+   "subject": "INFRINGEMENT - Car 9 - causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_9_-_causing_a_collision.pdf",
+   "published": "2026-07-19T14:31",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "10:04",
+    "session": "Race 2",
+    "fact": "Car 9 (Mini) made contact with Car 8 on Lap 1 at Turn 1.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 1 point.",
+    "reason": "Having reviewed the available video evidence, the Stewards determined that Car 9 positioned itself on the right-hand side of the track approaching Turn 1. As the field approached Turn 1, Car 9 was squeezed towards the edge of the track, close to the grass, which compromised the driver’s approach in the braking area. At the apex of Turn 1, Car 9 attempted to overtake Car 8 on the inside. However, due to the lock-up and the resulting speed differential, Car 9 was unable to avoid contact with Car 8. The Stewards noted that the opening lap at Turn 1 of Spa-Francorchamps is a unique situation, with multiple cars negotiating a tight hairpin simultaneously and the available space reducing rapidly. Nevertheless, the Stewards determined that Car 8 had no realistic opportunity to avoid the collision, as it was constrained by another car to its left and was entitled to follow its chosen racing line through the corner. Having considered the matter extensively, the Stewards concluded that the driver of Car 9 was wholly responsible for the collision. While acknowledging the challenging circumstances of the opening lap at Turn 1, the Stewards determined that the driver of Car 9 failed to maintain sufficient control of the car under braking and was solely responsible for the resulting contact with Car 8. The Stewards therefore imposed a 5- second time penalty on the driver of Car 9.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     77
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-07-19T14:31"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - INFRINGEMENT - Car 7 - moved before the start lights were extinguished",
+   "subject": "INFRINGEMENT - Car 7 - moved before the start lights were extinguished",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_7_-_moved_before_the_start_lights_were_extinguished.pdf",
+   "published": "2026-07-19T14:16",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:03",
+    "session": "Race 2",
+    "fact": "Car 7 (Beganovic) moved prior to the race start.",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 7 (Beganovic) spun his tyres and moved considerably after the third light and before the start signal was given. The Stewards note that the car then stalled on the grid and was pushed into pit lane and immediately retired from Race 2. Accordingly, the Stewards impose the least of the penalties available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     76
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-19T14:16"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_technical_report_4.pdf",
+   "published": "2026-07-19T14:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-19T14:15"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - SUMMONS - Car 6 - alleged non operational personnel breach",
+   "subject": "SUMMONS - Car 6 - alleged non operational personnel breach",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_6_-_alleged_non_operational_personnel_breach.pdf",
+   "published": "2026-07-19T14:11",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "reason": "Alleged breach of Article 21.5 and Appendix 5 of the FIA F2 Sporting Regulations - it is alleged that a non-operational person was using a headset with a microphone fitted in the pit lane during Race 2 (Feature).",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     74
+    ]
+   },
+   "published_local": "2026-07-19T14:11"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - SUMMONS - Car 5 - alleged non operational personnel breach",
+   "subject": "SUMMONS - Car 5 - alleged non operational personnel breach",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_5_-_alleged_non_operational_personnel_breach.pdf",
+   "published": "2026-07-19T14:10",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Article 21.5 and Appendix 5 of the FIA F2 Sporting Regulations - it is alleged that a non-operational person was using a headset with a microphone fitted in the pit lane during Race 2 (Feature).",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     73
+    ]
+   },
+   "published_local": "2026-07-19T14:10"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - DECISION - Car 12 - alleged non respect of yellow flag",
+   "subject": "DECISION - Car 12 - alleged non respect of yellow flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_12_-_alleged_non_respect_of_yellow_flag.pdf",
+   "published": "2026-07-19T12:32",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "competitor": "PREMA Racing",
+    "time": "10:20",
+    "session": "Race 2",
+    "fact": "Car 12 (Boya) was alleged to have failed to respect yellow flags in Sector 4.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards received a report that Car 12 may have breached the Yellow Flag regulations in Sector 4 at 10:20. The Stewards reviewed the telemetry and video data and observed the following: Car 12 passed the signalling point for the sector 4 when it was clear and was at the apex of T2 approximately half-way through the sector when the yellow flag was deployed. The yellow was deployed for approximately 1 second. Car 12 was still in the sector when the yellow was withdrawn. Having reviewed the entire sequence of events the Stewards conclude that the driver was not shown the signal prior to entering the sector and considering the particular segment could not have reacted to a momentary display of the green panel which he may or may not have seen. Accordingly the Stewards find no breach of the regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     70
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-19T12:32"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - SUMMONS - Campos Racing - alleged non operational personnel breach",
+   "subject": "SUMMONS - Campos Racing - alleged non operational personnel breach",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_campos_racing_-_alleged_non_operational_personnel_breach.pdf",
+   "published": "2026-07-19T12:28",
+   "recalled": false,
+   "cars": [],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 21.5 and Appendix 5 of the FIA F2 Sporting Regulations - it is alleged that a non-operational person was using a headset with a microphone fitted in the pit lane during Race 2 (Feature).",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "refs": [
+     69
+    ]
+   },
+   "related": [
+    84
+   ],
+   "published_local": "2026-07-19T12:28"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - SUMMONS - Car 15 - alleged unsafe release in Race 2 by Car 17",
+   "subject": "SUMMONS - Car 15 - alleged unsafe release in Race 2 by Car 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_15_-_alleged_unsafe_release_in_race_2_by_car_17.pdf",
+   "published": "2026-07-19T12:04",
+   "recalled": false,
+   "cars": [
+    15,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Article 28.12 a of the FIA F2 Sporting Regulations - alleged unsafe release with Car 17 released into the path of Car 15 at 10:18 in Race 2.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     68
+    ]
+   },
+   "published_local": "2026-07-19T12:04"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - SUMMONS - Car 17 - alleged unsafe release in Race 2 on Car 15",
+   "subject": "SUMMONS - Car 17 - alleged unsafe release in Race 2 on Car 15",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_17_-_alleged_unsafe_release_in_race_2_on_car_15.pdf",
+   "published": "2026-07-19T12:03",
+   "recalled": false,
+   "cars": [
+    15,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Article 28.12 a of the FIA F2 Sporting Regulations - alleged unsafe release with Car 17 released into the path of Car 15 at 10:18 in Race 2.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     67
+    ]
+   },
+   "related": [
+    83
+   ],
+   "published_local": "2026-07-19T12:03"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - F2 Race 2 (Feature) provisional classification",
+   "subject": "F2 Race 2 (Feature) provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_2_feature_provisional_classification.pdf",
+   "published": "2026-07-19T11:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-19T11:37"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - F2 Race 2 (Feature) - final grid",
+   "subject": "F2 Race 2 (Feature) - final grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_2_feature_-_final_grid.pdf",
+   "published": "2026-07-19T09:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-19T09:00"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - F2 Race 2 (Feature) - provisional grid",
+   "subject": "F2 Race 2 (Feature) - provisional grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_2_feature_-_provisional_grid.pdf",
+   "published": "2026-07-18T18:49",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-18T18:49"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - F2 Race 1 (Sprint) - final classification",
+   "subject": "F2 Race 1 (Sprint) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-07-18T18:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-18T18:35"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_technical_report_3.pdf",
+   "published": "2026-07-18T18:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-18T18:24"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - INFRINGEMENT - Car 14 - Formation Lap - spacing not kept tight as possible",
+   "subject": "INFRINGEMENT - Car 14 - Formation Lap - spacing not kept tight as possible",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_14_-_formation_lap_-_spacing_not_kept_tight_as_possible.pdf",
+   "published": "2026-07-18T17:34",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "competitor": "Rodin Motorsport",
+    "time": "14:22",
+    "session": "Race 1",
+    "fact": "Car 14 (Stenshorne) spacing not kept as tight as possible to Car 11 (Montoya) on the Formation Lap.",
+    "infringement": "Breach of Article 37.7 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning given to the Driver of Car 14 (Stenshorne).",
+    "reason": "The Stewards summoned (Document 59) and heard the Drivers of Car 14 (Stenshorne) and the team representative. They examined video evidence. During the Formation Lap, Car 14 reduced its speed after the car ahead slowed on the approach to Turn 18. While it was appropriate for Car 14 to react to the speed reduction of the car in front, the Stewards determined that the gap to the preceding car had already become unnecessarily large. Article 37.7 of the Sporting Regulations requires that the formation be kept as tight as possible throughout the Formation Lap. Accordingly, the Stewards impose a Warning on the Driver of Car 14.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     59,
+     61
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    59
+   ],
+   "published_local": "2026-07-18T17:34"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - INFRINGEMENT - Car 7 - overtaking on the Formation Lap",
+   "subject": "INFRINGEMENT - Car 7 - overtaking on the Formation Lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_7_-_overtaking_on_the_formation_lap.pdf",
+   "published": "2026-07-18T17:25",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "competitor": "DAMS Lucas Oil",
+    "time": "14:22",
+    "session": "Race 1",
+    "fact": "Car 7 (Beganovic) overtook Cars 14, 2 and 8 on the Formation Lap.",
+    "infringement": "Breach of Article 37.8 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning given to the Driver of Car 7.",
+    "reason": "The Stewards summoned (Documents 52 and 53) and heard the Drivers of Car 7 (Beganovic) and Car 2 (Durksen) and the team representatives. They examined video evidence. During the Formation Lap, Cars 14, 8, 2 and 7 were travelling in sequence. Upon exiting Turn 17, Car 14 reduced its speed, which caused Cars 8 and 2 to slow accordingly. Car 7 was approaching at a higher speed and, upon realising that the cars ahead had slowed significantly, took evasive action by moving to the right-hand side of the track. In doing so, Car 7 left the track and overtook Cars 14, 8 and 2. Before entering Turn 18, Car 7 allowed all three cars to re-pass, thereby re- establishing its original starting order. During the hearing, the driver of Car 7 stated that he had been surprised by the speed of Car 14, which, in his view, was unusually slow at that point of the track. He explained that, upon realising the significant reduction in speed of the cars ahead, he took all reasonable measures to avoid a potential collision. Having considered the matter extensively, the Stewards determined that the driver of Car 7 should have been more aware of the speed at which the cars ahead were travelling. As a consequence of failing to do so, the driver was required to take evasive action to avoid a potential collision with Cars 8 and 2, leaving the track and overtaking multiple cars during the Formation Lap. The Stewards nevertheless accepted the driver’s explanation that the speed of Car 14 at the exit of Turn 17 was unusually slow for that section of the circuit. The Stewards concluded that, notwithstanding the circumstances described above, the driver of Car 7 remained responsible for controlling his speed and ensuring that he did not overtake other cars during the Formation Lap. Consequently, they decided to impose a warning to the driver of car 7.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     52,
+     60
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    52
+   ],
+   "published_local": "2026-07-18T17:25"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - SUMMONS - Car 14 - allegedly erratic driving on the Formation Lap",
+   "subject": "SUMMONS - Car 14 - allegedly erratic driving on the Formation Lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_14_-_allegedly_erratic_driving_on_the_formation_lap.pdf",
+   "published": "2026-07-18T16:49",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 e of the FIA ISC - Car 14 allegedly drove erratically at Turn 18 on the Formation Lap of Race 1 (Sprint).",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     59
+    ]
+   },
+   "related": [
+    61
+   ],
+   "published_local": "2026-07-18T16:49"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - INFRINGEMENT - F2 Race 1 - T19 track limit violations",
+   "subject": "INFRINGEMENT - F2 Race 1 - T19 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_f2_race_1_-_t19_track_limit_violations.pdf",
+   "published": "2026-07-18T16:28",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The car below did not use the track at Turn 19.",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "12": 1,
+     "3": 1,
+     "23": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     58
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-18T16:28"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - INFRINGEMENT - F2 Race 1 - lap cancellations",
+   "subject": "INFRINGEMENT - F2 Race 1 - lap cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_f2_race_1_-_lap_cancellations.pdf",
+   "published": "2026-07-18T16:27",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "17": 4,
+     "16": 4,
+     "8": 4,
+     "7": 3,
+     "25": 2,
+     "6": 1,
+     "9": 3,
+     "3": 5,
+     "22": 3,
+     "23": 2,
+     "4": 3,
+     "5": 1,
+     "11": 2,
+     "20": 1,
+     "10": 2,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     57
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-18T16:27"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - INFRINGEMENT - Car 3 - track limit violations x 5",
+   "subject": "INFRINGEMENT - Car 3 - track limit violations x 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_3_-_track_limit_violations_x_5.pdf",
+   "published": "2026-07-18T16:21",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "15:06",
+    "session": "Race 1",
+    "fact": "Car 3 (Miyata) exceeded track limits on 5 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 3 exceeded track limits on 5 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     56
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-18T16:21"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - INFRINGEMENT - Car 3 - track limit violations x 4",
+   "subject": "INFRINGEMENT - Car 3 - track limit violations x 4",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_3_-_track_limit_violations_x_4.pdf",
+   "published": "2026-07-18T16:20",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "14:57",
+    "session": "Race 1",
+    "fact": "Car 3 (Miyata) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 3 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-18T16:20"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - INFRINGEMENT - Car 16 - multiple track limit violations",
+   "subject": "INFRINGEMENT - Car 16 - multiple track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_16_-_multiple_track_limit_violations.pdf",
+   "published": "2026-07-18T16:20",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "14:48",
+    "session": "Race 1",
+    "fact": "Car 16 (Maini) exceeded track limits on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director and reviewed video footage. Having considered the matter extensively, the Stewards determined that Car 16 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     54
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-18T16:20"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - SUMMONS - Car 2 - allegedly overtook Cars 14, 2 and 8 on the Formation Lap",
+   "subject": "SUMMONS - Car 2 - allegedly overtook Cars 14, 2 and 8 on the Formation Lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_2_-_allegedly_overtook_cars_14_2_and_8_on_the_formation_lap.pdf",
+   "published": "2026-07-18T15:37",
+   "recalled": false,
+   "cars": [
+    2,
+    8,
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "reason": "Alleged breach of Article 37.8 of the FIA F2 Sporting Regulations - Car 7 allegedly overtook Cars 14, 2 and 8 on the Formation of Race 1 (Sprint).",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     53
+    ]
+   },
+   "published_local": "2026-07-18T15:37"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - SUMMONS - Car 7 - allegedly overtook Cars 14, 2 and 8 on the Formation Lap",
+   "subject": "SUMMONS - Car 7 - allegedly overtook Cars 14, 2 and 8 on the Formation Lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_7_-_allegedly_overtook_cars_14_2_and_8_on_the_formation_lap.pdf",
+   "published": "2026-07-18T15:36",
+   "recalled": false,
+   "cars": [
+    2,
+    7,
+    8,
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "reason": "Alleged breach of Article 37.8 of the FIA F2 Sporting Regulations - Car 7 allegedly overtook Cars 14, 2 and 8 on the Formation of Race 1 (Sprint).",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     52
+    ]
+   },
+   "related": [
+    60
+   ],
+   "published_local": "2026-07-18T15:36"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F2 Race 1 - provisional classification",
+   "subject": "F2 Race 1 - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_1_-_provisional_classification.pdf",
+   "published": "2026-07-18T15:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-18T15:21"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-07-18T13:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-18T13:15"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - Circuit Map V4 - Spa 2026",
+   "subject": "Circuit Map V4 - Spa 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_circuit_map_v4_-_spa_2026.pdf",
+   "published": "2026-07-18T11:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-18T11:16"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - F2 Race 1 (Sprint) - provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-07-17T23:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T23:47"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - F2 Qualifying - final classification",
+   "subject": "F2 Qualifying - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_qualifying_-_final_classification.pdf",
+   "published": "2026-07-17T23:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T23:40"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - INFRINGEMENT - F2 Qualifying - DWYF violations",
+   "subject": "INFRINGEMENT - F2 Qualifying - DWYF violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_f2_qualifying_-_dwyf_violations.pdf",
+   "published": "2026-07-17T23:28",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "5": 1,
+     "21": 1,
+     "20": 1,
+     "8": 1,
+     "11": 1,
+     "1": 1,
+     "2": 1,
+     "23": 1,
+     "17": 1,
+     "16": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-17T23:28"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - INFRINGEMENT - F2 Qualifying track limit violations",
+   "subject": "INFRINGEMENT - F2 Qualifying track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_f2_qualifying_track_limit_violations.pdf",
+   "published": "2026-07-17T23:27",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2. SPA-FRANCORCHAMPS EVENT 15 TO 19 JULY 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "5": 2,
+     "3": 2,
+     "23": 2,
+     "20": 1,
+     "9": 1,
+     "21": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     44
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-17T23:27"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - INFRINGEMENT - Car 20 - non respect of double waved yellow flags",
+   "subject": "INFRINGEMENT - Car 20 - non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_20_-_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T23:21",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "competitor": "AIX Racing",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 20 (Fittipaldi) failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "A drop of 10 places on the grid for the Sprint Race & Feature Race at this Competition. In addition, 3 points to be added to the driver’s record. Total for the 2026 season = 3 points",
+    "reason": "The Stewards summoned (Document 30) and heard the Driver of Car 20 (Fittipaldi) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. Car 20 entered the relevant sector while double yellow flags were being displayed. During the hearing, the driver stated that he saw the yellow flag and that he reduced his speed from T18 to the exit of T19. Despite this, the driver failed to react appropriately to the flag signals in the double yellow sector as it started after the exit of T19 to the control line. The telemetry data showed that Car 20 remained fully on throttle and did not make any meaningful reduction in speed in the sector. Furthermore, the driver set the fastest sector time while passing through the double yellow flag sector. Under double yellow flags, a driver must reduce speed significantly and must be prepared to change direction or stop. The Stewards find that the driver’s conduct failed to satisfy any of these requirements. Accordingly, the Stewards impose the above mentioned penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     30,
+     43
+    ],
+    "tags": [
+     "10-place grid drop",
+     "3 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 3
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-07-17T23:21"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - DECISION - Car 2 - alleged non respect of double waved yellow flags",
+   "subject": "DECISION - Car 2 - alleged non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_2_-_alleged_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T23:15",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 2 (Durksen) was alleged to have failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 28) and heard the Driver of Car 2 (Durksen) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. The sector under evaluation was the last sector of the track starting at the exit of Turn 19 and ending at the Control line. In comparing the sector times it is relevant to understand that the ideal line for the start of a push lap yields a faster sector time than is achieved when the sector is the last one of a push lap. This is because the drivers are able to make a different exit from Turn 19 when not following the T18 to T19 sequence. As a result an initial view of the sector times gave the impression that the driver may not have respected the double yellow requirements. Looking at the detailed telemetry data showed that the driver had lifted significantly and went back to throttle later in reaction to the double yellow. So although the sector time may not have shown an increase in time the drivers reaction did reflect the appropriate action. Accordingly the Stewards concluded that the driver did respect the requirements in this particular case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     28,
+     42
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    28
+   ],
+   "published_local": "2026-07-17T23:15"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - DECISION - Car 1 - alleged non respect of double waved yellow flags",
+   "subject": "DECISION - Car 1 - alleged non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_1_-_alleged_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T23:14",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 1 (Camara) was alleged to have failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 27) and heard the Driver of Car 1 (Camara) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. The sector under evaluation was the last sector of the track starting at the exit of Turn 19 and ending at the Control line. In comparing the sector times it is relevant to understand that the ideal line for the start of a push lap yields a faster sector time than is achieved when the sector is the last one of a push lap. This is because the drivers are able to make a different exit from Turn 19 when not following the T18 to T19 sequence. As a result an initial view of the sector times gave the impression that the driver may not have respected the double yellow requirements. Looking at the detailed telemetry data showed that the driver had lifted significantly and went back to throttle later in reaction to the double yellow. So although the sector time may not have shown an increase in time the drivers reaction did reflect the appropriate action. Accordingly the Stewards concluded that the driver did respect the requirements in this particular case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     27,
+     41
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    27
+   ],
+   "published_local": "2026-07-17T23:14"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - DECISION - Car 8 - alleged non respect of double waved yellow flags",
+   "subject": "DECISION - Car 8 - alleged non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_8_-_alleged_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T23:14",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "competitor": "DAMS Lucas Oil",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 8 (Bilinski) was alleged to have failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 29) and heard the Driver of Car 8 (Bilinski) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. The sector under evaluation was the last sector of the track starting at the exit of Turn 19 and ending at the Control line. In comparing the sector times it is relevant to understand that the ideal line for the start of a push lap yields a faster sector time than is achieved when the sector is the last one of a push lap. This is because the drivers are able to make a different exit from Turn 19 when not following the T18 to T19 sequence. As a result an initial view of the sector times gave the impression that the driver may not have respected the double yellow requirements. Looking at the detailed telemetry data showed that the driver had lifted significantly and went back to throttle later in reaction to the double yellow. So although the sector time may not have shown an increase in time the drivers reaction did reflect the appropriate action. Accordingly the Stewards concluded that the driver did respect the requirements in this particular case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     29,
+     40
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-07-17T23:14"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - DECISION - Car 11 - alleged non respect of double waved yellow flags",
+   "subject": "DECISION - Car 11 - alleged non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_11_-_alleged_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T23:13",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "competitor": "PREMA Racing",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 11 (Montoya) was alleged to have failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 25) and heard the Driver of Car 11 (Montoya) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. The sector under evaluation was the last sector of the track starting at the exit of Turn 19 and ending at the Control line. In comparing the sector times it is relevant to understand that the ideal line for the start of a push lap yields a faster sector time than is achieved when the sector is the last one of a push lap. This is because the drivers are able to make a different exit from Turn 19 when not following the T18 to T19 sequence. As a result an initial view of the sector times gave the impression that the driver may not have respected the double yellow requirements. Looking at the detailed telemetry data showed that the driver had lifted significantly and went back to throttle later in reaction to the double yellow. So although the sector time may not have shown an increase in time the drivers reaction did reflect the appropriate action. Accordingly the Stewards concluded that the driver did respect the requirements in this particular case.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     25,
+     39
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    25
+   ],
+   "published_local": "2026-07-17T23:13"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - INFRINGEMENT - Car 21 - non respect of double waved yellow flags",
+   "subject": "INFRINGEMENT - Car 21 - non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_21_-_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T23:00",
+   "recalled": false,
+   "cars": [
+    21
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "competitor": "AIX Racing",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 21 (Shields) failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "A drop of 10 places on the grid for the Sprint Race & Feature Race at this Competition. In addition, 3 points to be added to the driver’s record. Total for the 2026 season = 3 points",
+    "reason": "The Stewards summoned (Document 31) and heard the Driver of Car 21 (Shields) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. Car 21 entered the relevant sector while double yellow flags were being displayed. During the hearing, the driver confirmed that he had heard the acoustic warning indicating the double yellow flag condition. Despite this warning, the driver failed to react appropriately to the flag signals. The telemetry data showed that Car 21 remained fully on throttle and did not make any meaningful reduction in speed. Furthermore, the driver set the fastest sector time while passing through the double yellow flag sector. Under double yellow flags, a driver must reduce speed significantly and must be prepared to change direction or stop. The Stewards find that the driver’s conduct failed to satisfy any of these requirements. Accordingly, the Stewards impose the above mentioned penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     31,
+     38
+    ],
+    "tags": [
+     "10-place grid drop",
+     "3 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 3
+   },
+   "related": [
+    31
+   ],
+   "published_local": "2026-07-17T23:00"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - INFRINGEMENT - Car 23 - non respect of single waved yellow flags",
+   "subject": "INFRINGEMENT - Car 23 - non respect of single waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_23_-_non_respect_of_single_waved_yellow_flags.pdf",
+   "published": "2026-07-17T22:47",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "competitor": "Van Amersfoort Racing",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 23 (Villagomez) failed to respect single waved yellow flags at Turn 19.",
+    "infringement": "Breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "A drop of 5 places on the grid for the Sprint Race & Feature Race at this Competition. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 5 points",
+    "reason": "The Stewards summoned (Document 32) and heard the Driver of Car 23 (Villagomez) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data Car 23 entered the relevant sector while a single yellow flag was being displayed. Whilst the car was within the sector, the signalling was upgraded to double yellow. As the driver had already entered the sector prior to this change, the Stewards considered only the driver's compliance with the requirements applicable to a single yellow flag. During the hearing, the driver acknowledged that he did not lift off the throttle upon entering the yellow flag sector. This was further confirmed by the telemetry data, which showed that no meaningful reduction in throttle application or speed occurred through the sector. The Stewards therefore determine that the driver failed to comply with the requirements applicable under a single yellow flag and therefore apply the above mention penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     32,
+     37
+    ],
+    "tags": [
+     "5-place grid drop",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    32
+   ],
+   "published_local": "2026-07-17T22:47"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - DECISION - Car 17 - alleged non respect of double waved yellow flags",
+   "subject": "DECISION - Car 17 - alleged non respect of double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_17_-_alleged_non_respect_of_double_waved_yellow_flags.pdf",
+   "published": "2026-07-17T22:46",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 17 (Inthraphuvasak) was alleged to have failed to respect double waved yellow flags at Turn 19.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 26) and heard the Driver of Car 17 (Inthraphuvasak) and the team representatives. Together they examined the available video evidence, marshalling system data and timing and telemetry data. Car 17 approached the yellow flag sector, observed the single yellow flag and reacted by lifting off the throttle and reducing speed. Having seen Car 24 stationary at the side of the track and the illuminated green light panel, the driver resumed his lap. This was confirmed by the telemetry data. The Stewards further established that, at the time Car 17 entered the relevant sector, only a single yellow flag was being displayed. The sector was upgraded to a double yellow flag condition only after Car 17 had already entered the sector. Accordingly, the driver complied with the requirements applicable to a single yellow flag. Having considered all of the available evidence, the Stewards are satisfied that the driver took appropriate action in response to the yellow flag signal and determine to take No Further Action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     26,
+     36
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    26
+   ],
+   "published_local": "2026-07-17T22:46"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - DECISION - Car 24 - allegedly the sole cause of the issuance of the red flag",
+   "subject": "DECISION - Car 24 - allegedly the sole cause of the issuance of the red flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_decision_-_car_24_-_allegedly_the_sole_cause_of_the_issuance_of_the_red_flag.pdf",
+   "published": "2026-07-17T20:56",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "competitor": "Trident Motorsport",
+    "time": "16:26",
+    "session": "Qualifying",
+    "fact": "Car 24 (Van Hoepen) was allegedly the sole cause of the issuance of the red flag.",
+    "infringement": "Alleged breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 24) and heard the Driver of Car 24 (Van Hoepen) and the team representative. Car 24 stopped on the circuit after suffering a gearbox failure, which resulted in the session being red flagged. The FIA Technical Delegate confirmed through the recorded data that the gearbox malfunction prevented the driver from selecting gears and that the failure was caused by a genuine technical failure. Having considered the matter extensively and having consulted with the FIA Technical Delegate, the Stewards determined that, whilst Car 24 was the immediate cause of the red flag, the driver could not be regarded as the sole cause of the red flag within the meaning of Article 33.5 of the Sporting Regulations. Article 33.5 provides the Stewards with the discretion to determine whether the deletion of the driver's fastest qualifying lap is warranted where a driver is the sole cause of a red flag. The purpose of the Article is to address situations in which a driver's actions have unfairly compromised the qualifying attempts of other competitors. In the present case, the evidence establishes that the red flag resulted from an unforeseen mechanical failure outside the driver's control. The driver neither contributed to nor could reasonably have avoided the incident. Accordingly, the Stewards find that the circumstances do not justify the deletion of the driver's fastest qualifying lap.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     24,
+     35
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    24
+   ],
+   "published_local": "2026-07-17T20:56"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - INFRINGEMENT - Car 5 - sole cause of the issuance of the red flag",
+   "subject": "INFRINGEMENT - Car 5 - sole cause of the issuance of the red flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_5_-_sole_cause_of_the_issuance_of_the_red_flag.pdf",
+   "published": "2026-07-17T20:55",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "16:00",
+    "session": "Qualifying",
+    "fact": "Car 5 (Leon) was the sole cause of the issuance of the red flag.",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Car 5 is determined to have been the sole cause of the Red Flag issued at 16:00 hours Deletion of all lap times set during the Qualifying Session after the Red Flag which was issued at 16:00 hours No lap time was set prior to the Red Flag, so the Stewards were unable to delete the fastest lap set prior to the Red Flag Start permission given for both Races, to be placed on the grid in accordance with Article 34.2 of the F2 Sporting Regulations",
+    "reason": "The Stewards summoned (Document 23) and heard the Driver of Car 5 (Leon) and the team representative. They reviewed video evidence and determined that, at the start of the Qualifying Session, Car 5 was on its out-lap. While negotiating the apex of Turn 4, Car 5 lost control, spun and came to a stop on the left-hand side of the track at the exit of Turn 4. A red flag was subsequently declared by the Race Director. Car 5 was then able to restart the car without assistance and followed the red flag procedure, proceeding directly to the Pit Lane. Having considered the matter extensively, the Stewards noted that the track had been declared wet by the Race Director prior to the commencement of the session. The Driver of Car 5 was therefore aware of the prevailing track conditions when entering Turn 4. Having reviewed the available evidence, the Stewards determined that no external factors contributed to the spin and that the incident was solely caused by the Driver of Car 5. Consequently, the Driver of Car 5 was determined to be solely responsible for the incident which resulted in the red flag. During the hearing, the Team Representative indicated that he had sought permission from the Race Director for the Driver to continue. As the incident had not yet been investigated by the Stewards and no decision on the Sole Cause of the Red Flag had been determined, the Race Director properly responded that the Driver could continue. It has been agreed with the teams that the Sole Cause of a Red Flag will be investigated after a session when it is not absolutely clear to the Stewards that there was no mechanical or other cause outside the control of the Driver. Considering the unique sequence of events in this case, the Stewards determined that they would not immediately hold the driver responsible and hence permitted him to continue. It was the driver's choice to continue in the session, knowing that all times set thereafter may have been invalidated. The Stewards, therefore, decided to invalidate all lap times set by Car 5 after the red flag was issued. No lap time was set prior to the Red Flag, so the Stewards were unable to delete the fastest lap set prior to the Red Flag. Car 5 therefore has no valid lap time recorded during the qualifying session. Finally, considering that car 5 set a suitable lap time within the 107% limit during free practice session, the Stewards permit Car 5 to start both Races behind all the classified drivers.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     23,
+     34
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    23
+   ],
+   "published_local": "2026-07-17T20:55"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_technical_report_2.pdf",
+   "published": "2026-07-17T20:53",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T20:53"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - SUMMONS - Car 23 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 23 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_23_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:56",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 23 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     32
+    ]
+   },
+   "related": [
+    37
+   ],
+   "published_local": "2026-07-17T18:56"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - SUMMONS - Car 21 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 21 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_21_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:55",
+   "recalled": false,
+   "cars": [
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 21 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   },
+   "related": [
+    38
+   ],
+   "published_local": "2026-07-17T18:55"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - SUMMONS - Car 20 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 20 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_20_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:54",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Emerson Fittipaldi",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 20 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "related": [
+    43
+   ],
+   "published_local": "2026-07-17T18:54"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - SUMMONS - Car 8 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 8 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_8_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:54",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 8 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "related": [
+    40
+   ],
+   "published_local": "2026-07-17T18:54"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - SUMMONS - Car 2 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 2 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_2_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:53",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 2 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     28
+    ]
+   },
+   "related": [
+    42
+   ],
+   "published_local": "2026-07-17T18:53"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - SUMMONS - Car 1 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 1 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_1_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:52",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 1 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     27
+    ]
+   },
+   "related": [
+    41
+   ],
+   "published_local": "2026-07-17T18:52"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - SUMMONS - Car 17 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 17 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_17_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:52",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 17 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     26
+    ]
+   },
+   "related": [
+    36
+   ],
+   "published_local": "2026-07-17T18:52"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - SUMMONS - Car 11 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "subject": "SUMMONS - Car 11 - allegedly failure to respect double yellow waved flags at T19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_11_-_allegedly_failure_to_respect_double_yellow_waved_flags_at_t19_in_qualifying.pdf",
+   "published": "2026-07-17T18:51",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "reason": "Alleged breach of Appendix H Article 2.5.5.b of the FIA ISC - Car 11 allegedly failed to respect the double yellow waved flags at 16:25 at Turn 19 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     25
+    ]
+   },
+   "related": [
+    39
+   ],
+   "published_local": "2026-07-17T18:51"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - SUMMONS - Car 24 - alleged sole cause of red flag in Qualifying",
+   "subject": "SUMMONS - Car 24 - alleged sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_24_-_alleged_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-07-17T17:48",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - Car 24 is allegedly the sole cause of the issuance of the red flag at 16:26 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     24
+    ]
+   },
+   "related": [
+    35
+   ],
+   "published_local": "2026-07-17T17:48"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - SUMMONS - Car 5 - alleged sole cause of red flag in Qualifying",
+   "subject": "SUMMONS - Car 5 - alleged sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_5_-_alleged_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-07-17T17:16",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - Car 5 is allegedly the sole cause of the issuance of the red flag at 16:00 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     23
+    ]
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-07-17T17:16"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - F2 Qualifying - provisional classification",
+   "subject": "F2 Qualifying - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_qualifying_-_provisional_classification.pdf",
+   "published": "2026-07-17T16:49",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T16:49"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - INFRINGEMENT - Practice - lap cancellation due to DWYF",
+   "subject": "INFRINGEMENT - Practice - lap cancellation due to DWYF",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_practice_-_lap_cancellation_due_to_dwyf.pdf",
+   "published": "2026-07-17T13:51",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "21": 1,
+     "4": 1,
+     "22": 1
+    },
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     21
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-17T13:51"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENTS - Practice - T19 track limits",
+   "subject": "INFRINGEMENTS - Practice - T19 track limits",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringements_-_practice_-_t19_track_limits.pdf",
+   "published": "2026-07-17T13:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T13:50"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Practice - track limit violations",
+   "subject": "INFRINGEMENT - Practice - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_practice_-_track_limit_violations.pdf",
+   "published": "2026-07-17T13:49",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "10": 3,
+     "4": 4,
+     "16": 1,
+     "12": 3,
+     "15": 3,
+     "23": 1,
+     "2": 2,
+     "9": 1,
+     "3": 2,
+     "17": 2,
+     "6": 1,
+     "20": 1,
+     "8": 1
+    },
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-17T13:49"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - INFRINGEMENT - Car 17 - impeding in Practice",
+   "subject": "INFRINGEMENT - Car 17 - impeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_17_-_impeding_in_practice.pdf",
+   "published": "2026-07-17T13:42",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "11:29",
+    "session": "Practice",
+    "fact": "Car 17 (Inthraphuvasak) impeded Car 5 (Leon) at Turn 7.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning given to the Driver of Car 17.",
+    "reason": "The Stewards summoned (Documents 10 & 11) and heard the Drivers of Car 17 (Inthraphuvasak) and Car 5 (Leon) and the team representatives. They examined video evidence. Car 17 had abandoned his lap in Turn 4 and allowed three cars, which were on push laps, to pass between Turns 5 and 6. At the exit of Turn 6, Car 5 was approaching. As Car 17 was already travelling at a significantly reduced speed on the approach to Turn 7, this resulted in Car 5 being unnecessarily impeded at the apex of Turn 7. While noting the circumstances of the incident, the Stewards consider that the driver must be aware that in this section of the track particular care is required. Accordingly, the Stewards find that Car 5 was unnecessarily impeded and apply the standard penalty for the session as per the Penalty Guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     10,
+     18
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    10
+   ],
+   "published_local": "2026-07-17T13:42"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - INFRINGEMENT - Car 23 - red light pit exit",
+   "subject": "INFRINGEMENT - Car 23 - red light pit exit",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_23_-_red_light_pit_exit.pdf",
+   "published": "2026-07-17T13:24",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "competitor": "Van Amersfoort Racing",
+    "time": "11:50",
+    "session": "Practice",
+    "fact": "Car 23 (Villagomez) exited pit lane whilst the red light at pit exit was illuminated.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 6 (c) and Article 31.3 of the FIA F2 Sporting Regulations.",
+    "decision": "No penalty applied.",
+    "reason": "With approximately 4 minutes and 30 seconds left in the session there was an incident requiring a Red Flag. Given the time to clear the track it was not possible to go back to Green before the time for the session expired. The RD announced that in order to allow the cars that were now in the pit lane to do a practice start the pit lane would be opened and all drivers who wished to perform a practice start were to immediately leave pit lane and go to the start. The drivers left without delay but the pit lane exit light automatically switched to red momentarily and 5 cars exited the pit lane while it was red. The light was immediately turned back to green when noticed. It is a breach of the regulations to exit the pit lane when the light is red. However, under these unique circumstances the stewards elect not to apply a penalty to the drivers involved.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-17T13:24"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - INFRINGEMENT - Car 17 - red light pit exit",
+   "subject": "INFRINGEMENT - Car 17 - red light pit exit",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_17_-_red_light_pit_exit.pdf",
+   "published": "2026-07-17T13:23",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "11:50",
+    "session": "Practice",
+    "fact": "Car 17 (Inthraphuvasak) exited pit lane whilst the red light at pit exit was illuminated.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 6 (c) and Article 31.3 of the FIA F2 Sporting Regulations.",
+    "decision": "No penalty applied.",
+    "reason": "With approximately 4 minutes and 30 seconds left in the session there was an incident requiring a Red Flag. Given the time to clear the track it was not possible to go back to Green before the time for the session expired. The RD announced that in order to allow the cars that were now in the pit lane to do a practice start the pit lane would be opened and all drivers who wished to perform a practice start were to immediately leave pit lane and go to the start. The drivers left without delay but the pit lane exit light automatically switched to red momentarily and 5 cars exited the pit lane while it was red. The light was immediately turned back to green when noticed. It is a breach of the regulations to exit the pit lane when the light is red. However, under these unique circumstances the stewards elect not to apply a penalty to the drivers involved.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     16
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-17T13:23"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - INFRINGEMENT - Car 16 - red light pit exit",
+   "subject": "INFRINGEMENT - Car 16 - red light pit exit",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_16_-_red_light_pit_exit.pdf",
+   "published": "2026-07-17T13:23",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "11:50",
+    "session": "Practice",
+    "fact": "Car 16 (Maini) exited pit lane whilst the red light at pit exit was illuminated.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 6 (c) and Article 31.3 of the FIA F2 Sporting Regulations.",
+    "decision": "No penalty applied.",
+    "reason": "With approximately 4 minutes and 30 seconds left in the session there was an incident requiring a Red Flag. Given the time to clear the track it was not possible to go back to Green before the time for the session expired. The RD announced that in order to allow the cars that were now in the pit lane to do a practice start the pit lane would be opened and all drivers who wished to perform a practice start were to immediately leave pit lane and go to the start. The drivers left without delay but the pit lane exit light automatically switched to red momentarily and 5 cars exited the pit lane while it was red. The light was immediately turned back to green when noticed. It is a breach of the regulations to exit the pit lane when the light is red. However, under these unique circumstances the stewards elect not to apply a penalty to the drivers involved.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     15
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-17T13:23"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - INFRINGEMENT - Car 14 - red light pit exit",
+   "subject": "INFRINGEMENT - Car 14 - red light pit exit",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_14_-_red_light_pit_exit.pdf",
+   "published": "2026-07-17T13:22",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "competitor": "Rodin Motorsport",
+    "time": "11:50",
+    "session": "Practice",
+    "fact": "Car 14 (Stenshorne) exited pit lane whilst the red light at pit exit was illuminated.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 6 (c) and Article 31.3 of the FIA F2 Sporting Regulations.",
+    "decision": "No penalty applied.",
+    "reason": "With approximately 4 minutes and 30 seconds left in the session there was an incident requiring a Red Flag. Given the time to clear the track it was not possible to go back to Green before the time for the session expired. The RD announced that in order to allow the cars that were now in the pit lane to do a practice start the pit lane would be opened and all drivers who wished to perform a practice start were to immediately leave pit lane and go to the start. The drivers left without delay but the pit lane exit light automatically switched to red momentarily and 5 cars exited the pit lane while it was red. The light was immediately turned back to green when noticed. It is a breach of the regulations to exit the pit lane when the light is red. However, under these unique circumstances the stewards elect not to apply a penalty to the drivers involved.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     14
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-17T13:22"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - INFRINGEMENT - Car 5 - red light pit exit",
+   "subject": "INFRINGEMENT - Car 5 - red light pit exit",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_5_-_red_light_pit_exit.pdf",
+   "published": "2026-07-17T12:59",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "11:50",
+    "session": "Practice",
+    "fact": "Car 5 (Leon) exited pit lane whilst the red light at pit exit was illuminated.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 6 (c) and Article 31.3 of the FIA F2 Sporting Regulations.",
+    "decision": "No penalty applied.",
+    "reason": "With approximately 4 minutes and 30 seconds left in the session there was an incident requiring a Red Flag. Given the time to clear the track it was not possible to go back to Green before the time for the session expired. The RD announced that in order to allow the cars that were now in the pit lane to do a practice start the pit lane would be opened and all drivers who wished to perform a practice start were to immediately leave pit lane and go to the start. The drivers left without delay but the pit lane exit light automatically switched to red momentarily and 5 cars exited the pit lane while it was red. The light was immediately turned back to green when noticed. It is a breach of the regulations to exit the pit lane when the light is red. However, under these unique circumstances the stewards elect not to apply a penalty to the drivers involved.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     13
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-17T12:59"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - INFRINGEMENT - Car 5 - speeding in Practice",
+   "subject": "INFRINGEMENT - Car 5 - speeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_infringement_-_car_5_-_speeding_in_practice.pdf",
+   "published": "2026-07-17T12:58",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "10:58",
+    "session": "Practice",
+    "fact": "Car 5 was reported for Pit Lane Speeding – 61.9 km/h.",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 200 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 5 exceeded the pit lane speed limit which is set at 60 km/h for this Event by 1.9 km/h. This occurred during the transfer lap from the Support Paddock to the F1 Pit Lane prior to the commencement of the Practice Session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     12
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 200
+   },
+   "published_local": "2026-07-17T12:58"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - SUMMONS - Car 5 - allegedly impeded by Car 17 at Turn 5",
+   "subject": "SUMMONS - Car 5 - allegedly impeded by Car 17 at Turn 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_5_-_allegedly_impeded_by_car_17_at_turn_5.pdf",
+   "published": "2026-07-17T12:20",
+   "recalled": false,
+   "cars": [
+    5,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 17 allegedly impeded Car 5 at Turn 7 at 11:29 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     11
+    ]
+   },
+   "published_local": "2026-07-17T12:20"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - SUMMONS - Car 17 - allegedly impeded Car 5 at Turn 5",
+   "subject": "SUMMONS - Car 17 - allegedly impeded Car 5 at Turn 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_summons_-_car_17_-_allegedly_impeded_car_5_at_turn_5.pdf",
+   "published": "2026-07-17T12:19",
+   "recalled": false,
+   "cars": [
+    5,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 17 allegedly impeded Car 5 at Turn 7 at 11:29 in Practice.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     10
+    ]
+   },
+   "related": [
+    18
+   ],
+   "published_local": "2026-07-17T12:19"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F2 Practice - classification",
+   "subject": "F2 Practice - classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-07-17T12:09",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T12:09"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F2 Spa-Francorchamps Event Notes 2026 v2",
+   "subject": "F2 Spa-Francorchamps Event Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_spa-francorchamps_event_notes_2026_v2.pdf",
+   "published": "2026-07-17T09:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-17T09:24"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F2 Entry List - Spa 2026",
+   "subject": "F2 Entry List - Spa 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_entry_list_-_spa_2026.pdf",
+   "published": "2026-07-16T18:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-16T18:02"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_technical_report_1.pdf",
+   "published": "2026-07-16T17:58",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-16T17:58"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - F2 Spa-Francorchamps Pit Lane Drawings 2026",
+   "subject": "F2 Spa-Francorchamps Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_spa-francorchamps_pit_lane_drawings_2026.pdf",
+   "published": "2026-07-16T15:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-16T15:06"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - F2 Spa-Francorchamps Competition Notes 2026 v1",
+   "subject": "F2 Spa-Francorchamps Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_f2_spa-francorchamps_competition_notes_2026_v1.pdf",
+   "published": "2026-07-16T14:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-16T14:47"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 1 - Restricted Periods",
+   "subject": "Bulletin 1 - Restricted Periods",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_bulletin_1_-_restricted_periods.pdf",
+   "published": "2026-07-16T12:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-16T12:31"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Circuit Map - Spa 2026",
+   "subject": "Circuit Map - Spa 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_circuit_map_-_spa_2026.pdf",
+   "published": "2026-07-16T11:06",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 49,
+   "published_local": "2026-07-16T11:06"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F2 Spa 2026",
+   "subject": "VISA - F2 Spa 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spa_francorchamps_event_-_visa_-_f2_spa_2026.pdf",
+   "published": "2026-07-16T11:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-16T11:05"
+  }
+ ]
+}

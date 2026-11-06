@@ -1,0 +1,3028 @@
+{
+ "event": {
+  "slug": "montreal",
+  "name": "Montréal",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Montr%C3%A9al",
+  "doc_count": 94,
+  "first_published": "2026-05-21T22:59",
+  "last_published": "2026-05-25T01:18",
+  "first_local": "2026-05-21T16:59",
+  "last_local": "2026-05-24T19:18",
+  "utc_offset_min": -240,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-05-22T10:05",
+    "end_local": "2026-05-22T10:50",
+    "start_utc": "2026-05-22T14:05Z",
+    "end_utc": "2026-05-22T14:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-05-22T14:00",
+    "end_local": "2026-05-22T14:30",
+    "start_utc": "2026-05-22T18:00Z",
+    "end_utc": "2026-05-22T18:30Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-05-23T14:10",
+    "end_local": "2026-05-23T15:00",
+    "start_utc": "2026-05-23T18:10Z",
+    "end_utc": "2026-05-23T19:00Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-05-24T12:05",
+    "end_local": "2026-05-24T13:10",
+    "start_utc": "2026-05-24T16:05Z",
+    "end_utc": "2026-05-24T17:10Z",
+    "source": "fia"
+   }
+  ],
+  "counts": {
+   "results": 13,
+   "stewards": 66,
+   "technical": 6,
+   "race_director": 6,
+   "admin": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 94,
+   "title": "Doc 94 - F2 Team Championship - Montreal 2026",
+   "subject": "F2 Team Championship - Montreal 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_team_championship_-_montreal_2026.pdf",
+   "published": "2026-05-25T01:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-24T19:18"
+  },
+  {
+   "num": 93,
+   "title": "Doc 93 - F2 Driver Championship - Montreal 2026",
+   "subject": "F2 Driver Championship - Montreal 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_driver_championship_-_montreal_2026.pdf",
+   "published": "2026-05-25T01:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-24T19:18"
+  },
+  {
+   "num": 92,
+   "title": "Doc 92 - F2 Race 2 (Feature) - Final classification",
+   "subject": "F2 Race 2 (Feature) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_2_feature_-_final_classification.pdf",
+   "published": "2026-05-25T01:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-24T19:11"
+  },
+  {
+   "num": 91,
+   "title": "Doc 91 - INFRINGEMENT - Car 1 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 1 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_1_-_causing_a_collision.pdf",
+   "published": "2026-05-24T23:57",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "12:09",
+    "session": "Race 2",
+    "fact": "Car 1 (Camara) made side-to-side contact with Car 7 (Beganovic) at Turn 10 and gained the position from him.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five (5) seconds time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 1 point.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively the Stewards determine that Car 7 (BEG) on the outside was slightly ahead of Car 1 (CAM) at the entry to Turn 10. BEG left sufficient room for CAM on the inside at the apex but CAM had slight understeer which caused him to miss the apex by a bit and have slight side-to-side contact with BEG. CAM gained the position and retained it which is the reason the Stewards have decided to act. The Stewards determine that CAM is wholly responsible for the collision. The standard penalty has been mitigated in this case due to the minor nature of the contact.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     91
+    ],
+    "tags": [
+     "Time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-05-24T17:57"
+  },
+  {
+   "num": 90,
+   "title": "Doc 90 - INFRINGEMENT - Car 5 - Pit lane speeding in Race 2",
+   "subject": "INFRINGEMENT - Car 5 - Pit lane speeding in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_5_-_pit_lane_speeding_in_race_2.pdf",
+   "published": "2026-05-24T23:56",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "12:51",
+    "session": "Race 2",
+    "fact": "Car 5 (Leon) - Pit lane speeding - 63.2 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations.",
+    "reason": "Car 5 (Leon) exceeded the pit lane speed limit which is set at 60 km/h for this event by 3.2 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     90
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-05-24T17:56"
+  },
+  {
+   "num": 89,
+   "title": "Doc 89 - INFRINGEMENT - Car 8 - Leaving track and gaining advantage",
+   "subject": "INFRINGEMENT - Car 8 - Leaving track and gaining advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_8_-_leaving_track_and_gaining_advantage.pdf",
+   "published": "2026-05-24T23:56",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "competitor": "DAMS Lucas Oil",
+    "time": "12:41",
+    "session": "Race 2",
+    "fact": "Car 8 (Bilinski) cut the chicane at Turns 13-14 while defending against Car 1 (Camara) and retained the position as a result.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video & GPS evidence. Having considered the matter extensively, the Stewards determined that Car 8 (BIL) was defending against Car 1 (CAM) approaching Turn 13. CAM on the inside had significant overlap with BIL. BIL, through no fault of CAM, went off track at 13 and rejoined after Turn 14 still in front of CAM. In such cases, it is not enough for the gap between the cars to merely remain the same. Failing to lose a position after leaving the track while defending constitutes gaining an advantage. BIL is penalized for remaining in front of CAM by doing so.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     89
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-05-24T17:56"
+  },
+  {
+   "num": 88,
+   "title": "Doc 88 - INFRINGEMENT - Car 2 - Causing a collsion",
+   "subject": "INFRINGEMENT - Car 2 - Causing a collsion",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_2_-_causing_a_collsion.pdf",
+   "published": "2026-05-24T23:55",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "12:48",
+    "session": "Race 2",
+    "fact": "Car 2 (Durksen) collided with Car 3 (Miyata) at Turn 10.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten (10) seconds time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 3 points.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively the Stewards determine that Car 2 made nose to tail contact with Car 3 at Turn 10 causing it to spin. The Stewards determine that Car 10 is wholly responsible for the collision and apply the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     88
+    ],
+    "tags": [
+     "Time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-05-24T17:55"
+  },
+  {
+   "num": 87,
+   "title": "Doc 87 - Technical Report 5",
+   "subject": "Technical Report 5",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_technical_report_5.pdf",
+   "published": "2026-05-24T23:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-24T17:33"
+  },
+  {
+   "num": 86,
+   "title": "Doc 86 - INFRINGEMENT - Car 25 - Unsafe release",
+   "subject": "INFRINGEMENT - Car 25 - Unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_25_-_unsafe_release.pdf",
+   "published": "2026-05-24T23:18",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "competitor": "Trident Motorsport",
+    "time": "12:24",
+    "session": "Race 2",
+    "fact": "Car 25 (Bennett) was released into the path of Car 23 (Villagomez).",
+    "infringement": "Breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations and breach of Article 12.2.1.h of the FIA ISC.",
+    "decision": "Drive-Through penalty in accordance with Article 39.3 (c) of the FIA F2 Sporting Regulations. As the penalty could not be served in the race it is converted into a twenty (20) seconds time penalty. No driver penalty points are associated with this infringement. In addition, a fine of 10,000 Euros to be paid by the Team. Pursuant to Article 12.4.6 of the International Sporting Code, 5,000 Euros of the fine is suspended for the remainder of the 2026 Formula 2 season subject to no further breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. After the Race had concluded the Stewards summoned and heard (documents 80 and 81) the drivers and team representatives to discuss the matter further. Having considered the matter extensively, the Stewards determine that the team released Car 25 into the path of Car 23. Both cars were forced to take major avoiding action. Car 25 also struck a wheel of Car 1 that was lying on the ground causing the wheel to strike the leg of Car 1’s lollipop man. Based on the gravity of the offence, the Stewards determined to issue a fine to the Team in addition to the standard sporting penalty for creating the unsafe situation for other personnel in the pit lane.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     80,
+     86
+    ],
+    "tags": [
+     "Drive-through",
+     "Time penalty",
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 10000
+   },
+   "related": [
+    80
+   ],
+   "published_local": "2026-05-24T17:18"
+  },
+  {
+   "num": 85,
+   "title": "Doc 85 - IBFRINGEMENT - Car 3 - Causing a collision",
+   "subject": "IBFRINGEMENT - Car 3 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_ibfringement_-_car_3_-_causing_a_collision.pdf",
+   "published": "2026-05-24T23:17",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Stewards Note",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "13:05",
+    "session": "Race 2",
+    "fact": "Car 3 (Miyata) made contact with Car 10 (Goethe) at Turn 11.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five (5) seconds time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 1 point.",
+    "reason": "The Stewards summoned and heard the drivers and team representatives (documents 78 & 79). The Stewards examined video evidence. Having considered the matter extensively the Stewards determine that Car 10 (GOE) on the inside had established his rights at Turn 11. Contact occurred at the exit between the MIY’s left front and GOE’s right rear. While both drivers could have given each other more racing room, it was GOE’s corner and for that reason the Stewards find MIY to be predominantly at fault for the collision. The fact that both drivers contributed to the incident was a mitigating factor in determining the penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     78,
+     85
+    ],
+    "tags": [
+     "Time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    78
+   ],
+   "published_local": "2026-05-24T17:17"
+  },
+  {
+   "num": 84,
+   "title": "Doc 84 - INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_race_2_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-05-24T23:03",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The car below did not use the track at Turn 13 or 14",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap. MONTREAL EVENT 21 TO 24 MAY 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "1": 2,
+     "22": 3,
+     "6": 2,
+     "16": 1,
+     "11": 1,
+     "8": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     84
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-24T17:03"
+  },
+  {
+   "num": 83,
+   "title": "Doc 83 - INFRINGEMENT - Race 2 _ Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 _ Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_race_2_lap_time_cancellations.pdf",
+   "published": "2026-05-24T23:03",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident     Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "5": 1,
+     "8": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     83
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-24T17:03"
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - INFRINGEMENT - Car 6 - Leaving track and gaining advantage",
+   "subject": "INFRINGEMENT - Car 6 - Leaving track and gaining advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_6_-_leaving_track_and_gaining_advantage.pdf",
+   "published": "2026-05-24T22:40",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "time": "12:43",
+    "session": "Race 2",
+    "fact": "Car 6 (Tsolov) cut the chicane at Turns 13-14 while defending against Car 10 (Goethe) and retained the position as a result.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video & GPS evidence. Having considered the matter extensively, the Stewards determined that Car 6 (TSO) was defending against Car 10 (GOE) approaching Turn 13. GOE had slight overlap but had not won Turn 13. TSO, through no fault of GOE, went off track at 13 and rejoined after Turn 14 still in front of GOE. In such cases, it is not enough for the gap between the cars to merely remain the same. Failing to lose a position after leaving the track while defending constitutes gaining an advantage. TSO is penalized for remaining in front of GOE by doing so.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     82
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-05-24T16:40"
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - Summons - Car 23 - Alleged unsafe release of car 25",
+   "subject": "Summons - Car 23 - Alleged unsafe release of car 25",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_23_-_alleged_unsafe_release_of_car_25.pdf",
+   "published": "2026-05-24T22:08",
+   "recalled": false,
+   "cars": [
+    23,
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "reason": "Alleged breach of Article 28.12 of the FIA Formula 2 Sporting Regulations - Alleged unsafe release of car 25 (Bennett) in front of car 23 (Villagomez) at 12:24",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     81
+    ]
+   },
+   "published_local": "2026-05-24T16:08"
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - Summons - Car 25 - Alleged unsafe release",
+   "subject": "Summons - Car 25 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_25_-_alleged_unsafe_release.pdf",
+   "published": "2026-05-24T22:08",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "reason": "Alleged breach of Article 28.12 of the FIA Formula 2 Sporting Regulations - Alleged unsafe release of car 25 (Bennett) in front of car 23 (Villagomez) at 12:24",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     80
+    ]
+   },
+   "related": [
+    86
+   ],
+   "published_local": "2026-05-24T16:08"
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - Summons - Car 3 - Alleged contact with car 10",
+   "subject": "Summons - Car 3 - Alleged contact with car 10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_3_-_alleged_contact_with_car_10.pdf",
+   "published": "2026-05-24T22:02",
+   "recalled": false,
+   "cars": [
+    3,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Appendix L, Ch IV, 2 (d) of the FIA International Sporting Code - alleged contact between car 10 (Goethe) and car 3 (Miyata) at turns 10 and 11 at 13:05",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     79
+    ]
+   },
+   "published_local": "2026-05-24T16:02"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - Summons - Car 10 - Alleged contact with car 3",
+   "subject": "Summons - Car 10 - Alleged contact with car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_10_-_alleged_contact_with_car_3.pdf",
+   "published": "2026-05-24T22:02",
+   "recalled": false,
+   "cars": [
+    3,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Appendix L, Ch IV, 2 (d) of the FIA International Sporting Code - alleged contact between car 10 (Goethe) and car 3 (Miyata) at turns 10 and 11 at 13:05",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     78
+    ]
+   },
+   "related": [
+    85
+   ],
+   "published_local": "2026-05-24T16:02"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - F2 Race 2 (Feature) - Provisional classification",
+   "subject": "F2 Race 2 (Feature) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_2_feature_-_provisional_classification.pdf",
+   "published": "2026-05-24T19:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-24T13:33"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - F2 Race 2 (Feature) - Final starting grid",
+   "subject": "F2 Race 2 (Feature) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-05-24T17:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-24T11:05"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - F2 Race 2 (Feature) - Provisional starting grid",
+   "subject": "F2 Race 2 (Feature) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-05-24T04:07",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T22:07"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - F2 Race 1 (Sprint) - Final classification",
+   "subject": "F2 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-05-24T04:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T22:00"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - DECISION - Car 11 - Allegedly driving unnecessarily slowly",
+   "subject": "DECISION - Car 11 - Allegedly driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_decision_-_car_11_-_allegedly_driving_unnecessarily_slowly.pdf",
+   "published": "2026-05-24T03:54",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "competitor": "PREMA Racing",
+    "time": "14:53",
+    "session": "Race 1",
+    "fact": "Car 11 (Montoya) slowed slightly while contesting position with Car 12 (Boya) approaching the DRS detection zone after Turn 10.",
+    "infringement": "Alleged breach of Article 27.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action",
+    "reason": "The Stewards summoned and heard the driver and team representative (Document 60). The Stewards examined video and GPS evidence. Having considered the matter extensively, the Stewards determined that Car 11 (MON) slowed slightly when he realized that Car 12 (BOY) in front of him was driving significantly slower than normal in an attempt to gain a DRS advantage on the following straight. While MON’s reaction was part of the same DRS strategy, the magnitude of his throttle delay was quite slight. Had BOY’s speed not drawn attention to the situation, MON’s speed and throttle usage would not have been noticed by the Stewards. Under the circumstances, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     60,
+     73
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    60
+   ],
+   "published_local": "2026-05-23T21:54"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - INFRINGEMENT - Car 22 - Out of position at first SC line",
+   "subject": "INFRINGEMENT - Car 22 - Out of position at first SC line",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_22_-_out_of_position_at_first_sc_line.pdf",
+   "published": "2026-05-24T03:40",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "14:12",
+    "session": "Race 1",
+    "fact": "Car 22 (Varrone) failed to enter the pit lane after being out of position at the first safety car line.",
+    "infringement": "Breach of Article 37.8 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten second Stop & Go Penalty in accordance with Article 39.3 (d) of the FIA F2 Sporting Regulations, as specified in Article 37.8 of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement. The penalty, while not fully served during the Race, was nevertheless served to the satisfaction of the Stewards.",
+    "reason": "The Stewards summoned and heard the driver and team representative (Document 56). They examined video and GPS evidence. Having considered the matter extensively, the Stewards determined that Car 22 was delayed leaving the grid and was passed by one car. Car 22 did not re-establish the original grid starting order before reaching Safety Car Line 1 and proceeded to start the race from his assigned grid position rather than entering the pits and starting from the end of the pit lane. The penalty specified by the regulation, a ten-second stop-and-go penalty was communicated by the stewards to Race Control. The message that was posted to the teams on Timing Page 3 said “Stop–And-Go”. Car 22 (VAR) entered the pit lane in due course came to a stop in its pit box and immediately departed without stopping for ten seconds. The stewards note that while a mere stop-and-go penalty is not among the listed penalties provided under Article 39.3, it is a penalty allowed by Article 12.4.1.l of the International Sporting Code. The team, having served the posted penalty, bears no fault in failing to serve the intended penalty. The stewards surmise that the confusion stems from the fact that the in the Formula 1 regulations, a stop-and-go penalty by definition includes an obligation to stop for ten seconds. Such is not the case within the F2 Sporting Regulations. Given the gap between the series regulations, it is imperative that penalty announcements in Formula 2 and 3 be made be made with clarity in these circumstances.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     56,
+     72
+    ],
+    "tags": [
+     "Stop & go"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    56
+   ],
+   "published_local": "2026-05-23T21:40"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - INFRINGEMENT - Car 10 - Not following RD instructions",
+   "subject": "INFRINGEMENT - Car 10 - Not following RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_10_-_not_following_rd_instructions.pdf",
+   "published": "2026-05-24T03:37",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "14:56",
+    "session": "Race 1",
+    "fact": "Car 10 (Goethe) went off at Turn 13 and went through the infield and rejoined the racing surface, crossing the orange kerb rather than following the Race Director's instructions.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code in conjunction with Item 27.3 of the Race Director’s Competition Notes.",
+    "decision": "Reprimand given to the Driver of Car 10. This is his first Driving Reprimand of the 2026 Season. There are no penalty points associated with this infringement.",
+    "reason": "The Stewards examined video evidence. The drivers were informed by the FIA Race Director during the Drivers Meeting that drivers who fail to negotiate Turn 13 must pass to the LEFT of the orange kerb and rejoin at the far end of the run-off. Driver of Car 10 did not make the corner and crossed a portion of the kerb contrary to the Race Director's instructions. While the breach was slight and the re-entry was safe, the Stewards did not observe any extenuating circumstances for not following the Race Director's instructions in this instance.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     71
+    ],
+    "tags": [
+     "No further action",
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "published_local": "2026-05-23T21:37"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - INFRINGEMENT - Car 2 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 2 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_2_-_causing_a_collision.pdf",
+   "published": "2026-05-24T03:36",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "14:13",
+    "session": "Race 1",
+    "fact": "Car 2 (Durksen) made contact with Car 5 (Leon) at Turn 2 on Lap 1.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 1 point. As the penalty could not be served in the race, it will be converted into a three place grid drop for the Feature race.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively the Stewards determine that Car 2 (DUR) made slight nose to tail contact with Car 5 (LEO) at Turn 2 on Lap 1. The incident resulted in DUR gaining a position on LEO that he did not concede. The stewards considered that this incident occurred in tight quarters on lap one as a mitigating circumstance and therefore assess a reduced penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     70
+    ],
+    "tags": [
+     "5s time penalty",
+     "3-place grid drop",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-05-23T21:36"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - INFRINGEMENT - Car 4 - Unsafe release",
+   "subject": "INFRINGEMENT - Car 4 - Unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_4_-_unsafe_release.pdf",
+   "published": "2026-05-24T03:34",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "competitor": "Hitech",
+    "time": "13:55",
+    "session": "Race 1",
+    "fact": "Car 4 (Herta) was released unsafely from his pit into the path of Car 16 (Maini).",
+    "infringement": "Breach of Article 28.12 (a) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning",
+    "reason": "The Stewards summoned (Documents 57 and 58) and heard the drivers and team representatives of Car 4 and Car 16 and reviewed video evidence. The crew of Car 4 released him from the pit box with Car 16 approaching in the fast lane. The driver of Car 16 had to take minor braking action but acknowledged that the driver of Car 4 slowed and altered his course in response to the situation. The driver of Car 16 did not believe that it presented him with danger. The team representative for Car 4 stated that he spoke with the crew member responsible and acknowledged that they took responsibility for the poor timing of the release. The stewards determine that the release was unsafe when made and issue a warning in large part due to the account of the affected driver.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     57,
+     69
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    57
+   ],
+   "published_local": "2026-05-23T21:34"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - INFRINGEMENT - Car 12 - Driving unnecessarily slowly",
+   "subject": "INFRINGEMENT - Car 12 - Driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_12_-_driving_unnecessarily_slowly.pdf",
+   "published": "2026-05-24T03:32",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "competitor": "PREMA Racing",
+    "time": "14:53",
+    "session": "Race 1",
+    "fact": "Car 12 (Boya), while contesting position with Car 11 (Montoya), drove unnecessarily slowly approaching the DRS detection zone triggering a collision between following cars.",
+    "infringement": "Breach of Article 27.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 1 point.",
+    "reason": "They summoned and heard the driver and team representative (Documents 61). The Stewards examined video and GPS evidence. Having considered the matter extensively, the Stewards determined that Car 12 (BOY) delayed in applying the throttle on the exit of Turn 10 because he did not want to be at a DRS disadvantage to Car 11 (MON) on the following straight. This was highly unpredictable to the following cars who applied the throttle normally and found themselves closing on BOY at a surprising rate. Car 22 (VAR), the first trailing car checked up, but Car 21 (SHI), the second car, did not have sufficient time or space to react and had nose to tail contact with VAR further causing VAR to collide with MON. The stewards determine that BOY drove unnecessarily slowly in a manner that proved to be dangerous to other cars and impose the baseline penalty for driving infractions. All drivers are reminded that predictability is one of the cornerstones of safety. The stewards note that the single penalty point imposed here is light for a corresponding 10 second penalty but feel that it is appropriate for this case of first impression. Future similar infractions may warrant increased points. While BOY received a penalty in this case, the stewards are pleased to note his exceptional candor and integrity during the hearing.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     61,
+     68
+    ],
+    "tags": [
+     "10s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    61
+   ],
+   "published_local": "2026-05-23T21:32"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - INFRINGEMENT - Car 15 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 15 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_15_-_causing_a_collision.pdf",
+   "published": "2026-05-24T03:28",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "14:41",
+    "session": "Race 1",
+    "fact": "Car 15 (Dunne) made contact with Car 2 (Durksen) at Turn 10.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 4 points.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively the Stewards determine that Car 15 (DUN) was attempting an inside pass on Car 2 (DUR) at Turn 10. DUN had not established his position in time to have earned the right to racing room and the cars collided. The stewards determine that DUN is wholly at fault for the collision and apply the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     67
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-05-23T21:28"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - INFRINGEMENT - Car 6 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 6 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_6_-_causing_a_collision.pdf",
+   "published": "2026-05-24T03:26",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Nikola Tsolov",
+    "competitor": "Campos Racing",
+    "time": "14:27",
+    "session": "Race 1",
+    "fact": "Car 6 (Tsolov) made contact with Car 14 (Stenshorne) who in turn hit Car 25 (Bennett) at Turn 10.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 2 points.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively the Stewards determine that Car 25 (BEN) was leading Car 14 (STE) and Car 6 (TSO) into turn 10. STE and TSO simultaneously moved right just before the braking zone. TSO had no reason to anticipate that STE would make the same move and moved left to try to get back into the clear but in so doing clipped the left rear of STE who in turn collided with BEN causing him to spin and lose positions. The Stewards determine that TSO is wholly at fault for the collision and apply the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     }
+    ],
+    "refs": [
+     66
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-05-23T21:26"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - INFRINGEMENT - Car 2 - Unsafe act",
+   "subject": "INFRINGEMENT - Car 2 - Unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_2_-_unsafe_act.pdf",
+   "published": "2026-05-24T03:25",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "14:41",
+    "session": "Race 1",
+    "fact": "Driver of Car 2 (Duerksen) exited his retired car in run-off area of Turn 10 standing close to the live track.",
+    "infringement": "Breach of Article 12.2.1h of the FIA International Sporting Code.",
+    "decision": "Reprimand (non driving) given to the Driver of Car 2. This is his first Reprimand of the 2026 Season. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards summoned (document 59) and heard from the driver and team representative and reviewed video evidence. After crashing out of the race at Turn 10, the driver of Car 2 stopped his car in the run-off area, exited and approached the edge of the track which was under Safety Car conditions to gesture at another driver. The Driver realized the unsafe situation, taking fully responsibility for the fact and apologized for the action. The Stewards, having analysed the matter, consider that standing close the track is extremely dangerous. Therefore, the Stewards elect to reprimand the driver, that receiving a certain number of reprimands during a season will draw a significant penalty in accordance with Article 18.2 of the FIA F2 Sporting Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     59,
+     65
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    59
+   ],
+   "published_local": "2026-05-23T21:25"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_race_1_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-05-24T00:42",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The car below did not use the track at Turn 13 or 14",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "21": 3,
+     "24": 1,
+     "3": 2,
+     "2": 2,
+     "12": 3,
+     "10": 2,
+     "14": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     64
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-23T18:42"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - INFRINGEMENT - Race 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_race_1_-_lap_time_cancellations.pdf",
+   "published": "2026-05-24T00:39",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "1": 1,
+     "2": 1,
+     "14": 1,
+     "21": 1,
+     "22": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Pit Entry"
+     },
+     {
+      "car": 2,
+      "name": "Pit Entry"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     63
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-23T18:39"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_technical_report_4.pdf",
+   "published": "2026-05-24T00:28",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T18:28"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - Summons - Car 12 - Allegedly driving unnecessarily slowly",
+   "subject": "Summons - Car 12 - Allegedly driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_12_-_allegedly_driving_unnecessarily_slowly.pdf",
+   "published": "2026-05-24T00:18",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "reason": "Alleged breach of Article 27.4 of the 2026 FIA Formula 2 Sporting Regulations - allegedly driver of car 12 drove unnecessarily slowly",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     61
+    ]
+   },
+   "related": [
+    68
+   ],
+   "published_local": "2026-05-23T18:18"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - Summons - Car 11 - Allegedly driving unnecessarily slowly",
+   "subject": "Summons - Car 11 - Allegedly driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_11_-_allegedly_driving_unnecessarily_slowly.pdf",
+   "published": "2026-05-24T00:17",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "reason": "Alleged breach of Article 27.4 of the 2026 FIA Formula 2 Sporting Regulations - allegedly driver of car 11 drove unnecessarily slowly",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     60
+    ]
+   },
+   "related": [
+    73
+   ],
+   "published_local": "2026-05-23T18:17"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Summons - Car 2 - Alleged unsafe act",
+   "subject": "Summons - Car 2 - Alleged unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_2_-_alleged_unsafe_act_.pdf",
+   "published": "2026-05-24T00:16",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA International Sporting Code - alleged unsafe act after driver exited his retired car.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     59
+    ]
+   },
+   "related": [
+    65
+   ],
+   "published_local": "2026-05-23T18:16"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - Summons - Car 16 - Alleged unsafe release of Car 4",
+   "subject": "Summons - Car 16 - Alleged unsafe release of Car 4",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_16_-_alleged_unsafe_release_of_car_4.pdf",
+   "published": "2026-05-24T00:13",
+   "recalled": false,
+   "cars": [
+    4,
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 28.12 (a) of the 2026 FIA F2 Sporting Regulations - Alleged unsafe release of car 4 (Herta) in front of car 16 (Maini).",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     58
+    ]
+   },
+   "published_local": "2026-05-23T18:13"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Summons - Car 4 - Alleged unsafe release in front of Car 16",
+   "subject": "Summons - Car 4 - Alleged unsafe release in front of Car 16",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_4_-_alleged_unsafe_release_in_front_of_car_16.pdf",
+   "published": "2026-05-24T00:13",
+   "recalled": false,
+   "cars": [
+    4,
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "reason": "Alleged breach of Article 28.12 (a) of the 2026 FIA F2 Sporting Regulations - Alleged unsafe release of car 4 (Herta) in front of car 16 (Maini).",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     57
+    ]
+   },
+   "related": [
+    69
+   ],
+   "published_local": "2026-05-23T18:13"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Summons - Car 22 - Alleged failure to serve time penalty correctly",
+   "subject": "Summons - Car 22 - Alleged failure to serve time penalty correctly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_22_-_alleged_failure_to_serve_time_penalty_correctly.pdf",
+   "published": "2026-05-24T00:09",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "reason": "Alleged breach of Article 39.4 of the 2026 FIA Formula 2 Sporting Regulations - Car 22 allegedly failed to serve the ten-second (10) time penalty correctly.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     56
+    ]
+   },
+   "related": [
+    72
+   ],
+   "published_local": "2026-05-23T18:09"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - F2 Race 1 (Sprint) - Provisional classification",
+   "subject": "F2 Race 1 (Sprint) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-05-23T21:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T15:23"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-05-23T19:10",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T13:10"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - F2 Montréal Pit Lane Drawings 2026 v2",
+   "subject": "F2 Montréal Pit Lane Drawings 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_montreal_pit_lane_drawings_2026_v2.pdf",
+   "published": "2026-05-23T16:38",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T10:38"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - F2 Montréal Competition Notes 2026 v3",
+   "subject": "F2 Montréal Competition Notes 2026 v3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_montreal_competition_notes_2026_v3.pdf",
+   "published": "2026-05-23T16:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-23T10:37"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F2 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-05-23T02:34",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T20:34"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - F2 Qualifying - Final classification",
+   "subject": "F2 Qualifying - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_qualifying_-_final_classification.pdf",
+   "published": "2026-05-23T02:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T20:31"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - DECISION - Car 22 - Alleged failure to follow RD instructions",
+   "subject": "DECISION - Car 22 - Alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_decision_-_car_22_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-05-23T02:07",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "15:10",
+    "session": "Qualifying",
+    "fact": "Car 22 (Varrone) went off at Turn 8 and went through the grass rather than following the Race Director's instructions",
+    "infringement": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code in conjunction with Item 27.2 of the Race Director’s Competition Notes.",
+    "decision": "No further action",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 29). The drivers were informed by the FIA Race Director during the Drivers Meeting that drivers who fail to negotiate Turn 9 should use the pavement behind the grass and rejoin after the end of the orange kerb. Driver of Car 22 locked his wheels under breaking for Turn 8, but thought that he would be able to make the corner and turned in do so. By the time he realised that he would not make the corner, taking the escape road was no longer a safe option and he went across the grass. The Stewards accept these extenuating circumstances as a valid reason for not following the Race Director's instructions in this instance. Accordingly the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     29,
+     49
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-05-22T20:07"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - DECISION - Car 23 - Alleged failure to follow RD instructions",
+   "subject": "DECISION - Car 23 - Alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_decision_-_car_23_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-05-23T02:07",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "competitor": "Van Amersfoort Racing",
+    "time": "14:15",
+    "session": "Qualifying",
+    "fact": "Car 23 (Villagomez) went off at Turn 8 and went through the grass rather than following the Race Director's instructions.",
+    "infringement": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code in conjunction with Item 27.2 of the Race Director’s Competition Notes.",
+    "decision": "No further action",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 30). The drivers were informed by the FIA Race Director during the Drivers Meeting that drivers who fail to negotiate Turn 9 should use the pavement behind the grass and rejoin after the end of the orange kerb. Driver of Car 23 locked his wheels under breaking for Turn 8, but thought that he would be able to make the corner and turned in do so. By the time he realised that he would not make the corner, taking the escape road was no longer a safe option and he went across the grass. The Stewards accept these extenuating circumstances as a valid reason for not following the Race Director's instructions in this instance. Accordingly the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     30,
+     48
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-05-22T20:07"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - INFRINGEMENT - Car 1 - Impeding car 15 in Qualifying",
+   "subject": "INFRINGEMENT - Car 1 - Impeding car 15 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_1_-_impeding_car_15_in_qualifying.pdf",
+   "published": "2026-05-23T02:03",
+   "recalled": false,
+   "cars": [
+    1,
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "competitor": "Invicta Racing",
+    "time": "15:12",
+    "session": "Qualifying",
+    "fact": "Car 1 (Camara) impeded Car 15 (Dunne) at Turn 10.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 b) of the FIA International Sporting Code and Article 31.6 of the 2026 FIA Formula 2 Sporting Regulations.",
+    "decision": "A drop of 3 places on the grid for both races at this Competition. There are no penalty points associated with this decision.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Drivers and Team Representatives (Documents 36 & 37). Car 1 (CAM) was on a prep lap with Car 15 (DUN) was approaching on a push lap. CAM received a message from his engineer to begin pushing and picked up his pace. DUN caught CAM in the braking zone for Turn 10 and moved inside to pass. CAM who thought both drivers were on the same prep strategy did not yield and impeded DUN’s lap. CAM did not receive a warning from the team which was preoccupied by trying to get CAM to the line before time expired. The stewards accept that CAM’s action was the result of an erroneous assumption but determine that he unnecessarily impeded DUN. The standard penalty is applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     36,
+     47
+    ],
+    "tags": [
+     "No further action",
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    36
+   ],
+   "published_local": "2026-05-22T20:03"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - INFRINGEMENT - Car 15 - Impeding car 23 in Qualifying",
+   "subject": "INFRINGEMENT - Car 15 - Impeding car 23 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_15_-_impeding_car_23_in_qualifying.pdf",
+   "published": "2026-05-23T01:57",
+   "recalled": false,
+   "cars": [
+    15,
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "competitor": "Rodin Motorsport",
+    "time": "15:13",
+    "session": "Qualifying",
+    "fact": "Car 15 (Dunne) impeded Car 23 (Villagomez) at Turn 2.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 b) of the FIA International Sporting Code and Article 31.6 of the 2026 FIA Formula 2 Sporting Regulations.",
+    "decision": "A drop of 3 places on the grid for both races at this Competition. There are no penalty points associated with this decision.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Drivers and Team Representatives (Documents 31 & 32). Car 15 (DUN) was approaching Turn 2 on a cool down lap with three cars pushing behind. DUN appropriately let the first two cars through by staying left at Turn 2 but did not realize that Car 23 (VIL) was also approaching. DUN moved right just as VIL was passing him on that side. DUN immediately corrected course once he became aware of VIL, however by this time VIL had to take evasive action. Having considered the matter extensively the stewards determine that DUN unnecessarily impeded VIL and elect to impose the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     31,
+     41,
+     46
+    ],
+    "tags": [
+     "No further action",
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    31,
+    41
+   ],
+   "published_local": "2026-05-22T19:57"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Podium and Parc Fermé instructions - Montréal",
+   "subject": "Podium and Parc Fermé instructions - Montréal",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_podium_and_parc_ferme_instructions_-_montreal.pdf",
+   "published": "2026-05-23T01:49",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T19:49"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - INFRINGEMENT - Qualifying - Lap time cancellations - DWYF",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations - DWYF",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_qualifying_-_lap_time_cancellations_-_dwyf.pdf",
+   "published": "2026-05-23T01:25",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "21": 2,
+     "24": 2,
+     "25": 2,
+     "23": 2,
+     "2": 2,
+     "3": 1,
+     "4": 1,
+     "22": 1,
+     "12": 1,
+     "8": 1,
+     "7": 1,
+     "15": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     44
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-22T19:25"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_qualifying_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-05-23T01:24",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The cars below did not use the track at Turn 13 or 14.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "12": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     43
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-22T19:24"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - INFRINGEMENT - Qualifying - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_qualifying_-_lap_time_cancellations.pdf",
+   "published": "2026-05-23T01:24",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "7": 1,
+     "22": 2
+    },
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-22T19:24"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - INFRINGEMENT - Car 15 - Impeding car 23 in Qualifying",
+   "subject": "INFRINGEMENT - Car 15 - Impeding car 23 in Qualifying",
+   "category": "stewards",
+   "url": null,
+   "published": "2026-05-23T00:56",
+   "recalled": true,
+   "cars": [
+    15,
+    23
+   ],
+   "type": "Infringement",
+   "related": [
+    46
+   ],
+   "published_local": "2026-05-22T18:56"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_technical_report_3.pdf",
+   "published": "2026-05-23T00:54",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T18:54"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - INFRINGEMENT - Car 17 - Sole cause of red flag in Qualifying",
+   "subject": "INFRINGEMENT - Car 17 - Sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_17_-_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-05-23T00:44",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "14:56",
+    "session": "Qualifying",
+    "fact": "Car 17 (Inthraphuvasak) crashed at Turn 4 causing the red flag to be issued.",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 2 Sporting Regulations",
+    "decision": "Deletion of the fastest lap time set by Car 17 in the Qualifying Session. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 33). Having considered the matter extensively, the Stewards determined that the Driver of Car 17 lost control of the car in Turn 4 and crashed resulting in a Red Flag and the session had to be stopped. There were several cars on push laps who had to abandon their attempts to set a lap time. From the video evidence the Stewards were of the opinion that there were no external contributing factors and hence determined that the driver’s fast lap time should be deleted.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     33,
+     39
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    33
+   ],
+   "published_local": "2026-05-22T18:44"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - INFRINGEMENT - Car 10 - Sole cause of red flag",
+   "subject": "INFRINGEMENT - Car 10 - Sole cause of red flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_10_-_sole_cause_of_red_flag.pdf",
+   "published": "2026-05-23T00:44",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "14:49",
+    "session": "Qualifying",
+    "fact": "Car 10 (Goethe) crashed at Turn 4 causing the red flag to be issued.",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 2 Sporting Regulations",
+    "decision": "Deletion of the fastest lap time set by Car 10 in the Qualifying Session. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 34). Having considered the matter extensively, the Stewards determined that the Driver of Car 10 lost control of the car in Turn 4 and crashed resulting in a Red Flag and the session had to be stopped. There were several cars on push laps who had to abandon their attempts to set a lap time. From the video evidence the Stewards were of the opinion that there were no external contributing factors and hence determined that the driver’s fast lap time should be deleted.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     34,
+     38
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-05-22T18:44"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Summons - Car 15 - Allegedly impeded by Car 1 in Qualifying",
+   "subject": "Summons - Car 15 - Allegedly impeded by Car 1 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_15_-_allegedly_impeded_by_car_1_in_qualifying.pdf",
+   "published": "2026-05-23T00:37",
+   "recalled": false,
+   "cars": [
+    1,
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 1 allegedly impeded car 15 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     37
+    ]
+   },
+   "published_local": "2026-05-22T18:37"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Summons - Car 1 - Allegedly impeded Car 15 in Qualifying",
+   "subject": "Summons - Car 1 - Allegedly impeded Car 15 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_1_-_allegedly_impeded_car_15_in_qualifying.pdf",
+   "published": "2026-05-23T00:36",
+   "recalled": false,
+   "cars": [
+    1,
+    15
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Rafael Camara",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 1 allegedly impeded car 15 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     36
+    ]
+   },
+   "related": [
+    47
+   ],
+   "published_local": "2026-05-22T18:36"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - INFRINGEMENT - Car 17 - Pit lane speeding in Qualifying",
+   "subject": "INFRINGEMENT - Car 17 - Pit lane speeding in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_17_-_pit_lane_speeding_in_qualifying.pdf",
+   "published": "2026-05-22T22:59",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "14:42",
+    "session": "Qualifying",
+    "fact": "Car 17 (Inthraphuvasak) - Pit lane speeding - 60.4 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 100 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 17 exceeded the pit lane speed limit which is set at 60 km/h for this event by 0.4 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     35
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-05-22T16:59"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Summons - Car 10 - Alleged sole cause of red flag in Qualifying",
+   "subject": "Summons - Car 10 - Alleged sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_10_-_alleged_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-05-22T22:35",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - sole cause of red flag in Qualifying",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     34
+    ]
+   },
+   "related": [
+    38
+   ],
+   "published_local": "2026-05-22T16:35"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Summons - Car 17 - Alleged sole cause of red flag",
+   "subject": "Summons - Car 17 - Alleged sole cause of red flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_17_-_alleged_sole_cause_of_red_flag_.pdf",
+   "published": "2026-05-22T22:33",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - sole cause of red flag in Qualifying",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     33
+    ]
+   },
+   "related": [
+    39
+   ],
+   "published_local": "2026-05-22T16:33"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Summons - Car 23 - Allegedly impeded by Car 15 in Qualifying",
+   "subject": "Summons - Car 23 - Allegedly impeded by Car 15 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_23_-_allegedly_impeded_by_car_15_in_qualifying.pdf",
+   "published": "2026-05-22T22:30",
+   "recalled": false,
+   "cars": [
+    15,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 15 allegedly impeded car 23 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     32
+    ]
+   },
+   "published_local": "2026-05-22T16:30"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Summons - Car 15 - Allegedly impeded Car 23 in Qualifying",
+   "subject": "Summons - Car 15 - Allegedly impeded Car 23 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_15_-_allegedly_impeded_car_23_in_qualifying.pdf",
+   "published": "2026-05-22T22:30",
+   "recalled": false,
+   "cars": [
+    15,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "15 - Alex Dunne",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 15 allegedly impeded car 23 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alex Dunne"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   },
+   "related": [
+    46
+   ],
+   "published_local": "2026-05-22T16:30"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Summons - Car 23 - Alleged failure to follow RD instructions",
+   "subject": "Summons - Car 23 - Alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_23_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-05-22T22:27",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - alleged failure to follow the instructions of an official. Not following Race Director's Competition Notes Item 27.2..",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "related": [
+    48
+   ],
+   "published_local": "2026-05-22T16:27"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Summons - Car 22 - Alleged failure to follow RD instructions",
+   "subject": "Summons - Car 22 - Alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_22_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-05-22T22:27",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - alleged failure to follow the instructions of an official. Not following Race Director's Competition Notes Item 27.2..",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "related": [
+    49
+   ],
+   "published_local": "2026-05-22T16:27"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - F2 Qualifying - Provisional classification",
+   "subject": "F2 Qualifying - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_qualifying_-_provisional_classification.pdf",
+   "published": "2026-05-22T21:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T15:30"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_practice_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-05-22T21:12",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "The cars below did not use the track at Turn 13 or 14.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2. MONTREAL EVENT 21 TO 24 MAY 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "4": 2,
+     "24": 1,
+     "10": 1,
+     "7": 1,
+     "1": 2,
+     "21": 1,
+     "23": 1,
+     "9": 1
+    },
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     27
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-22T15:12"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - INFRINGEMENT - Practice - Lap time cancellation",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_practice_-_lap_time_cancellation.pdf",
+   "published": "2026-05-22T21:11",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations. MONTREAL EVENT 21 TO 24 MAY 2026",
+    "table_rows": {
+     "11": 4,
+     "12": 2,
+     "15": 3,
+     "22": 1,
+     "16": 1,
+     "9": 1,
+     "20": 1,
+     "7": 1,
+     "3": 1,
+     "2": 1,
+     "8": 1,
+     "10": 1,
+     "23": 1,
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 20,
+      "name": "Enzo Fittipaldi"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     26
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-05-22T15:11"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - INFRINGEMENT - Car 22 - Technical infringement (fuel sample)",
+   "subject": "INFRINGEMENT - Car 22 - Technical infringement (fuel sample)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_22_-_technical_infringement_fuel_sample.pdf",
+   "published": "2026-05-22T20:21",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "11:32",
+    "session": "Practice",
+    "fact": "Car 22 (Varrone) was not able to provide a fuel sample of minimum 0.8 kg after the Practice Session",
+    "infringement": "Article 6.3.1 of the FIA Formula 2 Championship Technical Regualtions",
+    "decision": "A fine of 500 Euros to be paid by the Team. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards received a report from the Technical Delegate. They summoned driver and team representative and heard the team representative (document 20). Having considered the matter extensively, the Stewards determine that Car 22 (Varrone) was not able to provide a fuel sample sufficent to satisfy Art. 6.3.1 of the FIA Formula 2 Championship Technical Regulations. The stewards elect to impose a team fine of $500 Euros, this being in line with the penalty guidelines for a technical infringement in practice.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     20,
+     25
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "related": [
+    20
+   ],
+   "published_local": "2026-05-22T14:21"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - INFRINGEMENT - Car 5 - Impeding of car 24",
+   "subject": "INFRINGEMENT - Car 5 - Impeding of car 24",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_5_-_impeding_of_car_24.pdf",
+   "published": "2026-05-22T19:58",
+   "recalled": false,
+   "cars": [
+    5,
+    24
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "10:21",
+    "session": "Practice",
+    "fact": "Car 5 (Leon) unnecessarily impeded Car 24 (Van Hoepen) at Turn 3.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning",
+    "reason": "The Stewards summoned (Documents 17 & 18) and heard the drivers of Car 5 (Leon) and Car 24 (Van Hoepen) and both team representatives. The Stewards examined video evidence. Driver of Car 5 stated that he was in a warm-up lap and he received a late message to let by the car behind. Driver of Car 24 stated that he was in a push lap and car 5 was travelling in the racing line not a full pace and he was impeded. Having analysed the matter extensively, the Stewards determined that Car 5 could have done more to avoid an unnecessary impeding which happened at Turn 3. In this specific point, Car 24 did not take reasonable actions to avoid impeding and therefore the Stewards, keeping with the Penalty Guidelines, give a formal Warning to the driver of Car 5.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     17,
+     24
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    17
+   ],
+   "published_local": "2026-05-22T13:58"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - INFRINGEMENT - Car 16 - Erratic driving",
+   "subject": "INFRINGEMENT - Car 16 - Erratic driving",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_16_-_erratic_driving.pdf",
+   "published": "2026-05-22T19:53",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "10:21",
+    "session": "Practice",
+    "fact": "Car 16 (Maini) drove erratically at 10:21 in Practice",
+    "infringement": "Breach of Article 27.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Reprimand given to the Driver of Car 16. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the drivers and team representatives (documents 11 & 12). Having considered the matter extensively, the Stewards determine that Car 16 (MAI) who was on a push lap came upon Car 22 (VAR) who was on the line in the braking zone for Turn 10. MAI locked his brakes while passing VAR, went extra deep into the corner, and ended any chance at a good lap. MAI’s lockup and recovery also forced VAR to abandon the normal line and go off track. On the ensuing straight MAI drove slowing and was noted to be actively watching his mirrors. VAR decided to pick up his pace and attempted to pass MAI. MAI who was admittedly unhappy with VAR reacted by moving towards VAR, and ultimately crossed in front of him to prevent him from passing. While VAR was not on a push lap the Stewards determine that MAI’s driving in reaction to his displeasure with VAR was erratic and potentially dangerous. The Steward’s note that with the slightest miscalculation such actions can trigger major consequences. The Stewards determine to issue a driving reprimand to MAI during this practice session. This decision should not be taken a precedent for similar offences in the future which may warrant increased penalties.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     11,
+     23
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    11
+   ],
+   "published_local": "2026-05-22T13:53"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - INFRINGEMENT - Car 24 - Impeding of car 3 at turn 12 in Practice",
+   "subject": "INFRINGEMENT - Car 24 - Impeding of car 3 at turn 12 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_24_-_impeding_of_car_3_at_turn_12_in_practice.pdf",
+   "published": "2026-05-22T19:52",
+   "recalled": false,
+   "cars": [
+    3,
+    24
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "competitor": "Trident Motorsport",
+    "time": "10:14",
+    "session": "Practice",
+    "fact": "Car 24 (Van Hoepen) unnecessarily impeded Car 3 (Miyata) after Turn 12.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning",
+    "reason": "The Stewards summoned (Documents 15 & 16) and heard the drivers of Car 24 (Van Hoepen) and Car 3 (Miyata) and both team representatives. The Stewards examined video evidence. Both drivers stated that they were in a warm-up lap at the beginning of the session. Having analysed the matter extensively, the Stewards determined that Car 24 could have done more to avoid an unnecessary impeding which happened in the final sector of the lap. In this specific point, Car 24 did not take reasonable actions to avoid impeding and therefore the Stewards, keeping with the Penalty Guidelines, give a formal Warning to the driver of Car 24.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     15,
+     22
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    15
+   ],
+   "published_local": "2026-05-22T13:52"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - INFRINGEMENT - Car 9 - Impeding car 17 at turn 5 in Practice",
+   "subject": "INFRINGEMENT - Car 9 - Impeding car 17 at turn 5 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_9_-_impeding_car_17_at_turn_5_in_practice.pdf",
+   "published": "2026-05-22T19:50",
+   "recalled": false,
+   "cars": [
+    9,
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "10:22",
+    "session": "Practice",
+    "fact": "Car 9 (Mini) unnecessarily impeded Car 17 (Inthraphuvasak) between Turn 5 and Turn 6.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning",
+    "reason": "The Stewards summoned (Documents 13 & 14) and heard the Drivers of Car 9 (Mini) and Car 20 (Inthraphuvasak) and the team representatives. They examined video evidence. The driver of Car 9 had just exited the pits on fresh tires. Car 17 was on a push lap and had to slow for Car 9 which was on the racing line at Turn 5. The driver of Car 9 admitted his mistake and took responsibility for the error. The Stewards determine that Car 17 was unnecessarily impeded by Car 5. In keeping with the Penalty Guidelines the Stewards give a formal Warning to the driver of Car 9.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     13,
+     21
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    13
+   ],
+   "published_local": "2026-05-22T13:50"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Summons - Car 22 - Alleged technical infringement (fuel sample)",
+   "subject": "Summons - Car 22 - Alleged technical infringement (fuel sample)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_22_-_alleged_technical_infringement_fuel_sample.pdf",
+   "published": "2026-05-22T19:48",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "reason": "Alleged breach of Article 6.3.1 of the FIA Formula 2 Championship Technical Regulations - Car 22 was not able to provide a fuel sample of minimum 0.8 kg after the Practice Session.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     20
+    ]
+   },
+   "related": [
+    25
+   ],
+   "published_local": "2026-05-22T13:48"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Car 17 - Pit lane speeding in Practice",
+   "subject": "INFRINGEMENT - Car 17 - Pit lane speeding in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_infringement_-_car_17_-_pit_lane_speeding_in_practice.pdf",
+   "published": "2026-05-22T19:01",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "10:11",
+    "session": "Practice",
+    "fact": "Car 17 (Inthraphuvasak) - Pit lane speeding - 60.2 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 100 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 17 exceeded the pit lane speed limit which is set at 60 km/h for this event by 0.2 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-05-22T13:01"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Summons - Car 24 - Allegedly impeded by Car 5 in Practice",
+   "subject": "Summons - Car 24 - Allegedly impeded by Car 5 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_24_-_allegedly_impeded_by_car_5_in_practice.pdf",
+   "published": "2026-05-22T18:57",
+   "recalled": false,
+   "cars": [
+    5,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 5 allegedly impeded car 24 at 10:21 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     18
+    ]
+   },
+   "published_local": "2026-05-22T12:57"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Summons - Car 5 - Allegedly impeded Car 24 in Practice",
+   "subject": "Summons - Car 5 - Allegedly impeded Car 24 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_5_-_allegedly_impeded_car_24_in_practice.pdf",
+   "published": "2026-05-22T18:57",
+   "recalled": false,
+   "cars": [
+    5,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 5 allegedly impeded car 24 at 10:21 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     17
+    ]
+   },
+   "related": [
+    24
+   ],
+   "published_local": "2026-05-22T12:57"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Summons - Car 3 - Allegedly impeded by Car 24 at turn 13 in Practice",
+   "subject": "Summons - Car 3 - Allegedly impeded by Car 24 at turn 13 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_3_-_allegedly_impeded_by_car_24_at_turn_13_in_practice.pdf",
+   "published": "2026-05-22T18:56",
+   "recalled": false,
+   "cars": [
+    3,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 24 allegedly impeded car 3 at Turn 13 at 10:14 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     16
+    ]
+   },
+   "published_local": "2026-05-22T12:56"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Summons - Car 24 - Allegedly impeded Car 3 at turn 13 in Practice",
+   "subject": "Summons - Car 24 - Allegedly impeded Car 3 at turn 13 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_24_-_allegedly_impeded_car_3_at_turn_13_in_practice.pdf",
+   "published": "2026-05-22T18:55",
+   "recalled": false,
+   "cars": [
+    3,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 24 allegedly impeded car 3 at Turn 13 at 10:14 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     15
+    ]
+   },
+   "related": [
+    22
+   ],
+   "published_local": "2026-05-22T12:55"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Summons - Car 17 - Allegedly impeded by Car 9 at turn 5 in Practice",
+   "subject": "Summons - Car 17 - Allegedly impeded by Car 9 at turn 5 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_17_-_allegedly_impeded_by_car_9_at_turn_5_in_practice.pdf",
+   "published": "2026-05-22T18:53",
+   "recalled": false,
+   "cars": [
+    9,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 9 allegedly impeded car 17 at Turn 5 at 10:22 in Practice.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     14
+    ]
+   },
+   "published_local": "2026-05-22T12:53"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Summons - Car 9 - Allegedly impeded Car 17 at turn 5 in Practice",
+   "subject": "Summons - Car 9 - Allegedly impeded Car 17 at turn 5 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_9_-_allegedly_impeded_car_17_at_turn_5_in_practice.pdf",
+   "published": "2026-05-22T18:53",
+   "recalled": false,
+   "cars": [
+    9,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 9 allegedly impeded car 17 at Turn 5 at 10:22 in Practice.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     13
+    ]
+   },
+   "related": [
+    21
+   ],
+   "published_local": "2026-05-22T12:53"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Summons - Car 22 - Allegedly Car 16 driving erratically in Practice",
+   "subject": "Summons - Car 22 - Allegedly Car 16 driving erratically in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_22_-_allegedly_car_16_driving_erratically_in_practice.pdf",
+   "published": "2026-05-22T18:51",
+   "recalled": false,
+   "cars": [
+    16,
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "reason": "Alleged breach of Article 27.4 of the FIA F2 Sporting Regulations - Car 16 allegedly drove erratically at 10:21 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     12
+    ]
+   },
+   "published_local": "2026-05-22T12:51"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Summons - Car 16 - Allegedly driving erratically in Practice",
+   "subject": "Summons - Car 16 - Allegedly driving erratically in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_summons_-_car_16_-_allegedly_driving_erratically_in_practice.pdf",
+   "published": "2026-05-22T18:51",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 27.4 of the FIA F2 Sporting Regulations - Car 16 allegedly drove erratically at 10:21 in Practice.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     11
+    ]
+   },
+   "related": [
+    23
+   ],
+   "published_local": "2026-05-22T12:51"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_technical_report_2.pdf",
+   "published": "2026-05-22T18:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T12:35"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F2 Practice - Classification",
+   "subject": "F2 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-05-22T17:08",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-22T11:08"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F2 Montréal Competition Notes 2026 v2",
+   "subject": "F2 Montréal Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_montreal_competition_notes_2026_v2.pdf",
+   "published": "2026-05-22T14:47",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 52,
+   "published_local": "2026-05-22T08:47"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F2 Montréal Pit Lane Drawings 2026",
+   "subject": "F2 Montréal Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_montreal_pit_lane_drawings_2026.pdf",
+   "published": "2026-05-22T14:47",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 53,
+   "published_local": "2026-05-22T08:47"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Circuit Map - Montreal 2026",
+   "subject": "Circuit Map - Montreal 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_circuit_map_-_montreal_2026.pdf",
+   "published": "2026-05-22T00:44",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-21T18:44"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - F2 Entry List - Montreal 2026",
+   "subject": "F2 Entry List - Montreal 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_entry_list_-_montreal_2026.pdf",
+   "published": "2026-05-22T00:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-21T18:37"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_technical_report_1.pdf",
+   "published": "2026-05-22T00:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-21T18:31"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_bulletin_1_-_restricted_period.pdf",
+   "published": "2026-05-21T23:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-21T17:00"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - F2 Montréal Competition Notes 2026 v1",
+   "subject": "F2 Montréal Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_f2_montreal_competition_notes_2026_v1.pdf",
+   "published": "2026-05-21T22:59",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 52,
+   "published_local": "2026-05-21T16:59"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F2 Montreal 2026",
+   "subject": "VISA - F2 Montreal 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_montreal_event_-_visa_-_f2_montreal_2026.pdf",
+   "published": "2026-05-21T22:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-05-21T16:59"
+  }
+ ]
+}

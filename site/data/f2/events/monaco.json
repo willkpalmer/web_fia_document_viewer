@@ -1,0 +1,2343 @@
+{
+ "event": {
+  "slug": "monaco",
+  "name": "Monaco",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Monaco",
+  "doc_count": 79,
+  "first_published": "2026-06-03T13:10",
+  "last_published": "2026-06-07T13:13",
+  "first_local": "2026-06-03T13:10",
+  "last_local": "2026-06-07T13:13",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-06-04T15:00",
+    "end_local": "2026-06-04T15:45",
+    "start_utc": "2026-06-04T13:00Z",
+    "end_utc": "2026-06-04T13:45Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying (Group A)",
+    "start_local": "2026-06-05T15:10",
+    "end_local": "2026-06-05T15:26",
+    "start_utc": "2026-06-05T13:10Z",
+    "end_utc": "2026-06-05T13:26Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying (Group B)",
+    "start_local": "2026-06-05T15:34",
+    "end_local": "2026-06-05T15:50",
+    "start_utc": "2026-06-05T13:34Z",
+    "end_utc": "2026-06-05T13:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-06-06T14:15",
+    "end_local": "2026-06-06T15:05",
+    "start_utc": "2026-06-06T12:15Z",
+    "end_utc": "2026-06-06T13:05Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-06-07T09:25",
+    "end_local": "2026-06-07T10:30",
+    "start_utc": "2026-06-07T07:25Z",
+    "end_utc": "2026-06-07T08:30Z",
+    "source": "fia"
+   }
+  ],
+  "counts": {
+   "results": 15,
+   "technical": 7,
+   "stewards": 46,
+   "race_director": 4,
+   "admin": 7
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 79,
+   "title": "Doc 79 - F2 Team Championship - Monaco 2026",
+   "subject": "F2 Team Championship - Monaco 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_team_championship_-_monaco_2026.pdf",
+   "published": "2026-06-07T13:13",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-07T13:13"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - F2 Driver Championship - Monaco 2026",
+   "subject": "F2 Driver Championship - Monaco 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_driver_championship_-_monaco_2026.pdf",
+   "published": "2026-06-07T13:12",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-07T13:12"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - F2 Race 2 (Feature) final classification",
+   "subject": "F2 Race 2 (Feature) final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_2_feature_final_classification.pdf",
+   "published": "2026-06-07T13:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-07T13:11"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - Technical Report 6",
+   "subject": "Technical Report 6",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_technical_report_6.pdf",
+   "published": "2026-06-07T13:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-07T13:05"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - INFRINGEMENT - Race 2 track limit violations",
+   "subject": "INFRINGEMENT - Race 2 track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_race_2_track_limit_violations.pdf",
+   "published": "2026-06-07T12:03",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. MONACO EVENT 3 TO 7 JUNE 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "11": 1,
+     "1": 1,
+     "20": 1,
+     "5": 1,
+     "8": 2,
+     "10": 2,
+     "7": 2,
+     "16": 2,
+     "17": 1,
+     "24": 1,
+     "14": 2,
+     "4": 1,
+     "2": 2
+    },
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 20,
+      "name": "Enzo Fittipaldi"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     }
+    ],
+    "refs": [
+     75
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-07T12:03"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - INFRINGEMENT - Car 4 - overtook during VSC period",
+   "subject": "INFRINGEMENT - Car 4 - overtook during VSC period",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_4_-_overtook_during_vsc_period.pdf",
+   "published": "2026-06-07T11:54",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "competitor": "Hitech",
+    "time": "10:21",
+    "session": "Race 2",
+    "fact": "Car 4 (Herta) overtook Car 3 (Miyata) at SCL2 during the VSC period.",
+    "infringement": "Breach of Article 41.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 2 points",
+    "reason": "The Stewards examined video evidence. During the VSC period, it was reported that Car 4 overtook Car 3 between Turns 1 and 2. Car 4 was on track and Car 3 was leaving the pit lane while the VSC was still active, heading toward Turn 1 and Safety Car Line 2. Upon reaching Safety Car Line 2, Car 3 maintained the lead and crossed the line ahead of Car 4. Therefore, Car 4 was not permitted to overtake Car 3 at that point. The Stewards observed that Car 4 did not give back the position after overtaking Car 3. Consequently, they have decided to impose the standard 10-second time penalty for his actions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     74
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-06-07T11:54"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - INFRINGEMENT - Car 12 - VSC procedure",
+   "subject": "INFRINGEMENT - Car 12 - VSC procedure",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_12_-_vsc_procedure.pdf",
+   "published": "2026-06-07T11:54",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "competitor": "PREMA Racing",
+    "time": "10:21",
+    "session": "Race 2",
+    "fact": "Car 12 (Boya) exceeded the VSC minimum delta time at the end of the VSC period.",
+    "infringement": "Breach of Article 41.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F2 Sporting Regulations. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 2 points",
+    "reason": "Car 12 was reported to have exceeded the VSC minimum delta time by 1.4 seconds at the end of the VSC in marshalling sector 5, the Stewards examined data evidence and concluded that the driver has committed an infringement of Article 41.5 of the FIA F2 Sporting Regulations and decide to apply the standard time penalty of 5 seconds for this matter.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     73
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-06-07T11:54"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - INFRINGEMENT - Car 22 - left the track and gained lasting advantage",
+   "subject": "INFRINGEMENT - Car 22 - left the track and gained lasting advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_22_-_left_the_track_and_gained_lasting_advantage.pdf",
+   "published": "2026-06-07T11:53",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "22 - Nico Varrone",
+    "competitor": "Van Amersfoort Racing",
+    "time": "09:30",
+    "session": "Race 2",
+    "fact": "Car 22 left the track at Turn 1 and went outside of the kerb, using the pit lane exit road.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards reviewed the GPS positioning system and video evidence. Having considered the matter extensively the Stewards determined that at the start of the race Car 22 left the track and went outside of the kerb at Turn 1. While Car 22 re- entered the track safely, this manoeuvre allowed him to overtake Car 2. The Stewards reviewed video evidence and confirmed that Car 22 did not give back the position. Accordingly, the Stewards decided to impose the standard 10 seconds penalty for leaving the track and gaining a lasting advantage.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     }
+    ],
+    "refs": [
+     72
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-07T11:53"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - INFRINGEMENT - Car 5 - pit stop violation",
+   "subject": "INFRINGEMENT - Car 5 - pit stop violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_5_-_pit_stop_violation.pdf",
+   "published": "2026-06-07T11:19",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Noel Leon",
+    "competitor": "Campos Racing",
+    "time": "10:09",
+    "session": "Race 2",
+    "fact": "The right front wheel nut from Car 5 (Leon) detached and rolled into the fast lane.",
+    "infringement": "Breach of Article 28.14 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. During the mandatory pit stop for Car 5, the right front wheel nut became detached and rolled into the fast lane, from which it was removed by a member of team personnel. The team is fined accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     71
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-06-07T11:19"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - INFRINGEMENT - Car 11 - pit stop violation",
+   "subject": "INFRINGEMENT - Car 11 - pit stop violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_11_-_pit_stop_violation.pdf",
+   "published": "2026-06-07T11:10",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sebastian Montoya",
+    "competitor": "PREMA Racing",
+    "time": "09:15",
+    "session": "Race 2",
+    "fact": "Eye protection was not worn when Car 11 pitted on the reconnaissance lap - the mechanic on the rear jack.",
+    "infringement": "Breach of Article 28.11 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards examined video evidence. Having considered the matter extensively, the Stewards determined that the mechanic on the rear jack of Car 11 was not wearing the mandatory eye protections as required by the regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     70
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-06-07T11:10"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - F2 Race 2 (Feature) provisional classification",
+   "subject": "F2 Race 2 (Feature) provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_2_feature_provisional_classification.pdf",
+   "published": "2026-06-07T10:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-07T10:51"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - F2 Race 2 (Feature) - final grid",
+   "subject": "F2 Race 2 (Feature) - final grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_2_feature_-_final_grid.pdf",
+   "published": "2026-06-07T08:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-07T08:25"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - F2 Race 2 (Feature) - provisional starting grid",
+   "subject": "F2 Race 2 (Feature) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-06-06T20:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T20:30"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - F2 Race 1 (Sprint) - final classification",
+   "subject": "F2 Race 1 (Sprint) - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-06-06T20:28",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T20:28"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Technical Report 5",
+   "subject": "Technical Report 5",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_technical_report_5.pdf",
+   "published": "2026-06-06T20:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T20:23"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - INFRINGEMENT - Car 9 - failure to nominate both rear brake discs",
+   "subject": "INFRINGEMENT - Car 9 - failure to nominate both rear brake discs",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_9_-_failure_to_nominate_both_rear_brake_discs.pdf",
+   "published": "2026-06-06T20:09",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "18:49",
+    "session": "Race 1",
+    "fact": "The Competitor of Car 9 failed to nominate the front brakes as required by Article 24.18 a of the F2 Sporting regulations.",
+    "infringement": "Breach of Article 24.18 a of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 7000 Euros (being 2 x 3500 Euros) to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA. The Competitor must immediately nominate the two brake discs used in Race 1. In addition, two brake discs are removed from their total allocation for the 2026 F2 season, in accordance with Article 28.14 c of the FIA F2 Sporting Regulations.",
+    "reason": "The Stewards summoned (Document 63) and heard the Team Representative. They examined the report (Document 62) from the Technical Delegate, who was also present at the Hearing at the request of the Stewards Panel. The Team did not dispute the Technical Delegate’s report that Car 9 used brake discs that were not properly nominated for the car as required by Article 24.18a) of the Formula 2 Sporting Regulations. The Team explained that this was an administrative error on their part. Stewards determined that Car 9 gained no Sporting Advantage during the race due to the error. The Stewards accept that administrative errors can occur but determine that an infringement exist nevertheless. Under the circumstances, the Stewards impose a fine of 7,000 Euro on the team and decide to reduce by two the number of brake disks available for the rest of the season (from 36 to 34 total) in accordance to Article 28.14. c) of the Formula 2 Sporting Regulations. The Stewards also mandate the team to declare the two discs used during the race (brake disc number: G5028 & G5029).",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     62,
+     63,
+     64
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 7000
+   },
+   "related": [
+    62,
+    63
+   ],
+   "published_local": "2026-06-06T20:09"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - SUMMONS - Car 9 - alleged failure to nominate brake discs",
+   "subject": "SUMMONS - Car 9 - alleged failure to nominate brake discs",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_9_-_alleged_failure_to_nominate_brake_discs.pdf",
+   "published": "2026-06-06T20:06",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 24.18 of the FIA F2 Sporting Regulations - Car 9 was alleged to be using two front brake discs (brake disc number: G5028 & G5029) fitted to Car 9 which were not nominated prior to the commencement of Race 1 (Sprint Race).",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "refs": [
+     63
+    ]
+   },
+   "related": [
+    64
+   ],
+   "published_local": "2026-06-06T20:06"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - Technical Report 4",
+   "subject": "Technical Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_technical_report_4.pdf",
+   "published": "2026-06-06T20:06",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    64
+   ],
+   "published_local": "2026-06-06T20:06"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - INFRINGEMENT - Car 2 - incorrect number of tyres available for the Feature Race",
+   "subject": "INFRINGEMENT - Car 2 - incorrect number of tyres available for the Feature Race",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_2_-_incorrect_number_of_tyres_available_for_the_feature_race.pdf",
+   "published": "2026-06-06T18:01",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "16:48",
+    "session": "After Race 1",
+    "fact": "Car 2 (Durksen) does not have the correct number of tyres to comply with the Sporting Regulations in relation to the Feature Race (Race 2).",
+    "infringement": "Breach of Article 24.15 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A drop of 5 grid places for the Feature Race (Race 2). No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards summoned and heard the team representative (document 60). Having considered the matter extensively and discussed the situation with the Technical Delegate, the Stewards determined that during the Qualifying session, Car 2 rendered the front right tyres of both “option” compound sets of tyres unusable for safety reasons, as certified by the Tyre Supplier. This was deemed by the Stewards to be not for reasons of force majeure. Car 2, is therefore, not able to comply with SR 24.15 for the Feature Race (Race 2). The grid drop of 5 places applies to the Feature Race as this is when the tyre is required to be used. The Stewards direct the Tyre Supplier to provide a new “option” front right tyre to Car 2 for use only in the Feature Race (Race 2). The Tyre Supplier is requested to mount and issue this tyre to the Team for usage in Race 2 (Feature).",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     60,
+     61
+    ],
+    "tags": [
+     "5-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    60
+   ],
+   "published_local": "2026-06-06T18:01"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - SUMMONS - Car 2 - alleged incorrect number of tyres available for the Feature Race",
+   "subject": "SUMMONS - Car 2 - alleged incorrect number of tyres available for the Feature Race",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_2_-_alleged_incorrect_number_of_tyres_available_for_the_feature_race.pdf",
+   "published": "2026-06-06T17:43",
+   "recalled": false,
+   "cars": [
+    2
+   ],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 24.15 of the FIA F2 Sporting Regulations - Car 2 - alleged incorrect number of tyres available for the Feature Race.",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "refs": [
+     60
+    ]
+   },
+   "related": [
+    61
+   ],
+   "published_local": "2026-06-06T17:43"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - INFRINGEMENT - Car 3 - causing a collision",
+   "subject": "INFRINGEMENT - Car 3 - causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_3_-_causing_a_collision.pdf",
+   "published": "2026-06-06T16:55",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "competitor": "Hitech",
+    "time": "14:23",
+    "session": "Race 1",
+    "fact": "Car 3 (Miyata) made contact with Car 10 (Goethe) at Turn 7.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 3 points",
+    "reason": "The Stewards summoned (Documents 57 & 58) and heard the Drivers of Car 3 (Miyata) and Car 10 (Goethe) and the team representatives. They examined video evidence. The Driver of Car 10 explained that approaching Turn 7 he was clearly ahead of Car 3. When entering the corner, Car 3 stuck his front wing on the inside and made contact with the right rear tyre of Car 10. The Driver of Car 3 stated that he was ahead of Car 10 at Turn 6 and that he was squeezed by Car 10 in both the Turn 6 exit and the entry of Turn 7, which resulted in a contact between the two cars. Having considered the matter extensively, Stewards determined that Car 3 initiated an overtaking move on the inside of Car 10 at Turn 7. Video evidence showed that Car 3 made contact from his front axle to the right rear wheel of Car 10. Footage also confirmed that at no point was the front axle of Car 3 alongside the mirror of Car 10, as required in the 2026 Driving Standard Guidelines to have the right of the line when overtaking on the inside The Stewards determined that Car 3 was wholly to blame for the incident and imposed the baseline penalty of 10 seconds penalty plus two penalty points.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     57,
+     59
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    57
+   ],
+   "published_local": "2026-06-06T16:55"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - SUMMONS - Car 3 - alleged contact to Car 10 at Turn 7 in Race 1",
+   "subject": "SUMMONS - Car 3 - alleged contact to Car 10 at Turn 7 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_3_-_alleged_contact_to_car_10_at_turn_7_in_race_1.pdf",
+   "published": "2026-06-06T16:06",
+   "recalled": false,
+   "cars": [
+    3,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ritomo Miyata",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 3 allegedly made contact with Car 10 at Turn 7 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     }
+    ],
+    "refs": [
+     58
+    ]
+   },
+   "published_local": "2026-06-06T16:06"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - SUMMONS - Car 10 - alleged contact from Car 3 at Turn 7 in Race 1",
+   "subject": "SUMMONS - Car 10 - alleged contact from Car 3 at Turn 7 in Race 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_10_-_alleged_contact_from_car_3_at_turn_7_in_race_1.pdf",
+   "published": "2026-06-06T16:05",
+   "recalled": false,
+   "cars": [
+    3,
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 3 allegedly made contact with Car 10 at Turn 7 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     57
+    ]
+   },
+   "related": [
+    59
+   ],
+   "published_local": "2026-06-06T16:05"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - INFRINGEMENT - Race 1 (Sprint) track limit violations",
+   "subject": "INFRINGEMENT - Race 1 (Sprint) track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_race_1_sprint_track_limit_violations.pdf",
+   "published": "2026-06-06T15:43",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident      Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "10": 3,
+     "12": 1,
+     "17": 3,
+     "14": 1,
+     "23": 1,
+     "25": 1,
+     "8": 1,
+     "1": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     56
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-06T15:43"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - INFRINGEMENT - Car 24 - left the track and gained lasting advantage",
+   "subject": "INFRINGEMENT - Car 24 - left the track and gained lasting advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_24_-_left_the_track_and_gained_lasting_advantage.pdf",
+   "published": "2026-06-06T15:33",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "competitor": "Trident Motorsport",
+    "time": "14:22",
+    "session": "Race 1",
+    "fact": "Car 24 (Van Hoepen) left the track at Turn 1 and gained lasting advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F2 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "At the start of the race, while cars approached Turn 1, Car 24 veered off the circuit by cutting the chicane. While Car 24 re-entered the track safely, this manoeuvre allowed him to overtake Cars 20 and 23 off track. Stewards reviewed video evidence and confirmed that Car 24 did not give back the positions. Having examined the matter extensively, the Stewards conclude that Car 24 gained a lasting advantage by leaving the track and overtaking two cars, therefore they elect to issue the standard 10 second time penalty for his actions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-06T15:33"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - F2 Race 1 (Sprint) - provisional classification",
+   "subject": "F2 Race 1 (Sprint) - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-06-06T15:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T15:23"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - F2 Race 1 (Sprint) - final starting grid",
+   "subject": "F2 Race 1 (Sprint) - final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-06-06T13:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T13:19"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Podium and Parc Fermé instructions - Monaco",
+   "subject": "Podium and Parc Fermé instructions - Monaco",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_podium_and_parc_ferme_instructions_-_monaco_0.pdf",
+   "published": "2026-06-06T10:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T10:21"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - INFRINGEMENT - Qualifying - track limit cancellation",
+   "subject": "INFRINGEMENT - Qualifying - track limit cancellation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_qualifying_-_track_limit_cancellation.pdf",
+   "published": "2026-06-05T20:46",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "25": 1,
+     "9": 1,
+     "21": 1
+    },
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     51
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-05T20:46"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - INFRINGEMENT - Qualifying - DWYF lap time canx",
+   "subject": "INFRINGEMENT - Qualifying - DWYF lap time canx",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_qualifying_-_dwyf_lap_time_canx.pdf",
+   "published": "2026-06-05T20:42",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "15": 1,
+     "23": 1,
+     "21": 1
+    },
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     50
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-05T20:42"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - F2 Race 1 (Sprint) - provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-06-05T20:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-05T20:31"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - F2 qualifying B - final classification",
+   "subject": "F2 qualifying B - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_qualifying_b_-_final_classification.pdf",
+   "published": "2026-06-05T20:29",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-05T20:29"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - F2 qualifying A - final classification",
+   "subject": "F2 qualifying A - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_qualifying_a_-_final_classification.pdf",
+   "published": "2026-06-05T20:04",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-05T20:04"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - INFRINGEMENT - MP MOTORSPORT (Car 10) potentially unsafe act",
+   "subject": "INFRINGEMENT - MP MOTORSPORT (Car 10) potentially unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_mp_motorsport_car_10_potentially_unsafe_act.pdf",
+   "published": "2026-06-05T19:54",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "competitor": "MP Motorsport",
+    "time": "15:49",
+    "session": "Qualifying",
+    "fact": "A team member momentarily entered the Fast Lane to release Car 10.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code - potentially unsafe act.",
+    "decision": "Reprimand to the Team.",
+    "reason": "The Stewards summoned (Document 36) and heard the Team representative. They examined video evidence. During the qualifying session, a team member momentarily entered the fast lane to release Car 10. For safety reasons, it is essential that team members avoid crossing the white line separating the blending lane from the fast lane. This rule is crucial for maintaining safety and minimizing risks during high-pressure moments on the pit lane. The team manager explained that the limited space provided by the F1 Teams prevented them from having the necessary room to operate effectively. This was confirmed by the Race Director, who explained that a request would be made to improve this for all remaining sessions. Having considered the matter extensively, the Stewards concluded that, although the team did breach the regulations, there were mitigating circumstances. Specifically, the limited space available contributed to the situation, and the team member was only briefly in the fast lane. Taking these factors into account, the Stewards have decided to issue a reprimand to the team.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     36,
+     46
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    36
+   ],
+   "published_local": "2026-06-05T19:54"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - INFRINGEMENT - MP MOTORSPORT (Car 9) potentially unsafe act",
+   "subject": "INFRINGEMENT - MP MOTORSPORT (Car 9) potentially unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_mp_motorsport_car_9_potentially_unsafe_act.pdf",
+   "published": "2026-06-05T19:54",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "competitor": "MP Motorsport",
+    "time": "15:49",
+    "session": "Qualifying",
+    "fact": "A team member momentarily entered the Fast Lane to release Car 9.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code - potentially unsafe act.",
+    "decision": "Reprimand to the Team.",
+    "reason": "The Stewards summoned (Document 35) and heard the Team representative. They examined video evidence. During the qualifying session, a team member momentarily entered the fast lane to release Car 9. For safety reasons, it is essential that team members avoid crossing the white line separating the blending lane from the fast lane. This rule is crucial for maintaining safety and minimizing risks during high-pressure moments on the pit lane. The team manager explained that the limited space provided by the F1 Teams prevented them from having the necessary room to operate effectively. This was confirmed by the Race Director, who explained that a request would be made to improve this for all remaining sessions. Having considered the matter extensively, the Stewards concluded that, although the team did breach the regulations, there were mitigating circumstances. Specifically, the limited space available contributed to the situation, and the team member was only briefly in the fast lane. Taking these factors into account, the Stewards have decided to issue a reprimand to the team.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     35,
+     45
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    35
+   ],
+   "published_local": "2026-06-05T19:54"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - INFRINGEMENT - HITECH (Car 4) potentially unsafe act",
+   "subject": "INFRINGEMENT - HITECH (Car 4) potentially unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_hitech_car_4_potentially_unsafe_act.pdf",
+   "published": "2026-06-05T19:53",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "competitor": "Hitech",
+    "time": "15:49",
+    "session": "Qualifying",
+    "fact": "A team member momentarily entered the Fast Lane to release Car 4.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code - potentially unsafe act.",
+    "decision": "Reprimand to the Team.",
+    "reason": "The Stewards summoned (Document 34) and heard the Team representative. They examined video evidence. During the qualifying session, a team member momentarily entered the fast lane to release Car 4. For safety reasons, it is essential that team members avoid crossing the white line separating the blending lane from the fast lane. This rule is crucial for maintaining safety and minimizing risks during high-pressure moments on the pit lane. The team manager explained that the limited space provided by the F1 Teams prevented them from having the necessary room to operate effectively. This was confirmed by the Race Director, who explained that a request would be made to improve this for all remaining sessions. Having considered the matter extensively, the Stewards concluded that, although the team did breach the regulations, there were mitigating circumstances. Specifically, the limited space available contributed to the situation, and the team member was only briefly in the fast lane. Taking these factors into account, the Stewards have decided to issue a reprimand to the team.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     34,
+     44
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-06-05T19:53"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - INFRINGEMENT - DAMS (Car 8) potentially unsafe act",
+   "subject": "INFRINGEMENT - DAMS (Car 8) potentially unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_dams_car_8_potentially_unsafe_act.pdf",
+   "published": "2026-06-05T19:53",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "competitor": "DAMS Lucas Oil",
+    "time": "15:49",
+    "session": "Qualifying",
+    "fact": "A team member momentarily entered the Fast Lane to release Car 8.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code - potentially unsafe act.",
+    "decision": "Reprimand to the Team.",
+    "reason": "The Stewards summoned (Document 33) and heard the Team representative. They examined video evidence. During the qualifying session, a team member momentarily entered the fast lane to release Car 8. For safety reasons, it is essential that team members avoid crossing the white line separating the blending lane from the fast lane. This rule is crucial for maintaining safety and minimizing risks during high-pressure moments on the pit lane. The team manager explained that the limited space provided by the F1 Teams prevented them from having the necessary room to operate effectively. This was confirmed by the Race Director, who explained that a request would be made to improve this for all remaining sessions. Having considered the matter extensively, the Stewards concluded that, although the team did breach the regulations, there were mitigating circumstances. Specifically, the limited space available contributed to the situation, and the team member was only briefly in the fast lane. Taking these factors into account, the Stewards have decided to issue a reprimand to the team.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     33,
+     43
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    33
+   ],
+   "published_local": "2026-06-05T19:53"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - INFRINGEMENT - DAMS (Car 7) potentially unsafe act",
+   "subject": "INFRINGEMENT - DAMS (Car 7) potentially unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_dams_car_7_potentially_unsafe_act.pdf",
+   "published": "2026-06-05T19:52",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "7 - Dino Beganovic",
+    "competitor": "DAMS Lucas Oil",
+    "time": "15:11",
+    "session": "Qualifying",
+    "fact": "A team member momentarily entered the Fast Lane to release Car 7.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code - potentially unsafe act.",
+    "decision": "Reprimand to the Team.",
+    "reason": "The Stewards summoned (Document 32) and heard the Team representative. They examined video evidence. During the qualifying session, a team member momentarily entered the fast lane to release Car 7. For safety reasons, it is essential that team members avoid crossing the white line separating the blending lane from the fast lane. This rule is crucial for maintaining safety and minimizing risks during high-pressure moments on the pit lane. The team manager explained that the limited space provided by the F1 Teams prevented them from having the necessary room to operate effectively. This was confirmed by the Race Director, who explained that a request would be made to improve this for all remaining sessions. Having considered the matter extensively, the Stewards concluded that, although the team did breach the regulations, there were mitigating circumstances. Specifically, the limited space available contributed to the situation, and the team member was only briefly in the fast lane. Taking these factors into account, the Stewards have decided to issue a reprimand to the team.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     32,
+     42
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    32
+   ],
+   "published_local": "2026-06-05T19:52"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - INFRINGEMENT - Car 2 - impeded Car 16 in Qualifying",
+   "subject": "INFRINGEMENT - Car 2 - impeded Car 16 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_2_-_impeded_car_16_in_qualifying.pdf",
+   "published": "2026-06-05T19:52",
+   "recalled": false,
+   "cars": [
+    2,
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "competitor": "Invicta Racing",
+    "time": "15:52",
+    "session": "Qualifying",
+    "fact": "Car 2 (Duerksen) impeded Car 16 (Maini) at Turn 6 in Qualifying.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A drop of 3 places on the grid for the Sprint Race & Feature Race at this Competition. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards summoned (Documents 30 & 31) and heard the Drivers of Car 2 (Duerksen) and Car 16 (Maini) and the team representatives. They examined video evidence. Car 16 was on push lap and caught up to the back of Car 2 who was on a cool down lap, Car 16 was closing the gap quickly and at Turn 6 caught up with Car 2, who was on the racing line and impeded Car 16. The driver of Car 2 indicated that he had no radio from the team advising him that Car 16 was approaching quickly. Meanwhile, the driver of Car 16 claimed that he was on a push lap and was impeded by Car 2, who remained on the racing line. Having considered the matter extensively, the Stewards determined that Car 2 could have done more to avoid unnecessarily impeding on Car 16, consequently the Stewards apply the standard penalty of a drop 3 grid positions. This penalty applies for both the Sprint and Feature races, as per Art. 31.6 of the FIA Formula 2 Sporting Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     30,
+     41
+    ],
+    "tags": [
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-06-05T19:52"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - INFRINGEMENT - Car 16 - causing a collision",
+   "subject": "INFRINGEMENT - Car 16 - causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_16_-_causing_a_collision.pdf",
+   "published": "2026-06-05T19:51",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "competitor": "ART Grand Prix",
+    "time": "15:44",
+    "session": "Qualifying",
+    "fact": "Car 16 (Maini) made contact with Car 24 (Van Hoepen) at Turn 10 in Qualifying.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "A drop of 3 places on the grid for the Sprint Race & Feature Race at this Competition. In addition, 1 point is to be added to the driver’s record. Total for the 2026 season = 1 point",
+    "reason": "The Stewards summoned (Documents 25 & 26) and heard the Drivers of Car 16 (Maini) and Car 24 (Van Hopene) and the team representatives. They examined the GPS information and video evidence. The driver of Car 24 explained that he was on a warm up lap. He also admitted being aware of Car 16 following closely and seeing a blue flag just before Turn 10. He stated that there was no space for Car 16 to overtake him at Turn 10 and he had no time to react to the blue flag as he was already turning for the corner. The driver of Car 16 confirmed that he was also on a warm up lap, but he wanted to get a better position on track and decided to first move to the right of the track and later to the left-hand side and start an overtaking move of Car 25. The Driver of Car 16 admitted making contact with the barriers before making contact with Car 24. Having considered the matter extensively, Stewards determined that Car 16 was too optimistic, trying to overtake Car 24, his front axle was alongside the rear wheel of Car 24 when the contact occurred. The Stewards noted the two blue flags displayed just before Turn 10 while both cars were in sequence at a similar speed and consider this a mitigating circumstance. The Stewards decided that Car 16 was predominantly to blame for the incident and elected to impose a drop of three grid positions for both races at this Competition plus 1 penalty point.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     25,
+     40
+    ],
+    "tags": [
+     "3-place grid drop",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    25
+   ],
+   "published_local": "2026-06-05T19:51"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Technical Report 3",
+   "subject": "Technical Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_technical_report_3.pdf",
+   "published": "2026-06-06T10:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-06T10:05"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - DECISION - Car 25 - sole cause of the Red Flag",
+   "subject": "DECISION - Car 25 - sole cause of the Red Flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_decision_-_car_25_-_sole_cause_of_the_red_flag.pdf",
+   "published": "2026-06-05T18:14",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "competitor": "Trident Motorsport",
+    "time": "15:22",
+    "session": "Qualifying",
+    "fact": "Car 25 (Bennett) was the sole cause of the issuance of the red flag in Qualifying.",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Deletion of the fastest lap time set by Car 25. This results in the Car being outside the 107% for the qualifying time. Permission is given for Car 25 to start Race 1 (Sprint) and Race 2 (Feature) as detailed in Article 34.2 of the FIA F2 Sporting Regulations.",
+    "reason": "The Stewards summoned (Document 29) and heard the Driver of Car 25 (Bennett) and the team representative. They examined video evidence. The Stewards determined that, while approaching Turn 1, Car 25 locked his right tyre, went over the kerb and collided with the Tec-Pro barrier at Turn 1. The Race Director red flagged the session due to this incident. Having considered the matter extensively and consulted with the Race Director, the Stewards determined that Car 25 was the sole cause of the red flag. The Stewards concluded that the failure of the driver to negotiate Turn 1 was within the driver and team’s control and as such a penalty is warranted.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     29,
+     38
+    ],
+    "tags": [
+     "Permission to start",
+     "Lap time deleted"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-06-05T18:14"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - DECISION - Car 24 - alleged sole cause of the Red Flag",
+   "subject": "DECISION - Car 24 - alleged sole cause of the Red Flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_decision_-_car_24_-_alleged_sole_cause_of_the_red_flag.pdf",
+   "published": "2026-06-05T18:14",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "competitor": "Trident Motorsport",
+    "time": "15:44",
+    "session": "Qualifying",
+    "fact": "Car 24 (van Hoepen) was alleged to have been the sole cause of the issue of the red flag in Qualifying, after contact from Car 16 (Maini).",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action. As a result of the contact, Car 24 was outside the 107% for the qualifying time. Permission is given for Car 24 to start Race 1 (Sprint) and Race 2 (Feature) as detailed in Article 34.2 of the FIA F2 Sporting Regulations.",
+    "reason": "The Stewards summoned (Documents 27 & 28) and heard the Drivers of Car 24 (Van Hoepen) and Car 16 (Maini) and the team representatives. They examined video evidence. The Stewards examined video evidence. The Stewards determined that Car 16 collided with Car 24 at Turn 10. As a result of the collision, Car 24 to spun and became stranded on the kerb at Turn 10. The Race Director red flagged the session due to this incident. Having considered the matter extensively and consulted with the Race Director, the Stewards determined that no car was the sole cause of the red flag. Accordingly, the Stewards decided that no further action is required.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     27,
+     37
+    ],
+    "tags": [
+     "No further action",
+     "Permission to start"
+    ],
+    "outcome": "other"
+   },
+   "related": [
+    27
+   ],
+   "published_local": "2026-06-05T18:14"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - SUMMONS - Car 10 - TM only - alleged car controller in the fast lane",
+   "subject": "SUMMONS - Car 10 - TM only - alleged car controller in the fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_10_-_tm_only_-_alleged_car_controller_in_the_fast_lane.pdf",
+   "published": "2026-06-05T17:12",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Oliver Goethe",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA ISC - allegedly unsafe act - the Car Controller of Car 10 was standing in the fast lane at 15:49 during Qualifying, whilst releasing the Car.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     36
+    ]
+   },
+   "related": [
+    46
+   ],
+   "published_local": "2026-06-05T17:12"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - SUMMONS - Car 9 - TM only - alleged car controller in the fast lane",
+   "subject": "SUMMONS - Car 9 - TM only - alleged car controller in the fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_9_-_tm_only_-_alleged_car_controller_in_the_fast_lane.pdf",
+   "published": "2026-06-05T17:09",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Gabriele Mini",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA ISC - allegedly unsafe act - the Car Controller of Car 9 was standing in the fast lane at 15:29 during Qualifying, whilst releasing the Car.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     }
+    ],
+    "refs": [
+     35
+    ]
+   },
+   "related": [
+    45
+   ],
+   "published_local": "2026-06-05T17:09"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - SUMMONS - Car 4 - TM only - alleged car controller in the fast lane",
+   "subject": "SUMMONS - Car 4 - TM only - alleged car controller in the fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_4_-_tm_only_-_alleged_car_controller_in_the_fast_lane.pdf",
+   "published": "2026-06-05T17:06",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Colton Herta",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA ISC - allegedly unsafe act - the Car Controller of Car 4 was standing in the fast lane at 15:49 during Qualifying, whilst releasing the Car.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     }
+    ],
+    "refs": [
+     34
+    ]
+   },
+   "related": [
+    44
+   ],
+   "published_local": "2026-06-05T17:06"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - SUMMONS - Car 8 - TM only - alleged car controller in the fast lane",
+   "subject": "SUMMONS - Car 8 - TM only - alleged car controller in the fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_8_-_tm_only_-_alleged_car_controller_in_the_fast_lane.pdf",
+   "published": "2026-06-05T17:04",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "8 - Roman Bilinski",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA ISC - allegedly unsafe act - the Car Controller of Car 8 was standing in the fast lane at 15:49 during Qualifying, whilst releasing the Car.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     33
+    ]
+   },
+   "related": [
+    43
+   ],
+   "published_local": "2026-06-05T17:04"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - SUMMONS - Car 7 - TM only - alleged car controller in the fast lane",
+   "subject": "SUMMONS - Car 7 - TM only - alleged car controller in the fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_7_-_tm_only_-_alleged_car_controller_in_the_fast_lane.pdf",
+   "published": "2026-06-05T17:02",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Summons",
+   "details": {
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA ISC - allegedly unsafe act - the Car Controller of Car 7 was standing in the fast lane at 15:11 during Qualifying, whilst releasing the Car.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "refs": [
+     32
+    ]
+   },
+   "related": [
+    42
+   ],
+   "published_local": "2026-06-05T17:02"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - SUMMONS - Car 16 - allegedly impeded by Car 2 T7-T10",
+   "subject": "SUMMONS - Car 16 - allegedly impeded by Car 2 T7-T10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_16_-_allegedly_impeded_by_car_2_t7-t10.pdf",
+   "published": "2026-06-05T16:56",
+   "recalled": false,
+   "cars": [
+    2,
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 2 is alleged to have impeded Car 16 between Turn 7 and Turn 10 in Qualifying",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   },
+   "published_local": "2026-06-05T16:56"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - SUMMONS - Car 2 - allegedly impeded Car 16 T7-T10",
+   "subject": "SUMMONS - Car 2 - allegedly impeded Car 16 T7-T10",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_2_-_allegedly_impeded_car_16_t7-t10.pdf",
+   "published": "2026-06-05T16:54",
+   "recalled": false,
+   "cars": [
+    2,
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "2 - Joshua Duerksen",
+    "reason": "Alleged breach of Article 31.6 of the FIA F2 Sporting Regulations - Car 2 is alleged to have impeded Car 16 between Turn 7 and Turn 10 in Qualifying",
+    "from": "The Stewards",
+    "competitor": "Invicta Racing",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Duerksen"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "related": [
+    41
+   ],
+   "published_local": "2026-06-05T16:54"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - SUMMONS - Car 25 - alleged sole cause of red flag in Qualifying A",
+   "subject": "SUMMONS - Car 25 - alleged sole cause of red flag in Qualifying A",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_25_-_alleged_sole_cause_of_red_flag_in_qualifying_a.pdf",
+   "published": "2026-06-05T16:51",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "reason": "Alleged breach of Article 33.7 of the FIA F2 Sporting Regulations - Car 25 is alleged as sole cause of the issuance of the red flag in Qualifying A at 15:22",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "related": [
+    38
+   ],
+   "published_local": "2026-06-05T16:51"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - SUMMONS - Car 16 - alleged incident resulting in Car 24 being sole cause of red flag in Qualifying A",
+   "subject": "SUMMONS - Car 16 - alleged incident resulting in Car 24 being sole cause of red flag in Qualifying A",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_16_-_alleged_incident_resulting_in_car_24_being_sole_cause_of_red_flag_in_qualifying_a.pdf",
+   "published": "2026-06-05T16:47",
+   "recalled": false,
+   "cars": [
+    16,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 33.7 of the FIA F2 Sporting Regulations - Car 24 is alleged as sole cause of the issuance of the red flag in Qualifying A at 15:22 following incident with Car 16 at Turn 10",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     28
+    ]
+   },
+   "published_local": "2026-06-05T16:47"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - SUMMONS - Car 24 - alleged sole cause of red flag in Qualifying A",
+   "subject": "SUMMONS - Car 24 - alleged sole cause of red flag in Qualifying A",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_24_-_alleged_sole_cause_of_red_flag_in_qualifying_a.pdf",
+   "published": "2026-06-05T16:46",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Article 33.7 of the FIA F2 Sporting Regulations - Car 24 is alleged as sole cause of the issuance of the red flag in Qualifying A at 15:22 following incident with Car 16 at Turn 10",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     27
+    ]
+   },
+   "related": [
+    37
+   ],
+   "published_local": "2026-06-05T16:46"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - SUMMONS - Car 16 - alleged contact to Car 24 in Qualifying",
+   "subject": "SUMMONS - Car 16 - alleged contact to Car 24 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_16_-_alleged_contact_to_car_24_in_qualifying.pdf",
+   "published": "2026-06-05T16:43",
+   "recalled": false,
+   "cars": [
+    16,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 16 allegedly made contact with Car 24 at Turn 10 in Qualifying",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     26
+    ]
+   },
+   "published_local": "2026-06-05T16:43"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - SUMMONS - Car 24 - alleged contact from Car 16 in Qualifying",
+   "subject": "SUMMONS - Car 24 - alleged contact from Car 16 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_24_-_alleged_contact_from_car_16_in_qualifying.pdf",
+   "published": "2026-06-05T16:41",
+   "recalled": false,
+   "cars": [
+    16,
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Laurens van Hoepen",
+    "reason": "Alleged breach of Appendix L Chapter IV Article 2 d of the FIA ISC - Car 16 allegedly made contact with Car 24 at Turn 10 in Qualifying",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Laurens van Hoepen"
+     }
+    ],
+    "refs": [
+     25
+    ]
+   },
+   "related": [
+    40
+   ],
+   "published_local": "2026-06-05T16:41"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - F2 qualifying B - provisional classification",
+   "subject": "F2 qualifying B - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_qualifying_b_-_provisional_classification.pdf",
+   "published": "2026-06-05T16:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-05T16:15"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - F2 qualifying A - provisional classification",
+   "subject": "F2 qualifying A - provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_qualifying_a_-_provisional_classification.pdf",
+   "published": "2026-06-05T16:12",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-05T16:12"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - F2 Monaco Pit Lane Drawings 2026 V2",
+   "subject": "F2 Monaco Pit Lane Drawings 2026 V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_monaco_pit_lane_drawings_2026_v2.pdf",
+   "published": "2026-06-05T10:09",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-05T10:09"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - TIMETABLE V3",
+   "subject": "TIMETABLE V3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_timetable_v3.pdf",
+   "published": "2026-06-04T18:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-04T18:33"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENT - Practice - track limit violations",
+   "subject": "INFRINGEMENT - Practice - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_practice_-_track_limit_violations.pdf",
+   "published": "2026-06-04T17:50",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "21": 3,
+     "16": 3,
+     "12": 2,
+     "4": 1,
+     "5": 2,
+     "2": 2,
+     "23": 4,
+     "7": 1,
+     "6": 1,
+     "17": 4,
+     "1": 3,
+     "22": 1,
+     "14": 1,
+     "15": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 22,
+      "name": "Nico Varrone"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 11,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-04T17:50"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Practice - DWYF lap cancellations",
+   "subject": "INFRINGEMENT - Practice - DWYF lap cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_practice_-_dwyf_lap_cancellations.pdf",
+   "published": "2026-06-04T17:40",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "3": 4,
+     "9": 3,
+     "12": 2,
+     "15": 3,
+     "7": 2,
+     "16": 2,
+     "17": 2,
+     "1": 2,
+     "21": 2,
+     "2": 2,
+     "4": 2,
+     "5": 1,
+     "14": 1
+    },
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 1,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 4,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-04T17:40"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_technical_report_2.pdf",
+   "published": "2026-06-04T17:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-04T17:25"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - INFRINGEMENT - Car 21 - erratic driving T2-T3 in Practice",
+   "subject": "INFRINGEMENT - Car 21 - erratic driving T2-T3 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_21_-_erratic_driving_t2-t3_in_practice.pdf",
+   "published": "2026-06-04T17:20",
+   "recalled": false,
+   "cars": [
+    21
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "competitor": "AIX Racing",
+    "time": "15:18",
+    "session": "Practice",
+    "fact": "Car 21 was driving in an erratic manner whilst ahead of Car 16 between Turn 2 and Turn 3 in Practice.",
+    "infringement": "Breach of Article 27.4 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Warning given to the Driver of Car 21.",
+    "reason": "The Stewards summoned (Documents 12 & 13) and heard the Drivers of Car 21 (Shields) and Car 16 (Maini) and the team representatives. They examined video evidence. The driver of Car 16 explained that he was on a build up lap and tried to pass Car 21 at Turn 3, as he (Car 16) was carrying more speed than the car in front. Car 21 moved to the left and both cars were close to making contact. The driver of Car 21 explained that he was also on a build up lap. He looked in his mirrors before reaching Turn 3, and he noticed Car 16 behind him. The Driver of Car 21 admitted that he didn’t expect Car 16 to close the gap so quickly. He moved to the left to negotiate the corner and as soon as he realized that Car 16 was trying to overtake him, the driver of Car 21 opened the steering to avoid making contact. Having considered the matter extensively, Stewards determined that Car 21 moved to the left-hand side of the track in an erratic manner, squeezing Car 16 against the guardrail. Despite there being no contact, the Stewards determined that Car 21 was predominately to blame for the incident and decided to impose warning.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     12,
+     17
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    12
+   ],
+   "published_local": "2026-06-04T17:20"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - INFRINGEMENT - Car 12 - Practice start procedure violation",
+   "subject": "INFRINGEMENT - Car 12 - Practice start procedure violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_infringement_-_car_12_-_practice_start_procedure_violation.pdf",
+   "published": "2026-06-04T17:10",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "competitor": "PREMA Racing",
+    "time": "15:49",
+    "session": "Practice",
+    "fact": "Car 12 was attempting to perform a practice start, but hampered Car 14",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow requirements for Practice Start",
+    "decision": "Warning given to the Driver of Car 21.",
+    "reason": "The Stewards summoned (Documents 14 & 15) and heard the Drivers of Car 12 (Boya) and Car 14 (Stenshorne) and the team representatives. They examined video evidence. Once the session concluded, participants were given the opportunity to do practice starts on the grid. As the cars approached the grid to practice their starts, Car 12 (BOY) was ahead of Car 14 (STE) to find a suitable box on the front rows. The driver of Car 12 (BOY) first moved to the right as he thought cars were leaving the grid faster on that side, then he shifted to the left, putting himself where Car 14 (STE) was going. This sudden manoeuvre created uncertainty for Car 14 (STE) as they prepared for their own practice start. Although the driver of Car 12 (BOY) proceeded with the practice start, he failed to position his car within a designated grid box as required. Having considered the matter extensively, the Stewards concluded that the driver of Car 12 (BOY) failed to meet the requirements outlined by the Race Director Competition Notes (document No. 3) Item 16. Consequently, the Stewards elected to issue a warning to the driver of Car 12.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     3,
+     14,
+     16
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    3,
+    14
+   ],
+   "published_local": "2026-06-04T17:10"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - SUMMONS - Car 14 - alleged failure by Car 12 to follow RD practice start procedure",
+   "subject": "SUMMONS - Car 14 - alleged failure by Car 12 to follow RD practice start procedure",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_14_-_alleged_failure_by_car_12_to_follow_rd_practice_start_procedure.pdf",
+   "published": "2026-06-04T16:35",
+   "recalled": false,
+   "cars": [
+    12,
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Martinius Stenshorne",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - alleged failure by Car 12 to follow the Race Director practice start procedure, item 16.2 b on the Race Director Competition Notes. This allegedly hampered Car 14's preparation for his practice start.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     15
+    ]
+   },
+   "published_local": "2026-06-04T16:35"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - SUMMONS - Car 12 - alleged failure to follow RD practice start procedure",
+   "subject": "SUMMONS - Car 12 - alleged failure to follow RD practice start procedure",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_12_-_alleged_failure_to_follow_rd_practice_start_procedure.pdf",
+   "published": "2026-06-04T16:35",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - alleged failure by Car 12 to follow the Race Director practice start procedure, item 16.2 b on the Race Director Competition Notes. This allegedly hampered Car 14's preparation for his practice start.",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     14
+    ]
+   },
+   "related": [
+    16
+   ],
+   "published_local": "2026-06-04T16:35"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - SUMMONS - Car 16 - alleged erratic driving from Car 21",
+   "subject": "SUMMONS - Car 16 - alleged erratic driving from Car 21",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_16_-_alleged_erratic_driving_from_car_21.pdf",
+   "published": "2026-06-04T16:20",
+   "recalled": false,
+   "cars": [
+    16,
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Kush Maini",
+    "reason": "Alleged breach of Article 27.4 of the FIA F2 Sporting Regulations - Car 21 is alleged to have driven in an erratic manner between T2 and T3 whilst in front of Car 16 in Practice.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     }
+    ],
+    "refs": [
+     13
+    ]
+   },
+   "published_local": "2026-06-04T16:20"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - SUMMONS - Car 21 - alleged erratic driving involving Car 16",
+   "subject": "SUMMONS - Car 21 - alleged erratic driving involving Car 16",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_summons_-_car_21_-_alleged_erratic_driving_involving_car_16.pdf",
+   "published": "2026-06-04T16:19",
+   "recalled": false,
+   "cars": [
+    16,
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "21 - Cian Shields",
+    "reason": "Alleged breach of Article 27.4 of the FIA F2 Sporting Regulations - Car 21 is alleged to have driven in an erratic manner between T2 and T3 whilst in front of Car 16 in Practice.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Cian Shields"
+     }
+    ],
+    "refs": [
+     12
+    ]
+   },
+   "related": [
+    17
+   ],
+   "published_local": "2026-06-04T16:19"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - F2 Practice - classification",
+   "subject": "F2 Practice - classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_practice_-_classification.pdf",
+   "published": "2026-06-04T15:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-04T15:59"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - F2 Entry List - Monaco 2026",
+   "subject": "F2 Entry List - Monaco 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_entry_list_-_monaco_2026.pdf",
+   "published": "2026-06-04T11:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-04T11:31"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_technical_report_1.pdf",
+   "published": "2026-06-04T11:27",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-04T11:27"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F2 Monaco Pit Lane Drawings 2026",
+   "subject": "F2 Monaco Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_monaco_pit_lane_drawings_2026.pdf",
+   "published": "2026-06-04T08:31",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 22,
+   "published_local": "2026-06-04T08:31"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Bulletin 4 - Qualifying Groups",
+   "subject": "Bulletin 4 - Qualifying Groups",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_bulletin_4_-_qualifying_groups.pdf",
+   "published": "2026-06-03T18:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-03T18:25"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Circuit Map - Monaco 2026 V1",
+   "subject": "Circuit Map - Monaco 2026 V1",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_circuit_map_-_monaco_2026_v1.pdf",
+   "published": "2026-06-03T16:27",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-03T16:27"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Bulletin 3 - Changes to Sporting Regulations 39-4",
+   "subject": "Bulletin 3 - Changes to Sporting Regulations 39-4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_bulletin_3_-_changes_to_sporting_regulations_39-4.pdf",
+   "published": "2026-06-03T16:26",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-03T16:26"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Bulletin 2 - Changes to Sporting Regulation 39.3",
+   "subject": "Bulletin 2 - Changes to Sporting Regulation 39.3",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_bulletin_2_-_changes_to_sporting_regulation_39.3.pdf",
+   "published": "2026-06-03T16:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-03T16:25"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - F2 Monaco Competition Notes 2026 v1",
+   "subject": "F2 Monaco Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_f2_monaco_competition_notes_2026_v1.pdf",
+   "published": "2026-06-03T16:21",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    16
+   ],
+   "published_local": "2026-06-03T16:21"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_bulletin_1_-_restricted_period.pdf",
+   "published": "2026-06-03T16:14",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-03T16:14"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F2 Monaco 2026",
+   "subject": "VISA - F2 Monaco 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_monaco_event_-_visa_-_f2_monaco_2026.pdf",
+   "published": "2026-06-03T13:10",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-03T13:10"
+  }
+ ]
+}

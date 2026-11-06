@@ -1,5 +1,7 @@
 {
  "championship": "FIA Formula One World Championship",
+ "series": "f1",
+ "series_label": "Formula 1",
  "season": "Season 2026",
  "source": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072",
  "events": [
@@ -1186,13 +1188,13 @@
    "slug": "sao-paulo-grand-prix",
    "name": "São Paulo Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-   "doc_count": 13,
+   "doc_count": 18,
    "first_published": "2026-11-05T09:14",
-   "last_published": "2026-11-06T16:33",
+   "last_published": "2026-11-06T18:00",
    "first_local": "2026-11-05T05:14",
-   "last_local": "2026-11-06T12:33",
+   "last_local": "2026-11-06T14:00",
    "utc_offset_min": -180,
-   "tz_source": "name",
+   "tz_source": "pdf",
    "sessions": [
     {
      "name": "Practice 1",
@@ -1236,6 +1238,8 @@
     }
    ],
    "counts": {
+    "stewards": 4,
+    "results": 1,
     "technical": 5,
     "admin": 3,
     "race_director": 5
@@ -1278,11 +1282,11 @@
  "drivers": {
   "1": {
    "name": "Lando Norris",
-   "team": null
+   "team": "McLaren Mastercard F1 Team"
   },
   "3": {
    "name": "Max Verstappen",
-   "team": null
+   "team": "Oracle Red Bull Racing"
   },
   "5": {
    "name": "Gabriel Bortoleto",
@@ -1294,7 +1298,7 @@
   },
   "10": {
    "name": "Pierre Gasly",
-   "team": null
+   "team": "BWT Alpine F1 Team"
   },
   "11": {
    "name": "Sergio Perez",
@@ -1302,15 +1306,15 @@
   },
   "12": {
    "name": "Kimi Antonelli",
-   "team": null
+   "team": "Mercedes-AMG PETRONAS F1 Team"
   },
   "14": {
    "name": "Fernando Alonso",
-   "team": null
+   "team": "Aston Martin Aramco F1 Team"
   },
   "16": {
    "name": "Charles Leclerc",
-   "team": null
+   "team": "Scuderia Ferrari HP"
   },
   "18": {
    "name": "Lance Stroll",
@@ -1318,15 +1322,15 @@
   },
   "22": {
    "name": "Yuki Tsunoda",
-   "team": null
+   "team": "Visa Cash App Racing Bulls F1 Team"
   },
   "23": {
    "name": "Alexander Albon",
-   "team": null
+   "team": "Atlassian Williams F1 Team"
   },
   "25": {
    "name": "Colton Herta",
-   "team": null
+   "team": "Cadillac Formula 1 Team"
   },
   "27": {
    "name": "Nico Hulkenberg",
@@ -1334,15 +1338,15 @@
   },
   "30": {
    "name": "Liam Lawson",
-   "team": null
+   "team": "Visa Cash App Racing Bulls F1 Team"
   },
   "31": {
    "name": "Esteban Ocon",
-   "team": null
+   "team": "TGR Haas F1 Team"
   },
   "34": {
    "name": "Jak Crawford",
-   "team": null
+   "team": "Aston Martin Aramco F1 Team"
   },
   "38": {
    "name": "Dino Beganovic",
@@ -1368,9 +1372,13 @@
    "name": "Ryo Hirakawa",
    "team": null
   },
+  "51": {
+   "name": "Rafael Camara",
+   "team": null
+  },
   "55": {
    "name": "Carlos Sainz",
-   "team": null
+   "team": "Atlassian Williams F1 Team"
   },
   "61": {
    "name": "Paul Aron",
@@ -1386,15 +1394,15 @@
   },
   "77": {
    "name": "Valtteri Bottas",
-   "team": null
+   "team": "Cadillac Formula 1 Team"
   },
   "81": {
    "name": "Oscar Piastri",
-   "team": null
+   "team": "McLaren Mastercard F1 Team"
   },
   "87": {
    "name": "Oliver Bearman",
-   "team": null
+   "team": "TGR Haas F1 Team"
   },
   "90": {
    "name": "Ayumu Iwasa",

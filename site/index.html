@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>F1 Document Viewer</title>
+<title>Document Viewer</title>
 <meta name="description" content="FIA Formula One decision documents, organised by event and document type.">
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23e10600'/><path d='M8 9h12v3h-8v3h7v3h-7v5H8z' fill='white'/></svg>">
@@ -14,7 +14,7 @@
   <div class="brand">
     <span class="logo" aria-hidden="true"></span>
     <div>
-      <h1>F1 Document Viewer</h1>
+      <h1 id="brandTitle">Document Viewer</h1>
       <div class="sub" id="seasonLabel">Loading…</div>
     </div>
   </div>
@@ -32,6 +32,7 @@
 
 <div class="layout">
   <aside class="sidebar" id="sidebar">
+    <nav class="series-switch" id="seriesSwitch" aria-label="Championship"></nav>
     <div class="side-head">Rounds</div>
     <ul id="eventList" class="event-list"></ul>
     <div class="sync" id="sync">

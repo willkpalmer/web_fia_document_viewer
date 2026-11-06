@@ -726,11 +726,60 @@
    "type": "Decision",
    "details": {
     "session": "Qualifying",
-    "fact": "The F1 cars below exceeded the 1:29.0 time limit between the Safety Car lines. No. Car      Driver                   Competitor                                            Time of Day Lap Time 1   55       Carlos Sainz             Atlassian Williams F1 Team                            16:08:40    L5 (Q1) 2      23    Alexander Albon          Atlassian Williams F1 Team                            16:08:47          L5 (Q1) 3      81    Oscar Piastri            McLaren Mastercard F1 Team                            16:09:05          L2 (Q1) 4      31    Esteban Ocon             TGR Haas F1 Team                                      16:09:19          L5 (Q1) 5      77    Valtteri Bottas          Cadillac Formula 1 Team                               16:09:24          L5 (Q1) 6      18    Lance Stroll             Aston Martin Aramco F1 Team                           16:09:35          L5 (Q1) 7      63    George Russell           Mercedes-AMG PETRONAS F1 Team                         16:10:50          L4 (Q1) 8      18    Lance Stroll             Aston Martin Aramco F1 Team                           16:15:54          L7 (Q1) 9      27    Nico Hulkenberg          Audi Revolut F1 Team                                  16:16:02          L5 (Q1) 10     43    Franco Colapinto         BWT Alpine F1 Team                                    16:32:30          L10 (Q2)",
+    "fact": "The F1 cars below exceeded the 1:29.0 time limit between the Safety Car lines.",
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 9).",
     "decision": "No further action.",
     "from": "The Stewards",
     "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:29.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
+    "table_rows": {
+     "55": 1,
+     "23": 1,
+     "81": 1,
+     "31": 1,
+     "77": 1,
+     "18": 2,
+     "63": 1,
+     "27": 1,
+     "43": 1
+    },
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
     "refs": [
      9,
      43
@@ -1200,10 +1249,44 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 2",
-    "fact": "The F1 cars below did not use the track at turns 2, 3, 9, 10 and 13. No. Turn       Car Driver                     Competitor                                       Time of Day Lap Time 1   3          63 George Russell              Mercedes-AMG PETRONAS F1 Team                    17:09:26    2:02.240 2      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:11:35         PIT 3      9       18      Lance Stroll           Aston Martin Aramco F1 Team                      17:32:20         PIT 4      2       63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:31:51         PIT 5      2       14      Fernando Alonso        Aston Martin Aramco F1 Team                      17:33:44         PIT 6      10      6       Isack Hadjar           Oracle Red Bull Racing                           17:42:54         1:22.059 7      10      63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:53:02         PIT 8      13      10      Pierre Gasly           BWT Alpine F1 Team                               17:52:59         1:25.456 9      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:54:29         PIT",
+    "fact": "The F1 cars below did not use the track at turns 2, 3, 9, 10 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "12": 2,
+     "18": 1,
+     "63": 2,
+     "14": 1,
+     "6": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
     "refs": [
      23
     ],
@@ -1364,10 +1447,24 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 1",
-    "fact": "The F1 cars below did not use the track at turns 1, 2, 8 and 9. No. Turn       Car Driver                      Competitor                    Time of Day Lap Time 1   1          72 Frederik Vesti               Mercedes-AMG PETRONAS F1 Team 13:44:33    PIT 2      9       77      Valtteri Bottas         Cadillac Formula 1 Team                        13:44:59         1:21.196 3      8       5       Gabriel Bortoleto       Audi Revolut F1 Team                           13:59:55         PIT 4      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:13:41         PIT 5      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:24:26         1:22.802",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 8 and 9.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "77": 1,
+     "5": 3
+    },
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
     "refs": [
      17
     ],

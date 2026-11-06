@@ -4576,11 +4576,60 @@
    "type": "Decision",
    "details": {
     "session": "Qualifying",
-    "fact": "The F1 cars below exceeded the 1:29.0 time limit between the Safety Car lines. No. Car      Driver                   Competitor                                            Time of Day Lap Time 1   55       Carlos Sainz             Atlassian Williams F1 Team                            16:08:40    L5 (Q1) 2      23    Alexander Albon          Atlassian Williams F1 Team                            16:08:47          L5 (Q1) 3      81    Oscar Piastri            McLaren Mastercard F1 Team                            16:09:05          L2 (Q1) 4      31    Esteban Ocon             TGR Haas F1 Team                                      16:09:19          L5 (Q1) 5      77    Valtteri Bottas          Cadillac Formula 1 Team                               16:09:24          L5 (Q1) 6      18    Lance Stroll             Aston Martin Aramco F1 Team                           16:09:35          L5 (Q1) 7      63    George Russell           Mercedes-AMG PETRONAS F1 Team                         16:10:50          L4 (Q1) 8      18    Lance Stroll             Aston Martin Aramco F1 Team                           16:15:54          L7 (Q1) 9      27    Nico Hulkenberg          Audi Revolut F1 Team                                  16:16:02          L5 (Q1) 10     43    Franco Colapinto         BWT Alpine F1 Team                                    16:32:30          L10 (Q2)",
+    "fact": "The F1 cars below exceeded the 1:29.0 time limit between the Safety Car lines.",
     "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 9).",
     "decision": "No further action.",
     "from": "The Stewards",
     "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 1:29.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
+    "table_rows": {
+     "55": 1,
+     "23": 1,
+     "81": 1,
+     "31": 1,
+     "77": 1,
+     "18": 2,
+     "63": 1,
+     "27": 1,
+     "43": 1
+    },
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
     "refs": [
      9,
      43
@@ -4849,10 +4898,44 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 2",
-    "fact": "The F1 cars below did not use the track at turns 2, 3, 9, 10 and 13. No. Turn       Car Driver                     Competitor                                       Time of Day Lap Time 1   3          63 George Russell              Mercedes-AMG PETRONAS F1 Team                    17:09:26    2:02.240 2      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:11:35         PIT 3      9       18      Lance Stroll           Aston Martin Aramco F1 Team                      17:32:20         PIT 4      2       63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:31:51         PIT 5      2       14      Fernando Alonso        Aston Martin Aramco F1 Team                      17:33:44         PIT 6      10      6       Isack Hadjar           Oracle Red Bull Racing                           17:42:54         1:22.059 7      10      63      George Russell         Mercedes-AMG PETRONAS F1 Team                    17:53:02         PIT 8      13      10      Pierre Gasly           BWT Alpine F1 Team                               17:52:59         1:25.456 9      10      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team                    17:54:29         PIT",
+    "fact": "The F1 cars below did not use the track at turns 2, 3, 9, 10 and 13.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "12": 2,
+     "18": 1,
+     "63": 2,
+     "14": 1,
+     "6": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
     "refs": [
      23
     ],
@@ -4999,10 +5082,24 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 1",
-    "fact": "The F1 cars below did not use the track at turns 1, 2, 8 and 9. No. Turn       Car Driver                      Competitor                    Time of Day Lap Time 1   1          72 Frederik Vesti               Mercedes-AMG PETRONAS F1 Team 13:44:33    PIT 2      9       77      Valtteri Bottas         Cadillac Formula 1 Team                        13:44:59         1:21.196 3      8       5       Gabriel Bortoleto       Audi Revolut F1 Team                           13:59:55         PIT 4      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:13:41         PIT 5      2       5       Gabriel Bortoleto       Audi Revolut F1 Team                           14:24:26         1:22.802",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 8 and 9.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "77": 1,
+     "5": 3
+    },
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
     "refs": [
      17
     ],
@@ -8971,9 +9068,28 @@
    "type": "Infringement",
    "details": {
     "session": "Sprint Qualifying",
-    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector. No. Turn Car         Driver                   Competitor                                     Time of Day      Lap Time 1   3    6           Isack Hadjar             Oracle Red Bull Racing                         16:40:07         PIT 2      3     18      Lance Stroll             Aston Martin Aramco F1 Team                    16:40:08         PIT 3      3     44      Lewis Hamilton           Scuderia Ferrari HP                            16:40:11         PIT",
+    "fact": "The F1 cars passed through a double waved yellow flag marshalling sector.",
     "decision": "Deletion of the lap times shown.",
     "from": "The Stewards",
+    "table_rows": {
+     "6": 1,
+     "18": 1,
+     "44": 1
+    },
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
     "refs": [
      32
     ],
@@ -8998,10 +9114,64 @@
    "type": "Infringement",
    "details": {
     "session": "Sprint Qualifying",
-    "fact": "The F1 cars below did not use the track at turns 2, 3, 4, 8, 10 and 14. No. Turn       Car Driver                      Competitor                                     Time of Day Lap Time 1   2          44 Lewis Hamilton               Scuderia Ferrari HP                            16:34:32    1:26.505 2      2       16      Charles Leclerc         Scuderia Ferrari HP                            16:36:06       1:35.328 3      14      63      George Russell          Mercedes-AMG PETRONAS F1 Team 16:37:23                        1:18.246 4      14      63      George Russell          Mercedes-AMG PETRONAS F1 Team 16:37:23                        1:40.999 5      8       16      Charles Leclerc         Scuderia Ferrari HP                            16:38:14       1:32.072 6      3       6       Isack Hadjar            Oracle Red Bull Racing                         16:40:07       PIT 7      2       6       Isack Hadjar            Oracle Red Bull Racing                         16:39:57       PIT 8      3       18      Lance Stroll            Aston Martin Aramco F1 Team                    16:40:08       PIT 9      3       44      Lewis Hamilton          Scuderia Ferrari HP                            16:40:11       PIT 10     14      55      Carlos Sainz            Atlassian Williams F1 Team                     17:01:49       1:17.365 11     14      44      Lewis Hamilton          Scuderia Ferrari HP                            17:01:54       1:16.374 12     14      44      Lewis Hamilton          Scuderia Ferrari HP                            17:01:54       PIT 13     4       3       Max Verstappen          Oracle Red Bull Racing                         17:13:35       1:25.242 14     8       12      Kimi Antonelli          Mercedes-AMG PETRONAS F1 Team 17:14:34                        PIT 15     8       87      Oliver Bearman          TGR Haas F1 Team                               17:16:23       1:30.951 16     10      41      Arvid Lindblad          Visa Cash App Racing Bulls F1 Team             17:16:50       1:17.019 17     10      41      Arvid Lindblad          Visa Cash App Racing Bulls F1 Team             17:16:50       PIT 18     2       55      Carlos Sainz            Atlassian Williams F1 Team                     17:27:30       1:29.917",
+    "fact": "The F1 cars below did not use the track at turns 2, 3, 4, 8, 10 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "16": 2,
+     "63": 2,
+     "6": 2,
+     "18": 1,
+     "44": 3,
+     "55": 2,
+     "3": 1,
+     "12": 1,
+     "87": 1,
+     "41": 2
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
     "refs": [
      31
     ],
@@ -9173,10 +9343,64 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 1",
-    "fact": "The F1 cars below did not use the track at turns 1, 2, 4, 8, 10, 13 and 14. No. Turn      Car Driver                      Competitor                                         Time of Day Lap Time 1   14        1   Lando Norris                McLaren Mastercard F1 Team                         12:35:29    1:22.647 2      14     81      Oscar Piastri           McLaren Mastercard F1 Team                         12:50:15       1:19.876 3      8      55      Carlos Sainz            Atlassian Williams F1 Team                         12:53:08       1:29.887 4      8      14      Fernando Alonso         Aston Martin Aramco F1 Team                        12:56:25       1:30.798 5      1      55      Carlos Sainz            Atlassian Williams F1 Team                         12:56:56       PIT 6      4      1       Lando Norris            McLaren Mastercard F1 Team                         13:16:27       1:22.073 7      13     1       Lando Norris            McLaren Mastercard F1 Team                         12:35:28       1:22.647 8      1      12      Kimi Antonelli          Mercedes-AMG PETRONAS F1 Team                      13:24:56       1:32.169 9      8      10      Pierre Gasly            BWT Alpine F1 Team                                 13:21:04       1:22.745 10     4      1       Lando Norris            McLaren Mastercard F1 Team                         13:26:20       1:27.775 11     8      3       Max Verstappen          Oracle Red Bull Racing                             13:24:18       1:21.338 12     14     44      Lewis Hamilton          Scuderia Ferrari HP                                13:28:36       1:39.828 13     1      63      George Russell         Mercedes-AMG PETRONAS F1 Team                       13:35:23       1:32.242 14     14     81      Oscar Piastri           McLaren Mastercard F1 Team                         13:37:18       1:17.802 15     10     12      Kimi Antonelli          Mercedes-AMG PETRONAS F1 Team                      13:39:36       PIT 16     14     31      Esteban Ocon            TGR Haas F1 Team                                   13:39:37       1:19.485 17     2      63      George Russell         Mercedes-AMG PETRONAS F1 Team                       13:41:19       PIT",
+    "fact": "The F1 cars below did not use the track at turns 1, 2, 4, 8, 10, 13 and 14.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "1": 4,
+     "81": 2,
+     "55": 2,
+     "14": 1,
+     "12": 2,
+     "10": 1,
+     "3": 1,
+     "44": 1,
+     "63": 2,
+     "31": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     }
+    ],
     "refs": [
      23
     ],
@@ -18593,10 +18817,79 @@
    "type": "Infringement",
    "details": {
     "session": "Qualifying",
-    "fact": "The F1 cars below did not use the track at turns 1, 10 and 16. No. Turn      Car Driver                     Competitor                                 Time of Day Lap Time 1   10        63 George Russell              Mercedes-AMG PETRONAS F1 Team              16:02:59    OUT LAP 2      10     63      George Russell         Mercedes-AMG PETRONAS F1 Team              16:04:26         1:33.532 3      10     11      Sergio Perez           Cadillac Formula 1 Team                    16:05:06         1:30.897 4      10     63      George Russell         Mercedes-AMG PETRONAS F1 Team              16:07:16         1:39.599 5      10     11      Sergio Perez           Cadillac Formula 1 Team                    16:07:51         PIT 6      10     63      George Russell         Mercedes-AMG PETRONAS F1 Team              16:08:50         1:33.562 7      16     63      George Russell         Mercedes-AMG PETRONAS F1 Team              16:09:12         1:33.562 8      1      23      Alexander Albon        Atlassian Williams F1 Team                 16:09:23         PIT 9      16     55      Carlos Sainz           Atlassian Williams F1 Team                 16:10:31         PIT 10     1      12      Kimi Antonelli         Mercedes-AMG PETRONAS F1 Team              16:10:30         1:34.829 11     16     31      Esteban Ocon           TGR Haas F1 Team                           16:13:15         1:21.099 12     1      44      Lewis Hamilton         Scuderia Ferrari HP                        16:12:12         1:36.716 13     10     18      Lance Stroll           Aston Martin Aramco F1 Team                16:13:49         1:17.435 14     10     5       Gabriel Bortoleto      Audi Revolut F1 Team                       16:13:47         1:35.069 15     16     18      Lance Stroll           Aston Martin Aramco F1 Team                16:14:03         1:17.435 16     10     18      Lance Stroll           Aston Martin Aramco F1 Team                16:15:17         PIT 17     1      63      George Russell         Mercedes-AMG PETRONAS F1 Team              16:15:41         PIT 18     10     27      Nico Hulkenberg        Audi Revolut F1 Team                       16:33:50         OUT LAP 19     10     63      George Russell         Mercedes-AMG PETRONAS F1 Team              16:44:31         1:21.611 20     10     30      Liam Lawson            Visa Cash App Racing Bulls F1 Team         16:46:12         PIT 21     10     1       Lando Norris           McLaren Mastercard F1 Team                 16:46:47         PIT 22     1      27      Nico Hulkenberg        Audi Revolut F1 Team                       16:46:19         PIT",
+    "fact": "The F1 cars below did not use the track at turns 1, 10 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "63": 6,
+     "11": 2,
+     "23": 1,
+     "55": 1,
+     "12": 1,
+     "31": 1,
+     "44": 1,
+     "18": 3,
+     "5": 1,
+     "27": 2,
+     "30": 1,
+     "1": 4,
+     "43": 1
+    },
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
     "refs": [
      58
     ],
@@ -19293,10 +19586,104 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 1",
-    "fact": "The F1 cars below did not use the track at turns 1, 5, 10, 11 and 16. No. Turn       Car      Driver                  Competitor                                  Time of Day Lap Time 1   5          16       Charles Leclerc         Scuderia Ferrari HP                         13:31:16    OUT LAP 2      10      43       Franco Colapinto        BWT Alpine F1 Team                          13:32:58       1:26.305 3      10      16       Charles Leclerc         Scuderia Ferrari HP                         13:36:30       PIT 4      10      14       Fernando Alonso         Aston Martin Aramco F1 Team                 13:37:10       PIT 5      10      55       Carlos Sainz            Atlassian Williams F1 Team                  13:37:26       1:20.942 6      10      10       Pierre Gasly            BWT Alpine F1 Team                          13:38:28       1:18.683 7      10      41       Arvid Lindblad          Visa Cash App Racing Bulls F1 Team          13:39:53       1:37.102 8      11      10       Pierre Gasly            BWT Alpine F1 Team                          13:39:55       1:39.572 9      10      63       George Russell          Mercedes-AMG PETRONAS F1 Team 13:41:27                     1:37.923 10     10      55       Carlos Sainz            Atlassian Williams F1 Team                  13:41:36       PIT 11     10      16       Charles Leclerc         Scuderia Ferrari HP                         13:41:42       1:21.839 12     10      30       Liam Lawson             Visa Cash App Racing Bulls F1 Team          13:41:49       1:44.285 13     10      87       Oliver Bearman          TGR Haas F1 Team                            13:43:37       1:24.068 14     10      41       Arvid Lindblad          Visa Cash App Racing Bulls F1 Team          13:44:36       1:26.099 15     16      44       Lewis Hamilton          Scuderia Ferrari HP                         13:45:09       1:20.659 16     10      10       Pierre Gasly            BWT Alpine F1 Team                          13:45:42       1:22.623 17     10      16       Charles Leclerc         Scuderia Ferrari HP                         13:45:41       1:32.974 18     10      30       Liam Lawson             Visa Cash App Racing Bulls F1 Team          13:46:21       PIT 19     10      87       Oliver Bearman          TGR Haas F1 Team                            13:46:33       1:38.207 20     16      41       Arvid Lindblad          Visa Cash App Racing Bulls F1 Team          13:44:54       1:26.099 21     1       44       Lewis Hamilton          Scuderia Ferrari HP                         13:45:35       1:48.165 22     10      16       Charles Leclerc         Scuderia Ferrari HP                         13:47:16       1:23.128",
+    "fact": "The F1 cars below did not use the track at turns 1, 5, 10, 11 and 16.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "16": 6,
+     "43": 1,
+     "14": 4,
+     "55": 8,
+     "10": 5,
+     "41": 8,
+     "63": 2,
+     "30": 4,
+     "87": 3,
+     "44": 3,
+     "12": 1,
+     "27": 1,
+     "1": 1,
+     "11": 1,
+     "5": 1,
+     "23": 2,
+     "31": 1,
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
     "refs": [
      28
     ],
@@ -19439,6 +19826,229 @@
     11
    ],
    "published_local": "2026-06-05T12:32"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 19,
+   "title": "Doc 19 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times - Double Yellow",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow.pdf",
+   "published": "2026-11-06T18:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "43": 1,
+     "23": 1,
+     "46": 1,
+     "51": 1,
+     "38": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 46,
+      "name": "Luke Browning"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 38,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-06T14:00"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 18,
+   "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-11-06T17:55",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turns 1, 7, 10 and 12.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "38": 1,
+     "12": 3,
+     "25": 1,
+     "18": 2,
+     "5": 1,
+     "44": 1,
+     "23": 1,
+     "51": 1,
+     "41": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 38,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 25,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-06T13:55"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 16,
+   "title": "Doc 16 - Infringement - Car 43 - Pit Lane Speeding",
+   "subject": "Infringement - Car 43 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_43_-_pit_lane_speeding.pdf",
+   "published": "2026-11-06T17:40",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "13:10",
+    "session": "Free Practice 1",
+    "fact": "Pit lane speeding – 80.6 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (BWT Alpine F1 Team) is fined €100.",
+    "reason": "Car 43 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.6 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     16
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-11-06T13:40"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 15,
+   "title": "Doc 15 - Infringement - Car 63 - Changes to PU element",
+   "subject": "Infringement - Car 63 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_63_-_changes_to_pu_element.pdf",
+   "published": "2026-11-06T17:25",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "12:31",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 6th Engine (ICE)",
+    "infringement": "Breaches of Articles B8.2.2a (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 5 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     14,
+     15
+    ],
+    "tags": [
+     "5-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-06T13:25"
   },
   {
    "event": "Singapore Grand Prix",
@@ -23054,10 +23664,119 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 2",
-    "fact": "The F1 Cars below did not use the track at turns 2, 4, 6, 7, 9, 12, 13, 15, 16, 18, 19 and 20. No. Turn       Car      Driver                   Competitor                                       Time of Day        Lap Time 1   15         23       Alexander Albon          Atlassian Williams F1 Team                       16:03:49           1:40.691 2      19      16       Charles Leclerc          Scuderia Ferrari HP                              16:04:11           1:37.502 3      19      18       Lance Stroll             Aston Martin Aramco F1 Team                      16:04:33           1:38.797 4      19      44       Lewis Hamilton           Scuderia Ferrari HP                              16:04:47           1:37.263 5      20      81       Oscar Piastri            McLaren Mastercard F1 Team                       16:05:04           1:38.091 6      12      12       Kimi Antonelli           Mercedes-AMG PETRONAS F1 Team                    16:04:59           1:36.910 7      19      6        Isack Hadjar             Oracle Red Bull Racing                           16:05:50           1:37.012 8      20      81       Oscar Piastri            McLaren Mastercard F1 Team                       NEXT LAP           2:44.987 9      20      23       Alexander Albon          Atlassian Williams F1 Team                       16:04:10           1:40.691 10     20      23       Alexander Albon          Atlassian Williams F1 Team                       NEXT LAP           2:41.716 11     20      16       Charles Leclerc          Scuderia Ferrari HP                              16:04:18           1:37.502 12     20      16       Charles Leclerc          Scuderia Ferrari HP                              NEXT LAP           2:22.437 13     18      16       Charles Leclerc          Scuderia Ferrari HP                              16:12:54           2:00.903 14     13      41       Arvid Lindblad           Visa Cash App Racing Bulls F1 Team               16:07:53           2:20.168 15     9       5        Gabriel Bortoleto        Audi Revolut F1 Team                             16:03:32           1:37.574 16     12      81       Oscar Piastri            McLaren Mastercard F1 Team                       16:08:54           1:51.675 17     12      23       Alexander Albon          Atlassian Williams F1 Team                       16:10:06           1:38.218 18     7       10       Pierre Gasly             BWT Alpine F1 Team                               16:04:39           2:48.952 19     15      14       Fernando Alonso          Aston Martin Aramco F1 Team                      16:12:59           PIT 20     12      1        Lando Norris             McLaren Mastercard F1 Team                       16:13:47           1:38.150 21     20      1        Lando Norris             McLaren Mastercard F1 Team                       16:14:21           1:38.150 22     20      1        Lando Norris             McLaren Mastercard F1 Team                       NEXT LAP           PIT",
+    "fact": "The F1 Cars below did not use the track at turns 2, 4, 6, 7, 9, 12, 13, 15, 16, 18, 19 and 20.",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "23": 11,
+     "16": 10,
+     "18": 3,
+     "44": 10,
+     "81": 10,
+     "12": 9,
+     "6": 11,
+     "41": 3,
+     "5": 8,
+     "10": 3,
+     "14": 4,
+     "1": 13,
+     "55": 6,
+     "87": 8,
+     "63": 3,
+     "27": 2,
+     "43": 5,
+     "11": 2,
+     "3": 2,
+     "30": 4,
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
     "refs": [
      24
     ],
@@ -23122,10 +23841,119 @@
    "type": "Infringement",
    "details": {
     "session": "Free Practice 1",
-    "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 9, 11, 12, 15, 19 & 20 No. Turn       Car      Driver                   Competitor                                      Time of Day Lap Time 1      9       44       Lewis Hamilton           Scuderia Ferrari HP                             12:34:40      1:39.009 2      9       27       Nico Hulkenberg          Audi Revolut F1 Team                            12:35:11      2:19.774 3      12      18       Lance Stroll             Aston Martin Aramco F1 Team                     12:34:26      1:40.508 4      11      41       Arvid Lindblad           Visa Cash App Racing Bulls F1 Team              12:34:22      1:41.565 5      12      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:33:47      1:41.244 6      12      63       George Russell           Mercedes-AMG PETRONAS F1 Team                   12:34:51      1:39.301 7      12      18       Lance Stroll             Aston Martin Aramco F1 Team                     12:38:48      1:39.171 8      12      63       George Russell           Mercedes-AMG PETRONAS F1 Team                   12:39:08      1:38.253 9      12      43       Franco Colapinto         BWT Alpine F1 Team                              12:44:14      1:41.315 10     11      14       Fernando Alonso          Aston Martin Aramco F1 Team                     12:45:44      1:38.910 11     11      81       Oscar Piastri            McLaren Mastercard F1 Team                      12:47:05      1:37.792 12     1       18       Lance Stroll             Aston Martin Aramco F1 Team                     12:50:49      1:38.409 13     11      5        Gabriel Bortoleto        Audi Revolut F1 Team                            12:54:13      1:40.818 14     15      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:54:48      OUT LAP 15     15      5        Gabriel Bortoleto        Audi Revolut F1 Team                            12:54:47      1:40.818 16     19      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:56:41      1:37.957 17     20      27       Nico Hulkenberg          Audi Revolut F1 Team                            12:56:47      1:37.957 18     20      27       Nico Hulkenberg          Audi Revolut F1 Team                            NEXT LAP      2:24.326 19     20      87       Oliver Bearman           TGR Haas F1 Team                                12:47:41      1:39.035 20     20      87       Oliver Bearman           TGR Haas F1 Team                                NEXT LAP      PIT 21     20      6        Isack Hadjar             Oracle Red Bull Racing                          13:00:59      1:36.918 22     20      6        Isack Hadjar             Oracle Red Bull Racing                          NEXT LAP      PIT",
+    "fact": "The F1 Cars below did not use the track at turns 1, 3, 4, 9, 11, 12, 15, 19 & 20",
     "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
     "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
     "from": "The Stewards",
+    "table_rows": {
+     "44": 4,
+     "27": 9,
+     "18": 3,
+     "41": 2,
+     "63": 5,
+     "43": 3,
+     "14": 1,
+     "81": 1,
+     "5": 5,
+     "87": 4,
+     "6": 4,
+     "12": 4,
+     "25": 3,
+     "31": 2,
+     "3": 1,
+     "30": 1,
+     "23": 9,
+     "16": 5,
+     "1": 5,
+     "10": 4,
+     "55": 4
+    },
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 25,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 31,
+      "name": "Esteban Ocon"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
     "refs": [
      20
     ],

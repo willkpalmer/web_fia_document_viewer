@@ -3,13 +3,13 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 13,
+  "doc_count": 18,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-06T16:33",
+  "last_published": "2026-11-06T18:00",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-06T12:33",
+  "last_local": "2026-11-06T14:00",
   "utc_offset_min": -180,
-  "tz_source": "name",
+  "tz_source": "pdf",
   "sessions": [
    {
     "name": "Practice 1",
@@ -53,6 +53,8 @@
    }
   ],
   "counts": {
+   "stewards": 4,
+   "results": 1,
    "technical": 5,
    "admin": 3,
    "race_director": 5
@@ -60,6 +62,232 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 19,
+   "title": "Doc 19 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times - Double Yellow",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow.pdf",
+   "published": "2026-11-06T18:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "43": 1,
+     "23": 1,
+     "46": 1,
+     "51": 1,
+     "38": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 46,
+      "name": "Luke Browning"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 38,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-06T14:00"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-11-06T17:55",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turns 1, 7, 10 and 12.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "38": 1,
+     "12": 3,
+     "25": 1,
+     "18": 2,
+     "5": 1,
+     "44": 1,
+     "23": 1,
+     "51": 1,
+     "41": 1,
+     "63": 1
+    },
+    "drivers": [
+     {
+      "car": 38,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 25,
+      "name": "Colton Herta"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-06T13:55"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-11-06T17:49",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-06T13:49"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - Infringement - Car 43 - Pit Lane Speeding",
+   "subject": "Infringement - Car 43 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_43_-_pit_lane_speeding.pdf",
+   "published": "2026-11-06T17:40",
+   "recalled": false,
+   "cars": [
+    43
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "competitor": "BWT Alpine F1 Team",
+    "time": "13:10",
+    "session": "Free Practice 1",
+    "fact": "Pit lane speeding – 80.6 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (BWT Alpine F1 Team) is fined €100.",
+    "reason": "Car 43 exceeded the pit lane speed limit which is set at 80 km/h for this event by 0.6 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     16
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 100
+   },
+   "published_local": "2026-11-06T13:40"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Infringement - Car 63 - Changes to PU element",
+   "subject": "Infringement - Car 63 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_63_-_changes_to_pu_element.pdf",
+   "published": "2026-11-06T17:25",
+   "recalled": false,
+   "cars": [
+    63
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "12:31",
+    "session": "Free Practice 1",
+    "fact": "The following Power Unit elements have been used: 6th Engine (ICE)",
+    "infringement": "Breaches of Articles B8.2.2a (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 5 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     14,
+     15
+    ],
+    "tags": [
+     "5-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-06T13:25"
+  },
   {
    "num": 14,
    "title": "Doc 14 - New PU Elements for this Competition",
@@ -69,6 +297,9 @@
    "published": "2026-11-06T16:33",
    "recalled": false,
    "cars": [],
+   "related": [
+    15
+   ],
    "published_local": "2026-11-06T12:33"
   },
   {
