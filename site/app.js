@@ -103,8 +103,8 @@ function trackDayTime(iso) {               // "2026-11-06T12:30" (track local) -
 function viewerDayTime(utcIso) {
   const dt = new Date(utcIso);
   return {
-    day: dt.toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" }),
-    time: dt.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" }),
+    day: `${DAYS[dt.getDay()]} ${dt.getDate()} ${MONTHS[dt.getMonth()]}`,
+    time: `${p2(dt.getHours())}:${p2(dt.getMinutes())}`,
     tz: (Intl.DateTimeFormat(undefined, { timeZoneName: "short" }).formatToParts(dt)
       .find((x) => x.type === "timeZoneName") || {}).value || "",
   };
@@ -200,7 +200,8 @@ function ago(iso) {
   return `${Math.round(s / 86400)} d ago`;
 }
 function localClock(iso) {
-  return new Date(iso).toLocaleString(undefined, { weekday: "short", hour: "2-digit", minute: "2-digit" });
+  const dt = new Date(iso);
+  return `${DAYS[dt.getDay()]} ${String(dt.getHours()).padStart(2, "0")}:${String(dt.getMinutes()).padStart(2, "0")}`;
 }
 
 async function reloadData() {
