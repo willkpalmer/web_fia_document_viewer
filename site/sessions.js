@@ -63,6 +63,17 @@ function tickClocks() {
   }
 }
 
+function sourceNote(list) {
+  const fia = list.some((s) => s.source === "fia"), f1 = list.some((s) => s.source === "f1");
+  const parts = [];
+  if (fia && f1) parts.push("From the FIA event timetable; sessions it doesn't cover are from formula1.com.");
+  else if (fia) parts.push("From the FIA event timetable.");
+  else if (f1) parts.push("From the formula1.com schedule (no FIA timetable available).");
+  if (list.some((s) => s.inferred)) parts.push("Sessions without a published time are shown from their results.");
+  if (fia || f1) parts.push("Race end times are approximate.");
+  return parts.join(" ");
+}
+
 function render() {
   const now = Date.now();
   const list = EV.sessions || [];
@@ -108,10 +119,7 @@ function render() {
     </li>`;
   }).join("") || `<li class="m-empty">Session times appear once the FIA publishes this event's timetable.</li>`;
 
-  const notes = [];
-  if (list.some((s) => !s.inferred)) notes.push("From the FIA event timetable. Race end times are approximate.");
-  if (list.some((s) => s.inferred)) notes.push("Some sessions aren't covered by a timetable on fia.com, so they're shown from their published results.");
-  $("#note").textContent = notes.join(" ");
+  $("#note").textContent = list.length ? sourceNote(list) : "";
   tickClocks();
 }
 

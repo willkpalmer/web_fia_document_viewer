@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 12,
+  "doc_count": 13,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-06T15:32",
+  "last_published": "2026-11-06T16:33",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-06T11:32",
+  "last_local": "2026-11-06T12:33",
   "utc_offset_min": -180,
   "tz_source": "name",
   "sessions": [
@@ -16,45 +16,61 @@
     "start_local": "2026-11-06T12:30",
     "end_local": "2026-11-06T13:30",
     "start_utc": "2026-11-06T15:30Z",
-    "end_utc": "2026-11-06T16:30Z"
+    "end_utc": "2026-11-06T16:30Z",
+    "source": "fia"
    },
    {
     "name": "Practice 2",
     "start_local": "2026-11-06T16:00",
     "end_local": "2026-11-06T17:00",
     "start_utc": "2026-11-06T19:00Z",
-    "end_utc": "2026-11-06T20:00Z"
+    "end_utc": "2026-11-06T20:00Z",
+    "source": "fia"
    },
    {
     "name": "Practice 3",
     "start_local": "2026-11-07T11:30",
     "end_local": "2026-11-07T12:30",
     "start_utc": "2026-11-07T14:30Z",
-    "end_utc": "2026-11-07T15:30Z"
+    "end_utc": "2026-11-07T15:30Z",
+    "source": "fia"
    },
    {
     "name": "Qualifying",
     "start_local": "2026-11-07T15:00",
     "end_local": "2026-11-07T16:00",
     "start_utc": "2026-11-07T18:00Z",
-    "end_utc": "2026-11-07T19:00Z"
+    "end_utc": "2026-11-07T19:00Z",
+    "source": "fia"
    },
    {
     "name": "Race",
     "start_local": "2026-11-08T14:00",
     "end_local": "2026-11-08T16:00",
     "start_utc": "2026-11-08T17:00Z",
-    "end_utc": "2026-11-08T19:00Z"
+    "end_utc": "2026-11-08T19:00Z",
+    "source": "fia"
    }
   ],
   "counts": {
+   "technical": 5,
    "admin": 3,
-   "technical": 4,
    "race_director": 5
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 14,
+   "title": "Doc 14 - New PU Elements for this Competition",
+   "subject": "New PU Elements for this Competition",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition.pdf",
+   "published": "2026-11-06T16:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-06T12:33"
+  },
   {
    "num": 13,
    "title": "Doc 13 - Entry List",

@@ -98,8 +98,11 @@ skipped when GitHub is busy.
 The right-hand panel lists the selected event's Formula 1 sessions, read from the FIA **Timetable** documents. Reissued
 timetables are merged, with later versions overriding earlier ones. Each session is marked **Complete**, **In progress**
 (with time remaining) or upcoming (with a countdown). Upcoming sessions show both track time and your own time.
-Some events have no usable timetable on fia.com: the document is missing, or it's only a cover page. For those, sessions
-are taken from their classification documents and marked complete, with the time the results were published.
+Sessions an FIA timetable doesn't cover are filled from the **formula1.com** schedule. Its race pages embed every
+session's UTC start and end time as structured data. Its pages are matched to FIA events by date, because the names
+differ: sponsors, local languages, and events such as the "Bahrain Grand Prix in Malaysia".
+formula1.com pages are cached in `scraper/cache/f1_schedule.json`: finished weekends are kept, and weekends within 10 days
+are re-checked hourly. Only if neither source has a session is it shown from its classification documents.
 
 The **Open session times page** button under the panel opens `sessions.html`, a standalone page laid out for phones.
 It has:

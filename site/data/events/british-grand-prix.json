@@ -13,38 +13,43 @@
   "sessions": [
    {
     "name": "Practice 1",
-    "classified_local": "2026-07-03T13:50",
-    "start_utc": "2026-07-03T12:50Z",
-    "end_utc": "2026-07-03T12:50Z",
-    "inferred": true
+    "start_local": "2026-07-03T12:30",
+    "end_local": "2026-07-03T13:30",
+    "start_utc": "2026-07-03T11:30Z",
+    "end_utc": "2026-07-03T12:30Z",
+    "source": "f1"
    },
    {
     "name": "Sprint Qualifying",
-    "classified_local": "2026-07-03T17:30",
-    "start_utc": "2026-07-03T16:30Z",
-    "end_utc": "2026-07-03T16:30Z",
-    "inferred": true
+    "start_local": "2026-07-03T16:30",
+    "end_local": "2026-07-03T17:14",
+    "start_utc": "2026-07-03T15:30Z",
+    "end_utc": "2026-07-03T16:14Z",
+    "source": "f1"
    },
    {
     "name": "Sprint",
-    "classified_local": "2026-07-04T13:00",
-    "start_utc": "2026-07-04T12:00Z",
+    "start_local": "2026-07-04T12:00",
+    "end_local": "2026-07-04T13:00",
+    "start_utc": "2026-07-04T11:00Z",
     "end_utc": "2026-07-04T12:00Z",
-    "inferred": true
+    "source": "f1"
    },
    {
     "name": "Qualifying",
-    "classified_local": "2026-07-04T17:22",
-    "start_utc": "2026-07-04T16:22Z",
-    "end_utc": "2026-07-04T16:22Z",
-    "inferred": true
+    "start_local": "2026-07-04T16:00",
+    "end_local": "2026-07-04T17:00",
+    "start_utc": "2026-07-04T15:00Z",
+    "end_utc": "2026-07-04T16:00Z",
+    "source": "f1"
    },
    {
     "name": "Race",
-    "classified_local": "2026-07-05T17:00",
-    "start_utc": "2026-07-05T16:00Z",
+    "start_local": "2026-07-05T15:00",
+    "end_local": "2026-07-05T17:00",
+    "start_utc": "2026-07-05T14:00Z",
     "end_utc": "2026-07-05T16:00Z",
-    "inferred": true
+    "source": "f1"
    }
   ],
   "counts": {

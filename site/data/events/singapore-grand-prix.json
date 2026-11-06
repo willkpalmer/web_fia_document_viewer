@@ -16,35 +16,40 @@
     "start_local": "2026-10-09T16:30",
     "end_local": "2026-10-09T17:30",
     "start_utc": "2026-10-09T08:30Z",
-    "end_utc": "2026-10-09T09:30Z"
+    "end_utc": "2026-10-09T09:30Z",
+    "source": "fia"
    },
    {
     "name": "Sprint Qualifying",
     "start_local": "2026-10-09T20:30",
     "end_local": "2026-10-09T21:14",
     "start_utc": "2026-10-09T12:30Z",
-    "end_utc": "2026-10-09T13:14Z"
+    "end_utc": "2026-10-09T13:14Z",
+    "source": "fia"
    },
    {
     "name": "Sprint",
     "start_local": "2026-10-10T17:00",
     "end_local": "2026-10-10T17:30",
     "start_utc": "2026-10-10T09:00Z",
-    "end_utc": "2026-10-10T09:30Z"
+    "end_utc": "2026-10-10T09:30Z",
+    "source": "fia"
    },
    {
     "name": "Qualifying",
     "start_local": "2026-10-10T21:30",
     "end_local": "2026-10-10T22:30",
     "start_utc": "2026-10-10T13:30Z",
-    "end_utc": "2026-10-10T14:30Z"
+    "end_utc": "2026-10-10T14:30Z",
+    "source": "fia"
    },
    {
     "name": "Race",
     "start_local": "2026-10-11T20:00",
     "end_local": "2026-10-11T22:00",
     "start_utc": "2026-10-11T12:00Z",
-    "end_utc": "2026-10-11T14:00Z"
+    "end_utc": "2026-10-11T14:00Z",
+    "source": "fia"
    }
   ],
   "counts": {

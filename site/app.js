@@ -116,6 +116,17 @@ function sessionState(s, now) {
   return now >= en ? "done" : now >= st ? "live" : "next";
 }
 
+function sourceNote(list) {
+  const fia = list.some((s) => s.source === "fia"), f1 = list.some((s) => s.source === "f1");
+  const parts = [];
+  if (fia && f1) parts.push("From the FIA event timetable; sessions it doesn't cover are from formula1.com.");
+  else if (fia) parts.push("From the FIA event timetable.");
+  else if (f1) parts.push("From the formula1.com schedule (no FIA timetable available).");
+  if (list.some((s) => s.inferred)) parts.push("Sessions without a published time are shown from their results.");
+  if (fia || f1) parts.push("Race end times are approximate.");
+  return parts.join(" ");
+}
+
 function renderSessions() {
   const box = $("#sessions");
   const ev = sessionsEvent;
@@ -153,8 +164,7 @@ function renderSessions() {
   box.innerHTML = `
     <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
-    ${list.some((s) => s.inferred) ? `<p class="s-note">Some sessions aren't covered by a timetable on fia.com, so they're shown from their published results.</p>` : ""}
-    ${list.some((s) => !s.inferred) ? `<p class="s-note">From the FIA event timetable. Race end times are approximate.</p>` : ""}
+    ${list.length ? `<p class="s-note">${esc(sourceNote(list))}</p>` : ""}
     <a class="btn s-open" href="sessions.html?event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
 }
 

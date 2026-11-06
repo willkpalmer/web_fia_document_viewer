@@ -38,6 +38,8 @@ CHAMPIONSHIP_URL = BASE + "/documents/championships/fia-formula-one-world-champi
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "site" / "data"
 CACHE_FILE = Path(__file__).resolve().parent / "cache" / "pdf_details.json"
+F1_CACHE_FILE = Path(__file__).resolve().parent / "cache" / "f1_schedule.json"
+F1_BASE = "https://www.formula1.com"
 CACHE_VERSION = 2  # cache stores raw PDF text; parsing reruns every time
 
 session = requests.Session()
@@ -285,33 +287,136 @@ CLASSIFICATION_RX = [
 ]
 
 
-def build_sessions(timetables, offset_min: int, docs=()):
-    """Merge all timetable versions (later documents override earlier ones, since reissues can cover
-    only some days) and add UTC times. Sessions no timetable covers are inferred from their
-    classification documents (time = first classification published, marked as such)."""
+def build_sessions(timetables, offset_min: int, docs=(), f1_sessions=None):
+    """Session times for one event, by priority:
+      1. FIA timetable PDFs (all versions merged; later documents override earlier ones, since
+         reissues can cover only some days)
+      2. formula1.com schedule, for sessions no timetable covers
+      3. classification documents (time = first classification published), as a last resort."""
+    fmt = lambda dt: dt.strftime("%Y-%m-%dT%H:%M")
+    to_utc = lambda iso: fmt(datetime.fromisoformat(iso) - timedelta(minutes=offset_min)) + "Z"
+    to_loc = lambda utc: fmt(datetime.fromisoformat(utc.rstrip("Z")) + timedelta(minutes=offset_min))
+
     merged = {}
     for _, text in sorted(timetables, key=lambda t: t[0]):
         merged.update(parse_timetable(text))
+    sessions = {}
+    for name, (start, end) in merged.items():
+        sessions[name] = {"name": name, "start_local": start, "end_local": end,
+                          "start_utc": to_utc(start), "end_utc": to_utc(end), "source": "fia"}
+    for f in f1_sessions or []:
+        if f["name"] not in sessions:
+            sessions[f["name"]] = {"name": f["name"], "start_local": to_loc(f["start_utc"]),
+                                   "end_local": to_loc(f["end_utc"]), "start_utc": f["start_utc"],
+                                   "end_utc": f["end_utc"], "source": "f1"}
     inferred = {}
     for d in docs:
         if d.get("category") != "results" or not d.get("published_local"):
             continue
         for rx, name in CLASSIFICATION_RX:
-            if re.search(rx, d["subject"], re.I) and name not in merged:
+            if re.search(rx, d["subject"], re.I) and name not in sessions:
                 if name not in inferred or d["published_local"] < inferred[name]:
                     inferred[name] = d["published_local"]
                 break
-    sessions = []
-    for name, (start, end) in merged.items():
-        to_utc = lambda iso: (datetime.fromisoformat(iso) - timedelta(minutes=offset_min)).strftime("%Y-%m-%dT%H:%MZ")
-        sessions.append({"name": name, "start_local": start, "end_local": end,
-                         "start_utc": to_utc(start), "end_utc": to_utc(end)})
     for name, published in inferred.items():
-        utc = (datetime.fromisoformat(published) - timedelta(minutes=offset_min)).strftime("%Y-%m-%dT%H:%MZ")
-        sessions.append({"name": name, "classified_local": published, "start_utc": utc, "end_utc": utc,
-                         "inferred": True})
-    sessions.sort(key=lambda s: s["start_utc"])
-    return sessions
+        utc = to_utc(published)
+        sessions[name] = {"name": name, "classified_local": published, "start_utc": utc, "end_utc": utc,
+                          "inferred": True, "source": "results"}
+    return sorted(sessions.values(), key=lambda s: s["start_utc"])
+
+
+# --------------------------------------------------------------------------- formula1.com schedule
+
+F1_SESSION_NAMES = {"Practice-1": "Practice 1", "Practice-2": "Practice 2", "Practice-3": "Practice 3",
+                    "Sprint-Qualifying": "Sprint Qualifying", "Sprint-Shootout": "Sprint Qualifying",
+                    "Sprint": "Sprint", "Qualifying": "Qualifying", "Race": "Race"}
+
+
+def _iso_z(s: str) -> str:
+    return datetime.fromisoformat(s.replace("Z", "+00:00")).astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+
+
+def parse_f1_race_page(page: str):
+    """formula1.com race pages embed the weekend as schema.org SportsEvent JSON-LD with sub-events."""
+    for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>', page, re.S):
+        try:
+            data = json.loads(m.group(1))
+        except ValueError:
+            continue
+        if data.get("@type") != "SportsEvent" or not data.get("subEvent"):
+            continue
+        sessions = []
+        for e in data["subEvent"]:
+            key = e.get("@id", "").split("#")[-1]
+            name = F1_SESSION_NAMES.get(key)
+            if name and e.get("startDate") and e.get("endDate"):
+                sessions.append({"name": name, "start_utc": _iso_z(e["startDate"]), "end_utc": _iso_z(e["endDate"])})
+        return {"name": data.get("name"), "sessions": sessions}
+    return None
+
+
+def load_f1_schedule(year: int, delay: float):
+    """{race slug: {name, sessions, fetched}} for the season, refetching only what may have changed:
+    the season list every 12 h, and a race page if never fetched or if its weekend is near and the copy
+    is over an hour old. Finished weekends stay cached."""
+    cache = {}
+    if F1_CACHE_FILE.exists():
+        try:
+            cache = json.loads(F1_CACHE_FILE.read_text())
+        except ValueError:
+            cache = {}
+    if cache.get("year") != year:
+        cache = {"year": year, "races": {}}
+    now = datetime.now(timezone.utc)
+    age = lambda iso: (now - datetime.fromisoformat(iso)).total_seconds() / 3600 if iso else 1e9
+
+    if age(cache.get("list_fetched")) > 12 or not cache["races"]:
+        page = get(f"{F1_BASE}/en/racing/{year}")
+        if page:
+            slugs = sorted(set(re.findall(rf'href="/en/racing/{year}/([a-z0-9-]+)"', page)))
+            for slug in slugs:
+                if "testing" not in slug:
+                    cache["races"].setdefault(slug, {})
+            cache["list_fetched"] = now.isoformat()
+        else:
+            log("  formula1.com season list unavailable")
+
+    for slug, race in cache["races"].items():
+        sess = race.get("sessions") or []
+        if sess:
+            first = datetime.fromisoformat(sess[0]["start_utc"].rstrip("Z")).replace(tzinfo=timezone.utc)
+            last = datetime.fromisoformat(sess[-1]["end_utc"].rstrip("Z")).replace(tzinfo=timezone.utc)
+            finished = race.get("fetched") and datetime.fromisoformat(race["fetched"]) > last + timedelta(hours=6)
+            near = first - timedelta(days=10) <= now <= last + timedelta(hours=6)
+            if finished or not (near and age(race.get("fetched")) > 1):
+                continue
+        time.sleep(delay)
+        page = get(f"{F1_BASE}/en/racing/{year}/{slug}")
+        parsed = parse_f1_race_page(page) if page else None
+        if parsed:
+            race.update(parsed)
+            race["fetched"] = now.isoformat()
+            log(f"  formula1.com {slug}: {len(parsed['sessions'])} sessions")
+    F1_CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    F1_CACHE_FILE.write_text(json.dumps(cache, indent=1, ensure_ascii=False, sort_keys=True) + "\n")
+    return cache["races"]
+
+
+def match_f1_race(f1_races, docs):
+    """Pick the formula1.com weekend for an FIA event: names differ (sponsors, local languages, venues),
+    so match by date - the race whose weekend window holds most of the event's documents."""
+    stamps = [paris_to_utc(d["published"]) for d in docs if d.get("published")]
+    best, best_n = None, 0
+    for race in f1_races.values():
+        sess = race.get("sessions") or []
+        if not sess:
+            continue
+        lo = datetime.fromisoformat(sess[0]["start_utc"].rstrip("Z")).replace(tzinfo=timezone.utc) - timedelta(days=4)
+        hi = datetime.fromisoformat(sess[-1]["end_utc"].rstrip("Z")).replace(tzinfo=timezone.utc) + timedelta(days=2)
+        n = sum(lo <= t <= hi for t in stamps)
+        if n > best_n:
+            best, best_n = race, n
+    return best["sessions"] if best else None
 
 
 # --------------------------------------------------------------------------- PDF parsing
@@ -559,6 +664,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-pdfs", action="store_true", help="skip downloading stewards PDFs")
     ap.add_argument("--reparse", action="store_true", help="re-download all PDFs")
+    ap.add_argument("--no-f1", action="store_true", help="don't use formula1.com for missing session times")
     ap.add_argument("--delay", type=float, default=0.4, help="seconds between requests")
     args = ap.parse_args()
 
@@ -582,6 +688,13 @@ def main():
     log(f"{len(events)} events")
 
     cache = load_cache()
+    season_year = int(re.search(r"\d{4}", season_name).group()) if re.search(r"\d{4}", season_name) else datetime.now().year
+    f1_races = {}
+    if not args.no_f1:
+        try:
+            f1_races = load_f1_schedule(season_year, args.delay)
+        except Exception as e:  # formula1.com is a fallback; never fail the run over it
+            log(f"  formula1.com schedule skipped: {e}")
     if args.reparse:
         cache["pdfs"] = {}
     out_events = []
@@ -646,7 +759,7 @@ def main():
             offset, tz_source = fallback_offset(ev_name, dates[0] if dates else None), "name"
         for d in docs:
             d["published_local"] = to_local(d["published"], offset)
-        sessions = build_sessions(timetables, offset, docs)
+        sessions = build_sessions(timetables, offset, docs, match_f1_race(f1_races, docs))
         counts = {}
         for d in docs:
             counts[d["category"]] = counts.get(d["category"], 0) + 1
