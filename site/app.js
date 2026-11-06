@@ -138,7 +138,7 @@ function renderSessions() {
       when = `<div class="s-when"><span class="s-tag">Track</span><span>${esc(a.day)} · <b>${esc(a.time)}–${esc(b.time)}</b></span></div>`;
       if (state === "next") {
         const va = viewerDayTime(s.start_utc), vb = viewerDayTime(s.end_utc);
-        when += `<div class="s-when s-mine" title="Your time zone${va.tz ? ": " + esc(va.tz) : ""}"><span class="s-tag">You${va.tz ? " · " + esc(va.tz) : ""}</span><span>${esc(va.day)} · <b>${esc(va.time)}–${esc(vb.time)}</b></span></div>`;
+        when = `<div class="s-when s-mine" title="Your time zone${va.tz ? ": " + esc(va.tz) : ""}"><span class="s-tag">You${va.tz ? " · " + esc(va.tz) : ""}</span><span>${esc(va.day)} · <b>${esc(va.time)}–${esc(vb.time)}</b></span></div>` + when;
       }
     }
     if (state === "done") badge = `<span class="s-badge done">✓ Complete</span>`;
