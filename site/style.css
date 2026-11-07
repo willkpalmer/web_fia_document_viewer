@@ -424,3 +424,9 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .s-tv { margin-top: 6px; font-size: 12px; color: var(--text); display: block; line-height: 1.4; }
 .s-tv b { font-weight: 600; }
 .s-tv span { font-size: 12px; }
+
+/* TV coverage on air now (coverage start -> session end) */
+.s-tv.on-air { color: var(--accent); }
+.s-tv.on-air b { font-weight: 700; letter-spacing: .02em; }
+.s-tv.on-air i { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+  margin: 0 4px 1px 2px; vertical-align: middle; animation: pulse 1.2s ease-in-out infinite; }

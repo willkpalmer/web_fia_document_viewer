@@ -220,9 +220,15 @@ function weekendRange(list) {
   return a.mon === b.mon ? `${a.day}–${b.day} ${b.mon}` : `${a.day} ${a.mon} – ${b.day} ${b.mon}`;
 }
 
-function tvLine(tv) {
+function tvLine(tv, s) {
+  const title = esc(tv.channel + ": " + tv.titles.join(" → "));
+  const now = Date.now();
+  // on air: from the start of TV coverage until the session ends
+  if (now >= tv.from && now < Date.parse(s.end_utc)) {
+    return `<div class="s-tv on-air" title="${title}"><span aria-hidden="true">📺</span> <i></i><b>Live Now</b></div>`;
+  }
   const v = viewerDayTime(new Date(tv.from).toISOString());
-  return `<div class="s-tv" title="${esc(tv.channel + ": " + tv.titles.join(" → "))}">
+  return `<div class="s-tv" title="${title}">
     <span aria-hidden="true">📺</span> Live from <b>${esc(v.time)}</b>${v.tz ? " " + esc(v.tz) : ""}</div>`;
 }
 
@@ -331,7 +337,7 @@ function renderSessions() {
       if (r) rain = rainChip(r);
     }
     const tv = state !== "done" && !past ? SkyTV.forSession(s, SERIES) : null;
-    if (tv) rain = tvLine(tv) + rain;
+    if (tv) rain = tvLine(tv, s) + rain;
     return `<li class="s-row ${state}">
       <div class="s-head"><span class="s-name">${esc(s.name)}</span>${badge}</div>
       ${when}

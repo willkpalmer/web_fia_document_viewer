@@ -174,7 +174,10 @@ function render() {
     const tv = st !== "done" && !isPast(EV, now) ? SkyTV.forSession(s, SERIES) : null;
     if (tv) {
       const t = new Date(tv.from);
-      rain = `<div class="s-tv" title="${esc(tv.channel + ": " + tv.titles.join(" → "))}"><span aria-hidden="true">📺</span> Live from <b>${p2(t.getHours())}:${p2(t.getMinutes())}</b> ${esc(viewerTz(t))}</div>` + rain;
+      const title = esc(tv.channel + ": " + tv.titles.join(" → "));
+      rain = (now >= tv.from && now < Date.parse(s.end_utc)
+        ? `<div class="s-tv on-air" title="${title}"><span aria-hidden="true">📺</span> <i></i><b>Live Now</b></div>`
+        : `<div class="s-tv" title="${title}"><span aria-hidden="true">📺</span> Live from <b>${p2(t.getHours())}:${p2(t.getMinutes())}</b> ${esc(viewerTz(t))}</div>`) + rain;
     }
     return `<li class="m-card ${st}">
       <div class="m-card-head"><span class="m-name">${esc(s.name)}</span>${badge}</div>
