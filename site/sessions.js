@@ -14,7 +14,7 @@ const SERIES = ["f1", "f2", "f3"].includes(new URLSearchParams(location.search).
 const DATA_DIR = SERIES === "f1" ? "data/" : `data/${SERIES}/`;
 const SERIES_QS = SERIES === "f1" ? "" : `series=${SERIES}&`;
 document.documentElement.dataset.series = SERIES;
-const SERIES_COLOUR = { f2: "#089be2", f3: "#ea5408" }[SERIES];
+const SERIES_COLOUR = { f2: "#089be2", f3: "#f77331" }[SERIES];
 if (SERIES_COLOUR) document.querySelector('meta[name="theme-color"]')?.setAttribute("content", SERIES_COLOUR);
 
 function fmtOffset(min) {

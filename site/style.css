@@ -414,11 +414,11 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .group-toggle .gt-text small { font-size: 11.5px; color: var(--muted); }
 
 /* F3 pages: F3 orange accent */
-:root[data-series="f3"] { --accent: #ea5408; --accent-soft: #fdeadf; }
+:root[data-series="f3"] { --accent: #f77331; --accent-soft: #feede3; }
 @media (prefers-color-scheme: dark) {
-  :root[data-series="f3"]:not([data-theme="light"]) { --accent: #ea5408; --accent-soft: #3a1c0c; }
+  :root[data-series="f3"]:not([data-theme="light"]) { --accent: #f77331; --accent-soft: #3d2111; }
 }
-:root[data-series="f3"][data-theme="dark"] { --accent: #ea5408; --accent-soft: #3a1c0c; }
+:root[data-series="f3"][data-theme="dark"] { --accent: #f77331; --accent-soft: #3d2111; }
 
 /* Sky Sports F1 live coverage line on session cards */
 .s-tv { margin-top: 6px; font-size: 12px; color: var(--text); display: block; line-height: 1.4; }
