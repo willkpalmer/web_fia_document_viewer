@@ -78,6 +78,48 @@ function sourceNote(list) {
   return parts.join(" ");
 }
 
+/* forecast rain per session (Open-Meteo hourly), shown once the weekend has started at the track */
+const WX = {};   // slug -> { hourly, fetched }
+const timed = (ev) => (ev?.sessions || []).filter((s) => !s.inferred);
+function isPast(ev, now = Date.now()) {
+  const ts = timed(ev);
+  return ts.length ? now > Math.max(...ts.map((s) => Date.parse(s.end_utc))) + 3 * 3600000 : true;
+}
+function weekendStarted(ev, now = Date.now()) {
+  const ts = timed(ev);
+  if (!ts.length || ev.utc_offset_min == null) return false;
+  return now >= Date.parse(ts[0].start_local.slice(0, 10) + "T00:00:00Z") - ev.utc_offset_min * 60000;
+}
+async function loadRain(ev) {
+  if (!ev.location) return;
+  const cur = WX[ev.slug];
+  if (cur && (cur.loading || Date.now() - cur.fetched < 10 * 60000)) return;
+  WX[ev.slug] = { ...(cur || {}), loading: true };
+  const ts = timed(ev);
+  const hours = Math.min(384, Math.max(3, Math.ceil((Math.max(...ts.map((s) => Date.parse(s.end_utc))) - Date.now()) / 3600000) + 2));
+  try {
+    const r = await fetch("https://api.open-meteo.com/v1/forecast?" + new URLSearchParams({
+      latitude: ev.location.lat, longitude: ev.location.lon, timezone: "GMT",
+      hourly: "precipitation_probability,precipitation", forecast_hours: String(hours) }));
+    if (!r.ok) throw new Error(r.status);
+    WX[ev.slug] = { hourly: (await r.json()).hourly, fetched: Date.now() };
+  } catch {
+    WX[ev.slug] = { ...(cur || {}), fetched: Date.now() - 8 * 60000 };   // retry in ~2 minutes
+  }
+  if (EV && EV.slug === ev.slug) render();
+}
+function sessionRain(ev, s) {
+  const d = WX[ev.slug]?.hourly;
+  if (!d?.time) return null;
+  const start = Date.parse(s.start_utc), end = Date.parse(s.end_utc);
+  const hours = d.time.map((t) => Date.parse(t + "Z"));
+  const idx = hours.map((t, i) => (t + 3600000 > start && t < end ? i : -1)).filter((i) => i >= 0);
+  if (!idx.length || hours[hours.length - 1] + 3600000 < end) return null;
+  const probs = idx.map((i) => d.precipitation_probability?.[i]).filter((v) => v != null);
+  if (probs.length < idx.length) return null;
+  return { prob: Math.max(...probs), mm: idx.reduce((a, i) => a + (d.precipitation?.[i] || 0), 0) };
+}
+
 function render() {
   const now = Date.now();
   const list = EV.sessions || [];
@@ -87,6 +129,8 @@ function render() {
 
   const live = list.find((s) => state(s, now) === "live");
   const nextS = list.find((s) => state(s, now) === "next");
+  const showRain = !isPast(EV, now) && weekendStarted(EV, now);
+  if (showRain) loadRain(EV);
   const nx = $("#next");
   if (live) {
     nx.hidden = false;
@@ -117,9 +161,16 @@ function render() {
       const track = `<div class="m-t"><span class="m-tag">Track</span><span>${esc(a.day)}</span><b>${esc(a.time)}–${esc(b.time)}</b></div>`;
       times = st === "next" ? you + track : track;
     }
+    let rain = "";
+    const rr = st !== "done" && !s.inferred && showRain ? sessionRain(EV, s) : null;
+    if (rr) {
+      const level = rr.prob >= 60 ? "high" : rr.prob >= 30 ? "mid" : "low";
+      rain = `<div class="s-rain ${level}"><span>☂</span> ${Math.round(rr.prob)}% chance of rain${rr.mm >= 0.1 ? ` · ~${rr.mm < 10 ? rr.mm.toFixed(1) : Math.round(rr.mm)} mm` : ""}</div>`;
+    }
     return `<li class="m-card ${st}">
       <div class="m-card-head"><span class="m-name">${esc(s.name)}</span>${badge}</div>
       ${times}
+      ${rain}
     </li>`;
   }).join("") || `<li class="m-empty">Session times appear once the FIA publishes this event's timetable.</li>`;
 

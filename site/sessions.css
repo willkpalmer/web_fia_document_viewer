@@ -56,3 +56,4 @@ body.mpage { min-height: 100vh; padding-bottom: env(safe-area-inset-bottom); }
   .m-hero h1 { font-size: 32px; }
 }
 .m-next[hidden] { display: none; }
+.m-card .s-rain { font-size: 14px; margin-top: 8px; }

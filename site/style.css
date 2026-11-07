@@ -366,3 +366,10 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
   .wx { max-width: 460px; }
   .wx .s-note { display: block; }
 }
+
+/* forecast rain chance on session cards */
+.s-rain { margin-top: 6px; font-size: 12px; padding: 3px 8px; border-radius: 6px; display: inline-flex; gap: 5px; align-items: center;
+  background: var(--surface-2); color: var(--muted); }
+.s-rain span { font-size: 13px; }
+.s-rain.mid { color: var(--c-technical); background: color-mix(in srgb, var(--c-technical) 12%, transparent); }
+.s-rain.high { color: var(--o-penalty); background: color-mix(in srgb, var(--o-penalty) 12%, transparent); font-weight: 600; }

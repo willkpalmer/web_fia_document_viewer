@@ -153,7 +153,9 @@ async function loadWeather(ev) {
     latitude: loc.lat, longitude: loc.lon, timezone: "GMT",
     current: "temperature_2m,relative_humidity_2m,precipitation,weather_code",
     minutely_15: "temperature_2m,relative_humidity_2m,precipitation,precipitation_probability",
-    forecast_minutely_15: "10", hourly: "precipitation_probability", forecast_hours: "3",
+    forecast_minutely_15: "10", hourly: "precipitation_probability,precipitation",
+    // hourly forecast far enough ahead to cover the rest of the weekend's sessions (API max 16 days)
+    forecast_hours: String(wxHoursNeeded(ev)),
   });
   try {
     const r = await fetch(url);
@@ -164,10 +166,54 @@ async function loadWeather(ev) {
     // keep any earlier data on screen; retry in 2 minutes rather than waiting the full refresh interval
     S.wx[ev.slug] = { ...(cur || {}), error: e.message, fetched: Date.now() - WX_REFRESH_MS + 120000, loading: false };
   }
-  if (sessionsEvent?.slug === ev.slug) {
-    const box = document.getElementById("wx");
-    if (box) box.innerHTML = wxHTML(ev);
-  }
+  if (sessionsEvent?.slug === ev.slug) renderSessions();
+}
+
+function timedSessions(ev) { return (ev?.sessions || []).filter((s) => !s.inferred); }
+
+// An event is "past" once its last session finished more than 3 hours ago; with no session times,
+// once its documents stopped more than 2 days ago.
+function isPastEvent(ev, now = Date.now()) {
+  const ts = timedSessions(ev);
+  if (ts.length) return now > Math.max(...ts.map((s) => Date.parse(s.end_utc))) + 3 * 3600000;
+  const last = ev?.last_published ? Date.parse(ev.last_published + "Z") : 0;
+  return !last || now > last + 2 * 86400000;
+}
+
+// The weekend has started once it is past midnight (track time) on the day of the first session.
+function weekendStarted(ev, now = Date.now()) {
+  const ts = timedSessions(ev);
+  if (!ts.length || ev.utc_offset_min == null) return false;
+  const firstDay = ts[0].start_local.slice(0, 10);
+  return now >= Date.parse(firstDay + "T00:00:00Z") - ev.utc_offset_min * 60000;
+}
+
+function wxHoursNeeded(ev) {
+  const ts = timedSessions(ev);
+  const lastEnd = ts.length ? Math.max(...ts.map((s) => Date.parse(s.end_utc))) : 0;
+  return Math.min(384, Math.max(3, Math.ceil((lastEnd - Date.now()) / 3600000) + 2));
+}
+
+// Forecast rain over a session from the hourly data: highest chance across the hours it spans and the
+// expected total. Null if the forecast doesn't reach the whole session or has no probability for it.
+function sessionRain(ev, s) {
+  const d = S.wx[ev.slug]?.data?.hourly;
+  if (!d?.time) return null;
+  const start = Date.parse(s.start_utc), end = Date.parse(s.end_utc);
+  const hours = d.time.map(gmt);
+  const idx = hours.map((t, i) => (t + 3600000 > start && t < end ? i : -1)).filter((i) => i >= 0);
+  if (!idx.length || hours[hours.length - 1] + 3600000 < end) return null;
+  const probs = idx.map((i) => d.precipitation_probability?.[i]).filter((v) => v != null);
+  if (probs.length < idx.length) return null;
+  const mm = idx.reduce((a, i) => a + (d.precipitation?.[i] || 0), 0);
+  return { prob: Math.max(...probs), mm };
+}
+
+function rainChip(r) {
+  const level = r.prob >= 60 ? "high" : r.prob >= 30 ? "mid" : "low";
+  const amount = r.mm >= 0.1 ? ` · ~${r.mm < 10 ? r.mm.toFixed(1) : Math.round(r.mm)} mm` : "";
+  return `<div class="s-rain ${level}" title="Highest hourly chance of rain during the session, and expected total rainfall (Open-Meteo)">
+    <span>☂</span> ${Math.round(r.prob)}% chance of rain${amount}</div>`;
 }
 
 // Open-Meteo times are GMT ISO strings without a zone
@@ -239,6 +285,9 @@ function renderSessions() {
   const now = Date.now();
   const list = ev.sessions || [];
   const firstNext = list.find((s) => sessionState(s, now) === "next");
+  const past = isPastEvent(ev, now);
+  const showForecast = !past && weekendStarted(ev, now);
+  if (showForecast && ev.location) setTimeout(() => loadWeather(ev), 0);
 
   const rows = list.map((s) => {
     const state = sessionState(s, now);
@@ -258,9 +307,15 @@ function renderSessions() {
     if (state === "done") badge = `<span class="s-badge done">✓ Complete</span>`;
     else if (state === "live") badge = `<span class="s-badge live"><i></i>In progress · ${fmtDur(Date.parse(s.end_utc) - now)} left</span>`;
     else badge = `<span class="s-badge next">${s === firstNext ? "Next · " : ""}in ${fmtDur(Date.parse(s.start_utc) - now)}</span>`;
+    let rain = "";
+    if (state !== "done" && !s.inferred && showForecast) {
+      const r = sessionRain(ev, s);
+      if (r) rain = rainChip(r);
+    }
     return `<li class="s-row ${state}">
       <div class="s-head"><span class="s-name">${esc(s.name)}</span>${badge}</div>
       ${when}
+      ${rain}
     </li>`;
   }).join("");
 
@@ -268,7 +323,7 @@ function renderSessions() {
     <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
     ${list.length ? `<p class="s-note">${esc(sourceNote(list))}</p>` : ""}
-    <div id="wx" class="wx">${wxHTML(ev)}</div>
+    ${past ? "" : `<div id="wx" class="wx">${wxHTML(ev)}</div>`}
     <a class="btn s-open" href="sessions.html?${SERIES_QS ? SERIES_QS + "&" : ""}event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
 }
 

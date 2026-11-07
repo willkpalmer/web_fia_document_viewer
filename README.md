@@ -142,3 +142,9 @@ forecasts use national weather service models, at 15-minute resolution. The brow
 so the panel is always current, and it refreshes every 10 minutes. Circuit coordinates are in `CIRCUITS` in
 `scraper/fia_scraper.py`. Each event is matched to a circuit by its name, its formula1.com race name or its FIA PDF
 heading, which handles venue moves such as the 2026 Bahrain GP held in Malaysia.
+
+The weather panel is hidden for past events, meaning ones whose last session ended more than 3 hours ago. Once the
+first day of a race weekend has started at the track, each live or upcoming session card shows the forecast chance of
+rain for that session. This appears on both the main page and the mobile session page. The chance is the highest
+hourly probability across the session, plus the expected rainfall. It comes from Open-Meteo's hourly forecast, and a
+card only shows it when the forecast extends far enough to cover the whole session.
