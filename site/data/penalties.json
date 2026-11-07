@@ -19830,6 +19830,46 @@
   {
    "event": "São Paulo Grand Prix",
    "event_slug": "sao-paulo-grand-prix",
+   "num": 41,
+   "title": "Doc 41 - Infringement - Car 87 - Reversing in the Pit Lane",
+   "subject": "Infringement - Car 87 - Reversing in the Pit Lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_87_-_reversing_in_the_pit_lane.pdf",
+   "published": "2026-11-07T19:35",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "15:00",
+    "session": "Qualifying",
+    "fact": "Car 87 reversed in the Pit Lane.",
+    "infringement": "Breach of Article B1.6.3b of the FIA F1 Regulations.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 2nd reprimand of the season.",
+    "reason": "The Stewards reviewed in-car video evidence and determined that Car 87 reversed in the pit lane under its own power. This is expressly prohibited under Article B1.6.3b of the FIA F1 Regulations. We therefore imposed a driving reprimand on the driver of Car 87 (BEA).",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     41
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "published_local": "2026-11-07T15:35"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
    "num": 40,
    "title": "Doc 40 - Infringement - Car 11 - Driving in an unsafe condition",
    "subject": "Infringement - Car 11 - Driving in an unsafe condition",

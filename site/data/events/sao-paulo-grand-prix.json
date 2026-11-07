@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 39,
+  "doc_count": 40,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-07T17:38",
+  "last_published": "2026-11-07T19:35",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T13:38",
+  "last_local": "2026-11-07T15:35",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,7 +58,7 @@
    "lon": -46.6997
   },
   "counts": {
-   "stewards": 15,
+   "stewards": 16,
    "other": 1,
    "race_director": 9,
    "results": 3,
@@ -68,6 +68,44 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 41,
+   "title": "Doc 41 - Infringement - Car 87 - Reversing in the Pit Lane",
+   "subject": "Infringement - Car 87 - Reversing in the Pit Lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_87_-_reversing_in_the_pit_lane.pdf",
+   "published": "2026-11-07T19:35",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "15:00",
+    "session": "Qualifying",
+    "fact": "Car 87 reversed in the Pit Lane.",
+    "infringement": "Breach of Article B1.6.3b of the FIA F1 Regulations.",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 2nd reprimand of the season.",
+    "reason": "The Stewards reviewed in-car video evidence and determined that Car 87 reversed in the pit lane under its own power. This is expressly prohibited under Article B1.6.3b of the FIA F1 Regulations. We therefore imposed a driving reprimand on the driver of Car 87 (BEA).",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     41
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "published_local": "2026-11-07T15:35"
+  },
   {
    "num": 40,
    "title": "Doc 40 - Infringement - Car 11 - Driving in an unsafe condition",
