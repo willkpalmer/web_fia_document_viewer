@@ -339,12 +339,25 @@ function renderSessions() {
     </li>`;
   }).join("");
 
+  // re-renders (every 30 s) must not reset a strip the user has scrolled; auto-scroll only when the event changes
+  const prevList = box.querySelector(".s-list");
+  const keepScroll = prevList && box.dataset.slug === ev.slug ? prevList.scrollLeft : null;
   box.innerHTML = `
     <div class="s-title">Sessions${weekendRange(list) ? ` (${esc(weekendRange(list))})` : ""} <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
     ${list.length ? `<p class="s-note">${esc(sourceNote(list))}</p>` : ""}
     ${past ? "" : `<div id="wx" class="wx">${wxHTML(ev)}</div>`}
     <a class="btn s-open" href="sessions.html?${SERIES_QS ? SERIES_QS + "&" : ""}event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
+  const strip = box.querySelector(".s-list");
+  if (strip) {
+    if (keepScroll != null) strip.scrollLeft = keepScroll;
+    else if (strip.scrollWidth > strip.clientWidth) {
+      // horizontal strip (narrow screens): bring the live or next session to the front
+      const target = strip.querySelector(".s-row.live") || strip.querySelector(".s-row.next");
+      if (target) strip.scrollLeft += target.getBoundingClientRect().left - strip.getBoundingClientRect().left;
+    }
+  }
+  box.dataset.slug = ev.slug;
 }
 
 /* ------------------------------------------------------------------ track clock */
