@@ -19830,6 +19830,94 @@
   {
    "event": "São Paulo Grand Prix",
    "event_slug": "sao-paulo-grand-prix",
+   "num": 40,
+   "title": "Doc 40 - Infringement - Car 11 - Driving in an unsafe condition",
+   "subject": "Infringement - Car 11 - Driving in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_11_-_driving_in_an_unsafe_condition.pdf",
+   "published": "2026-11-07T17:38",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "12:22",
+    "session": "Free Practice 3",
+    "fact": "Car 11 drove in an unsafe condition.",
+    "infringement": "Breach of Article B1.6.2a of the FIA F1 Regulations.",
+    "decision": "Competitor: Formal warning.",
+    "reason": "The Stewards heard from the team representative and reviewed in-car video evidence and determined that the driver of Car 11 threw a small plastic piece out of the car. The plastic piece was a cable organiser that typically attaches to the seat belt. It dislodged during the session and the driver threw it out as he was concerned that it would lodge itself somewhere else in the car and create a safety issue. While we appreciated the fact that it was a small, light piece of plastic that was unlikely to cause any damage to another car or injure another driver, throwing materials onto the track during a live session is not appropriate for obvious reasons. We therefore issue a formal warning to the competitor to avoid similar situations from arising in the future.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     31,
+     40
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    31
+   ],
+   "published_local": "2026-11-07T13:38"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 39,
+   "title": "Doc 39 - Infringement - Car 11 - Changes to PU elements",
+   "subject": "Infringement - Car 11 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_11_-_changes_to_pu_elements.pdf",
+   "published": "2026-11-07T17:31",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "11:37",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 4th MGU-K",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 30 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 30 places. Subject to Car 11 being classified in the results of Qualifying, Car 11 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     30,
+     39
+    ],
+    "tags": [
+     "30-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-11-07T13:31"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
    "num": 37,
    "title": "Doc 37 - Infringement - Car 44 - Changes to PU element",
    "subject": "Infringement - Car 44 - Changes to PU element",
