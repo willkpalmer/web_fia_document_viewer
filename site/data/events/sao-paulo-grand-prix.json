@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 29,
+  "doc_count": 33,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-07T15:43",
+  "last_published": "2026-11-07T16:59",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T11:43",
+  "last_local": "2026-11-07T12:59",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,108 @@
    "lon": -46.6997
   },
   "counts": {
+   "race_director": 9,
+   "stewards": 10,
+   "results": 3,
    "technical": 8,
-   "race_director": 8,
-   "stewards": 8,
-   "results": 2,
    "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 34,
+   "title": "Doc 34 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-11-07T16:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T12:59"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - Infringement - Car 3 - Changes to PU elements",
+   "subject": "Infringement - Car 3 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_3_-_changes_to_pu_elements.pdf",
+   "published": "2026-11-07T16:56",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "11:37",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH)",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 30 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations. The use of each additional element in this case carries a 10 grid place penalty therefore there is an accumulation of 30 places. Subject to Car 3 being classified in the results of Qualifying, Car 3 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     30,
+     33
+    ],
+    "tags": [
+     "30-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-11-07T12:56"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-11-07T16:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T12:47"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Summons - Car 11 - Alleged driving in an unsafe condition",
+   "subject": "Summons - Car 11 - Alleged driving in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_11_-_alleged_driving_in_an_unsafe_condition.pdf",
+   "published": "2026-11-07T16:47",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Car 3 alleged driving in an unsafe condition at 12:22.",
+    "from": "The Stewards",
+    "competitor": "Cadillac Formula 1 Team",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   },
+   "published_local": "2026-11-07T12:47"
+  },
   {
    "num": 30,
    "title": "Doc 30 - New PU Elements for this Competition",
@@ -76,6 +169,9 @@
    "published": "2026-11-07T15:43",
    "recalled": false,
    "cars": [],
+   "related": [
+    33
+   ],
    "published_local": "2026-11-07T11:43"
   },
   {
@@ -640,6 +736,7 @@
    "published": "2026-11-05T22:47",
    "recalled": false,
    "cars": [],
+   "superseded_by": 34,
    "published_local": "2026-11-05T18:47"
   },
   {
