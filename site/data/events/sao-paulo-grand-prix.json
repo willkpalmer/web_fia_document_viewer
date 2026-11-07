@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 45,
+  "doc_count": 47,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-07T21:56",
+  "last_published": "2026-11-07T22:46",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T17:56",
+  "last_local": "2026-11-07T18:46",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,16 +58,38 @@
    "lon": -46.6997
   },
   "counts": {
+   "admin": 4,
+   "technical": 10,
    "stewards": 19,
    "results": 4,
-   "technical": 9,
    "other": 1,
-   "race_director": 9,
-   "admin": 3
+   "race_director": 9
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 48,
+   "title": "Doc 48 - Timetable V4",
+   "subject": "Timetable V4",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_timetable_v4.pdf",
+   "published": "2026-11-07T22:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T18:46"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - Covers-on Time",
+   "subject": "Covers-on Time",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_covers-on_time.pdf",
+   "published": "2026-11-07T22:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T18:24"
+  },
   {
    "num": 46,
    "title": "Doc 46 - Infringement - Qualifying Deleted Lap Times - Double Yellow",
@@ -1176,6 +1198,7 @@
    "published": "2026-11-05T22:21",
    "recalled": false,
    "cars": [],
+   "superseded_by": 48,
    "published_local": "2026-11-05T18:21"
   },
   {

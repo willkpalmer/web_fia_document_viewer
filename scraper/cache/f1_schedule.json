@@ -188,7 +188,7 @@
    ]
   },
   "brazil": {
-   "fetched": "2026-11-07T20:19:32.379132+00:00",
+   "fetched": "2026-11-07T21:52:32.978032+00:00",
    "name": "FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026",
    "sessions": [
     {
@@ -207,7 +207,7 @@
      "start_utc": "2026-11-07T14:30Z"
     },
     {
-     "end_utc": "2026-11-07T20:30Z",
+     "end_utc": "2026-11-07T19:00Z",
      "name": "Qualifying",
      "start_utc": "2026-11-07T18:00Z"
     },
