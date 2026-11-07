@@ -387,3 +387,19 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
   background: linear-gradient(90deg, color-mix(in srgb, var(--accent) 10%, transparent), transparent 70%);
 }
 .ev-head > div:first-child > .meta:first-child { color: var(--accent); font-weight: 600; letter-spacing: .01em; }
+
+/* "Group by type" toggle, sits at the end of the category cards */
+.group-toggle {
+  display: flex; align-items: center; gap: 10px; text-align: left; cursor: pointer;
+  border: 1px dashed var(--border); background: transparent; border-radius: 8px; padding: 10px 12px; color: var(--text);
+}
+.group-toggle:hover { background: var(--surface-2); }
+.group-toggle[aria-checked="true"] { border-style: solid; border-color: var(--accent); background: color-mix(in srgb, var(--accent) 7%, var(--surface)); }
+.group-toggle .sw { flex: none; width: 34px; height: 20px; border-radius: 10px; background: var(--border); position: relative; transition: background .15s; }
+.group-toggle .sw i { position: absolute; top: 2px; left: 2px; width: 16px; height: 16px; border-radius: 50%; background: #fff;
+  box-shadow: 0 1px 2px rgba(0,0,0,.25); transition: transform .15s; }
+.group-toggle[aria-checked="true"] .sw { background: var(--accent); }
+.group-toggle[aria-checked="true"] .sw i { transform: translateX(14px); }
+.group-toggle .gt-text { display: flex; flex-direction: column; line-height: 1.25; }
+.group-toggle .gt-text b { font-weight: 600; font-size: 13px; }
+.group-toggle .gt-text small { font-size: 11.5px; color: var(--muted); }

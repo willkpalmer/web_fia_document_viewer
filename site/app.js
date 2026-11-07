@@ -604,7 +604,7 @@ function renderEvent(data, params) {
   const car = params.get("car") || "";
   const sort = SORTS[params.get("sort")] ? params.get("sort") : "num-desc";
   const showSup = params.get("sup") === "1";
-  const group = params.get("group") !== "0";
+  const group = params.get("group") === "1";   // default: one flat list, newest first
   const stype = params.get("stype") || "";
 
   const visibleBase = all.filter((d) => showSup || !d.superseded_by);
@@ -649,6 +649,11 @@ function renderEvent(data, params) {
           aria-pressed="${pressed}" ${n || pressed ? "" : "disabled"} title="${esc(c.description)}">
           <div class="n">${n}</div><div class="l">${esc(c.label)}</div></button>`;
       }).join("")}
+      <button class="group-toggle" id="group" role="switch" aria-checked="${group}"
+        title="Split the list into a section per document type">
+        <span class="sw" aria-hidden="true"><i></i></span>
+        <span class="gt-text"><b>Group by type</b><small>${group ? "On · a section per type" : "Off · one list"}</small></span>
+      </button>
     </div>
     <div class="toolbar">
       <input type="search" id="q" placeholder="Search titles, drivers, teams, decisions…" value="${esc(params.get("q") || "")}">
@@ -660,7 +665,6 @@ function renderEvent(data, params) {
       </select>
       <select id="sort">${Object.entries(SORTS).map(([k, [l]]) =>
         `<option value="${k}" ${k === sort ? "selected" : ""}>${l}</option>`).join("")}</select>
-      <label class="chk"><input type="checkbox" id="group" ${group ? "checked" : ""}> Group by type</label>
       <label class="chk"><input type="checkbox" id="sup" ${showSup ? "checked" : ""}> Show superseded</label>
       ${cats.size || q || car || stype ? `<button class="btn" id="clear">Clear filters</button>` : ""}
     </div>`;
@@ -698,7 +702,7 @@ function renderEvent(data, params) {
     if (e.target.value) p.set("cat", "stewards");
   });
   $("#sort").onchange = (e) => updateParams((p) => p.set("sort", e.target.value === "num-desc" ? "" : e.target.value));
-  $("#group").onchange = (e) => updateParams((p) => p.set("group", e.target.checked ? "" : "0"));
+  $("#group").onclick = () => updateParams((p) => p.set("group", group ? "" : "1"));
   $("#sup").onchange = (e) => updateParams((p) => p.set("sup", e.target.checked ? "1" : ""));
   const clr = $("#clear");
   if (clr) clr.onclick = () => updateParams((p) => { for (const k of ["cat", "q", "car", "stype"]) p.delete(k); });
