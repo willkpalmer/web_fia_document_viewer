@@ -430,3 +430,6 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .s-tv.on-air b { font-weight: 700; letter-spacing: .02em; }
 .s-tv.on-air i { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
   margin: 0 4px 1px 2px; vertical-align: middle; animation: pulse 1.2s ease-in-out infinite; }
+
+/* monochrome TV icon (mdi:monitor) on the coverage line */
+.s-tv .tv-ico { width: 1.1em; height: 1.1em; vertical-align: -0.18em; margin-right: 3px; }

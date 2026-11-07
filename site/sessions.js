@@ -176,8 +176,8 @@ function render() {
       const t = new Date(tv.from);
       const title = esc(tv.channel + ": " + tv.titles.join(" → "));
       rain = (now >= tv.from && now < Date.parse(s.end_utc)
-        ? `<div class="s-tv on-air" title="${title}"><span aria-hidden="true">📺</span> <i></i><b>Live Now</b></div>`
-        : `<div class="s-tv" title="${title}"><span aria-hidden="true">📺</span> Live from <b>${p2(t.getHours())}:${p2(t.getMinutes())}</b> ${esc(viewerTz(t))}</div>`) + rain;
+        ? `<div class="s-tv on-air" title="${title}">${SkyTV.ICON} <i></i><b>Live Now</b></div>`
+        : `<div class="s-tv" title="${title}">${SkyTV.ICON} Live from <b>${p2(t.getHours())}:${p2(t.getMinutes())}</b> ${esc(viewerTz(t))}</div>`) + rain;
     }
     return `<li class="m-card ${st}">
       <div class="m-card-head"><span class="m-name">${esc(s.name)}</span>${badge}</div>
