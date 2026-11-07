@@ -433,3 +433,9 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 
 /* monochrome TV icon (mdi:monitor) on the coverage line */
 .s-tv .tv-ico { width: 1.1em; height: 1.1em; vertical-align: -0.18em; margin-right: 3px; }
+
+/* series label beside the accent bar: phones only (the full title is hidden there) */
+.brand-series { display: none; }
+@media (max-width: 560px) {
+  .brand-series { display: inline; font-weight: 800; font-size: 18px; letter-spacing: -.01em; color: var(--accent); margin: 0 6px 0 -2px; }
+}

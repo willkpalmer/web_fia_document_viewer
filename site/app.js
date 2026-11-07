@@ -578,6 +578,7 @@ async function boot() {
   for (const c of S.index.categories) S.catById[c.id] = c;
   $("#seasonLabel").textContent = `${S.index.championship} · ${S.index.season}`;
   $("#brandTitle").textContent = "FIA Info Hub";
+  $("#brandSeries").textContent = SERIES_SHORT;   // shown next to the accent bar on phones
   document.title = "FIA Info Hub";
   $("#seriesSwitch").innerHTML = SERIES_LIST.map((x) =>
     `<a href="./${x.id === "f1" ? "" : "?series=" + x.id}" class="${x.id === SERIES ? "active" : ""}"
