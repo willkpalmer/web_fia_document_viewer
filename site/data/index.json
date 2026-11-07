@@ -1188,11 +1188,11 @@
    "slug": "sao-paulo-grand-prix",
    "name": "São Paulo Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-   "doc_count": 26,
+   "doc_count": 27,
    "first_published": "2026-11-05T09:14",
-   "last_published": "2026-11-07T14:03",
+   "last_published": "2026-11-07T14:04",
    "first_local": "2026-11-05T05:14",
-   "last_local": "2026-11-07T10:03",
+   "last_local": "2026-11-07T10:04",
    "utc_offset_min": -180,
    "tz_source": "pdf",
    "sessions": [
@@ -1238,8 +1238,8 @@
     }
    ],
    "counts": {
+    "technical": 7,
     "race_director": 7,
-    "technical": 6,
     "stewards": 8,
     "results": 2,
     "admin": 3

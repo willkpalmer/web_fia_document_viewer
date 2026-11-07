@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 26,
+  "doc_count": 27,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-07T14:03",
+  "last_published": "2026-11-07T14:04",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T10:03",
+  "last_local": "2026-11-07T10:04",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -53,8 +53,8 @@
    }
   ],
   "counts": {
+   "technical": 7,
    "race_director": 7,
-   "technical": 6,
    "stewards": 8,
    "results": 2,
    "admin": 3
@@ -62,6 +62,17 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 28,
+   "title": "Doc 28 - Power Unit Information V2",
+   "subject": "Power Unit Information V2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_power_unit_information_v2.pdf",
+   "published": "2026-11-07T14:04",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T10:04"
+  },
   {
    "num": 27,
    "title": "Doc 27 - Curfew",
@@ -635,6 +646,7 @@
    "published": "2026-11-05T20:23",
    "recalled": false,
    "cars": [],
+   "superseded_by": 28,
    "published_local": "2026-11-05T16:23"
   },
   {
