@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 24,
+  "doc_count": 25,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-06T22:11",
+  "last_published": "2026-11-06T22:41",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-06T18:11",
+  "last_local": "2026-11-06T18:41",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -53,15 +53,26 @@
    }
   ],
   "counts": {
+   "technical": 6,
    "stewards": 8,
    "race_director": 6,
    "results": 2,
-   "technical": 5,
    "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 26,
+   "title": "Doc 26 - FP1 and FP2 Scrutineering",
+   "subject": "FP1 and FP2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_fp1_and_fp2_scrutineering.pdf",
+   "published": "2026-11-06T22:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-06T18:41"
+  },
   {
    "num": 25,
    "title": "Doc 25 - Infringement - Car 51 - Unnecessarily impeding of Car 16",
