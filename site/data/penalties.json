@@ -19830,6 +19830,52 @@
   {
    "event": "São Paulo Grand Prix",
    "event_slug": "sao-paulo-grand-prix",
+   "num": 43,
+   "title": "Doc 43 - Infringement - Car 44 - Additional changes to PU elements",
+   "subject": "Infringement - Car 44 - Additional changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_44_-_additional_changes_to_pu_elements.pdf",
+   "published": "2026-11-07T21:08",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "16:28",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 6th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH) 4th Energy Store (ES) 4th Control Electronics Unit (PU-CE) 4th MGU-K 7th Power Unit Ancillary Component (PU-ANC)",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 65 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. In this case, the use of the ICE additional element carries a 5 grid place penalty by virtue of Article B8.2.8b of the FIA F1 Regulations and the use of the TC, EXH, ES, PU-CE, MGU-K and PU-ANC additional elements carries a 10 grid place penalty by virtue of Article B8.2.8a of the FIA F1 Regulations. Therefore there is an accumulation of 65 places in addition to the 10 grid places (Document 37). Subject to Car 44 being classified in the results of Qualifying, Car 44 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     37,
+     42,
+     43
+    ],
+    "tags": [
+     "65-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    37,
+    42
+   ],
+   "published_local": "2026-11-07T17:08"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
    "num": 41,
    "title": "Doc 41 - Infringement - Car 87 - Reversing in the Pit Lane",
    "subject": "Infringement - Car 87 - Reversing in the Pit Lane",
@@ -19995,7 +20041,8 @@
     "outcome": "penalty"
    },
    "related": [
-    30
+    30,
+    43
    ],
    "published_local": "2026-11-07T13:11"
   },
