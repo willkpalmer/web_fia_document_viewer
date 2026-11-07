@@ -156,13 +156,13 @@ function render() {
     let times;
     if (s.inferred) {
       const c = trackParts(s.classified_local);
-      times = `<div class="m-t"><span class="m-tag">Track</span><span>${esc(c.day)}</span></div>
+      times = `<div class="m-t"><span class="m-tag">Track</span><span>${esc(c.day.split(" ")[0])}</span></div>
         <div class="m-sub">Results published ${esc(c.time)} track time</div>`;
     } else {
       const a = trackParts(s.start_local), b = trackParts(s.end_local);
       const ya = youParts(s.start_utc), yb = youParts(s.end_utc);
-      const you = `<div class="m-t m-you"><span class="m-tag">You</span><span>${esc(ya.day)}</span><b>${esc(ya.time)}–${esc(yb.time)}</b></div>`;
-      const track = `<div class="m-t"><span class="m-tag">Track</span><span>${esc(a.day)}</span><b>${esc(a.time)}–${esc(b.time)}</b></div>`;
+      const you = `<div class="m-t m-you"><span class="m-tag">You</span><span>${esc(ya.day.split(" ")[0])}</span><b>${esc(ya.time)}–${esc(yb.time)}</b></div>`;
+      const track = `<div class="m-t"><span class="m-tag">Track</span><span>${esc(a.day.split(" ")[0])}</span><b>${esc(a.time)}–${esc(b.time)}</b></div>`;
       times = st === "next" ? you + track : track;
     }
     let rain = "";
@@ -174,7 +174,7 @@ function render() {
     const tv = st !== "done" && !isPast(EV, now) ? SkyTV.forSession(s, SERIES) : null;
     if (tv) {
       const t = new Date(tv.from);
-      rain = `<div class="s-tv" title="${esc(tv.titles.join(" → "))}"><span aria-hidden="true">📺</span> <b>${esc(tv.channel)}</b> · live from ${p2(t.getHours())}:${p2(t.getMinutes())} ${esc(viewerTz(t))}</div>` + rain;
+      rain = `<div class="s-tv" title="${esc(tv.channel + ": " + tv.titles.join(" → "))}"><span aria-hidden="true">📺</span> Live from <b>${p2(t.getHours())}:${p2(t.getMinutes())}</b> ${esc(viewerTz(t))}</div>` + rain;
     }
     return `<li class="m-card ${st}">
       <div class="m-card-head"><span class="m-name">${esc(s.name)}</span>${badge}</div>

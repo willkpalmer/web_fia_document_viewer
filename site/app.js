@@ -210,10 +210,20 @@ function sessionRain(ev, s) {
   return { prob: Math.max(...probs), mm };
 }
 
+// "6–8 Nov" / "30 Oct – 1 Nov" from the sessions' track-local dates
+function weekendRange(list) {
+  const dates = list.map((s) => (s.start_local || s.classified_local || "").slice(0, 10)).filter(Boolean).sort();
+  if (!dates.length) return "";
+  const part = (d) => { const [, m, day] = d.split("-").map(Number); return { day, mon: MONTHS[m - 1] }; };
+  const a = part(dates[0]), b = part(dates[dates.length - 1]);
+  if (dates[0] === dates[dates.length - 1]) return `${a.day} ${a.mon}`;
+  return a.mon === b.mon ? `${a.day}–${b.day} ${b.mon}` : `${a.day} ${a.mon} – ${b.day} ${b.mon}`;
+}
+
 function tvLine(tv) {
   const v = viewerDayTime(new Date(tv.from).toISOString());
-  return `<div class="s-tv" title="${esc(tv.titles.join(" → "))}">
-    <span aria-hidden="true">📺</span> <b>${esc(tv.channel)}</b> · live from ${esc(v.time)}${v.tz ? " " + esc(v.tz) : ""}</div>`;
+  return `<div class="s-tv" title="${esc(tv.channel + ": " + tv.titles.join(" → "))}">
+    <span aria-hidden="true">📺</span> Live from <b>${esc(v.time)}</b>${v.tz ? " " + esc(v.tz) : ""}</div>`;
 }
 
 function rainChip(r) {
@@ -302,14 +312,14 @@ function renderSessions() {
     let when = "", badge = "";
     if (s.inferred) {
       const c = trackDayTime(s.classified_local);
-      when = `<div class="s-when s-plain">${esc(c.day)}</div>
+      when = `<div class="s-when s-plain">${esc(c.day.split(" ")[0])}</div>
         <div class="s-sub" title="No timetable on fia.com covers this session; time is when its classification was published">Results published ${esc(c.time)} track time</div>`;
     } else {
       const a = trackDayTime(s.start_local), b = trackDayTime(s.end_local);
-      when = `<div class="s-when"><span class="s-tag">Track</span><span>${esc(a.day)} · <b>${esc(a.time)}–${esc(b.time)}</b></span></div>`;
+      when = `<div class="s-when"><span class="s-tag">Track</span><span>${esc(a.day.split(" ")[0])} · <b>${esc(a.time)}–${esc(b.time)}</b></span></div>`;
       if (state === "next") {
         const va = viewerDayTime(s.start_utc), vb = viewerDayTime(s.end_utc);
-        when = `<div class="s-when s-mine" title="Your time zone${va.tz ? ": " + esc(va.tz) : ""}"><span class="s-tag">You${va.tz ? " · " + esc(va.tz) : ""}</span><span>${esc(va.day)} · <b>${esc(va.time)}–${esc(vb.time)}</b></span></div>` + when;
+        when = `<div class="s-when s-mine" title="Your time zone${va.tz ? ": " + esc(va.tz) : ""}"><span class="s-tag">You${va.tz ? " · " + esc(va.tz) : ""}</span><span>${esc(va.day.split(" ")[0])} · <b>${esc(va.time)}–${esc(vb.time)}</b></span></div>` + when;
       }
     }
     if (state === "done") badge = `<span class="s-badge done">✓ Complete</span>`;
@@ -330,7 +340,7 @@ function renderSessions() {
   }).join("");
 
   box.innerHTML = `
-    <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
+    <div class="s-title">Sessions${weekendRange(list) ? ` (${esc(weekendRange(list))})` : ""} <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
     ${list.length ? `<p class="s-note">${esc(sourceNote(list))}</p>` : ""}
     ${past ? "" : `<div id="wx" class="wx">${wxHTML(ev)}</div>`}

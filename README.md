@@ -159,7 +159,7 @@ A session type listed more than once on a timetable (for example two feature rac
 ## Sky Sports F1 (channel 407)
 
 Live and upcoming session cards, on the main page and the mobile session page, show when Sky Sports F1's live coverage
-starts, in your time: for example "📺 Sky Sports F1 (407) · live from 15:30". `site/sky.js` reads the public feed
+starts, in your time: for example "📺 Live from 15:30". `site/sky.js` reads the public feed
 behind sky.com's TV guide (service 3835 = "SkySp F1 HD") directly from the browser. It takes the live programme
 covering the session start, then walks back through any live build-up that runs straight into it, such as "Grand Prix
 Sunday". Post-session shows (Chequered Flag, Ted's Notebook) are ignored. F2 and F3 pages only match programmes naming
