@@ -410,3 +410,8 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
   :root[data-series="f3"]:not([data-theme="light"]) { --accent: #ea5408; --accent-soft: #3a1c0c; }
 }
 :root[data-series="f3"][data-theme="dark"] { --accent: #ea5408; --accent-soft: #3a1c0c; }
+
+/* Sky Sports F1 live coverage line on session cards */
+.s-tv { margin-top: 6px; font-size: 12px; color: var(--text); display: block; line-height: 1.4; }
+.s-tv b { font-weight: 600; }
+.s-tv span { font-size: 12px; }

@@ -57,3 +57,4 @@ body.mpage { min-height: 100vh; padding-bottom: env(safe-area-inset-bottom); }
 }
 .m-next[hidden] { display: none; }
 .m-card .s-rain { font-size: 14px; margin-top: 8px; }
+.m-card .s-tv { font-size: 14px; margin-top: 8px; }

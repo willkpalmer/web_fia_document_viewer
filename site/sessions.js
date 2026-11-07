@@ -134,6 +134,7 @@ function render() {
   const nextS = list.find((s) => state(s, now) === "next");
   const showRain = !isPast(EV, now) && weekendStarted(EV, now);
   if (showRain) loadRain(EV);
+  if (!isPast(EV, now)) SkyTV.load(list);
   const nx = $("#next");
   if (live) {
     nx.hidden = false;
@@ -169,6 +170,11 @@ function render() {
     if (rr) {
       const level = rr.prob >= 60 ? "high" : rr.prob >= 30 ? "mid" : "low";
       rain = `<div class="s-rain ${level}"><span>☂</span> ${Math.round(rr.prob)}% chance of rain${rr.mm >= 0.1 ? ` · ~${rr.mm < 10 ? rr.mm.toFixed(1) : Math.round(rr.mm)} mm` : ""}</div>`;
+    }
+    const tv = st !== "done" && !isPast(EV, now) ? SkyTV.forSession(s, SERIES) : null;
+    if (tv) {
+      const t = new Date(tv.from);
+      rain = `<div class="s-tv" title="${esc(tv.titles.join(" → "))}"><span aria-hidden="true">📺</span> <b>${esc(tv.channel)}</b> · live from ${p2(t.getHours())}:${p2(t.getMinutes())} ${esc(viewerTz(t))}</div>` + rain;
     }
     return `<li class="m-card ${st}">
       <div class="m-card-head"><span class="m-name">${esc(s.name)}</span>${badge}</div>
@@ -212,6 +218,7 @@ async function boot() {
   $("#evSelect").onchange = (e) => selectEvent(e.target.value, true);
   selectEvent(new URLSearchParams(location.search).get("event"), false);
 
+  SkyTV.onUpdate(render);
   setInterval(tickClocks, 1000);
   setInterval(render, 30000);
   // pick up new timetables published by a sync

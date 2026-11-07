@@ -210,6 +210,12 @@ function sessionRain(ev, s) {
   return { prob: Math.max(...probs), mm };
 }
 
+function tvLine(tv) {
+  const v = viewerDayTime(new Date(tv.from).toISOString());
+  return `<div class="s-tv" title="${esc(tv.titles.join(" → "))}">
+    <span aria-hidden="true">📺</span> <b>${esc(tv.channel)}</b> · live from ${esc(v.time)}${v.tz ? " " + esc(v.tz) : ""}</div>`;
+}
+
 function rainChip(r) {
   const level = r.prob >= 60 ? "high" : r.prob >= 30 ? "mid" : "low";
   const amount = r.mm >= 0.1 ? ` · ~${r.mm < 10 ? r.mm.toFixed(1) : Math.round(r.mm)} mm` : "";
@@ -288,6 +294,7 @@ function renderSessions() {
   const firstNext = list.find((s) => sessionState(s, now) === "next");
   const past = isPastEvent(ev, now);
   const showForecast = !past && weekendStarted(ev, now);
+  if (!past) SkyTV.load(list);
   if (showForecast && ev.location) setTimeout(() => loadWeather(ev), 0);
 
   const rows = list.map((s) => {
@@ -313,6 +320,8 @@ function renderSessions() {
       const r = sessionRain(ev, s);
       if (r) rain = rainChip(r);
     }
+    const tv = state !== "done" && !past ? SkyTV.forSession(s, SERIES) : null;
+    if (tv) rain = tvLine(tv) + rain;
     return `<li class="s-row ${state}">
       <div class="s-head"><span class="s-name">${esc(s.name)}</span>${badge}</div>
       ${when}
@@ -546,6 +555,7 @@ async function boot() {
         ${x.id === SERIES ? 'aria-current="page"' : ""}>${x.short}</a>`).join("");
   showUpdated();
   initSync();
+  SkyTV.onUpdate(() => renderSessions());
   window.addEventListener("hashchange", render);
   render();
 }
