@@ -44,6 +44,11 @@
     "source": "results"
    }
   ],
+  "location": {
+   "circuit": "Monza",
+   "lat": 45.6156,
+   "lon": 9.2811
+  },
   "counts": {
    "results": 13,
    "technical": 6,

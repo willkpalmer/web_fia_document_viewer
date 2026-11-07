@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Interlagos, São Paulo",
+   "lat": -23.7036,
+   "lon": -46.6997
+  },
   "counts": {
    "technical": 7,
    "race_director": 7,

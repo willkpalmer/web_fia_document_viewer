@@ -345,3 +345,24 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .series-switch a:hover { text-decoration: none; color: var(--text); }
 .series-switch a.active { background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
 .series-switch a.active::before { content: ""; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--accent); margin-right: 6px; vertical-align: middle; }
+
+/* track weather */
+.wx { margin-top: 16px; padding-top: 14px; border-top: 1px solid var(--border); }
+.wx-table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; background: var(--surface);
+  border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.wx-table { table-layout: fixed; }
+.wx-table th:first-child { width: 34%; }
+.wx-table th, .wx-table td { padding: 6px 5px; text-align: right; border-top: 1px solid var(--border); white-space: nowrap; font-size: 12.5px; }
+.wx-table thead th { border-top: 0; font-size: 10.5px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 600; cursor: default; background: var(--surface-2); }
+.wx-table tbody th { text-align: left; font-weight: 500; color: var(--muted); font-size: 11.5px; }
+.wx-table tbody tr { cursor: default; }
+.wx-table tbody tr:hover { background: transparent; }
+.wx-table td b { font-weight: 650; }
+.wx-table tbody th small { font-size: 9.5px; opacity: .8; }
+.wx-rain.light { color: var(--c-technical); font-weight: 600; }
+.wx-rain.moderate { color: var(--o-reprimand); font-weight: 650; }
+.wx-rain.heavy { color: var(--o-penalty); font-weight: 700; }
+@media (max-width: 1279px) {
+  .wx { max-width: 460px; }
+  .wx .s-note { display: block; }
+}

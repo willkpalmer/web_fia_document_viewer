@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Autódromo Hermanos Rodríguez",
+   "lat": 19.4042,
+   "lon": -99.0907
+  },
   "counts": {
    "results": 10,
    "stewards": 45,

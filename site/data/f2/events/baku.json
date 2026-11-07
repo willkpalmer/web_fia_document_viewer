@@ -60,6 +60,11 @@
     "source": "results"
    }
   ],
+  "location": {
+   "circuit": "Baku City Circuit",
+   "lat": 40.3725,
+   "lon": 49.8533
+  },
   "counts": {
    "results": 20,
    "technical": 8,

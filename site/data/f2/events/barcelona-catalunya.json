@@ -44,6 +44,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Circuit de Barcelona-Catalunya",
+   "lat": 41.57,
+   "lon": 2.2611
+  },
   "counts": {
    "results": 13,
    "stewards": 27,

@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Circuit de Monaco",
+   "lat": 43.7347,
+   "lon": 7.4206
+  },
   "counts": {
    "results": 15,
    "technical": 7,

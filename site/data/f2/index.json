@@ -50,6 +50,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Albert Park, Melbourne",
+    "lat": -37.8497,
+    "lon": 144.968
+   },
    "counts": {
     "results": 13,
     "stewards": 44,
@@ -104,6 +109,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Miami International Autodrome",
+    "lat": 25.9581,
+    "lon": -80.2389
+   },
    "counts": {
     "stewards": 48,
     "results": 13,
@@ -158,6 +168,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit Gilles Villeneuve, Montréal",
+    "lat": 45.5,
+    "lon": -73.5228
+   },
    "counts": {
     "results": 13,
     "stewards": 66,
@@ -220,6 +235,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit de Monaco",
+    "lat": 43.7347,
+    "lon": 7.4206
+   },
    "counts": {
     "results": 15,
     "technical": 7,
@@ -274,6 +294,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "lat": 41.57,
+    "lon": 2.2611
+   },
    "counts": {
     "results": 13,
     "stewards": 27,
@@ -328,6 +353,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Red Bull Ring, Spielberg",
+    "lat": 47.2197,
+    "lon": 14.7647
+   },
    "counts": {
     "results": 13,
     "stewards": 28,
@@ -382,6 +412,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Silverstone",
+    "lat": 52.0786,
+    "lon": -1.0169
+   },
    "counts": {
     "results": 14,
     "technical": 6,
@@ -436,6 +471,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Spa-Francorchamps",
+    "lat": 50.4372,
+    "lon": 5.9714
+   },
    "counts": {
     "results": 13,
     "stewards": 60,
@@ -490,6 +530,11 @@
      "source": "results"
     }
    ],
+   "location": {
+    "circuit": "Hungaroring, Budapest",
+    "lat": 47.5789,
+    "lon": 19.2486
+   },
    "counts": {
     "results": 13,
     "technical": 5,
@@ -544,6 +589,11 @@
      "source": "results"
     }
    ],
+   "location": {
+    "circuit": "Monza",
+    "lat": 45.6156,
+    "lon": 9.2811
+   },
    "counts": {
     "results": 13,
     "technical": 6,
@@ -598,6 +648,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Madring, Madrid",
+    "lat": 40.4637,
+    "lon": -3.6164
+   },
    "counts": {
     "results": 15,
     "technical": 10,
@@ -668,6 +723,11 @@
      "source": "results"
     }
    ],
+   "location": {
+    "circuit": "Baku City Circuit",
+    "lat": 40.3725,
+    "lon": 49.8533
+   },
    "counts": {
     "results": 20,
     "technical": 8,

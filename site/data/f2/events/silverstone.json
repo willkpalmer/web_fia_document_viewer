@@ -44,6 +44,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Silverstone",
+   "lat": 52.0786,
+   "lon": -1.0169
+  },
   "counts": {
    "results": 14,
    "technical": 6,

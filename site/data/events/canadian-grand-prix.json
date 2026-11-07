@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Circuit Gilles Villeneuve, Montréal",
+   "lat": 45.5,
+   "lon": -73.5228
+  },
   "counts": {
    "results": 16,
    "stewards": 56,

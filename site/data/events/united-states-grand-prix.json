@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Circuit of the Americas",
+   "lat": 30.1328,
+   "lon": -97.6411
+  },
   "counts": {
    "results": 10,
    "technical": 12,

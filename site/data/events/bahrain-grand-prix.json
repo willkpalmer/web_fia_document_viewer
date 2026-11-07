@@ -52,6 +52,11 @@
     "source": "f1"
    }
   ],
+  "location": {
+   "circuit": "Sepang International Circuit",
+   "lat": 2.7608,
+   "lon": 101.7382
+  },
   "counts": {
    "results": 10,
    "stewards": 25,

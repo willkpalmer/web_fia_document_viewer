@@ -136,6 +136,49 @@ EVENT_TZ = [
 ]
 
 
+# Circuit coordinates for the weather panel. Matched (first hit wins) against the FIA event name, the
+# formula1.com race name and the heading of the event's FIA documents, so venue moves such as the
+# 2026 "Bahrain Grand Prix in Malaysia" resolve to the right track. Order matters: specific before general.
+CIRCUITS = [
+    (r"malaysia|kuala lumpur|sepang", "Sepang International Circuit", 2.7608, 101.7382),
+    (r"las vegas", "Las Vegas Strip Circuit", 36.1147, -115.1728),
+    (r"miami", "Miami International Autodrome", 25.9581, -80.2389),
+    (r"madrid|madring|spanish|spain|españa", "Madring, Madrid", 40.4637, -3.6164),
+    (r"barcelona|catalunya", "Circuit de Barcelona-Catalunya", 41.5700, 2.2611),
+    (r"são paulo|sao paulo|interlagos|brazil", "Interlagos, São Paulo", -23.7036, -46.6997),
+    (r"mexic", "Autódromo Hermanos Rodríguez", 19.4042, -99.0907),
+    (r"united states|austin|cota", "Circuit of the Americas", 30.1328, -97.6411),
+    (r"australia|melbourne", "Albert Park, Melbourne", -37.8497, 144.9680),
+    (r"chin|shanghai", "Shanghai International Circuit", 31.3389, 121.2197),
+    (r"japan|suzuka", "Suzuka", 34.8431, 136.5410),
+    (r"bahrain|sakhir", "Bahrain International Circuit", 26.0325, 50.5106),
+    (r"saudi|jeddah", "Jeddah Corniche Circuit", 21.6319, 39.1044),
+    (r"emilia|imola", "Imola", 44.3439, 11.7167),
+    (r"canad|montr", "Circuit Gilles Villeneuve, Montréal", 45.5000, -73.5228),
+    (r"monaco", "Circuit de Monaco", 43.7347, 7.4206),
+    (r"austria|spielberg", "Red Bull Ring, Spielberg", 47.2197, 14.7647),
+    (r"british|britain|silverstone", "Silverstone", 52.0786, -1.0169),
+    (r"belgi|spa\b|spa-francorchamps", "Spa-Francorchamps", 50.4372, 5.9714),
+    (r"hungar|budapest", "Hungaroring, Budapest", 47.5789, 19.2486),
+    (r"dutch|netherlands|zandvoort", "Zandvoort", 52.3888, 4.5409),
+    (r"ital|monza", "Monza", 45.6156, 9.2811),
+    (r"azerbaijan|baku", "Baku City Circuit", 40.3725, 49.8533),
+    (r"singapore|marina bay", "Marina Bay, Singapore", 1.2914, 103.8640),
+    (r"qatar|lusail", "Lusail International Circuit", 25.4900, 51.4542),
+    (r"abu dhabi|yas|emirates", "Yas Marina", 24.4672, 54.6031),
+]
+
+
+def find_circuit(*texts):
+    for text in texts:
+        if not text:
+            continue
+        for rx, name, lat, lon in CIRCUITS:
+            if re.search(rf"\b(?:{rx})", text, re.I):
+                return {"circuit": name, "lat": lat, "lon": lon}
+    return None
+
+
 def paris_to_utc(iso: str) -> datetime:
     return datetime.fromisoformat(iso).replace(tzinfo=PARIS).astimezone(timezone.utc)
 
@@ -473,7 +516,7 @@ def match_f1_race(f1_races, docs):
         n = sum(lo <= t <= hi for t in stamps)
         if n > best_n:
             best, best_n = race, n
-    return best["sessions"] if best else None
+    return best
 
 
 # --------------------------------------------------------------------------- PDF parsing
@@ -806,6 +849,7 @@ def scrape_series(cfg, cache, args, context):
         time_samples = []
 
         timetables = []
+        heading = None
         for d in docs:
             is_tt = bool(TIMETABLE_RX.match(d["subject"]))
             if (d["category"] != "stewards" and not is_tt) or not d["url"] or args.no_pdfs:
@@ -819,6 +863,8 @@ def scrape_series(cfg, cache, args, context):
                 text = pdf_text(pdf)
                 cache["pdfs"][d["url"]] = text
                 log(f"  downloaded Doc {d['num']}")
+            if heading is None:
+                heading = next((l.strip() for l in text.splitlines() if l.strip()), None)
             if is_tt:
                 timetables.append((d["num"] or 0, text))
                 continue
@@ -855,7 +901,8 @@ def scrape_series(cfg, cache, args, context):
         for d in docs:
             d["published_local"] = to_local(d["published"], offset)
         extra = match_sister_timetables(sister, docs) if cfg["id"] != "f1" else ()
-        sessions = build_sessions(timetables, offset, docs, match_f1_race(f1_races, docs),
+        f1_race = match_f1_race(f1_races, docs)
+        sessions = build_sessions(timetables, offset, docs, (f1_race or {}).get("sessions"),
                                   label=cfg["timetable_label"], extra_timetables=extra)
         if timetables:
             timetables_by_event.append({"sessions": sessions, "timetables": timetables})
@@ -874,6 +921,7 @@ def scrape_series(cfg, cache, args, context):
             "utc_offset_min": offset,
             "tz_source": tz_source,
             "sessions": sessions,
+            "location": find_circuit((f1_race or {}).get("name"), heading, ev_name),
             "counts": counts,
         }
         out_events.append(ev_meta)

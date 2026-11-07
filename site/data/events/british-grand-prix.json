@@ -52,6 +52,11 @@
     "source": "f1"
    }
   ],
+  "location": {
+   "circuit": "Silverstone",
+   "lat": 52.0786,
+   "lon": -1.0169
+  },
   "counts": {
    "results": 15,
    "stewards": 38,

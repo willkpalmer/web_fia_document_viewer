@@ -44,6 +44,11 @@
     "source": "results"
    }
   ],
+  "location": {
+   "circuit": "Hungaroring, Budapest",
+   "lat": 47.5789,
+   "lon": 19.2486
+  },
   "counts": {
    "results": 13,
    "technical": 5,

@@ -44,6 +44,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Miami International Autodrome",
+   "lat": 25.9581,
+   "lon": -80.2389
+  },
   "counts": {
    "stewards": 48,
    "results": 13,

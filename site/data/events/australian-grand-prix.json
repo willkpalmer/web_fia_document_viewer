@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Albert Park, Melbourne",
+   "lat": -37.8497,
+   "lon": 144.968
+  },
   "counts": {
    "results": 10,
    "technical": 11,

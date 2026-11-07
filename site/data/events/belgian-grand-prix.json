@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Spa-Francorchamps",
+   "lat": 50.4372,
+   "lon": 5.9714
+  },
   "counts": {
    "results": 10,
    "stewards": 32,

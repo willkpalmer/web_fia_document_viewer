@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Marina Bay, Singapore",
+   "lat": 1.2914,
+   "lon": 103.864
+  },
   "counts": {
    "results": 15,
    "technical": 16,

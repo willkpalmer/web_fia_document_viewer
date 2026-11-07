@@ -52,6 +52,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Red Bull Ring, Spielberg",
+   "lat": 47.2197,
+   "lon": 14.7647
+  },
   "counts": {
    "stewards": 21,
    "results": 10,

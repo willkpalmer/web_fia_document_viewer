@@ -52,6 +52,11 @@
     "source": "f1"
    }
   ],
+  "location": {
+   "circuit": "Zandvoort",
+   "lat": 52.3888,
+   "lon": 4.5409
+  },
   "counts": {
    "results": 17,
    "technical": 14,

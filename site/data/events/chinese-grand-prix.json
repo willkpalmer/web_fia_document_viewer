@@ -52,6 +52,11 @@
     "source": "f1"
    }
   ],
+  "location": {
+   "circuit": "Shanghai International Circuit",
+   "lat": 31.3389,
+   "lon": 121.2197
+  },
   "counts": {
    "results": 15,
    "technical": 17,

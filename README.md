@@ -133,3 +133,12 @@ F2 differences the scraper handles:
   "Feature Race 1 / 2" weekend comes out right.
 
 formula1.com doesn't publish F2 schedules, so it isn't used for F2.
+
+## Track weather
+
+Under the sessions panel, the selected event shows the air temperature, humidity, rainfall rate and chance of rain at
+the circuit, for now and for +30, +60 and +90 minutes. The data comes from [Open-Meteo](https://open-meteo.com/), whose
+forecasts use national weather service models, at 15-minute resolution. The browser calls it directly with no key,
+so the panel is always current, and it refreshes every 10 minutes. Circuit coordinates are in `CIRCUITS` in
+`scraper/fia_scraper.py`. Each event is matched to a circuit by its name, its formula1.com race name or its FIA PDF
+heading, which handles venue moves such as the 2026 Bahrain GP held in Malaysia.

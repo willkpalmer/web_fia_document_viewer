@@ -52,6 +52,11 @@
     "source": "f1"
    }
   ],
+  "location": {
+   "circuit": "Monza",
+   "lat": 45.6156,
+   "lon": 9.2811
+  },
   "counts": {
    "results": 10,
    "stewards": 34,

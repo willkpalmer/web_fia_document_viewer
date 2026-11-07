@@ -44,6 +44,11 @@
     "source": "fia"
    }
   ],
+  "location": {
+   "circuit": "Madring, Madrid",
+   "lat": 40.4637,
+   "lon": -3.6164
+  },
   "counts": {
    "results": 15,
    "technical": 10,

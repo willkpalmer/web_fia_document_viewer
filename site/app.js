@@ -137,6 +137,99 @@ function sourceNote(list) {
   return parts.join(" ");
 }
 
+/* ------------------------------------------------------------------ track weather (Open-Meteo) */
+
+const WX_STEPS = [0, 30, 60, 90];
+const WX_REFRESH_MS = 10 * 60000;
+S.wx = {};   // slug -> { data, fetched, error }
+
+async function loadWeather(ev) {
+  const loc = ev?.location;
+  if (!loc) return;
+  const cur = S.wx[ev.slug];
+  if (cur && (cur.loading || Date.now() - cur.fetched < WX_REFRESH_MS)) return;
+  S.wx[ev.slug] = { ...(cur || {}), loading: true };
+  const url = "https://api.open-meteo.com/v1/forecast?" + new URLSearchParams({
+    latitude: loc.lat, longitude: loc.lon, timezone: "GMT",
+    current: "temperature_2m,relative_humidity_2m,precipitation,weather_code",
+    minutely_15: "temperature_2m,relative_humidity_2m,precipitation,precipitation_probability",
+    forecast_minutely_15: "10", hourly: "precipitation_probability", forecast_hours: "3",
+  });
+  try {
+    const r = await fetch(url);
+    if (r.status === 429) throw new Error("weather service busy, retrying shortly");
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    S.wx[ev.slug] = { data: await r.json(), fetched: Date.now() };
+  } catch (e) {
+    // keep any earlier data on screen; retry in 2 minutes rather than waiting the full refresh interval
+    S.wx[ev.slug] = { ...(cur || {}), error: e.message, fetched: Date.now() - WX_REFRESH_MS + 120000, loading: false };
+  }
+  if (sessionsEvent?.slug === ev.slug) {
+    const box = document.getElementById("wx");
+    if (box) box.innerHTML = wxHTML(ev);
+  }
+}
+
+// Open-Meteo times are GMT ISO strings without a zone
+const gmt = (t) => Date.parse(t + "Z");
+
+function wxPoint(data, minutesAhead) {
+  const m = data.minutely_15 || {};
+  const times = (m.time || []).map(gmt);
+  const target = Date.now() + minutesAhead * 60000;
+  let i = -1, best = Infinity;
+  times.forEach((t, k) => { const d = Math.abs(t - target); if (d < best) { best = d; i = k; } });
+  // 15-minute precipitation is the amount over the preceding 15 minutes -> express as a rate (mm/h)
+  let prob = i >= 0 ? m.precipitation_probability?.[i] : null;
+  if (prob == null && data.hourly?.time) {
+    const h = data.hourly.time.map(gmt).findLastIndex((t) => t <= target);
+    prob = h >= 0 ? data.hourly.precipitation_probability?.[h] : null;
+  }
+  if (minutesAhead === 0 && data.current) {
+    return { temp: data.current.temperature_2m, hum: data.current.relative_humidity_2m,
+      rain: data.current.precipitation != null ? data.current.precipitation * 4 : null, prob };
+  }
+  if (i < 0 || best > 20 * 60000) return null;
+  return { temp: m.temperature_2m?.[i], hum: m.relative_humidity_2m?.[i],
+    rain: m.precipitation?.[i] != null ? m.precipitation[i] * 4 : null, prob };
+}
+
+function rainClass(mmh) {
+  if (mmh == null) return "";
+  if (mmh < 0.1) return "dry";
+  if (mmh < 2.5) return "light";
+  if (mmh < 7.6) return "moderate";
+  return "heavy";
+}
+const WX_RAIN_LABEL = { dry: "Dry", light: "Light", moderate: "Moderate", heavy: "Heavy" };
+
+function wxHTML(ev) {
+  const loc = ev?.location;
+  if (!loc) return `<div class="s-title">Track weather</div><p class="muted s-empty">No location known for this event.</p>`;
+  const st = S.wx[ev.slug];
+  const head = `<div class="s-title">Track weather <span>${esc(loc.circuit)}</span></div>`;
+  if (!st || (!st.data && !st.error)) { setTimeout(() => loadWeather(ev), 0); return head + `<p class="muted s-empty">Loading…</p>`; }
+  if (!st.data) return head + `<p class="muted s-empty">Weather unavailable (${esc(st.error)}).</p>`;
+  if (Date.now() - st.fetched >= WX_REFRESH_MS) setTimeout(() => loadWeather(ev), 0);
+  const pts = WX_STEPS.map((m) => wxPoint(st.data, m));
+  const cell = (v, f) => (v == null ? "–" : f(v));
+  const row = (label, f) => `<tr><th>${label}</th>${pts.map((p) => `<td>${p ? f(p) : "–"}</td>`).join("")}</tr>`;
+  const upd = new Date(st.fetched);
+  return head + `
+    <table class="wx-table">
+      <thead><tr><th></th>${WX_STEPS.map((m) => `<th>${m ? "+" + m : "Now"}</th>`).join("")}</tr></thead>
+      <tbody>
+        ${row("Air <small>°C</small>", (p) => cell(p.temp, (v) => `<b>${v.toFixed(1)}</b>`))}
+        ${row("Humidity <small>%</small>", (p) => cell(p.hum, (v) => `${Math.round(v)}`))}
+        ${row("Rain <small>mm/h</small>", (p) => cell(p.rain, (v) => `<span class="wx-rain ${rainClass(v)}" title="${WX_RAIN_LABEL[rainClass(v)]} rain">${v < 0.1 ? "0" : v.toFixed(1)}</span>`))}
+        ${row("Rain chance <small>%</small>", (p) => cell(p.prob, (v) => `${Math.round(v)}`))}
+      </tbody>
+    </table>
+    <p class="s-note">Forecast from <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a>
+      (national weather service models) at the circuit · updated ${p2(upd.getHours())}:${p2(upd.getMinutes())}.
+      Minutes ahead of now. Air temperature, not track surface.</p>`;
+}
+
 function renderSessions() {
   const box = $("#sessions");
   const ev = sessionsEvent;
@@ -175,6 +268,7 @@ function renderSessions() {
     <div class="s-title">Sessions <span>${esc(ev.name.replace(/ Grand Prix$/, " GP"))} · ${fmtOffset(ev.utc_offset_min)}</span></div>
     ${list.length ? `<ol class="s-list">${rows}</ol>` : `<p class="muted s-empty">Session times appear once the FIA publishes this event's timetable.</p>`}
     ${list.length ? `<p class="s-note">${esc(sourceNote(list))}</p>` : ""}
+    <div id="wx" class="wx">${wxHTML(ev)}</div>
     <a class="btn s-open" href="sessions.html?${SERIES_QS ? SERIES_QS + "&" : ""}event=${encodeURIComponent(ev.slug)}" target="_blank" rel="noopener">📱 Open session times page ↗</a>`;
 }
 

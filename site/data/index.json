@@ -58,6 +58,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Albert Park, Melbourne",
+    "lat": -37.8497,
+    "lon": 144.968
+   },
    "counts": {
     "results": 10,
     "technical": 11,
@@ -120,6 +125,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Shanghai International Circuit",
+    "lat": 31.3389,
+    "lon": 121.2197
+   },
    "counts": {
     "results": 15,
     "technical": 17,
@@ -182,6 +192,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Suzuka",
+    "lat": 34.8431,
+    "lon": 136.541
+   },
    "counts": {
     "results": 11,
     "technical": 11,
@@ -244,6 +259,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Miami International Autodrome",
+    "lat": 25.9581,
+    "lon": -80.2389
+   },
    "counts": {
     "results": 16,
     "stewards": 46,
@@ -306,6 +326,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit Gilles Villeneuve, Montréal",
+    "lat": 45.5,
+    "lon": -73.5228
+   },
    "counts": {
     "results": 16,
     "stewards": 56,
@@ -368,6 +393,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit de Monaco",
+    "lat": 43.7347,
+    "lon": 7.4206
+   },
    "counts": {
     "results": 14,
     "stewards": 65,
@@ -430,6 +460,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "lat": 41.57,
+    "lon": 2.2611
+   },
    "counts": {
     "results": 12,
     "stewards": 26,
@@ -492,6 +527,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Red Bull Ring, Spielberg",
+    "lat": 47.2197,
+    "lon": 14.7647
+   },
    "counts": {
     "stewards": 21,
     "results": 10,
@@ -554,6 +594,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Silverstone",
+    "lat": 52.0786,
+    "lon": -1.0169
+   },
    "counts": {
     "results": 15,
     "stewards": 38,
@@ -616,6 +661,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Spa-Francorchamps",
+    "lat": 50.4372,
+    "lon": 5.9714
+   },
    "counts": {
     "results": 10,
     "stewards": 32,
@@ -678,6 +728,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Hungaroring, Budapest",
+    "lat": 47.5789,
+    "lon": 19.2486
+   },
    "counts": {
     "results": 10,
     "technical": 8,
@@ -740,6 +795,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Zandvoort",
+    "lat": 52.3888,
+    "lon": 4.5409
+   },
    "counts": {
     "results": 17,
     "technical": 14,
@@ -802,6 +862,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Monza",
+    "lat": 45.6156,
+    "lon": 9.2811
+   },
    "counts": {
     "results": 10,
     "stewards": 34,
@@ -864,6 +929,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Madring, Madrid",
+    "lat": 40.4637,
+    "lon": -3.6164
+   },
    "counts": {
     "results": 10,
     "technical": 11,
@@ -926,6 +996,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Baku City Circuit",
+    "lat": 40.3725,
+    "lon": 49.8533
+   },
    "counts": {
     "results": 10,
     "stewards": 33,
@@ -988,6 +1063,11 @@
      "source": "f1"
     }
    ],
+   "location": {
+    "circuit": "Sepang International Circuit",
+    "lat": 2.7608,
+    "lon": 101.7382
+   },
    "counts": {
     "results": 10,
     "stewards": 25,
@@ -1050,6 +1130,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Marina Bay, Singapore",
+    "lat": 1.2914,
+    "lon": 103.864
+   },
    "counts": {
     "results": 15,
     "technical": 16,
@@ -1112,6 +1197,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Circuit of the Americas",
+    "lat": 30.1328,
+    "lon": -97.6411
+   },
    "counts": {
     "results": 10,
     "technical": 12,
@@ -1174,6 +1264,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Autódromo Hermanos Rodríguez",
+    "lat": 19.4042,
+    "lon": -99.0907
+   },
    "counts": {
     "results": 10,
     "stewards": 45,
@@ -1237,6 +1332,11 @@
      "source": "fia"
     }
    ],
+   "location": {
+    "circuit": "Interlagos, São Paulo",
+    "lat": -23.7036,
+    "lon": -46.6997
+   },
    "counts": {
     "technical": 7,
     "race_director": 7,
