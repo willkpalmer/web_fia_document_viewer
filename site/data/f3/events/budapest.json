@@ -1,0 +1,1876 @@
+{
+ "event": {
+  "slug": "budapest",
+  "name": "Budapest",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Budapest",
+  "doc_count": 59,
+  "first_published": "2026-07-23T11:39",
+  "last_published": "2026-08-13T12:06",
+  "first_local": "2026-07-23T11:39",
+  "last_local": "2026-08-13T12:06",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "classified_local": "2026-07-24T11:15",
+    "start_utc": "2026-07-24T09:15Z",
+    "end_utc": "2026-07-24T09:15Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Qualifying",
+    "classified_local": "2026-07-24T15:45",
+    "start_utc": "2026-07-24T13:45Z",
+    "end_utc": "2026-07-24T13:45Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Sprint Race",
+    "classified_local": "2026-07-25T15:30",
+    "start_utc": "2026-07-25T13:30Z",
+    "end_utc": "2026-07-25T13:30Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Feature Race",
+    "classified_local": "2026-07-26T10:00",
+    "start_utc": "2026-07-26T08:00Z",
+    "end_utc": "2026-07-26T08:00Z",
+    "inferred": true,
+    "source": "results"
+   }
+  ],
+  "location": {
+   "circuit": "Hungaroring, Budapest",
+   "lat": 47.5789,
+   "lon": 19.2486
+  },
+  "counts": {
+   "results": 13,
+   "admin": 7,
+   "stewards": 30,
+   "technical": 5,
+   "race_director": 4
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 59,
+   "title": "DOC 59 - 2026 Budapest Event - F3 Team Championship - Budapest 2026",
+   "subject": "F3 Team Championship - Budapest 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_59_-_2026_budapest_event_-_f3_team_championship_-_budapest_2026.pdf",
+   "published": "2026-07-26T16:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T16:00"
+  },
+  {
+   "num": 58,
+   "title": "DOC 58 - 2026 Budapest Event - F3 Driver Championship - Budapest 2026",
+   "subject": "F3 Driver Championship - Budapest 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_58_-_2026_budapest_event_-_f3_driver_championship_-_budapest_2026.pdf",
+   "published": "2026-07-26T16:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T16:00"
+  },
+  {
+   "num": 57,
+   "title": "DOC 57 -2026 Budapest Event - F3 Race 2 (Feature) - Final classification",
+   "subject": "F3 Race 2 (Feature) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_57_-2026_budapest_event_-_f3_race_2_feature_-_final_classification.pdf",
+   "published": "2026-07-26T15:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T15:45"
+  },
+  {
+   "num": 56,
+   "title": "DOC 56 -2026 Budapest Event - Bulletin 3 - Amendment to Article 10.2 of the Sporting Regulations",
+   "subject": "Bulletin 3 - Amendment to Article 10.2 of the Sporting Regulations",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_56_-2026_budapest_event_-_bulletin_3_-_amendment_to_article_10.2_of_the_sporting_regulations.pdf",
+   "published": "2026-07-26T15:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T15:00"
+  },
+  {
+   "num": 55,
+   "title": "DOC 55 -2026 Budapest Event - INFRINGEMENT - Car 31 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 31 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_55_-2026_budapest_event_-_infringement_-_car_31_-_causing_a_collision.pdf",
+   "published": "2026-07-26T14:45",
+   "recalled": false,
+   "cars": [
+    31
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "31 - Gerrard Xie",
+    "competitor": "DAMS Lucas Oil",
+    "time": "08:45",
+    "session": "Race 2",
+    "fact": "On Lap 1, Car 31 (Xie) collided with Car 25 (Nakamura) and Car 11 (Gladysz) at the exit of Turn 13.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code",
+    "decision": "Five (5) second Time Penalty in accordance with Article 39.3(a) of the FIA Formula 3 Sporting Regulations. In addition, 1 penalty points to be added to the driver’s record. Total for the 2026 season = 3 penalty points.",
+    "reason": "The Stewards examined video evidence. At the exit of Turn 13 on Lap 1, Car 11 (Gladysz) was positioned on the left and Car 31(Xie) was positioned on the right, having taken a wider outside line through the corner. Car 31 moved back towards the racing line, but before doing so, Car 25 (Nakamura), who was initially behind, moved into the gap between the two cars. When Car 31 moved back to the racing line it collided with Car 25 and Car 11. Having considered the incident in its entirety, the Stewards determined that Car 31 was predominantly responsible for the collision. As the incident occurred on the opening lap, the Stewards considered this a mitigating circumstance and imposed a five-second time penalty. In addition, one penalty point is added to the driver’s record.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "Time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-07-26T14:45"
+  },
+  {
+   "num": 54,
+   "title": "DOC 54 -2026 Budapest Event - DECISION - Car 5 - Allegedly causing a collision with Car 8",
+   "subject": "DECISION - Car 5 - Allegedly causing a collision with Car 8",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_54_-2026_budapest_event_-_decision_-_car_5_-_allegedly_causing_a_collision_with_car_8.pdf",
+   "published": "2026-07-26T14:45",
+   "recalled": false,
+   "cars": [
+    5,
+    8
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "5 - Freddie Slater",
+    "competitor": "Trident",
+    "time": "08:44",
+    "session": "Race 2",
+    "fact": "On Lap 1, Car 5 (Slater) collided with the rear of Car 8 (Taponen) on the approach to Turn 12.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the 2026 FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video evidence. Car 8 (Taponen) was ahead of Car 5 (Slater) through Turn 11. Car 5 achieved a better exit and carried greater momentum towards Turn 12.. After exiting the corner, Car 8 moved progressively towards the right-hand side of the track, reducing the available gap. At the same time, Car 5 attempted to enter that narrowing gap. The available video evidence did not establish whether Car 8 was reacting to the movement of Car 5 or whether Car 5 had committed to the gap before Car 8 began closing it. The cars’ converging trajectories resulted in contact between the left side of the front wing of Car 5 and the right-rear wheel of Car 8. Car 8 sustained a puncture and entered the Pit Lane. The consequence of the contact does not, by itself, determine responsibility. Based on the available evidence, the Stewards could not establish that either driver was wholly or predominantly responsible for the collision and therefore decide to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     }
+    ],
+    "refs": [
+     54
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-07-26T14:45"
+  },
+  {
+   "num": 53,
+   "title": "DOC 53 -2026 Budapest Event - INFRINGEMENT - Car 1 - Forcing car 8 off track at Turn 1 in Lap 24",
+   "subject": "INFRINGEMENT - Car 1 - Forcing car 8 off track at Turn 1 in Lap 24",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_53_-2026_budapest_event_-_infringement_-_car_1_-_forcing_car_8_off_track_at_turn_1_in_lap_24.pdf",
+   "published": "2026-07-26T14:15",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "09:26",
+    "session": "Race 2",
+    "fact": "At Turn 1 on Lap 24, Car 8 (Taponen) was forced off the track while attempting to overtake Car 1 (Nael).",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2(b) of the International Sporting Code.",
+    "decision": "A ten-second time penalty, imposed in accordance with Article 39.3(b) of the FIA Formula 3 Sporting Regulations. In addition, two penalty points are added to the driver’s record. The driver’s total for the 2026 season is 5 penalty points.",
+    "reason": "The Stewards reviewed video evidence and summoned and heard from the drivers of Car 1 (Nael) and Car 8 (Taponen), together with their team representatives (Documents 43 and 44). On the approach to Turn 1 on Lap 24, Car 1 was on the right (on the inside of the corner), while Car 8 was positioned on the left and attempted to overtake around the outside. The video evidence showed that the front axle of Car 8 was ahead of the front axle of Car 1 at the apex. Car 1 subsequently failed to leave Car 8 sufficient racing room at the exit, resulting in Car 8 being forced off the track. The driver of Car 1 stated that he considered Car 8 was not ahead at the apex and had therefore not earned the right to racing room at the exit. The driver of Car 8 expressed the opposite view. Having considered the matter extensively, the Stewards determined that Car 8 had satisfied the requirements of the FIA Formula 3 Driving Standards Guidelines for an overtaking car on the outside and was therefore entitled to racing room at the exit of Turn 1. Car 1 failed to provide that room and forced Car 8 off the track. The Stewards therefore impose the baseline ten-second time penalty in line with previous precedents,",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     43,
+     53
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    43
+   ],
+   "published_local": "2026-07-26T14:15"
+  },
+  {
+   "num": 52,
+   "title": "DOC 52 -2026 Budapest Event - DECISION - Car 1 - Allegedly forcing Car 8 off track at Turn 2 in Lap 21",
+   "subject": "DECISION - Car 1 - Allegedly forcing Car 8 off track at Turn 2 in Lap 21",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_52_-2026_budapest_event_-_decision_-_car_1_-_allegedly_forcing_car_8_off_track_at_turn_2_in_lap_21.pdf",
+   "published": "2026-07-26T14:15",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "09:21",
+    "session": "Race 2",
+    "fact": "Car 1 (Nael) allegedly forced Car 8 (Taponen) off the track at Turn 2 on Lap 21.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (b) of the 2026 FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video evidence and summoned and heard from the drivers of Car 1 (Nael) and Car 8 (Taponen), together with their team representatives (Documents 43 and 44). On the approach to Turn 2 on Lap 21, Car 1 was positioned on the left (on the inside of the corner) while Car 8 was on the right and attempted to overtake Car 1 around the outside of Turn 2. The FIA Formula 3 Driving Standards Guidelines provide that, to be entitled to racing room at the exit when overtaking on the outside, the overtaking car must have its front axle ahead of the front axle of the other car at the apex. Based on the available video angles and the differing accounts provided by the drivers, the Stewards could not determine conclusively whether Car 8 had achieved the required overlap relative to Car 1 at the apex and earning him entitlement to racing room at the exit. Furthermore, as the cars exited Turn 2, Car 8 ran wide but maintained two wheels in contact with the track. Having considered the matter extensively, the Stewards determined that the matter was marginal and were not satisfied that the available evidence established that Car 1 had breached the regulations. The Stewards therefore decide to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     43,
+     52
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    43
+   ],
+   "published_local": "2026-07-26T14:15"
+  },
+  {
+   "num": 51,
+   "title": "DOC 51 -2026 Budapest Event - INFRINGEMENT - Car 1 - Forcing Car 8 off track at Turn 1 in Lap 18",
+   "subject": "INFRINGEMENT - Car 1 - Forcing Car 8 off track at Turn 1 in Lap 18",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_51_-2026_budapest_event_-_infringement_-_car_1_-_forcing_car_8_off_track_at_turn_1_in_lap_18.pdf",
+   "published": "2026-07-26T14:15",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "09:16",
+    "session": "Race 2",
+    "fact": "At Turn 1 on Lap 18, Car 8 (Taponen) was forced off the track while attempting to overtake Car 1 (Nael).",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2(b) of the International Sporting Code.",
+    "decision": "A five-second time penalty, imposed in accordance with Article 39.3(a) of the FIA Formula 3 Sporting Regulations. In addition, one penalty point is added to the driver’s record. The driver’s total for the 2026 season is 3 penalty points.",
+    "reason": "The Stewards reviewed video evidence and summoned and heard from the drivers of Car 1 (Nael) and Car 8 (Taponen), together with their team representatives (Documents 43 and 44). On the approach to Turn 1 on Lap 18, following a Safety Car restart, Car 1 was on the right (on the inside of Turn 1) and Car 8 attempted to overtake around the outside. Car 7 was immediately ahead of Car 1. The video evidence showed that the front axle of Car 8 was ahead of the front axle of Car 1 at the apex. Car 1 subsequently failed to leave Car 8 sufficient racing room at the exit, resulting in Car 8 being forced off the track. The driver of Car 1 stated that he considered Car 8 was not ahead at the apex and had therefore not earned the right to racing room at the exit. The driver of Car 8 expressed the opposite view. Having considered the matter extensively, the Stewards determined that Car 8 had satisfied the requirements of the FIA Formula 3 Driving Standards Guidelines for an overtaking car on the outside and was therefore entitled to racing room at the exit of Turn 1. Car 1 failed to provide that room and forced Car 8 off the track. As mitigating circumstances, the Stewards considered that the incident occurred immediately following a Safety Car restart and that the presence of Car 7 directly ahead restricted the available space and affected the approach of Car 1 to the corner. The Stewards therefore impose a five-second time penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     43,
+     51
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    43
+   ],
+   "published_local": "2026-07-26T14:15"
+  },
+  {
+   "num": 50,
+   "title": "DOC 50 - 2026 Budapest Event - INFRINGEMENT - Car 27 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 27 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_50_-_2026_budapest_event_-_infringement_-_car_27_-_causing_a_collision.pdf",
+   "published": "2026-07-26T14:15",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Yevan David",
+    "competitor": "AIX Racing",
+    "time": "09:10",
+    "session": "Race 2",
+    "fact": "Car 27 (David) caused a collision with Car 15 (Deligny) at Turn 1 on Lap 15.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2(d) of the International Sporting Code.",
+    "decision": "A ten-second time penalty, imposed in accordance with Article 39.3(b) of the FIA Formula 3 Sporting Regulations. In addition, two penalty points are added to the driver’s record. The driver’s total for the 2026 season is 4 penalty points.",
+    "reason": "The Stewards reviewed video evidence. On the approach to Turn 1, Car 27 (David) was positioned on the right, Car 15 (Deligny) was in the middle, and Car 28 (Barrichello) on the left. Car 27 attempted to overtake Car 15 on the inside by entering a narrowing gap. The video evidence showed that Car 27 did not have its front axle at least alongside the mirror of Car 15 before and at the apex. Car 27 was therefore not entitled to racing room on the inside. Nevertheless, Car 27 continued with the overtaking attempt and made contact with Car 15. Having considered the matter extensively, the Stewards determined that Car 27 was wholly responsible for the collision. The Stewards therefore impose a ten-second time penalty and add two penalty points to the driver’s record.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Yevan David"
+     }
+    ],
+    "refs": [
+     50
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-07-26T14:15"
+  },
+  {
+   "num": 49,
+   "title": "DOC 49 - 2026 Budapest Event - INFRINGEMENT - Car 29 - Erratic driving",
+   "subject": "INFRINGEMENT - Car 29 - Erratic driving",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_49_-_2026_budapest_event_-_infringement_-_car_29_-_erratic_driving.pdf",
+   "published": "2026-07-26T14:15",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "09:08",
+    "session": "Race 2",
+    "fact": "Car 29 (Lacorte) made more than one change of direction while defending against Car 9 (Giusti) between Turns 5 and 6.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2(b) of the International Sporting Code.",
+    "decision": "A ten-second time penalty, imposed in accordance with Article 39.3(b) of the FIA Formula 3 Sporting Regulations. In addition, two (2) penalty points are added to the driver’s record. The driver’s total for the 2026 season is 2 penalty points.",
+    "reason": "The Stewards examined video evidence. On Lap 16, after exiting Turn 5 and while approaching Turn 6, Car 29 (Lacorte) made two changes of direction while defending against Car 9 (Giusti). Car 29 initially moved to the right, away from the racing line, before subsequently moving back to the left towards the racing line as the cars approached the braking zone for Turn 6. When returning towards the racing line, Car 29 did not leave at least one car width between his car and the edge of the track. This movement caused Car 9 to take evasive action, lose traction under braking, and leave the track at Turn 6. Appendix L, Chapter IV, Article 2(b) of the International Sporting Code provides that more than one change of direction to defend a position is not permitted. It further provides that a driver returning towards the racing line after defending off-line must leave at least one car width between their car and the edge of the track on the approach to a corner. Having considered the incident in its entirety, the Stewards determined that Car 29 made more than one change of direction while defending and was wholly responsible for causing Car 9 to leave the track. The Stewards therefore impose a ten-second time penalty. In addition, two penalty points are added to the driver’s record in accordance with the 2026 FIA Formula 3 Penalty Guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     49
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-07-26T14:15"
+  },
+  {
+   "num": 48,
+   "title": "DOC 48 - 2026 Budapest Event - INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_48_-_2026_budapest_event_-_infringement_-_race_2_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-07-26T14:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at Turn 14",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "16": 1,
+     "23": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     48
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-26T14:00"
+  },
+  {
+   "num": 47,
+   "title": "DOC 47 - 2026 Budapest Event - INFRINGEMENT - Race 2 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_47_-_2026_budapest_event_-_infringement_-_race_2_-_lap_time_cancellations.pdf",
+   "published": "2026-07-26T14:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident           Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "2": 2,
+     "10": 1,
+     "17": 2,
+     "27": 1,
+     "23": 2,
+     "3": 3,
+     "28": 2,
+     "6": 1,
+     "26": 1,
+     "29": 1,
+     "9": 1,
+     "14": 2,
+     "8": 2,
+     "19": 1,
+     "4": 1
+    },
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     }
+    ],
+    "refs": [
+     47
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-26T14:00"
+  },
+  {
+   "num": 46,
+   "title": "DOC 46 - 2026 Budapest Event - INFRINGEMENT - Race 2 - Safety Car infringement - multiple cars",
+   "subject": "INFRINGEMENT - Race 2 - Safety Car infringement - multiple cars",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_46_-_2026_budapest_event_-_infringement_-_race_2_-_safety_car_infringement_-_multiple_cars.pdf",
+   "published": "2026-07-26T13:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "time": "08:47",
+    "fact": "The Cars below entered Pit Lane during the Safety Car deployment that occurred at 08:46.",
+    "infringement": "Breach of Article 40.11 of the FIA Formula 3 Sporting Regulations",
+    "decision": "Reprimand (driving) for all cars listed above.",
+    "reason": "The Stewards reviewed video, timing data, and GPS data. The evidence showed that the cars listed above entered the Pit Lane while the Safety Car was deployed. The Race Director had not instructed the cars to use the Pit Lane, and the marshalling light panels clearly indicated that the cars were to remain on the track. Article 40.11 of the FIA Formula 3 Sporting Regulations states: “Other than when the cars and the safety car are required to use the pit lane, no car may enter the pits whilst the safety car is deployed unless it is for the purpose of changing damaged tyres, or a change of climatic conditions necessitates the use of a different specification of tyre or repairing a genuine accident damage.” None of the exceptions permitted under Article 40.11 applied. The Stewards therefore determine that each driver breached Article 40.11 of the FIA Formula 3 Sporting Regulations. Ordinarily, such a breach, particularly if committed by one car or a limited number of cars, would warrant a more significant sporting penalty. However, the Stewards note that all the cars concerned entered the Pit Lane and that none stopped at their designated garage area, conducted a pit stop, or derived a sporting advantage. The Stewards consider these circumstances sufficiently mitigating to impose a Reprimand. This decision arises from the exceptional circumstances of this incident, which involved a collective failure by the drivers concerned. It should not be regarded as establishing a precedent. Any similar breach in the future will be assessed independently, having regard to its particular facts, circumstances, and sporting consequences.",
+    "from": "The Stewards",
+    "table_rows": {
+     "1": 1,
+     "2": 1,
+     "3": 1,
+     "4": 1,
+     "5": 1,
+     "6": 1,
+     "7": 1,
+     "9": 1,
+     "10": 1,
+     "12": 1,
+     "14": 1,
+     "15": 1,
+     "16": 1,
+     "17": 1,
+     "18": 1,
+     "19": 1,
+     "20": 1,
+     "21": 1,
+     "22": 1,
+     "23": 1,
+     "24": 1,
+     "26": 1,
+     "27": 1,
+     "28": 1,
+     "29": 1,
+     "30": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 14,
+      "name": "Hiyu Yamakoshi"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 20,
+      "name": "Louis Sharp"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 24,
+      "name": "Fionn Mclaughlin"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     46
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "published_local": "2026-07-26T13:15"
+  },
+  {
+   "num": 45,
+   "title": "DOC 45 - 2026 Budapest Event - F3 Technical Delegates Report 4",
+   "subject": "F3 Technical Delegates Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/documents/doc_45_-_2026_budapest_event_-_f3_technical_delegates_report_4.pdf",
+   "published": "2026-07-26T13:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T13:00"
+  },
+  {
+   "num": 44,
+   "title": "DOC 44 - 2026 Budapest Event - SUMMONS - Car 8 - Allegedly being forced off the track by Car 1 on multiple occasions",
+   "subject": "SUMMONS - Car 8 - Allegedly being forced off the track by Car 1 on multiple occasions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_44_-_2026_budapest_event_-_summons_-_car_8_-_allegedly_being_forced_off_the_track_by_car_1_on_multiple_occasions.pdf",
+   "published": "2026-07-26T12:15",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "8 - Tuukka Taponen",
+    "reason": "Alleged breach of App. L Ch IV, 2b) of the International Sporting Code - Car 1 (Nael) forcing Car 8 (Taponen) off the track at Turn 1 on multiple occasions and again at Turn 2.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     }
+    ],
+    "refs": [
+     44
+    ]
+   },
+   "published_local": "2026-07-26T12:15"
+  },
+  {
+   "num": 43,
+   "title": "DOC 43 - 2026 Budapest Event - SUMMONS - Car 1 - Allegedly forcing Car 8 off the track on multiple occasions",
+   "subject": "SUMMONS - Car 1 - Allegedly forcing Car 8 off the track on multiple occasions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_43_-_2026_budapest_event_-_summons_-_car_1_-_allegedly_forcing_car_8_off_the_track_on_multiple_occasions.pdf",
+   "published": "2026-07-26T12:15",
+   "recalled": false,
+   "cars": [
+    1,
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "reason": "Alleged breach of App. L Ch IV, 2b) of the International Sporting Code - Car 1 (Nael) forcing Car 8 (Taponen) off the track at Turn 1 on multiple occasions and again at Turn 2.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     43
+    ]
+   },
+   "related": [
+    51,
+    52,
+    53
+   ],
+   "published_local": "2026-07-26T12:15"
+  },
+  {
+   "num": 42,
+   "title": "DOC 42 - 2026 Budapest Event - INFRINGEMENT - Car 26 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 26 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_42_-_2026_budapest_event_-_infringement_-_car_26_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-07-26T11:30",
+   "recalled": false,
+   "cars": [
+    26
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "26 - Salim Hanna",
+    "competitor": "AIX Racing",
+    "time": "08:43",
+    "session": "Race 2",
+    "fact": "Car 26 (Hanna) moved before the start signal - false start",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 3 Sporting Regulations and Article 8.6 of the FIA International Sporting Code",
+    "decision": "Five (5) second time penalty in accordance with Article 39.3 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of car 26 (Hanna) moved slightly before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose a penalty consistent with similar breaches for false starts.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-26T11:30"
+  },
+  {
+   "num": 41,
+   "title": "DOC 41 - 2026 Budapest Event - Stewards Communication 1 - Budapest 2026",
+   "subject": "Stewards Communication 1 - Budapest 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_41_-_2026_budapest_event_-_stewards_communication_1_-_budapest_2026.pdf",
+   "published": "2026-07-26T10:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T10:45"
+  },
+  {
+   "num": 40,
+   "title": "DOC 40 - 2026 Budapest Event - F3 Race 2 (Feature) - Provisional classification",
+   "subject": "F3 Race 2 (Feature) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_40_-_2026_budapest_event_-_f3_race_2_feature_-_provisional_classification.pdf",
+   "published": "2026-07-26T10:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T10:00"
+  },
+  {
+   "num": 39,
+   "title": "DOC 39 - 2026 Budapest Event - F3 Race 2 (Feature) - Final starting grid",
+   "subject": "F3 Race 2 (Feature) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_39_-_2026_budapest_event_-_f3_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-07-26T07:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-26T07:45"
+  },
+  {
+   "num": 38,
+   "title": "DOC 38 - 2026 Budapest Event - Bulletin 2 - Amendment to Supplementary Regulations",
+   "subject": "Bulletin 2 - Amendment to Supplementary Regulations",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_38_-_2026_budapest_event_-_bulletin_2_-_amendment_to_supplementary_regulations_0.pdf",
+   "published": "2026-07-25T18:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T18:30"
+  },
+  {
+   "num": 37,
+   "title": "DOC 37 - 2026 Budapest Event - F3 Race 2 (Feature) - Provisional starting grid",
+   "subject": "F3 Race 2 (Feature) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_37_-_2026_budapest_event_-_f3_race_2_feature_-_provisional_starting_grid_2.pdf",
+   "published": "2026-07-25T15:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T15:30"
+  },
+  {
+   "num": 36,
+   "title": "DOC 36 - 2026 Budapest Event - F3 Race 1 (Sprint) - Final classification",
+   "subject": "F3 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_36_-_2026_budapest_event_-_f3_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-07-25T15:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T15:30"
+  },
+  {
+   "num": 35,
+   "title": "DOC 35 - 2026 Budapest Event - INFRINGEMENT - Car 25 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 25 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_35_-_2026_budapest_event_-_infringement_-_car_25_-_causing_a_collision.pdf",
+   "published": "2026-07-25T13:45",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "25 - Jin Nakamura",
+    "competitor": "Hitech",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 25 (Nakamura) collided with Car 31 (Xie) on Lap 1 and on the approach to Turn 2.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Five seconds (5) time penalty, which since Car 25 was not classified, is converted to a drop of 3 places on the grid for the next Feature Race in which the driver participates. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 4 points.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Drivers of Car 25 (Nakamura) and Car 31 (Xie), together with their Team Representatives (Documents 27 and 28). Video evidence showed that, on the approach to Turn 2 on Lap 1, Car 25 was behind Car 31. As the field compressed into the corner, Car 31 moved to the left in response to the cars ahead and to avoid contact. Car 25 continued to close on Car 31 but was unable to avoid colliding with the rear of Car 31. The Driver of Car 25 stated that he had not anticipated the rate at which he was closing on Car 31. He further stated that Car 31 moved suddenly to the left immediately before the collision, leaving insufficient time to react and avoid contact. The Driver of Car 31 stated that he moved to the left to avoid the cars ahead, which were slowing into Turn 2, and that the collision occurred while carrying out that manoeuvre. Having considered the matter extensively, the Stewards determined that Car 25 was predominantly at fault for the collision, having failed to react to his closing speed in relation to Car 31 and causing the collision. While Car 31 moved to the left to avoid the cars ahead, this did not relieve Car 25 of its responsibility to avoid the collision. As the incident occurred on the opening lap, the Stewards took this into account as a mitigating factor and imposed a five (5) second time penalty in accordance with the 2026 FIA Formula 3 Penalty Guidelines. Since Car 25 was not classified, the penalty is converted to a three (3) place grid drop for the next Feature Race in which the driver participates, in accordance with the Article 39.3(d) of the FIA F3 Sporting Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     }
+    ],
+    "refs": [
+     27,
+     35
+    ],
+    "tags": [
+     "5s time penalty",
+     "3-place grid drop",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "related": [
+    27
+   ],
+   "published_local": "2026-07-25T13:45"
+  },
+  {
+   "num": 34,
+   "title": "DOC 34 - 2026 Budapest Event - INFRINGEMENT - Car 2 - Leaving the track and gaining an advantage on Car 8",
+   "subject": "INFRINGEMENT - Car 2 - Leaving the track and gaining an advantage on Car 8",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_34_-_2026_budapest_event_-_infringement_-_car_2_-_leaving_the_track_and_gaining_an_advantage_on_car_8_0.pdf",
+   "published": "2026-07-25T13:45",
+   "recalled": false,
+   "cars": [
+    2,
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "2 - Ugo Ugochukwu",
+    "competitor": "Campos Racing",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 2 (Ugochuwkwu) left the track between Turn 3 and Turn 4 and gained a lasting advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA F3 Sporting Regulations and/or breach of Appendix L, Chapter IV, Article 2 (c) of the FIA International Sporting Code",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. On Lap 1, and on the approach to Turn 3, Car 2 (Ugochuwkwu) was on the left and Car 8 (Taponen) was on the right. Car 2 attempted to overtake car 8 on the outside. Car 2 left the track at Turn 3 and rejoined alongside Car 8 and gained a lasting advantage. That advantage was subsequently not given back. The Stewards consider that Car 2 did not have a justifiable reason for leaving the track and further consider that, while he rejoined safely, Car 2 unfairly gained a lasting advantage over Car 8 by doing so. The Stewards impose a 5 second time penalty on Car 2. The penalty is applied in mitigation in that the incident occurred on lap 1 of the race and was shortly followed by the Safety Car being deployed.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     }
+    ],
+    "refs": [
+     34
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-25T13:45"
+  },
+  {
+   "num": 33,
+   "title": "DOC 33 - 2026 Budapest Event - F3 Technical Delegates Report 3",
+   "subject": "F3 Technical Delegates Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/documents/doc_33_-_2026_budapest_event_-_f3_technical_delegates_report_3.pdf",
+   "published": "2026-07-25T13:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T13:30"
+  },
+  {
+   "num": 32,
+   "title": "DOC 32 - 2026 Budapest Event - Circuit Map - Updated - Budapest 2026",
+   "subject": "Circuit Map - Updated - Budapest 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_32_-_2026_budapest_event_-_circuit_map_-_updated_-_budapest_2026.pdf",
+   "published": "2026-07-25T13:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T13:15"
+  },
+  {
+   "num": 31,
+   "title": "DOC 31 - 2026 Budapest Event - INFRINGEMENT - Car 6 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 6 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_31_-_2026_budapest_event_-_infringement_-_car_6_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-07-25T12:30",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "competitor": "Trident",
+    "time": "10:08",
+    "session": "Race 1",
+    "fact": "Car 6 (De Palo) moved before the start signal - false start",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 3 Sporting Regulations and Article 8.6 of the FIA International Sporting Code",
+    "decision": "Five (5) second time penalty in accordance with Article 39.3 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of car 6 (De Palo) moved slightly before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose a penalty consistent with similar breaches for false starts.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     31
+    ],
+    "tags": [
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-07-25T12:30"
+  },
+  {
+   "num": 30,
+   "title": "DOC 30 - 2026 Budapest Event - INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_30_-_2026_budapest_event_-_infringement_-_race_1_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-07-25T12:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at Turn 14",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes. BUDAPEST EVENT 23 TO 26 JULY 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "19": 2,
+     "21": 1,
+     "10": 1,
+     "26": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     }
+    ],
+    "refs": [
+     30
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-25T12:15"
+  },
+  {
+   "num": 29,
+   "title": "DOC 29- 2026 Budapest Event - INFRINGEMENT - Race 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_29-_2026_budapest_event_-_infringement_-_race_1_-_lap_time_cancellations.pdf",
+   "published": "2026-07-25T12:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "16": 1,
+     "27": 2,
+     "23": 1,
+     "24": 1,
+     "26": 1,
+     "12": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     }
+    ],
+    "refs": [
+     29
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-25T12:15"
+  },
+  {
+   "num": 28,
+   "title": "DOC 28 - 2026 Budapest Event - SUMMONS - Car 31 - Allegedly involved in a collision with Car 25",
+   "subject": "SUMMONS - Car 31 - Allegedly involved in a collision with Car 25",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_28_-_2026_budapest_event_-_summons_-_car_31_-_allegedly_involved_in_a_collision_with_car_25.pdf",
+   "published": "2026-07-25T12:15",
+   "recalled": false,
+   "cars": [
+    25,
+    31
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "31 - Gerrard Xie",
+    "reason": "Alleged breach of App. L, Ch IV, 2 d) of the International Sporting Code - Car 25 (Nakamura) allegedly collided with Car 31 (Xie) ahead of Turn 2.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     }
+    ],
+    "refs": [
+     28
+    ]
+   },
+   "published_local": "2026-07-25T12:15"
+  },
+  {
+   "num": 27,
+   "title": "DOC 27 - 2026 Budapest Event - SUMMONS - Car 25 - Allegedly causing a collision with Car 31",
+   "subject": "SUMMONS - Car 25 - Allegedly causing a collision with Car 31",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_27_-_2026_budapest_event_-_summons_-_car_25_-_allegedly_causing_a_collision_with_car_31.pdf",
+   "published": "2026-07-25T12:15",
+   "recalled": false,
+   "cars": [
+    25,
+    31
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "25 - Jin Nakamura",
+    "reason": "Alleged breach of App. L, Ch IV, 2 d) of the International Sporting Code - Car 25 (Nakamura) allegedly collided with Car 31 (Xie) ahead of Turn 2.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     }
+    ],
+    "refs": [
+     27
+    ]
+   },
+   "related": [
+    35
+   ],
+   "published_local": "2026-07-25T12:15"
+  },
+  {
+   "num": 26,
+   "title": "DOC 26 - 2026 Budapest Event - F3 Race 1 (Sprint) - Provisional classifiaction",
+   "subject": "F3 Race 1 (Sprint) - Provisional classifiaction",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_26_-_2026_budapest_event_-_f3_race_1_sprint_-_provisional_classifiaction_.pdf",
+   "published": "2026-07-25T11:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T11:00"
+  },
+  {
+   "num": 25,
+   "title": "DOC 25 - 2026 Budapest Event - F3 Race 1 (Sprint) - Final starting grid",
+   "subject": "F3 Race 1 (Sprint) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_25_-_2026_budapest_event_-_f3_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-07-25T10:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-25T10:15"
+  },
+  {
+   "num": 24,
+   "title": "DOC 24 - 2026 Budapest Event - Podium and Parc Fermé instructions - Budapest",
+   "subject": "Podium and Parc Fermé instructions - Budapest",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/documents/doc_24_-_2026_budapest_event_-_podium_and_parc_ferme_instructions_-_budapest.pdf",
+   "published": "2026-07-24T20:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T20:15"
+  },
+  {
+   "num": 23,
+   "title": "DOC 23 - 2026 Budapest Event - F3 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F3 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_23_-_2026_budapest_event_-_f3_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-07-24T18:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T18:45"
+  },
+  {
+   "num": 22,
+   "title": "DOC 22 - 2026 Budapest Event - F3 Qualifying - Final classification",
+   "subject": "F3 Qualifying - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_22_-_2026_budapest_event_-_f3_qualifying_-_final_classification.pdf",
+   "published": "2026-07-24T18:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T18:45"
+  },
+  {
+   "num": 21,
+   "title": "DOC 21 - 2026 Budapest Event - F3 Technical Delegates Report 2",
+   "subject": "F3 Technical Delegates Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/documents/doc_21_-_2026_budapest_event_-_f3_technical_delegates_report_2.pdf",
+   "published": "2026-07-24T18:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T18:15"
+  },
+  {
+   "num": 20,
+   "title": "DOC 20 - 2026 Budapest Event - INFRINGEMENT - Car 14 - Parc ferme violation",
+   "subject": "INFRINGEMENT - Car 14 - Parc ferme violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_20_-_2026_budapest_event_-_infringement_-_car_14_-_parc_ferme_violation_0.pdf",
+   "published": "2026-07-24T18:15",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "14 - Hiyu Yamakoshi",
+    "competitor": "Van Amersfoort Racing",
+    "time": "15:30",
+    "session": "Qualifying",
+    "fact": "Mechanics of Car 14 (Yamakoshi) worked on the car after the end-of-race signal had been issued.",
+    "infringement": "Breach of Article 44.3 of the FIA Formula 3 Sporting Regulations. Breach of Article 2.5.1 of the FIA International Sporting Code.",
+    "decision": "- Car 14 is disqualified from the Qualifying session. - All lap times set during the session are deleted. - Car 14 is granted permission to start both the Sprint and Feature races from the back of the grid.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Driver of Car 14 (Yamakoshi) and the Team Representative (Document 17). Video footage showed that, prior to the end-of-race signal being given, Car 14 was in its pit stop position and was being worked on. After the end-of-race signal was given, mechanics continued to work on the car for approximately a further two minutes. The Team Representative confirmed the facts and explained that Car 14 had experienced engine issues during the session and that the Driver entered the pit lane for repairs. He further explained that the team required assistance from the engine supplier to carry out the repairs; however, the repairs could not be completed before the end of the session. The Team Representative stated that the team then needed to ensure that the car could return to parc fermé under its own power and without assistance. The Stewards accept the Team's explanation and acknowledge that the Team was not seeking to gain any sporting advantage and was, in fact, attempting to avoid causing any unnecessary delay to the end-of-session procedures. Nonetheless, working on a car after the end-of-race signal has been given is prohibited by the Sporting Regulations, as parc fermé conditions commence upon the issuance of the end-of-race signal. Having considered the matter extensively, the Stewards find that a breach of the regulations has occurred and accordingly impose the standard penalty of disqualification for a breach of parc fermé conditions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Hiyu Yamakoshi"
+     }
+    ],
+    "refs": [
+     17,
+     20
+    ],
+    "tags": [
+     "Back of grid",
+     "Disqualified",
+     "Lap time deleted"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    17
+   ],
+   "published_local": "2026-07-24T18:15"
+  },
+  {
+   "num": 19,
+   "title": "DOC 19 - INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_19_-_infringement_-_qualifying_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-07-24T17:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The cars below did not use the track at Turn 14.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "26": 1,
+     "9": 1
+    },
+    "drivers": [
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-24T17:00"
+  },
+  {
+   "num": 18,
+   "title": "DOC 18 - INFRINGEMENT - Qualifying - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_18_-_infringement_-_qualifying_-_lap_time_cancellations.pdf",
+   "published": "2026-07-24T17:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2. BUDAPEST EVENT 23 TO 26 JULY 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "6": 2,
+     "5": 1,
+     "17": 1,
+     "4": 1,
+     "16": 2,
+     "26": 1,
+     "10": 2,
+     "14": 1,
+     "24": 1,
+     "31": 1,
+     "30": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-24T17:00"
+  },
+  {
+   "num": 17,
+   "title": "DOC 17 - SUMMONS - Car 14 - Alleged parc ferme violation",
+   "subject": "SUMMONS - Car 14 - Alleged parc ferme violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_17_-_summons_-_car_14_-_alleged_parc_ferme_violation.pdf",
+   "published": "2026-07-24T16:30",
+   "recalled": false,
+   "cars": [
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Hiyu Yamakoshi",
+    "reason": "Alleged breach of Article 44.3 of the FIA Formula 3 Sporting Regulations and/or Article 2.5.1 of the FIA International Sporting Code - Team working on Car 14 after receiving the end-of-race signal",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Hiyu Yamakoshi"
+     }
+    ],
+    "refs": [
+     17
+    ]
+   },
+   "related": [
+    20
+   ],
+   "published_local": "2026-07-24T16:30"
+  },
+  {
+   "num": 16,
+   "title": "DOC 16 - INFRINGEMENT - Car 16 - Pit lane speeding in Qualifying",
+   "subject": "INFRINGEMENT - Car 16 - Pit lane speeding in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_16_-_infringement_-_car_16_-_pit_lane_speeding_in_qualifying.pdf",
+   "published": "2026-07-24T16:15",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Bruno Del Pino",
+    "competitor": "Van Amersfoort Racing",
+    "time": "15:12",
+    "session": "Qualifying",
+    "fact": "Car 16 (Del Pino) - Pit lane speeding - 64.4 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 3 Sporting Regulations",
+    "decision": "A fine of 500 Euros to be paid by the Driver. In accordance with Article 12.8.1 of the International Sporting Code, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "Car 16 (Del Pino) exceeded the pit lane speed limit which is set at 60 km/h for this Event by 4.4 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     }
+    ],
+    "refs": [
+     16
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-07-24T16:15"
+  },
+  {
+   "num": 15,
+   "title": "DOC 15 - F3 Qualifying - Provisional classification",
+   "subject": "F3 Qualifying - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_15_-_f3_qualifying_-_provisional_classification.pdf",
+   "published": "2026-07-24T15:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T15:45"
+  },
+  {
+   "num": 14,
+   "title": "DOC 14 - INFRINGEMENT - Practice - Lap time cancellations - DWYF",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations - DWYF",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_14_-_infringement_-_practice_-_lap_time_cancellations_-_dwyf.pdf",
+   "published": "2026-07-24T12:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "30": 1,
+     "28": 1,
+     "6": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     }
+    ],
+    "refs": [
+     14
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-24T12:15"
+  },
+  {
+   "num": 13,
+   "title": "DOC 13 - INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_13_-_infringement_-_practice_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-07-24T12:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "The cars below did not use the track at Turn 14.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "24": 1,
+     "22": 1,
+     "18": 1,
+     "21": 1
+    },
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     }
+    ],
+    "refs": [
+     13
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-24T12:15"
+  },
+  {
+   "num": 12,
+   "title": "DOC 12 - INFRINGEMENT - Practice - Lap time cancellations",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_12_-_infringement_-_practice_-_lap_time_cancellations.pdf",
+   "published": "2026-07-24T12:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "23": 1,
+     "28": 3,
+     "9": 1,
+     "26": 1,
+     "11": 1,
+     "6": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     12
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-07-24T12:15"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - INFRINGEMENT - Car 23 - Failure to follow RD instructions - Practice start infringement",
+   "subject": "INFRINGEMENT - Car 23 - Failure to follow RD instructions - Practice start infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_infringement_-_car_23_-_failure_to_follow_rd_instructions_-_practice_start_infringement.pdf",
+   "published": "2026-08-13T12:06",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "competitor": "Hitech",
+    "time": "10:28",
+    "session": "Practice",
+    "fact": "Car 23 (Shin) was out of position in the practice start box.",
+    "infringement": "Breach of Article 12.2.1.i of the 2026 FIA International Sporting Code – F3 Budapest Competition Notes 2026, item no. 15.1 (Practice starts).",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (Document 10). Having considered the matter extensively, the Stewards determined that the front wheel of Car 23 was over the line separating the pit lane from the practice start area. The Stewards determined that this was in breach of the Race Director’s instructions regarding practice starts set out in Item 15.1 of the F3 Budapest Competition Notes 2026. The Stewards therefore elected to apply a warning - the standard penalty for such an infringement during a practice session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     10,
+     11
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    10
+   ],
+   "published_local": "2026-08-13T12:06"
+  },
+  {
+   "num": 10,
+   "title": "DOC 10 - SUMMONS - Car 23 - Alleged failure to follow RD instructions - Practice start infringement",
+   "subject": "SUMMONS - Car 23 - Alleged failure to follow RD instructions - Practice start infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/documents/doc_10_-_summons_-_car_23_-_alleged_failure_to_follow_rd_instructions_-_practice_start_infringement.pdf",
+   "published": "2026-07-24T11:30",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "reason": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code and F3 Budapest Competition Notes item 15.1 - alleged failure to follow Race Director's instructions - practice start infringement.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     10
+    ]
+   },
+   "related": [
+    11
+   ],
+   "published_local": "2026-07-24T11:30"
+  },
+  {
+   "num": 9,
+   "title": "DOC 9 - F3 Practice - Classification",
+   "subject": "F3 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/documents/doc_9_-_f3_practice_-_classification.pdf",
+   "published": "2026-07-24T11:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T11:15"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F3 Budapest Competition Notes 2026 v2",
+   "subject": "F3 Budapest Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_f3_budapest_competition_notes_2026_v2.pdf",
+   "published": "2026-07-24T08:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-24T08:47"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F3 Budapest Pit Lane Drawing 2026",
+   "subject": "F3 Budapest Pit Lane Drawing 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_f3_budapest_pit_lane_drawing_2026.pdf",
+   "published": "2026-07-23T19:27",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-23T19:27"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - F3 Entry List - Budapest 2026",
+   "subject": "F3 Entry List - Budapest 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_f3_entry_list_-_budapest_2026.pdf",
+   "published": "2026-07-23T18:28",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-23T18:28"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - F3 Technical Delegates Report 1",
+   "subject": "F3 Technical Delegates Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_f3_technical_delegates_report_1.pdf",
+   "published": "2026-07-23T18:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-23T18:23"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - F3 Budapest Competition Notes 2026 v1",
+   "subject": "F3 Budapest Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_f3_budapest_competition_notes_2026_v1.pdf",
+   "published": "2026-07-23T15:56",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 8,
+   "published_local": "2026-07-23T15:56"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_bulletin_1_-_restricted_period.pdf",
+   "published": "2026-07-23T12:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-23T12:51"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Circuit Map - Budapest 2026",
+   "subject": "Circuit Map - Budapest 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_circuit_map_-_budapest_2026_0.pdf",
+   "published": "2026-07-23T11:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-23T11:43"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F3 Budapest 2026",
+   "subject": "VISA - F3 Budapest 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_budapest_event_-_visa_-_f3_budapest_2026.pdf",
+   "published": "2026-07-23T11:39",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-07-23T11:39"
+  }
+ ]
+}

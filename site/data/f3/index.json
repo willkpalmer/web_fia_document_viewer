@@ -1,0 +1,727 @@
+{
+ "championship": "FIA Formula 3 Championship",
+ "series": "f3",
+ "series_label": "Formula 3",
+ "season": "Season 2026",
+ "source": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072",
+ "events": [
+  {
+   "slug": "melbourne",
+   "name": "Melbourne",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Melbourne",
+   "doc_count": 42,
+   "first_published": "2026-03-05T21:01",
+   "last_published": "2026-03-08T04:09",
+   "first_local": "2026-03-06T07:01",
+   "last_local": "2026-03-08T14:09",
+   "utc_offset_min": 660,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "start_local": "2026-03-06T08:50",
+     "end_local": "2026-03-06T09:35",
+     "start_utc": "2026-03-05T21:50Z",
+     "end_utc": "2026-03-05T22:35Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying",
+     "start_local": "2026-03-06T14:00",
+     "end_local": "2026-03-06T14:30",
+     "start_utc": "2026-03-06T03:00Z",
+     "end_utc": "2026-03-06T03:30Z",
+     "source": "fia"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-03-07T11:15",
+     "end_local": "2026-03-07T12:00",
+     "start_utc": "2026-03-07T00:15Z",
+     "end_utc": "2026-03-07T01:00Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race",
+     "start_local": "2026-03-08T08:50",
+     "end_local": "2026-03-08T09:40",
+     "start_utc": "2026-03-07T21:50Z",
+     "end_utc": "2026-03-07T22:40Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Albert Park, Melbourne",
+    "lat": -37.8497,
+    "lon": 144.968
+   },
+   "counts": {
+    "results": 13,
+    "technical": 6,
+    "stewards": 13,
+    "admin": 7,
+    "race_director": 3
+   },
+   "round": 1
+  },
+  {
+   "slug": "monaco",
+   "name": "Monaco",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Monaco",
+   "doc_count": 79,
+   "first_published": "2026-06-03T15:02",
+   "last_published": "2026-06-07T11:50",
+   "first_local": "2026-06-03T15:02",
+   "last_local": "2026-06-07T11:50",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "start_local": "2026-06-04T13:25",
+     "end_local": "2026-06-04T14:10",
+     "start_utc": "2026-06-04T11:25Z",
+     "end_utc": "2026-06-04T12:10Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying (Group A)",
+     "start_local": "2026-06-05T11:05",
+     "end_local": "2026-06-05T11:21",
+     "start_utc": "2026-06-05T09:05Z",
+     "end_utc": "2026-06-05T09:21Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying (Group B)",
+     "start_local": "2026-06-05T11:29",
+     "end_local": "2026-06-05T11:45",
+     "start_utc": "2026-06-05T09:29Z",
+     "end_utc": "2026-06-05T09:45Z",
+     "source": "fia"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-06-06T10:45",
+     "end_local": "2026-06-06T11:30",
+     "start_utc": "2026-06-06T08:45Z",
+     "end_utc": "2026-06-06T09:30Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race",
+     "start_local": "2026-06-07T07:45",
+     "end_local": "2026-06-07T08:35",
+     "start_utc": "2026-06-07T05:45Z",
+     "end_utc": "2026-06-07T06:35Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Circuit de Monaco",
+    "lat": 43.7347,
+    "lon": 7.4206
+   },
+   "counts": {
+    "results": 14,
+    "technical": 11,
+    "stewards": 42,
+    "race_director": 5,
+    "admin": 7
+   },
+   "round": 2
+  },
+  {
+   "slug": "barcelona-catalunya",
+   "name": "Barcelona-Catalunya",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Barcelona-Catalunya",
+   "doc_count": 60,
+   "first_published": "2026-06-11T14:27",
+   "last_published": "2026-06-14T12:19",
+   "first_local": "2026-06-11T14:27",
+   "last_local": "2026-06-14T12:19",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "start_local": "2026-06-12T09:55",
+     "end_local": "2026-06-12T10:40",
+     "start_utc": "2026-06-12T07:55Z",
+     "end_utc": "2026-06-12T08:40Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying",
+     "start_local": "2026-06-12T15:00",
+     "end_local": "2026-06-12T15:30",
+     "start_utc": "2026-06-12T13:00Z",
+     "end_utc": "2026-06-12T13:30Z",
+     "source": "fia"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-06-13T10:05",
+     "end_local": "2026-06-13T10:50",
+     "start_utc": "2026-06-13T08:05Z",
+     "end_utc": "2026-06-13T08:50Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race",
+     "start_local": "2026-06-14T08:40",
+     "end_local": "2026-06-14T09:30",
+     "start_utc": "2026-06-14T06:40Z",
+     "end_utc": "2026-06-14T07:30Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "lat": 41.57,
+    "lon": 2.2611
+   },
+   "counts": {
+    "results": 13,
+    "technical": 5,
+    "stewards": 31,
+    "admin": 7,
+    "race_director": 4
+   },
+   "round": 3
+  },
+  {
+   "slug": "spielberg",
+   "name": "Spielberg",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Spielberg",
+   "doc_count": 68,
+   "first_published": "2026-06-25T12:15",
+   "last_published": "2026-06-28T13:01",
+   "first_local": "2026-06-25T12:15",
+   "last_local": "2026-06-28T13:01",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "start_local": "2026-06-26T09:55",
+     "end_local": "2026-06-26T10:40",
+     "start_utc": "2026-06-26T07:55Z",
+     "end_utc": "2026-06-26T08:40Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying",
+     "start_local": "2026-06-26T15:00",
+     "end_local": "2026-06-26T15:30",
+     "start_utc": "2026-06-26T13:00Z",
+     "end_utc": "2026-06-26T13:30Z",
+     "source": "fia"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-06-27T10:05",
+     "end_local": "2026-06-27T10:50",
+     "start_utc": "2026-06-27T08:05Z",
+     "end_utc": "2026-06-27T08:50Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race",
+     "start_local": "2026-06-28T08:40",
+     "end_local": "2026-06-28T09:30",
+     "start_utc": "2026-06-28T06:40Z",
+     "end_utc": "2026-06-28T07:30Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Red Bull Ring, Spielberg",
+    "lat": 47.2197,
+    "lon": 14.7647
+   },
+   "counts": {
+    "results": 13,
+    "stewards": 39,
+    "technical": 8,
+    "admin": 5,
+    "race_director": 3
+   },
+   "round": 4
+  },
+  {
+   "slug": "silverstone",
+   "name": "Silverstone",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Silverstone",
+   "doc_count": 78,
+   "first_published": "2026-07-02T12:53",
+   "last_published": "2026-07-05T18:41",
+   "first_local": "2026-07-02T11:53",
+   "last_local": "2026-07-05T17:41",
+   "utc_offset_min": 60,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "start_local": "2026-07-03T08:50",
+     "end_local": "2026-07-03T09:35",
+     "start_utc": "2026-07-03T07:50Z",
+     "end_utc": "2026-07-03T08:35Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying",
+     "start_local": "2026-07-03T14:00",
+     "end_local": "2026-07-03T14:30",
+     "start_utc": "2026-07-03T13:00Z",
+     "end_utc": "2026-07-03T13:30Z",
+     "source": "fia"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-07-04T09:35",
+     "end_local": "2026-07-04T10:20",
+     "start_utc": "2026-07-04T08:35Z",
+     "end_utc": "2026-07-04T09:20Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race",
+     "start_local": "2026-07-05T08:25",
+     "end_local": "2026-07-05T09:15",
+     "start_utc": "2026-07-05T07:25Z",
+     "end_utc": "2026-07-05T08:15Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Silverstone",
+    "lat": 52.0786,
+    "lon": -1.0169
+   },
+   "counts": {
+    "results": 13,
+    "stewards": 47,
+    "technical": 8,
+    "admin": 6,
+    "race_director": 4
+   },
+   "round": 5
+  },
+  {
+   "slug": "spa-francorchamps",
+   "name": "Spa-Francorchamps",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Spa-Francorchamps",
+   "doc_count": 93,
+   "first_published": "2026-07-16T12:34",
+   "last_published": "2026-07-19T14:25",
+   "first_local": "2026-07-16T12:34",
+   "last_local": "2026-07-19T14:25",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "start_local": "2026-07-17T09:55",
+     "end_local": "2026-07-17T10:40",
+     "start_utc": "2026-07-17T07:55Z",
+     "end_utc": "2026-07-17T08:40Z",
+     "source": "fia"
+    },
+    {
+     "name": "Qualifying",
+     "start_local": "2026-07-17T15:00",
+     "end_local": "2026-07-17T15:30",
+     "start_utc": "2026-07-17T13:00Z",
+     "end_utc": "2026-07-17T13:30Z",
+     "source": "fia"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-07-18T10:00",
+     "end_local": "2026-07-18T10:45",
+     "start_utc": "2026-07-18T08:00Z",
+     "end_utc": "2026-07-18T08:45Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race",
+     "start_local": "2026-07-19T08:30",
+     "end_local": "2026-07-19T09:20",
+     "start_utc": "2026-07-19T06:30Z",
+     "end_utc": "2026-07-19T07:20Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Spa-Francorchamps",
+    "lat": 50.4372,
+    "lon": 5.9714
+   },
+   "counts": {
+    "results": 13,
+    "technical": 5,
+    "stewards": 65,
+    "admin": 6,
+    "race_director": 4
+   },
+   "round": 6
+  },
+  {
+   "slug": "budapest",
+   "name": "Budapest",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Budapest",
+   "doc_count": 59,
+   "first_published": "2026-07-23T11:39",
+   "last_published": "2026-08-13T12:06",
+   "first_local": "2026-07-23T11:39",
+   "last_local": "2026-08-13T12:06",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "classified_local": "2026-07-24T11:15",
+     "start_utc": "2026-07-24T09:15Z",
+     "end_utc": "2026-07-24T09:15Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Qualifying",
+     "classified_local": "2026-07-24T15:45",
+     "start_utc": "2026-07-24T13:45Z",
+     "end_utc": "2026-07-24T13:45Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Sprint Race",
+     "classified_local": "2026-07-25T15:30",
+     "start_utc": "2026-07-25T13:30Z",
+     "end_utc": "2026-07-25T13:30Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Feature Race",
+     "classified_local": "2026-07-26T10:00",
+     "start_utc": "2026-07-26T08:00Z",
+     "end_utc": "2026-07-26T08:00Z",
+     "inferred": true,
+     "source": "results"
+    }
+   ],
+   "location": {
+    "circuit": "Hungaroring, Budapest",
+    "lat": 47.5789,
+    "lon": 19.2486
+   },
+   "counts": {
+    "results": 13,
+    "admin": 7,
+    "stewards": 30,
+    "technical": 5,
+    "race_director": 4
+   },
+   "round": 7
+  },
+  {
+   "slug": "monza",
+   "name": "Monza",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Monza",
+   "doc_count": 84,
+   "first_published": "2026-09-03T11:15",
+   "last_published": "2026-09-09T13:51",
+   "first_local": "2026-09-03T11:15",
+   "last_local": "2026-09-09T13:51",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Qualifying",
+     "classified_local": "2026-09-04T22:15",
+     "start_utc": "2026-09-04T20:15Z",
+     "end_utc": "2026-09-04T20:15Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Practice",
+     "classified_local": "2026-09-05T09:45",
+     "start_utc": "2026-09-05T07:45Z",
+     "end_utc": "2026-09-05T07:45Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-09-12T11:05",
+     "end_local": "2026-09-12T11:50",
+     "start_utc": "2026-09-12T09:05Z",
+     "end_utc": "2026-09-12T09:50Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race 1",
+     "start_local": "2026-09-12T18:00",
+     "end_local": "2026-09-12T18:50",
+     "start_utc": "2026-09-12T16:00Z",
+     "end_utc": "2026-09-12T16:50Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race 2",
+     "start_local": "2026-09-13T09:45",
+     "end_local": "2026-09-13T10:35",
+     "start_utc": "2026-09-13T07:45Z",
+     "end_utc": "2026-09-13T08:35Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Monza",
+    "lat": 45.6156,
+    "lon": 9.2811
+   },
+   "counts": {
+    "results": 15,
+    "stewards": 48,
+    "technical": 9,
+    "admin": 7,
+    "race_director": 5
+   },
+   "round": 8
+  },
+  {
+   "slug": "madrid",
+   "name": "Madrid",
+   "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Madrid",
+   "doc_count": 83,
+   "first_published": "2026-09-10T13:48",
+   "last_published": "2026-09-13T14:50",
+   "first_local": "2026-09-10T13:48",
+   "last_local": "2026-09-13T14:50",
+   "utc_offset_min": 120,
+   "tz_source": "pdf",
+   "sessions": [
+    {
+     "name": "Practice",
+     "classified_local": "2026-09-11T11:20",
+     "start_utc": "2026-09-11T09:20Z",
+     "end_utc": "2026-09-11T09:20Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Qualifying 1",
+     "classified_local": "2026-09-11T19:40",
+     "start_utc": "2026-09-11T17:40Z",
+     "end_utc": "2026-09-11T17:40Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Qualifying 2",
+     "classified_local": "2026-09-11T19:41",
+     "start_utc": "2026-09-11T17:41Z",
+     "end_utc": "2026-09-11T17:41Z",
+     "inferred": true,
+     "source": "results"
+    },
+    {
+     "name": "Sprint Race",
+     "start_local": "2026-09-12T11:05",
+     "end_local": "2026-09-12T11:50",
+     "start_utc": "2026-09-12T09:05Z",
+     "end_utc": "2026-09-12T09:50Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race 1",
+     "start_local": "2026-09-12T18:00",
+     "end_local": "2026-09-12T18:50",
+     "start_utc": "2026-09-12T16:00Z",
+     "end_utc": "2026-09-12T16:50Z",
+     "source": "fia"
+    },
+    {
+     "name": "Feature Race 2",
+     "start_local": "2026-09-13T09:45",
+     "end_local": "2026-09-13T10:35",
+     "start_utc": "2026-09-13T07:45Z",
+     "end_utc": "2026-09-13T08:35Z",
+     "source": "fia"
+    }
+   ],
+   "location": {
+    "circuit": "Madring, Madrid",
+    "lat": 40.4637,
+    "lon": -3.6164
+   },
+   "counts": {
+    "results": 19,
+    "stewards": 42,
+    "technical": 7,
+    "admin": 10,
+    "race_director": 5
+   },
+   "round": 9
+  }
+ ],
+ "categories": [
+  {
+   "id": "stewards",
+   "label": "Stewards & Penalties",
+   "description": "Infringements, summonses, decisions, rights of review"
+  },
+  {
+   "id": "technical",
+   "label": "Technical & Scrutineering",
+   "description": "Scrutineering, power unit elements, parc fermé, covering of components, post-race checks"
+  },
+  {
+   "id": "race_director",
+   "label": "Race Director & Procedures",
+   "description": "Race Director's notes, procedures, curfew, hazard declarations, deleted laps"
+  },
+  {
+   "id": "results",
+   "label": "Results & Classifications",
+   "description": "Classifications, starting grids, championship points"
+  },
+  {
+   "id": "admin",
+   "label": "Event Admin",
+   "description": "Entry list, timetable, competition visa"
+  },
+  {
+   "id": "other",
+   "label": "Other",
+   "description": "Anything not matched by a rule"
+  }
+ ],
+ "drivers": {
+  "1": {
+   "name": "Theophile Nael",
+   "team": "Campos Racing"
+  },
+  "2": {
+   "name": "Ugo Ugochukwu",
+   "team": "Campos Racing"
+  },
+  "3": {
+   "name": "Ernesto Rivera",
+   "team": "Campos Racing"
+  },
+  "4": {
+   "name": "Noah Stromsted",
+   "team": "Trident"
+  },
+  "5": {
+   "name": "Freddie Slater",
+   "team": "Trident"
+  },
+  "6": {
+   "name": "Matteo De Palo",
+   "team": "Trident"
+  },
+  "7": {
+   "name": "Mattia Colnaghi",
+   "team": "MP Motorsport"
+  },
+  "8": {
+   "name": "Tuukka Taponen",
+   "team": "MP Motorsport"
+  },
+  "9": {
+   "name": "Alessandro Giusti",
+   "team": "MP Motorsport"
+  },
+  "10": {
+   "name": "Taito Kato",
+   "team": "ART Grand Prix"
+  },
+  "11": {
+   "name": "Maciej Gladysz",
+   "team": "ART Grand Prix"
+  },
+  "12": {
+   "name": "Kanato Le",
+   "team": "ART Grand Prix"
+  },
+  "14": {
+   "name": "Hitu Yamakoshi",
+   "team": "Van Amersfoort Racing"
+  },
+  "15": {
+   "name": "Enzo Deligny",
+   "team": "Van Amersfoort Racing"
+  },
+  "16": {
+   "name": "Bruno Del Pino",
+   "team": "Van Amersfoort Racing"
+  },
+  "17": {
+   "name": "Pedro Clerot",
+   "team": "Rodin Motorsport"
+  },
+  "18": {
+   "name": "Brando Badoer",
+   "team": "Rodin Motorsport"
+  },
+  "19": {
+   "name": "Christian Ho",
+   "team": "Rodin Motorsport"
+  },
+  "20": {
+   "name": "Louise Sharp",
+   "team": "PREMA Racing"
+  },
+  "21": {
+   "name": "James Wharton",
+   "team": "PREMA Racing"
+  },
+  "22": {
+   "name": "Jose Garfias",
+   "team": "PREMA Racing"
+  },
+  "23": {
+   "name": "Woohyun Shin",
+   "team": "Hitech"
+  },
+  "24": {
+   "name": "Fionn McLaughlin",
+   "team": "Hitech"
+  },
+  "25": {
+   "name": "Jin Nakamura",
+   "team": "Hitech"
+  },
+  "26": {
+   "name": "Salim Hanna",
+   "team": "AIX Racing"
+  },
+  "27": {
+   "name": "Yevan David",
+   "team": "AIX Racing"
+  },
+  "28": {
+   "name": "Fernando Barrichello",
+   "team": "AIX Racing"
+  },
+  "29": {
+   "name": "Nicola Lacorte",
+   "team": "DAMS Lucas Oil"
+  },
+  "30": {
+   "name": "Nandhavud Bhirombhakdi",
+   "team": "DAMS Lucas Oil"
+  },
+  "31": {
+   "name": "Gerrard Xie",
+   "team": "DAMS Lucas Oil"
+  }
+ },
+ "unmatched_titles": []
+}

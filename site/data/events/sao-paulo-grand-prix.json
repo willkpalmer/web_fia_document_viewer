@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 33,
+  "doc_count": 36,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-07T16:59",
+  "last_published": "2026-11-07T17:11",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T12:59",
+  "last_local": "2026-11-07T13:11",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,8 +58,8 @@
    "lon": -46.6997
   },
   "counts": {
+   "stewards": 13,
    "race_director": 9,
-   "stewards": 10,
    "results": 3,
    "technical": 8,
    "admin": 3
@@ -67,6 +67,130 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Car 44 - Changes to PU element",
+   "subject": "Infringement - Car 44 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_44_-_changes_to_pu_element.pdf",
+   "published": "2026-11-07T17:11",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "11:37",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit element has been used: 5th Engine (ICE)",
+    "infringement": "Breaches of Articles B8.2.2a (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     30,
+     37
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-11-07T13:11"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-11-07T17:06",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 Cars below did not use the track at turns 1 and 4.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "51": 1,
+     "3": 1
+    },
+    "drivers": [
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     36
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-07T13:06"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Infringement - Car 16 - Changes to PU element",
+   "subject": "Infringement - Car 16 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_16_-_changes_to_pu_element.pdf",
+   "published": "2026-11-07T17:05",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "11:37",
+    "session": "Free Practice 3",
+    "fact": "The following Power Unit element has been used: 5th Engine (ICE)",
+    "infringement": "Breaches of Articles B8.2.2a (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     30,
+     35
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-11-07T13:05"
+  },
   {
    "num": 34,
    "title": "Doc 34 - Race Director's Competition Notes V2",
@@ -170,7 +294,9 @@
    "recalled": false,
    "cars": [],
    "related": [
-    33
+    33,
+    35,
+    37
    ],
    "published_local": "2026-11-07T11:43"
   },

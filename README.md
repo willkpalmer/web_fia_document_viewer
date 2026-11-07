@@ -1,4 +1,4 @@
-# FIA Info Hub (F1 & F2)
+# FIA Info Hub (F1, F2 & F3)
 
 A tidier view of the [FIA Formula One decision documents](https://www.fia.com/documents/championships/fia-formula-one-world-championship-14)
 for the current season, published with GitHub Pages.
@@ -148,3 +148,10 @@ first day of a race weekend has started at the track, each live or upcoming sess
 rain for that session. This appears on both the main page and the mobile session page. The chance is the highest
 hourly probability across the session, plus the expected rainfall. It comes from Open-Meteo's hourly forecast, and a
 card only shows it when the forecast extends far enough to cover the whole session.
+
+## Formula 3
+
+F3 works exactly like F2: `./?series=f3`, with data in `site/data/f3/` and an orange accent (`#ea5408`). It shares F2's
+handling: the same weekend format, F3 rows in the F1 timetable as a fallback, and classification-based session times.
+A session type listed more than once on a timetable (for example two feature races) is numbered "Feature Race 1" and
+"Feature Race 2".

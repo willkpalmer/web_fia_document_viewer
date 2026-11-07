@@ -9,12 +9,13 @@ const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "
 const p2 = (n) => String(n).padStart(2, "0");
 
 let INDEX = null, EV = null;
-const SERIES = ["f1", "f2"].includes(new URLSearchParams(location.search).get("series"))
+const SERIES = ["f1", "f2", "f3"].includes(new URLSearchParams(location.search).get("series"))
   ? new URLSearchParams(location.search).get("series") : "f1";
 const DATA_DIR = SERIES === "f1" ? "data/" : `data/${SERIES}/`;
 const SERIES_QS = SERIES === "f1" ? "" : `series=${SERIES}&`;
 document.documentElement.dataset.series = SERIES;
-if (SERIES === "f2") document.querySelector('meta[name="theme-color"]')?.setAttribute("content", "#089be2");
+const SERIES_COLOUR = { f2: "#089be2", f3: "#ea5408" }[SERIES];
+if (SERIES_COLOUR) document.querySelector('meta[name="theme-color"]')?.setAttribute("content", SERIES_COLOUR);
 
 function fmtOffset(min) {
   if (min == null) return "";

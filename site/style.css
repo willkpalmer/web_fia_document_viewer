@@ -339,7 +339,7 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 @media (max-width: 1279px) { .s-open { width: auto; display: inline-flex; margin-top: 8px; height: 30px; font-size: 13px; } }
 
 /* championship switch (top of the events sidebar) */
-.series-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; padding: 3px; margin: 0 2px 12px;
+.series-switch { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; padding: 3px; margin: 0 2px 12px;
   background: var(--surface-2); border: 1px solid var(--border); border-radius: 8px; }
 .series-switch a { text-align: center; padding: 6px 0; border-radius: 6px; color: var(--muted); font-weight: 600; letter-spacing: .02em; }
 .series-switch a:hover { text-decoration: none; color: var(--text); }
@@ -403,3 +403,10 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .group-toggle .gt-text { display: flex; flex-direction: column; line-height: 1.25; }
 .group-toggle .gt-text b { font-weight: 600; font-size: 13px; }
 .group-toggle .gt-text small { font-size: 11.5px; color: var(--muted); }
+
+/* F3 pages: F3 orange accent */
+:root[data-series="f3"] { --accent: #ea5408; --accent-soft: #fdeadf; }
+@media (prefers-color-scheme: dark) {
+  :root[data-series="f3"]:not([data-theme="light"]) { --accent: #ea5408; --accent-soft: #3a1c0c; }
+}
+:root[data-series="f3"][data-theme="dark"] { --accent: #ea5408; --accent-soft: #3a1c0c; }

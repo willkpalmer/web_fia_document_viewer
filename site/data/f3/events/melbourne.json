@@ -1,0 +1,1091 @@
+{
+ "event": {
+  "slug": "melbourne",
+  "name": "Melbourne",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Melbourne",
+  "doc_count": 42,
+  "first_published": "2026-03-05T21:01",
+  "last_published": "2026-03-08T04:09",
+  "first_local": "2026-03-06T07:01",
+  "last_local": "2026-03-08T14:09",
+  "utc_offset_min": 660,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-03-06T08:50",
+    "end_local": "2026-03-06T09:35",
+    "start_utc": "2026-03-05T21:50Z",
+    "end_utc": "2026-03-05T22:35Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-03-06T14:00",
+    "end_local": "2026-03-06T14:30",
+    "start_utc": "2026-03-06T03:00Z",
+    "end_utc": "2026-03-06T03:30Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-03-07T11:15",
+    "end_local": "2026-03-07T12:00",
+    "start_utc": "2026-03-07T00:15Z",
+    "end_utc": "2026-03-07T01:00Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-03-08T08:50",
+    "end_local": "2026-03-08T09:40",
+    "start_utc": "2026-03-07T21:50Z",
+    "end_utc": "2026-03-07T22:40Z",
+    "source": "fia"
+   }
+  ],
+  "location": {
+   "circuit": "Albert Park, Melbourne",
+   "lat": -37.8497,
+   "lon": 144.968
+  },
+  "counts": {
+   "results": 13,
+   "technical": 6,
+   "stewards": 13,
+   "admin": 7,
+   "race_director": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 42,
+   "title": "Doc 42 - F3 Team Championship - Melbourne 2026",
+   "subject": "F3 Team Championship - Melbourne 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_team_championship_-_melbourne_2026.pdf",
+   "published": "2026-03-08T04:09",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T14:09"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - F3 Driver Championship - Melbourne 2026",
+   "subject": "F3 Driver Championship - Melbourne 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_driver_championship_-_melbourne_2026.pdf",
+   "published": "2026-03-08T04:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T14:06"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - F3 Race 2 (Feature) - Final classification",
+   "subject": "F3 Race 2 (Feature) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_2_feature_-_final_classification.pdf",
+   "published": "2026-03-08T04:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T14:03"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - F3 Technical Delegates Report 5",
+   "subject": "F3 Technical Delegates Report 5",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_technical_delegates_report_5.pdf",
+   "published": "2026-03-08T02:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T12:37"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - INFRINGEMENT - Race 2 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_race_2_-_lap_time_cancellations.pdf",
+   "published": "2026-03-08T01:53",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident          Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "27": 1,
+     "3": 4,
+     "6": 2,
+     "9": 4,
+     "8": 2,
+     "16": 1,
+     "31": 1,
+     "19": 3,
+     "4": 1,
+     "24": 2,
+     "23": 1,
+     "18": 4,
+     "14": 1,
+     "28": 1,
+     "17": 1,
+     "22": 2,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 3,
+      "name": "Patrick Heuzenroeder"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     }
+    ],
+    "refs": [
+     38
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-08T11:53"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - INFRINGEMENT - Car 4 - Causing a collision",
+   "subject": "INFRINGEMENT - Car 4 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_4_-_causing_a_collision.pdf",
+   "published": "2026-03-08T01:45",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Noah Stromsted",
+    "competitor": "Trident",
+    "time": "09:23",
+    "session": "Race 2",
+    "fact": "Car 4 (Stromsted) had a collision with Car 29 (Lacorte) heading towards Turn 12.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten second (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. In addition, 2 penalty points to be added to the driver’s record. Total for the 2026 season = 2 penalty points.",
+    "reason": "The Stewards reviewed video evidence. Car 29 (LAC) established a slight overlap on the inside with Car 4 (STR) heading towards Turn 12. STR defended by moving toward the inside but did not leave sufficient racing room for LAC on track. A collision occurred between the cars. The Stewards determine that STR was wholly responsible for the collision and elect to apply the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     }
+    ],
+    "refs": [
+     37
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-03-08T11:45"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - INFRINGEMENT - Car 29 - Did not engage start set up procedure (formation lap)",
+   "subject": "INFRINGEMENT - Car 29 - Did not engage start set up procedure (formation lap)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_29_-_did_not_engage_start_set_up_procedure_formation_lap.pdf",
+   "published": "2026-03-08T01:41",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "08:50",
+    "session": "Race 2",
+    "fact": "Car 29 (Lacorte) did not have the start set-up procedure activated when leaving the grid to start the formation lap.",
+    "infringement": "Breach of Article 37.6 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Ten second time penalty in accordance with Article 39.3 (b) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this penalty.",
+    "reason": "The Stewards summoned the driver and team representative (Document 33) and heard the driver, team representative and Technical Delegate. The Technical Delegate provided ECU data from Car 29 that confirmed that the Start set-up procedure was not activated when LAC left the grid to start the formation lap. The team accepted the accuracy of the data. LAC stated that he believed that he had activated the Start set-up procedure, but after moving off discovered that it had not been activated. Having considered the matter extensively, the Stewards determined that LAC was in breach of Article 37.6 of the FIA Formula 3 Sporting Regulations. A 10 second time penalty is applied in accordance with the 2026 FIA F3 penalty guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     33,
+     36
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    33
+   ],
+   "published_local": "2026-03-08T11:41"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - INFRINGEMENT - Car 29 - False start",
+   "subject": "INFRINGEMENT - Car 29 - False start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_29_-_false_start_.pdf",
+   "published": "2026-03-08T01:36",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "08:53",
+    "session": "Race 2",
+    "fact": "Car 29 (Lacorte) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five (5) second time penalty in accordance with Article 39.3 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 29 (LAC) moved slightly after the third light and before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose the least of the penalties available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     35
+    ],
+    "tags": [
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-08T11:36"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - INFRINGEMENT - Car 1 - False start",
+   "subject": "INFRINGEMENT - Car 1 - False start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_1_-_false_start_.pdf",
+   "published": "2026-03-08T01:36",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "08:53",
+    "session": "Race 2",
+    "fact": "Car 1 (Nael) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five (5) second time penalty in accordance with Article 39.3 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 1 (NAE) moved slightly after the third light and before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose the least of the penalties available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     34
+    ],
+    "tags": [
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-03-08T11:36"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - SUMMONS - Car 29 - Allegedly did not engage start set-up procedure (formation lap)",
+   "subject": "SUMMONS - Car 29 - Allegedly did not engage start set-up procedure (formation lap)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_29_-_allegedly_did_not_engage_start_set-up_procedure_formation_lap.pdf",
+   "published": "2026-03-08T01:03",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "reason": "Alleged breach of Article 37.6 of the FIA F3 Sporting Regulations - allegedly Car 29 did not engage the start set-up procedure at the start of the formation lap. In accordance with Article 9.15.4 of the ISC, competitors are responsible for conveying to the drivers, or any personnel allowed access to the Reserved Areas, any communication in relation to them from the appointed officials.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     33
+    ]
+   },
+   "related": [
+    36
+   ],
+   "published_local": "2026-03-08T11:03"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - F3 Race 2 (Feature) - Provisional classification",
+   "subject": "F3 Race 2 (Feature) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_2_feature_-_provisional_classification.pdf",
+   "published": "2026-03-07T23:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T09:50"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - F3 Race 2 (Feature) - Final starting grid",
+   "subject": "F3 Race 2 (Feature) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-03-07T21:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-08T07:51"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - F3 Race 2 (Feature) - Provisional starting grid",
+   "subject": "F3 Race 2 (Feature) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-03-07T07:54",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T17:54"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - F3 Race 1 (Sprint) - Final classification",
+   "subject": "F3 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-03-07T07:24",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T17:24"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - INFRIGEMENT - Car 20 - Causing a collision",
+   "subject": "INFRIGEMENT - Car 20 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infrigement_-_car_20_-_causing_a_collision.pdf",
+   "published": "2026-03-07T05:38",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "20 - Louis Sharp",
+    "competitor": "PREMA Racing",
+    "time": "11:31",
+    "session": "Race 1",
+    "fact": "Car 20 (Sharp) collided with Car 21 (Wharton) at Turn 5.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten second (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 2 points.",
+    "reason": "The stewards examined video and telemetry evidence. Having considered the matter extensively, the stewards determine Cars 20 (SHA) and 21 (WHA) had been racing hard since Turn 1 with WHA leading. They got side by side in Turn 3 and SHA attempted an outside pass on (WHA) at Turn 4. SHA was not ahead at the apex and had not earned the right to be given room on the exit. WHA properly made a full exit which caused SHA to exceed track limits on the exit. The stewards accept that SHA could not simply disappear even though he was obliged to concede the corner. At this point, SHA was required to rejoin safely and without gaining a lasting advantage. Telemetry indicated that SHA maintained full throttle in the runoff area which put him in position to set up for an inside pass at Turn 5. Being in position to attack, when he should have properly conceded, constituted an advantage to which SHA was not entitled. WHA turned into Turn 5 and collided with SHA who was midway alongside. Regardless of the question of gaining an advantage, SHA had not established sufficient position to have gained the right to racing room on the inside. The stewards determine that SHA is wholly responsible for the collision and elect to apply the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Louis Sharp"
+     }
+    ],
+    "refs": [
+     28
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-03-07T15:38"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - INFRINGEMENT - Race 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_race_1_-_lap_time_cancellations_.pdf",
+   "published": "2026-03-07T04:56",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. MELBOURNE EVENT 05 TO 08 MARCH 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "23": 2,
+     "5": 2,
+     "3": 1,
+     "26": 1,
+     "9": 2,
+     "12": 1,
+     "7": 1,
+     "27": 1,
+     "22": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 3,
+      "name": "Patrick Heuzenroeder"
+     },
+     {
+      "car": 26,
+      "name": "Brad Benavides"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     }
+    ],
+    "refs": [
+     27
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-07T14:56"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - DECISION - End of race matters - Race 1 (Sprint)",
+   "subject": "DECISION - End of race matters - Race 1 (Sprint)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_decision_-_end_of_race_matters_-_race_1_sprint.pdf",
+   "published": "2026-03-07T04:46",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": ":        Race 1",
+    "fact": ":           After a red flag, the Race Director determined that the window in the schedule expired without the possibility to resume the race",
+    "decision": ":       Under the Authority of the Stewards contained in ISC Article 11.7.3.r, the Stewards decide to stop permanently Race 1. Points for the race will be awarded in accordance with Article 6.5 of the 2025 FIA F3 Regulations",
+    "reason": ":         During the Sprint Race, the red flag was displayed on Lap 9. The Stewards were advised by the Race Director that the race could not be resumed due to the repairs required to the trackside barrier. The Race Director also confirmed that no adjustments to the event schedule could be made to allow the race to resume. In light of this, the Stewards elect to permanently stop the race. Accordingly, points for the race will be awarded in accordance with Article 6.5 of the 2026 FIA Formula 3 Sporting Regulations.",
+    "from": "The Stewards",
+    "refs": [
+     26
+    ],
+    "tags": [],
+    "outcome": "other"
+   },
+   "published_local": "2026-03-07T14:46"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - F3 Technical Delegates Report 4",
+   "subject": "F3 Technical Delegates Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_technical_delegates_report_4.pdf",
+   "published": "2026-03-07T04:42",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T14:42"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Timetable V4 - Melbourne 2026",
+   "subject": "Timetable V4 - Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_timetable_v4_-_melbourne_2026.pdf",
+   "published": "2026-03-07T03:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T13:59"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - F3 Race 1 (Sprint) - Provisional classification",
+   "subject": "F3 Race 1 (Sprint) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_1_sprint_-_provisional_classification_.pdf",
+   "published": "2026-03-07T02:17",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T12:17"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - F3 Race 1 (Sprint) - Final starting grid",
+   "subject": "F3 Race 1 (Sprint) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-03-07T00:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T10:16"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Podium and Parc Fermé instructions - Melbourne 2026",
+   "subject": "Podium and Parc Fermé instructions - Melbourne 2026",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_podium_and_parc_ferme_instructions_-_melbourne_2026.pdf",
+   "published": "2026-03-07T00:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T10:03"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - F3 Technical Delegates Report 3",
+   "subject": "F3 Technical Delegates Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_technical_delegates_report_3.pdf",
+   "published": "2026-03-06T23:22",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-07T09:22"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - F3 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F3 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-03-06T08:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T18:43"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - F3 Qualifying - Final classification",
+   "subject": "F3 Qualifying - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_qualifying_-_final_classification.pdf",
+   "published": "2026-03-06T08:39",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T18:39"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - F3 Technical Delegates Report 2",
+   "subject": "F3 Technical Delegates Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_technical_delegates_report_2.pdf",
+   "published": "2026-03-06T08:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T18:35"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - INFRINGEMENT - Car 6 - Cause of Red Flag in Qualifying",
+   "subject": "INFRINGEMENT - Car 6 - Cause of Red Flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_car_6_-_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-03-06T06:39",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "competitor": "Trident",
+    "time": "14:12",
+    "session": "Qualifying",
+    "fact": "Car 6 (De Palo) came to a stop at Turn 10 causing a Red Flag",
+    "infringement": "Breach of Article 33.5 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Deletion of the fastest lap time set by the Driver in the Qualifying session. No driver penalty points are associated with this infringement. This puts him outside of 107% of the fastest lap time. Permission is given to start Race 1 and Race 2 at the rear of the grid, after all other penalties are applied.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Driver and Team Representative (document 13). Having considered the matter extensively, the Stewards determined that Car 6 stopped at Turn 10 and was solely responsible for the issuance of the Red Flag. The standard penalty was applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     13,
+     16
+    ],
+    "tags": [
+     "Permission to start",
+     "Lap time deleted"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    13
+   ],
+   "published_local": "2026-03-06T16:39"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - INFRINGEMENT - Qualifying - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_qualifying_-_lap_time_cancellations.pdf",
+   "published": "2026-03-06T06:16",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. MELBOURNE EVENT 05 TO 08 MARCH 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "1": 2,
+     "24": 1,
+     "5": 1,
+     "25": 1,
+     "4": 2,
+     "26": 1,
+     "2": 2,
+     "17": 2,
+     "3": 1,
+     "22": 1,
+     "12": 1,
+     "9": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 26,
+      "name": "Brad Benavides"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 3,
+      "name": "Patrick Heuzenroeder"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     15
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-06T16:16"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - F3 Qualifying - Provisional classification",
+   "subject": "F3 Qualifying - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_qualifying_-_provisional_classification.pdf",
+   "published": "2026-03-06T04:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T14:56"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - SUMMONS - Car 6 - Allegedly causing a Red Flag in Qualifying",
+   "subject": "SUMMONS - Car 6 - Allegedly causing a Red Flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_summons_-_car_6_-_allegedly_causing_a_red_flag_in_qualifying.pdf",
+   "published": "2026-03-06T04:49",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "reason": "Alleged breach of Article 33.5 of the 2026 FIA F3 Sporting Regulations - Car 6 was allegedly the sole cause of the Red Flag at 14:12 in Qualifying. In accordance with Article 9.15.4 of the ISC, competitors are responsible for conveying to the drivers, or any personnel allowed access to the Reserved Areas, any communication in relation to them from the appointed officials.",
+    "from": "The Stewards",
+    "competitor": "Trident",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     13
+    ]
+   },
+   "related": [
+    16
+   ],
+   "published_local": "2026-03-06T14:49"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - INFRINGEMENT - Practice - Lap time cancellations",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_infringement_-_practice_-_lap_time_cancellations.pdf",
+   "published": "2026-03-06T01:32",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track. Incident          Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "7": 1,
+     "31": 2,
+     "26": 1,
+     "3": 1,
+     "29": 1,
+     "17": 1,
+     "9": 1,
+     "24": 1,
+     "16": 1,
+     "4": 1,
+     "2": 1,
+     "28": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 26,
+      "name": "Brad Benavides"
+     },
+     {
+      "car": 3,
+      "name": "Patrick Heuzenroeder"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 24,
+      "name": "Fionn Mclaughlin"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     }
+    ],
+    "refs": [
+     12
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-03-06T11:32"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - F3 Practice - Classification",
+   "subject": "F3 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_practice_-_classification.pdf",
+   "published": "2026-03-05T23:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T09:51"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - F3 Melbourne Pit Lane Drawings 2026",
+   "subject": "F3 Melbourne Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_melbourne_pit_lane_drawings_2026.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F3 Entry List - Melbourne 2026",
+   "subject": "F3 Entry List - Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_entry_list_-_melbourne_2026.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F3 Technical Delegates Report 1",
+   "subject": "F3 Technical Delegates Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_technical_delegates_report_1.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - Timetable V3 - Melbourne 2026",
+   "subject": "Timetable V3 - Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_timetable_v3_-_melbourne_2026.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 24,
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - F3 Melbourne Competition Notes 2026",
+   "subject": "F3 Melbourne Competition Notes 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_f3_melbourne_competition_notes_2026.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Stewards Communication 1 - Melbourne - Amendment of Supplementary Regulations",
+   "subject": "Stewards Communication 1 - Melbourne - Amendment of Supplementary Regulations",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_stewards_communication_1_-_melbourne_-_amendment_of_supplementary_regulations.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Circuit Map - Melbourne 2026",
+   "subject": "Circuit Map - Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_circuit_map_-_melbourne_2026_0.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - VISA - F3 Melbourne 2026",
+   "subject": "VISA - F3 Melbourne 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_visa_-_f3_melbourne_2026.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Bulletin 2 - Restricted period",
+   "subject": "Bulletin 2 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_bulletin_2_-_restricted_period.pdf",
+   "published": "2026-03-05T22:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T08:50"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - BULLETIN 1 - System checks - Thursday",
+   "subject": "BULLETIN 1 - System checks - Thursday",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_melbourne_event_-_bulletin_1_-_system_checks_-_thursday.pdf",
+   "published": "2026-03-05T21:01",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-03-06T07:01"
+  }
+ ]
+}

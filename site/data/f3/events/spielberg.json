@@ -1,0 +1,2230 @@
+{
+ "event": {
+  "slug": "spielberg",
+  "name": "Spielberg",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Spielberg",
+  "doc_count": 68,
+  "first_published": "2026-06-25T12:15",
+  "last_published": "2026-06-28T13:01",
+  "first_local": "2026-06-25T12:15",
+  "last_local": "2026-06-28T13:01",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-06-26T09:55",
+    "end_local": "2026-06-26T10:40",
+    "start_utc": "2026-06-26T07:55Z",
+    "end_utc": "2026-06-26T08:40Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-06-26T15:00",
+    "end_local": "2026-06-26T15:30",
+    "start_utc": "2026-06-26T13:00Z",
+    "end_utc": "2026-06-26T13:30Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-06-27T10:05",
+    "end_local": "2026-06-27T10:50",
+    "start_utc": "2026-06-27T08:05Z",
+    "end_utc": "2026-06-27T08:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-06-28T08:40",
+    "end_local": "2026-06-28T09:30",
+    "start_utc": "2026-06-28T06:40Z",
+    "end_utc": "2026-06-28T07:30Z",
+    "source": "fia"
+   }
+  ],
+  "location": {
+   "circuit": "Red Bull Ring, Spielberg",
+   "lat": 47.2197,
+   "lon": 14.7647
+  },
+  "counts": {
+   "results": 13,
+   "stewards": 39,
+   "technical": 8,
+   "admin": 5,
+   "race_director": 3
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 68,
+   "title": "Doc 68 - F3 Team Championship - Spielberg 2026",
+   "subject": "F3 Team Championship - Spielberg 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_team_championship_-_spielberg_2026.pdf",
+   "published": "2026-06-28T13:01",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T13:01"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - F3 Driver Championship - Spielberg 2026",
+   "subject": "F3 Driver Championship - Spielberg 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_driver_championship_-_spielberg_2026.pdf",
+   "published": "2026-06-28T13:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T13:00"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - F3 Race 2 (Feature) - Final classification",
+   "subject": "F3 Race 2 (Feature) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_2_feature_-_final_classification.pdf",
+   "published": "2026-06-28T12:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T12:47"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - INFRINGEMENT - Car 9 - Starting procedure infringement",
+   "subject": "INFRINGEMENT - Car 9 - Starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_9_-_starting_procedure_infringement.pdf",
+   "published": "2026-06-28T12:03",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Alessandro Giusti",
+    "competitor": "MP Motorsport",
+    "time": "08:40",
+    "session": "Race 2",
+    "fact": "Car 9 (Giusti) did not engage the start set-up procedure at the start of the Formation Lap for Race 2.",
+    "infringement": "Breach of Article 37.6 of the FIA Formula 3 Sporting Regulations",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Technical Delegate (Document 61). They summoned and heard the driver and team representative (Document 62). A defined set-up procedure activation is mandatory for the start of the formation lap and the start of the race according to Article 37.6 of the FIA Formula 3 Sporting Regulations. As usual, Race Control checked all cars regarding the engagement of the start set-up procedure at the start of the formation lap and found that only car 9 had not engaged it, therefore it was reported to the Technical Delegate. According to the Report of the Technical Delegate, the data from Car 9 shows that the driver did not engage the start set-up procedure for the formation lap. The team manager and the driver stated that they were aware of the incident and that they accepted the outcome. Having considered the matter extensively, the Stewards determined that Car 9 was in breach of Article 37.6 of the FIA Formula 3 Sporting Regulations and impose a 10 second time penalty in accordance with the penalty guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     61,
+     62,
+     65
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    61,
+    62
+   ],
+   "published_local": "2026-06-28T12:03"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - F3 Technical Delegates Report 7",
+   "subject": "F3 Technical Delegates Report 7",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_technical_delegates_report_7.pdf",
+   "published": "2026-06-28T11:52",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T11:52"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - INFRINGEMENT - Car 7 - VSC infringement",
+   "subject": "INFRINGEMENT - Car 7 - VSC infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_7_-_vsc_infringement.pdf",
+   "published": "2026-06-28T11:39",
+   "recalled": false,
+   "cars": [
+    7
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "7 - Mattia Colnaghi",
+    "competitor": "MP Motorsport",
+    "time": "08:51",
+    "session": "Race 2",
+    "fact": "Car 7 (Colnaghi) was below the minimum delta time when the VSC period ended.",
+    "infringement": "Breach of Article 41.5 of the 2026 FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. In addition, 1 point to be added to the driver’s record. Total for the 2026 season = 1 point.",
+    "reason": "The Stewards examined timing data evidence. Having considered the matter extensively, the Stewards determined Car 7 (COL) was below the minimum time set by the ECU by 1.2 seconds when the FIA light panels changed to green at the end of the VSC procedure. The penalty imposed is in accordance with the penalty guidelines and is also consistent with past precedents.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     }
+    ],
+    "refs": [
+     63
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-06-28T11:39"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - SUMMONS - Car 9 - Alleged starting procedure infringement",
+   "subject": "SUMMONS - Car 9 - Alleged starting procedure infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_9_-_alleged_starting_procedure_infringement.pdf",
+   "published": "2026-06-28T11:17",
+   "recalled": false,
+   "cars": [
+    9
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Alessandro Giusti",
+    "reason": "Alleged breach of Article 37.6 of the Sporting Regulations - Car 9 (Giusti) did not engage the start set-up procedure when leaving the grid for the formation lap.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     62
+    ]
+   },
+   "related": [
+    65
+   ],
+   "published_local": "2026-06-28T11:17"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - F3 Technical Delegates Report 6",
+   "subject": "F3 Technical Delegates Report 6",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_technical_delegates_report_6.pdf",
+   "published": "2026-06-28T11:04",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    65
+   ],
+   "published_local": "2026-06-28T11:04"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_race_2_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-28T10:59",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The car below did not use the track at Turn 10",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The car left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "19": 1
+    },
+    "drivers": [
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     }
+    ],
+    "refs": [
+     60
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-28T10:59"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - INFRINGEMENT - Race 2 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_race_2_-_lap_time_cancellations.pdf",
+   "published": "2026-06-28T10:58",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident           Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "22": 1,
+     "31": 1,
+     "19": 1,
+     "21": 3,
+     "6": 2,
+     "26": 4,
+     "12": 2,
+     "30": 3,
+     "16": 2,
+     "24": 3,
+     "3": 1,
+     "2": 1,
+     "9": 2,
+     "18": 1,
+     "5": 2,
+     "15": 1
+    },
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     }
+    ],
+    "refs": [
+     59
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-28T10:58"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - INFRINGEMENT - Car 24 - Leaving the track and gaining an advantage",
+   "subject": "INFRINGEMENT - Car 24 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_24_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-06-28T10:43",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "24 - Fionn Mclaughlin",
+    "competitor": "Hitech",
+    "time": "08:44",
+    "session": "Race 2",
+    "fact": "Car 24 (MCL) left the track at Turn 1 on lap 1, overtaking Car 30 off track and retaining the position.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. At the start of the race, on Lap 1 at Turn 1, Car 24 left the track while overtaking Car 30. Car 24 completed the overtake off the track and retained the position after rejoining. Under Article 27.3 of the FIA Formula 3 Sporting Regulations, a driver may rejoin the track only when it is safe to do so and without gaining any lasting advantage. The Stewards determined that Car 24 gained a lasting advantage by overtaking Car 30 off the track and keeping the position. However, taking into account the Lap 1, Turn 1 circumstances, the Stewards considered these to be mitigating factors and therefore imposed the above five-second time penalty, with no driver penalty points.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn Mclaughlin"
+     }
+    ],
+    "refs": [
+     58
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-28T10:43"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - DECISION - Car 28 - Collision involving Car 23 and Car 28 in Race 2",
+   "subject": "DECISION - Car 28 - Collision involving Car 23 and Car 28 in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_decision_-_car_28_-_collision_involving_car_23_and_car_28_in_race_2.pdf",
+   "published": "2026-06-28T10:41",
+   "recalled": false,
+   "cars": [
+    23,
+    28
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "28 - Fernando Barrichello",
+    "competitor": "AIX Racing",
+    "time": "08:50",
+    "session": "Race 2",
+    "fact": "Car 23 (Shin) and Car 28 (Barrichello) had a collision at Turn 4.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards examined video evidence. Car 23 (SHI) was attempting an outside pass on Car 28 (BAR) at Turn 4. SHI was trailing slightly at the apex and had not earned the rights to the corner. The cars maintained overlap with BAR pulling ahead from the apex to the exit. A collision occurred as they tracked out to the exit curb. Typically, such a collision would be charged to the car on the outside that had not established its rights, however the Stewards note that BAR on the inside tracked out earlier than normal for the corner which played into the collision with BAR who could not simply disappear. Under the circumstances the Stewards determine that neither driver was wholly or predominantly at fault for the collision. Accordingly, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     }
+    ],
+    "refs": [
+     57
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-06-28T10:41"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - DECISION - Car 23 - Collision involving Car 23 and Car 28 in Race 2",
+   "subject": "DECISION - Car 23 - Collision involving Car 23 and Car 28 in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_decision_-_car_23_-_collision_involving_car_23_and_car_28_in_race_2.pdf",
+   "published": "2026-06-28T10:40",
+   "recalled": false,
+   "cars": [
+    23,
+    28
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "competitor": "Hitech",
+    "time": "08:50",
+    "session": "Race 2",
+    "fact": "Car 23 (Shin) and Car 28 (Barrichello) had a collision at Turn 4.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards examined video evidence. Car 23 (SHI) was attempting an outside pass on Car 28 (BAR) at Turn 4. SHI was trailing slightly at the apex and had not earned the rights to the corner. The cars maintained overlap with BAR pulling ahead from the apex to the exit. A collision occurred as they tracked out to the exit curb. Typically, such a collision would be charged to the car on the outside that had not established its rights, however the Stewards note that BAR on the inside tracked out earlier than normal for the corner which played into the collision with BAR who could not simply disappear. Under the circumstances the Stewards determine that neither driver was wholly or predominantly at fault for the collision. Accordingly, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     56
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-06-28T10:40"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - INFRINGEMENT - Car 30 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 30 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_30_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-28T10:16",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "08:44",
+    "session": "Race 2",
+    "fact": "Car 30 (Bhirombhakdi) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 a) of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 30 (Bhirombhakdi) moved slightly after the third light and before the start signal was given. Accordingly, the Stewards impose the minimum penalty available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-28T10:16"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - F3 Race 2 (Feature) - Provisional classification",
+   "subject": "F3 Race 2 (Feature) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_2_feature_-_provisional_classification.pdf",
+   "published": "2026-06-28T09:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T09:45"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - F3 Race 2 (Feature) - Final starting grid",
+   "subject": "F3 Race 2 (Feature) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-06-28T07:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-28T07:41"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - F3 Race 2 (Feature) - Provisional starting grid",
+   "subject": "F3 Race 2 (Feature) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-06-27T16:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T16:15"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F3 Race 1 (Sprint) - Final classification",
+   "subject": "F3 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-06-27T16:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T16:15"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - INFRINGEMENT - Car 12 - Technical infringement",
+   "subject": "INFRINGEMENT - Car 12 - Technical infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_12_-_technical_infringement.pdf",
+   "published": "2026-06-27T15:11",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kanato Le",
+    "competitor": "ART Grand Prix",
+    "time": "13:39",
+    "session": "Race 1",
+    "fact": "Car 12 (Le) was found to be 3kg below the required minimum weight of 729kg.",
+    "infringement": "Breach of Article 4.1 of the 2026 FIA Formula 3 Technical Regulations.",
+    "decision": "Disqualification of Car 12 from the Classification of Race 1. All cars originally classified behind Car 12 are moved up one place in the Race classification.",
+    "reason": "The Stewards received a report from the Technical Delegate (Document 47). They summoned and heard the Driver and Team Representative (Document 48). The Technical Delegate reported that Car 12 (KLE) was weighed after Race 1 and was found to be 726kg, which is 3.0kg below the minimum weight of 729kg - as stipulated in Article 4.1 of the 2026 FIA Formula 3 Technical Regulations. The Team Representative explained that they have conducted a preliminary investigation into the cause of being below the minimum weight and found that Car 12’s water pressure dropped significantly after the car got hit by some gravel due to another car going off track. The team argued that the loss of liquid from the car’s cooling system was the cause of being below the minimum weight. The Stewards thanked the Team Representative for bringing forward this explanation and justification. Unfortunately the team had no way of proving the weight of the fluid lost or that the car was compliant before the loss. The Stewards reminded the Team Representative of the International Court of Appeal’s (ICA) long-standing and consistent jurisprudence that the obligation to comply with the technical regulations and the liability incurred as a result of noncompliance lie solely with competitors. Furthermore, the Stewards also explained that the long-standing sanction and ICA jurisprudence for a technical compliance has been a sanction of disqualification. Having considered the matter extensively, the Stewards determine this is breach of Article 4.1 of the 2026 FIA Formula 3 Championship Technical Regulations and accordingly decided to disqualify Car 12 from the F3 Sprint race results.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     }
+    ],
+    "refs": [
+     47,
+     48,
+     50
+    ],
+    "tags": [
+     "Disqualified"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    47,
+    48
+   ],
+   "published_local": "2026-06-27T15:11"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - F3 Technical Delegates Report 5",
+   "subject": "F3 Technical Delegates Report 5",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_technical_delegates_report_5.pdf",
+   "published": "2026-06-27T15:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T15:02"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - SUMMONS - Car 12 - Alleged technical infringement",
+   "subject": "SUMMONS - Car 12 - Alleged technical infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_12_-_alleged_technical_infringement.pdf",
+   "published": "2026-06-27T14:14",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Kanato Le",
+    "reason": "Alleged breach of Article 4.1 of the 2026 FIA Formula 3 Technical Regulations - Car 12 did not comply with the minimum weight.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     }
+    ],
+    "refs": [
+     48
+    ]
+   },
+   "related": [
+    50
+   ],
+   "published_local": "2026-06-27T14:14"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - F3 Technical Delegates Report 4",
+   "subject": "F3 Technical Delegates Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_technical_delegates_report_4.pdf",
+   "published": "2026-06-27T14:02",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    50
+   ],
+   "published_local": "2026-06-27T14:02"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_race_1_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-27T13:19",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The car below did not use the track at Turn 10",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "18": 1,
+     "19": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     }
+    ],
+    "refs": [
+     46
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-27T13:19"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - INFRINGEMENT - Race 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_race_1_-_lap_time_cancellations.pdf",
+   "published": "2026-06-27T13:17",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "15": 3,
+     "23": 1,
+     "17": 1,
+     "7": 1,
+     "9": 2,
+     "2": 1,
+     "4": 1,
+     "29": 1,
+     "22": 1,
+     "10": 1,
+     "27": 1,
+     "28": 1,
+     "16": 3,
+     "31": 3,
+     "19": 1,
+     "11": 1,
+     "21": 1,
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-27T13:17"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - INFRINGEMENT - Car 30 - False start - out of position",
+   "subject": "INFRINGEMENT - Car 30 - False start - out of position",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_30_-_false_start_-_out_of_position.pdf",
+   "published": "2026-06-27T12:48",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "The Car 30 had part of its tyre outside of the grid box.",
+    "infringement": "Breach of Article 37.15 c) of the FIA Formula 3 Championship Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards reviewed video evidence and determined that a part of the right front tyre of Car 30 was outside the line of the grid box at the moment of the starting signal. This is a breach of article 37.15 c) of the FIA Formula 3 Championship sporting regulations. The Stewards impose the standard penalty under the penalty guidelines for such an infraction.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     44
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-27T12:48"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - INFRINGEMENT - Car 26 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 26 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_26_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-27T12:48",
+   "recalled": false,
+   "cars": [
+    26
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "26 - Salim Hanna",
+    "competitor": "AIX Racing",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 26 (Hanna) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 a) of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 26 (Hanna) moved slightly after the third light and before the start signal was given. Accordingly, the Stewards impose the minimum penalty available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     }
+    ],
+    "refs": [
+     43
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-27T12:48"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - INFRINGEMENT - Car 24 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 24 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_24_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-27T12:47",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "24 - Fionn Mclaughlin",
+    "competitor": "Hitech",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 24 (Mclaughlin) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 a) of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 24 (Mclaughlin) moved slightly after the third light and before the start signal was given. Accordingly, the Stewards impose the minimum penalty available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn Mclaughlin"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-27T12:47"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - INFRINGEMENT - Car 22 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 22 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_22_-_false_start_-_moving_before_signal_0.pdf",
+   "published": "2026-06-27T12:47",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "22 - Jose Garfias",
+    "competitor": "PREMA Racing",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 22 (Garfias) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 a) of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 22 (Garfias) moved slightly after the third light and before the start signal was given. Accordingly, the Stewards impose the minimum penalty available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     }
+    ],
+    "refs": [
+     41
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-27T12:47"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - INFRINGEMENT - Car 23 - False start - moving before signal",
+   "subject": "INFRINGEMENT - Car 23 - False start - moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_23_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-27T12:46",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "competitor": "Hitech",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 23 (Shin) moved before the start signal - false start.",
+    "infringement": "Breach of Article 37.15 a) of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of Car 23 (Shin) moved slightly after the third light and before the start signal was given. Accordingly, the Stewards impose the minimum penalty available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     40
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-27T12:46"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - INFRINGEMENT - Car 30 - Weaving on straight",
+   "subject": "INFRINGEMENT - Car 30 - Weaving on straight",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_30_-_weaving_on_straight.pdf",
+   "published": "2026-06-27T12:16",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:34",
+    "session": "Race 1",
+    "fact": "Car 30 (BHI) moved 6 times from Turn 3 to Turn 4 when defending its position.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 b) of the International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. In addition, 2 penalty points to be added to driver’s record. Total for the 2026 season = 2 penalty points",
+    "reason": "The Stewards examined video evidence. They summoned and heard the drivers and team representatives (Documents 37 and 38). Car 27 attempted to overtake Car 30 between Turn 3 and Turn 4. While defending, Car 30 changed direction six times on the straight. The Stewards determined that these repeated changes of direction were erratic and went beyond what is permitted when defending a position. Car 30 also failed to leave sufficient racing room for Car 27 when returning to the racing line at Turn 4. Accordingly, the Stewards imposed the penalty which is within the standard range under the guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     37,
+     39
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    37
+   ],
+   "published_local": "2026-06-27T12:16"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - SUMMONS - Car 27 - Alleged weaving on straight by Car 30",
+   "subject": "SUMMONS - Car 27 - Alleged weaving on straight by Car 30",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_27_-_alleged_weaving_on_straight_by_car_30.pdf",
+   "published": "2026-06-27T11:49",
+   "recalled": false,
+   "cars": [
+    27,
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "27 - Yevan David",
+    "reason": "Alleged breach of App. L, Ch IV, 2 b) of the FIA International Sporting Code - Car 30 (Bhirombhakdi) allegedly weaved on straight",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Yevan David"
+     }
+    ],
+    "refs": [
+     38
+    ]
+   },
+   "published_local": "2026-06-27T11:49"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - SUMMONS - Car 30 - Alleged weaving on straight",
+   "subject": "SUMMONS - Car 30 - Alleged weaving on straight",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_30_-_alleged_weaving_on_straight.pdf",
+   "published": "2026-06-27T11:47",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "reason": "Alleged breach of App. L, Ch IV, 2 b) of the FIA International Sporting Code - Car 30 (Bhirombhakdi) allegedly weaved on straight",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     37
+    ]
+   },
+   "related": [
+    39
+   ],
+   "published_local": "2026-06-27T11:47"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - F3 Race 1 (Sprint) - Provisional classification",
+   "subject": "F3 Race 1 (Sprint) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-06-27T11:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T11:03"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - F3 Race 1 (Sprint) - Final starting grid",
+   "subject": "F3 Race 1 (Sprint) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-06-27T09:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T09:06"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - F3 Technical Delegates Report 3",
+   "subject": "F3 Technical Delegates Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_technical_delegates_report_3.pdf",
+   "published": "2026-06-27T08:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-27T08:45"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - F3 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F3 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-06-26T19:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T19:43"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - F3 Qualifying - Final classification",
+   "subject": "F3 Qualifying - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_qualifying_-_final_classification.pdf",
+   "published": "2026-06-26T19:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T19:37"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Timetable V4 - Spielberg 2026",
+   "subject": "Timetable V4 - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_timetable_v4_-_spielberg_2026.pdf",
+   "published": "2026-06-26T19:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T19:30"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - F3 Technical Delegates Report 2",
+   "subject": "F3 Technical Delegates Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_technical_delegates_report_2.pdf",
+   "published": "2026-06-26T19:28",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T19:28"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - INFRINGEMENT - Car 30 - Stopping in fast lane",
+   "subject": "INFRINGEMENT - Car 30 - Stopping in fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_30_-_stopping_in_fast_lane.pdf",
+   "published": "2026-06-26T18:54",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "15:13",
+    "session": "Qualifying",
+    "fact": "Car 30 (BHI) stopped in the fast lane.",
+    "infringement": "Breach of Article 12.2.1.i of the International Sporting Code (failure to comply with the Race Director’s Competition Notes – 16.3)",
+    "decision": "A fine of €2,000 is imposed on the Team. Of this amount, €1,000 shall be paid in accordance with Article 12.8.1 of the FIA International Sporting Code. The fine must be paid within forty-eight hours of notification by bank transfer to the FIA. The remaining €1,000 is suspended for the remainder of the 2026 Formula 3 season in accordance with Article 12.4.6 of the FIA International Sporting Code, subject to there being no further breach by the Team of Competition Note 16.3 or any successor thereto relating to stopping in or blocking the fast lane.",
+    "reason": "The Stewards examined video evidence and summoned and heard the driver and team representative (Document 22). Car 30 entered the pit lane, approached its garage, and was stopped by a team mechanic in the fast lane. The team then pushed the car back, which blocked the fast lane and delayed five cars behind it. The representative accepted that the team made an error by positioning the mechanic in the fast lane and instructing Car 30 to stop there. The Driver of Car 30 stated that he followed the mechanic’s instructions and believed he had stopped in the correct position to be pushed back. Having considered the matter, the Stewards determined that the team was at fault for stopping Car 30 in the fast lane and causing the obstruction. Therefore, a proportionate fine is imposed on the team.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     22,
+     29
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 2000
+   },
+   "related": [
+    22
+   ],
+   "published_local": "2026-06-26T18:54"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - INFRINGEMENT - Car 9 - Impeding of Car 19 in Qualifying",
+   "subject": "INFRINGEMENT - Car 9 - Impeding of Car 19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_9_-_impeding_of_car_19_in_qualifying.pdf",
+   "published": "2026-06-26T18:46",
+   "recalled": false,
+   "cars": [
+    9,
+    19
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "9 - Alessandro Giusti",
+    "competitor": "MP Motorsport",
+    "time": "15:30",
+    "session": "Qualifying",
+    "fact": "Car 9 (Giusti) impeded car 19 (Ho) at Turn 3",
+    "infringement": "Appendix L, Chapter IV, Article 2 b) of the FIA International Sporting Code and Article 31.6 of the 2026 FIA Formula 3 Sporting Regulations.",
+    "decision": "A drop of 3 places on the grid for the Sprint and Feature Races at this Competition. There are no penalty points associated with this decision.",
+    "reason": "The Stewards examined video and GPS telemetry evidence. They summoned and heard the Drivers and Team Representatives (Documents 23 & 24). With time winding down in the qualifying session, Car 9 (GIU) commenced a push lap, exceeded track limits at Turn 1, and rejoined in front of CHO with 10 seconds remaining on the session clock. CHO, who had a clean run through turn 1, was closing on GIU after his re-entry. At this point GIU’s session was effectively over since time was up and his lap was destined to be deleted. GIU explained that he continued at full pace hoping to get another push lap in. Unfortunately, GIU’s team had not informed him that the session was over. CHO caught GIU at T3. GIU slowed significantly more than CHO at Turn 3 before ultimately letting him pass on the exit. The stewards agree with GIU that just because he went off track that he was not obligated to adopt a cool down or prep strategy for the remainder of the lap. GIU stated that he was pushing and that as such he was not liable for impeding. GIU had the right to continue to push, however his telemetry at Turn 3 with CHO directly behind was not consistent with a car that was continuing to push. Under the circumstances, the Stewards determine that GIU unnecessarily impeded CHO at T3. The penalty imposed is specified by the penalty guidelines and is consistent with past precedents for similar infractions.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     23,
+     28
+    ],
+    "tags": [
+     "No further action",
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    23
+   ],
+   "published_local": "2026-06-26T18:46"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_qualifying_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-26T18:22",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The cars below did not use the track at Turn 10.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "6": 1,
+     "7": 1,
+     "17": 1
+    },
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     }
+    ],
+    "refs": [
+     27
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T18:22"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - INFRINGEMENT - Qualifying - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_qualifying_-_lap_time_cancellations.pdf",
+   "published": "2026-06-26T18:22",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "1": 3,
+     "28": 2,
+     "5": 2,
+     "23": 4,
+     "14": 1,
+     "15": 2,
+     "17": 6,
+     "3": 1,
+     "26": 3,
+     "18": 3,
+     "16": 1,
+     "2": 1,
+     "21": 1,
+     "24": 1,
+     "20": 1,
+     "7": 1,
+     "29": 1,
+     "12": 1,
+     "19": 1,
+     "9": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 20,
+      "name": "Louis Sharp"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     26
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T18:22"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Podium and Parc Fermé instructions - Spielberg",
+   "subject": "Podium and Parc Fermé instructions - Spielberg",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_podium_and_parc_ferme_instructions_-_spielberg.pdf",
+   "published": "2026-06-26T17:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T17:45"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - SUMMONS - Car 19 - Allegedly impeded by Car 9 in Qualifying",
+   "subject": "SUMMONS - Car 19 - Allegedly impeded by Car 9 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_19_-_allegedly_impeded_by_car_9_in_qualifying.pdf",
+   "published": "2026-06-26T16:52",
+   "recalled": false,
+   "cars": [
+    9,
+    19
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "19 - Christian Ho",
+    "reason": "Alleged breach of Article 31.6 of the FIA F3 Sporting Regulations - Car 9 (Giusti) allegedly impeded Car 19 (Ho) at 15:30 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     }
+    ],
+    "refs": [
+     24
+    ]
+   },
+   "published_local": "2026-06-26T16:52"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - SUMMONS - Car 9 - Allegedly impeded Car 19 in Qualifying",
+   "subject": "SUMMONS - Car 9 - Allegedly impeded Car 19 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_9_-_allegedly_impeded_car_19_in_qualifying.pdf",
+   "published": "2026-06-26T16:51",
+   "recalled": false,
+   "cars": [
+    9,
+    19
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "9 - Alessandro Giusti",
+    "reason": "Alleged breach of Article 31.6 of the FIA F3 Sporting Regulations - Car 9 (Giusti) allegedly impeded Car 19 (Ho) at 15:30 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "MP Motorsport",
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     }
+    ],
+    "refs": [
+     23
+    ]
+   },
+   "related": [
+    28
+   ],
+   "published_local": "2026-06-26T16:51"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - SUMMONS - Car 30 - Alleged stopping in fast lane",
+   "subject": "SUMMONS - Car 30 - Alleged stopping in fast lane",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_30_-_alleged_stopping_in_fast_lane.pdf",
+   "published": "2026-06-26T16:49",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow the instructions of an Official and alleged breach of F3 Spielberg 2026 Race Director Competition Notes Item 16.3 - allegedly stopping in the fast lane",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     22
+    ]
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-06-26T16:49"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - F3 Qualifying - Provisional Classification",
+   "subject": "F3 Qualifying - Provisional Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_qualifying_-_provisional_classification.pdf",
+   "published": "2026-06-26T16:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:59"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENT - Car 23 - Impeding of Car 17 in Practice",
+   "subject": "INFRINGEMENT - Car 23 - Impeding of Car 17 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_23_-_impeding_of_car_17_in_practice.pdf",
+   "published": "2026-06-26T16:59",
+   "recalled": false,
+   "cars": [
+    17,
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "competitor": "Hitech",
+    "time": "10:36",
+    "session": "Practice",
+    "fact": "Car 17 (Clerot) was impeded by Cars 1 (Nael) and 23 (Shin) who were driving slowly and side-by-side at Turn 6.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 3 Sporting Regulations and Article 12.2.1.i. of the International Sporting Code (failure to follow Article 19 of the Race Director’s Competition Notes)",
+    "decision": "Warning given to the Driver of Car 23.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the drivers and team representatives (documents 14, 15 and 16). Car 1 (NAE) and Car 23 (SHI) were driving slowly and side-by-side from Turn 4 to Turn 6. Car 17 (CLE) was on a push lap and locked his brakes in avoidance of NAE and SHI at Turn 6. Article 19 of the Competition Notes makes it clear that, “At no time during Practice/Qualifying should drivers remain side by side. When drivers are on the racing line, they must ensure that they are travelling at a speed sufficient not to unnecessarily impede any driver on or starting a fast lap.” In this case, SHI was driving slowly on the racing line and SHI and NAE were driving side by side. The Stewards determine that SHI and NAE unnecessarily impeded CLE. The penalty issued is in accordance with the penalty guidelines and past precedents for such an infraction during the Practice session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     14,
+     20
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-06-26T16:59"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Car 1 - Impeding of Car 17 in Practice",
+   "subject": "INFRINGEMENT - Car 1 - Impeding of Car 17 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_1_-_impeding_of_car_17_in_practice.pdf",
+   "published": "2026-06-26T16:58",
+   "recalled": false,
+   "cars": [
+    1,
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "10:36",
+    "session": "Practice",
+    "fact": "Car 17 (Clerot) was impeded by Cars 1 (Nael) and 23 (Shin) who were driving slowly and side-by-side at Turn 6.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 3 Sporting Regulations and Article 12.2.1.i. of the International Sporting Code (failure to follow Article 19 of the Race Director’s Competition Notes)",
+    "decision": "Warning given to the Driver of Car 1.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the drivers and team representatives (documents 14, 15 and 16). Car 1 (NAE) and Car 23 (SHI) were driving slowly and side-by-side from Turn 4 to Turn 6. Car 17 (CLE) was on a push lap and locked his brakes in avoidance of NAE and SHI at Turn 6. Article 19 of the Competition Notes makes it clear that, “At no time during Practice/Qualifying should drivers remain side by side. When drivers are on the racing line, they must ensure that they are travelling at a speed sufficient not to unnecessarily impede any driver on or starting a fast lap.” In this case, SHI was driving slowly on the racing line and SHI and NAE were driving side by side. The Stewards determine that SHI and NAE unnecessarily impeded CLE. The penalty issued is in accordance with the penalty guidelines and past precedents for such an infraction during the Practice session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     14,
+     19
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-06-26T16:58"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_practice_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-26T16:57",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "The cars below did not use the track at Turn 10.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations. SPIELBERG EVENT 25 TO 28 JUNE 2026",
+    "table_rows": {
+     "17": 1,
+     "14": 1,
+     "27": 1,
+     "24": 1,
+     "21": 1,
+     "8": 2,
+     "9": 1,
+     "18": 1,
+     "16": 1,
+     "29": 1
+    },
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T16:57"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - INFRINGEMENT - Practice - Lap time cancellations",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_practice_-_lap_time_cancellations.pdf",
+   "published": "2026-06-26T16:58",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations. SPIELBERG EVENT 25 TO 28 JUNE 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "20": 2,
+     "10": 2,
+     "24": 1,
+     "3": 1,
+     "16": 1,
+     "18": 2,
+     "22": 1,
+     "31": 1,
+     "8": 1,
+     "23": 1,
+     "14": 1,
+     "26": 1,
+     "6": 1,
+     "21": 1,
+     "4": 1,
+     "1": 1,
+     "15": 1
+    },
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Louise Sharp"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 26,
+      "name": "Salim Hanna"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-26T16:58"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - SUMMONS - Car 17 - Allegedly impeded by Car 1 and Car 23 in Practice",
+   "subject": "SUMMONS - Car 17 - Allegedly impeded by Car 1 and Car 23 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_17_-_allegedly_impeded_by_car_1_and_car_23_in_practice.pdf",
+   "published": "2026-06-26T16:58",
+   "recalled": false,
+   "cars": [
+    1,
+    17,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Pedro Clerot",
+    "reason": "Alleged breach of Article 31.6 of the FIA F3 Sporting Regulations - Car 1 (Nael) and Car 23 (Shin) allegedly impeded Car 17 (Clerot) at 10:36 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     }
+    ],
+    "refs": [
+     16
+    ]
+   },
+   "published_local": "2026-06-26T16:58"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - SUMMONS - Car 23 - Allegedly impeded Car 17 in Practice",
+   "subject": "SUMMONS - Car 23 - Allegedly impeded Car 17 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_23_-_allegedly_impeded_car_17_in_practice.pdf",
+   "published": "2026-06-26T16:57",
+   "recalled": false,
+   "cars": [
+    17,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "reason": "Alleged breach of Article 31.6 of the FIA F3 Sporting Regulations - Car 23 (Shin) allegedly impeded Car 17 (Clerot) at 10:36 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     15
+    ]
+   },
+   "published_local": "2026-06-26T16:57"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - SUMMONS - Car 1 - Allegedly impeded Car 17 in Practice",
+   "subject": "SUMMONS - Car 1 - Allegedly impeded Car 17 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_1_-_allegedly_impeded_car_17_in_practice.pdf",
+   "published": "2026-06-26T16:58",
+   "recalled": false,
+   "cars": [
+    1,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "reason": "Alleged breach of Article 31.6 of the FIA F3 Sporting Regulations - Car 1 (Nael) allegedly impeded Car 17 (Clerot) at 10:36 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     14
+    ]
+   },
+   "related": [
+    19,
+    20
+   ],
+   "published_local": "2026-06-26T16:58"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - INFRINGEMENT - Car 30 - Failure to follow RD instructions",
+   "subject": "INFRINGEMENT - Car 30 - Failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_30_-_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-06-26T16:59",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:43",
+    "session": "Practice",
+    "fact": "Car 30 (Bhirombhakdi) did not follow the Race Director Competition Notes - practice start performed with car 25 stationary ahead of him on the grid.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code.",
+    "decision": "Reprimand given to the Driver of Car 30. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 11). The Driver of Car 30 (BHI) stopped behind car 25 (NAK) to perform his practice start on the right grid lane. Art. 16.2 b) of the F3 Spielberg Competition Notes (document 3) states that ”Under no circumstances should a driver make a practice start if another car is still stationary ahead on the same side of the grid”. During the hearing the driver stated that he had planned to do the staring procedure on the left side of the grid, but saw it was too crowded so he switched to the right lane. He saw that car 25 was in front of him but he thought that he had already completed his practice starting procedure. Driver of car 30 acknowledges that he should have been more attentive in the situation and understand the possible repercussions of his actions. This is a possible safety issue, however the Stewards determine that the present situation did not rise to the level of danger. Accordingly, the Stewards issue a Driving Reprimand.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     3,
+     11,
+     13
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    3,
+    11
+   ],
+   "published_local": "2026-06-26T16:59"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - INFRINGEMENT - Car 1 - Took chequered flag twice",
+   "subject": "INFRINGEMENT - Car 1 - Took chequered flag twice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_infringement_-_car_1_-_took_chequered_flag_twice_.pdf",
+   "published": "2026-06-26T16:59",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "10:40",
+    "session": "Practice",
+    "fact": "Car 1 (NAEL) took the chequered flag twice.",
+    "infringement": "Breach of Article 31.9 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Reprimand given to the Driver of Car 1. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards examined video evidence and GPS track map evidence. They summoned and heard the driver and team representative (Document 10). The chequered flag was out and displayed less than two seconds before car 1 reached the line. Upon seeing the video replay the driver acknowledged that he noticed the red lights at the gantry also had an opportunity to see the flag, but he was distracted following the car in front at the moment. While flag violations often incur significant penalties, there was no inherent safety issue in this case. Accordingly, the stewards issue a driving reprimand.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     10,
+     12
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    10
+   ],
+   "published_local": "2026-06-26T16:59"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - SUMMONS - Car 30 - Alleged failure to follow RD instructions",
+   "subject": "SUMMONS - Car 30 - Alleged failure to follow RD instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_30_-_alleged_failure_to_follow_rd_instructions.pdf",
+   "published": "2026-06-26T16:57",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "reason": "Alleged breach Breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow the instructions of an Official and breach of F3 Spielberg 2026 Race Director Competition Notes Item 16.2 b) - alleged practice start infringement.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     11
+    ]
+   },
+   "related": [
+    13
+   ],
+   "published_local": "2026-06-26T16:57"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - SUMMONS - Car 1 - Allegedly took the chequered flag twice",
+   "subject": "SUMMONS - Car 1 - Allegedly took the chequered flag twice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_summons_-_car_1_-_allegedly_took_the_chequered_flag_twice.pdf",
+   "published": "2026-06-26T16:57",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "reason": "Alleged breach of Article 31.9 of the 2026 FIA Formula 3 Sporting Regulations - allegedly Car 1 took the chequered flag twice.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     10
+    ]
+   },
+   "related": [
+    12
+   ],
+   "published_local": "2026-06-26T16:57"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F3 Practice - Classification",
+   "subject": "F3 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_practice_-_classification.pdf",
+   "published": "2026-06-26T16:57",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:57"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Circuit Map - Updated - Spielberg 2026",
+   "subject": "Circuit Map - Updated - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_circuit_map_-_updated_-_spielberg_2026.pdf",
+   "published": "2026-06-26T16:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T16:56"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F3 Spielberg Pit Lane Drawing 2026",
+   "subject": "F3 Spielberg Pit Lane Drawing 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_spielberg_event_-_f3_spielberg_pit_lane_drawing_2026.pdf",
+   "published": "2026-06-26T17:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-26T17:06"
+  },
+  {
+   "num": 6,
+   "title": "DOC 6 - F3 Entry List - Spielberg 2026",
+   "subject": "F3 Entry List - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_6_-_2026_spielberg_event_-_f3_entry_list_-_spielberg_2026.pdf",
+   "published": "2026-06-25T19:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T19:15"
+  },
+  {
+   "num": 5,
+   "title": "DOC 5 - F3 Technical Delegates Report 1",
+   "subject": "F3 Technical Delegates Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/documents/doc_5_-_2026_spielberg_event_-_f3_technical_delegates_report_1.pdf",
+   "published": "2026-06-25T19:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T19:00"
+  },
+  {
+   "num": 4,
+   "title": "DOC 4 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/documents/doc_4_-_2026_spielberg_event_-_bulletin_1_-_restricted_period_0.pdf",
+   "published": "2026-06-25T14:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T14:00"
+  },
+  {
+   "num": 3,
+   "title": "DOC 3 - F3 Spielberg Competition Notes 2026 v1",
+   "subject": "F3 Spielberg Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/documents/doc_3_-_2026_spielberg_event_-_f3_spielberg_competition_notes_2026_v1.pdf",
+   "published": "2026-06-25T13:00",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    13
+   ],
+   "published_local": "2026-06-25T13:00"
+  },
+  {
+   "num": 2,
+   "title": "DOC 2 - Circuit Map - Spielberg 2026",
+   "subject": "Circuit Map - Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_2_-_2026_spielberg_event_-_circuit_map_-_spielberg_2026_0.pdf",
+   "published": "2026-06-25T13:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T13:00"
+  },
+  {
+   "num": 1,
+   "title": "DOC 1 - VISA - F3 Spielberg 2026",
+   "subject": "VISA - F3 Spielberg 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/documents/doc_1_-_2026_spielberg_event_-_visa_-_f3_spielberg_2026_0.pdf",
+   "published": "2026-06-25T12:15",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-25T12:15"
+  }
+ ]
+}

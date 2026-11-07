@@ -1,0 +1,2419 @@
+{
+ "event": {
+  "slug": "madrid",
+  "name": "Madrid",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Madrid",
+  "doc_count": 83,
+  "first_published": "2026-09-10T13:48",
+  "last_published": "2026-09-13T14:50",
+  "first_local": "2026-09-10T13:48",
+  "last_local": "2026-09-13T14:50",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "classified_local": "2026-09-11T11:20",
+    "start_utc": "2026-09-11T09:20Z",
+    "end_utc": "2026-09-11T09:20Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Qualifying 1",
+    "classified_local": "2026-09-11T19:40",
+    "start_utc": "2026-09-11T17:40Z",
+    "end_utc": "2026-09-11T17:40Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Qualifying 2",
+    "classified_local": "2026-09-11T19:41",
+    "start_utc": "2026-09-11T17:41Z",
+    "end_utc": "2026-09-11T17:41Z",
+    "inferred": true,
+    "source": "results"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-09-12T11:05",
+    "end_local": "2026-09-12T11:50",
+    "start_utc": "2026-09-12T09:05Z",
+    "end_utc": "2026-09-12T09:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race 1",
+    "start_local": "2026-09-12T18:00",
+    "end_local": "2026-09-12T18:50",
+    "start_utc": "2026-09-12T16:00Z",
+    "end_utc": "2026-09-12T16:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race 2",
+    "start_local": "2026-09-13T09:45",
+    "end_local": "2026-09-13T10:35",
+    "start_utc": "2026-09-13T07:45Z",
+    "end_utc": "2026-09-13T08:35Z",
+    "source": "fia"
+   }
+  ],
+  "location": {
+   "circuit": "Madring, Madrid",
+   "lat": 40.4637,
+   "lon": -3.6164
+  },
+  "counts": {
+   "results": 19,
+   "stewards": 42,
+   "technical": 7,
+   "admin": 10,
+   "race_director": 5
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 83,
+   "title": "Doc 83 - F3 Team Championship - Madrid 2026",
+   "subject": "F3 Team Championship - Madrid 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_team_championship_-_madrid_2026.pdf",
+   "published": "2026-09-13T14:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-13T14:50"
+  },
+  {
+   "num": 82,
+   "title": "Doc 82 - F3 Driver Championship - Madrid 2026",
+   "subject": "F3 Driver Championship - Madrid 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_driver_championship_-_madrid_2026.pdf",
+   "published": "2026-09-13T14:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-13T14:50"
+  },
+  {
+   "num": 81,
+   "title": "Doc 81 - F3 Race 3 (Feature 2) - Final classification",
+   "subject": "F3 Race 3 (Feature 2) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_3_feature_2_-_final_classification.pdf",
+   "published": "2026-09-13T14:07",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-13T14:07"
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - DECISION - Car 22 - Alleged contact with Car 4",
+   "subject": "DECISION - Car 22 - Alleged contact with Car 4",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_22_-_alleged_contact_with_car_4.pdf",
+   "published": "2026-09-13T13:56",
+   "recalled": false,
+   "cars": [
+    4,
+    22
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "22 - Jose Garfias",
+    "competitor": "PREMA Racing",
+    "time": "10:24",
+    "session": "Race 3",
+    "fact": "Car 4 (Stromsted) and Car 22 (Garfias) collided at Turn 2.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action",
+    "reason": "The Stewards examined video evidence. The Stewards summoned and heard the Drivers and Team Representatives (documents 73 and 74). Car 22 (GAR) was attempting an inside pass of Car 4 (STR) at T1 and had properly established his rights to the corner since he was slightly ahead at the apex. GAR did not make a full exit at Turn 1 which leads directly into the second part of the chicane. This allowed STR to remain on track and maintain partial overlap with GAR approaching Turn 2. STR ran out of room at the apex of Turn 2 where the cars collided causing GAR to spin. Generally, in chicanes, the car that established its rights in the first corner has the rights to the entire segment; however, it remains possible for the car that lost the rights to the first corner to reestablish its rights in the second corner. Once GAR allowed STR to remain on track after Turn 1, STR was entitled to fight back at Turn 2, and he did. Having considered the matter extensively, the Stewards determine that even though GAR had the initial rights to the chicane, under the circumstances, STR had the right to contest Turn 2. Even though GAR remained ahead on the outside of Turn 2, he could not reasonably expect STR to disappear and he could have allowed STR more racing room on the inside of Turn 2. Having lost the rights at T1, STR could have declined to push the position, and GAR, having allowed STR to remain on track, could have allowed him more room at Turn 2. The Stewards determine that neither driver is wholly or predominantly at fault for the collision. Given that both drivers could have taken steps to avoid the collision, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     }
+    ],
+    "refs": [
+     73,
+     80
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    73
+   ],
+   "published_local": "2026-09-13T13:56"
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - DECISION - Car 4 - Alleged contact with Car 22",
+   "subject": "DECISION - Car 4 - Alleged contact with Car 22",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_4_-_alleged_contact_with_car_22.pdf",
+   "published": "2026-09-13T13:56",
+   "recalled": false,
+   "cars": [
+    4,
+    22
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "4 - Noah Stromsted",
+    "competitor": "Trident",
+    "time": "10:24",
+    "session": "Race 3",
+    "fact": "Car 4 (Stromsted) and Car 22 (Garfias) collided at Turn 2.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No further action",
+    "reason": "The Stewards examined video evidence. The Stewards summoned and heard the Drivers and Team Representatives (documents 73 and 74). Car 22 (GAR) was attempting an inside pass of Car 4 (STR) at T1 and had properly established his rights to the corner since he was slightly ahead at the apex. GAR did not make a full exit at Turn 1 which leads directly into the second part of the chicane. This allowed STR to remain on track and maintain partial overlap with GAR approaching Turn 2. STR ran out of room at the apex of Turn 2 where the cars collided causing GAR to spin. Generally, in chicanes, the car that established its rights in the first corner has the rights to the entire segment; however, it remains possible for the car that lost the rights to the first corner to reestablish its rights in the second corner. Once GAR allowed STR to remain on track after Turn 1, STR was entitled to fight back at Turn 2, and he did. Having considered the matter extensively, the Stewards determine that even though GAR had the initial rights to the chicane, under the circumstances, STR had the right to contest Turn 2. Even though GAR remained ahead on the outside of Turn 2, he could not reasonably expect STR to disappear and he could have allowed STR more racing room on the inside of Turn 2. Having lost the rights at T1, STR could have declined to push the position, and GAR, having allowed STR to remain on track, could have allowed him more room at Turn 2. The Stewards determine that neither driver is wholly or predominantly at fault for the collision. Given that both drivers could have taken steps to avoid the collision, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     }
+    ],
+    "refs": [
+     73,
+     79
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    73
+   ],
+   "published_local": "2026-09-13T13:56"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - DECISION - Car 1 - Allegedly leaving the track without justifiable reason",
+   "subject": "DECISION - Car 1 - Allegedly leaving the track without justifiable reason",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_1_-_allegedly_leaving_the_track_without_justifiable_reason.pdf",
+   "published": "2026-09-13T13:52",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "competitor": "Campos Racing",
+    "time": "09:49",
+    "session": "Race 3",
+    "fact": "Car 1 (Nael) left the track between Turns 1 and 2.",
+    "infringement": "Alleged breach of Article 27.3 of the 2026 FIA Formula 3 Sporting Regulations – a driver may not deliberately leave the track without a justifiable reason.",
+    "decision": "No Further Action",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Driver and Team Representative (document 72). The driver of Car 1 (NAE) explained that he was on the first lap and was positioned on the right-hand side of the track approaching Turn 1. Car 20 (POW), which was ahead of NAE, locked a wheel under braking and cut across NAE’s nose approaching Turn 1. NAE was subsequently unable to negotiate the corner as intended due to reacting to POW’s lock-up. The Stewards accepted that NAE’s compromised entry was a justifiable reason for leaving the track. The Stewards further determined that NAE did not gain any lasting advantage from leaving the track. Taking all the circumstances into consideration, the Stewards decided that No Further Action was appropriate.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     72,
+     78
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    72
+   ],
+   "published_local": "2026-09-13T13:52"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - DECISION - Car 20 - Allegedly leaving the track without justifiable reason",
+   "subject": "DECISION - Car 20 - Allegedly leaving the track without justifiable reason",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_20_-_allegedly_leaving_the_track_without_justifiable_reason.pdf",
+   "published": "2026-09-13T13:29",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "20 - Alex Powell",
+    "competitor": "PREMA Racing",
+    "time": "09:49",
+    "session": "Race 3",
+    "fact": "Car 20 (Powell) went off track between Turns 1-2.",
+    "infringement": "Alleged breach of Article 27.3 of the 2026 FIA Formula 3 Sporting Regulations - Car 20 allegedly left the track without justifiable reason.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video evidence. They summoned and heard the driver and team representative (document 71). The driver of Car 20 (POW) explained that he experienced a lockup during braking on the approach to Turn 1 and that he carried too much speed into the corner which caused him to go off between Turns 1 and 2. The Stewards further note that POW rejoined safely and without gaining a lasting advantage. Having considered the matter extensively, the Stewards determined that POW had a justifiable reason for leaving the track and elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Alex Powell"
+     }
+    ],
+    "refs": [
+     71,
+     77
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    71
+   ],
+   "published_local": "2026-09-13T13:29"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - F3 Technical Delegates Report 6",
+   "subject": "F3 Technical Delegates Report 6",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_technical_delegates_report_6.pdf",
+   "published": "2026-09-13T12:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-13T12:45"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - INFRINGEMENT - Race 3 (Feature 2) - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 3 (Feature 2) - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_race_3_feature_2_-_lap_time_cancellations.pdf",
+   "published": "2026-09-13T12:02",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 3",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "1": 2,
+     "25": 1,
+     "12": 2,
+     "28": 5,
+     "29": 1,
+     "4": 2,
+     "27": 2,
+     "15": 1,
+     "14": 2,
+     "19": 3,
+     "30": 1,
+     "6": 1,
+     "23": 1,
+     "18": 1,
+     "20": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 19,
+      "name": "Niccolo Maccagnani"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 20,
+      "name": "Alex Powell"
+     }
+    ],
+    "refs": [
+     75
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-13T12:02"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - SUMMONS - Car 22 - Alleged contact with Car 4",
+   "subject": "SUMMONS - Car 22 - Alleged contact with Car 4",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_22_-_alleged_contact_with_car_4.pdf",
+   "published": "2026-09-13T11:36",
+   "recalled": false,
+   "cars": [
+    4,
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "22 - Jose Garfias",
+    "reason": "Alleged breach of Appendix L, Ch IV, 2 (d) of the FIA International Sporting Code - alleged contact between Car 4 (Stromsted) and Car 22 (Garfias) at Turn 2 at 10:24",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     }
+    ],
+    "refs": [
+     74
+    ]
+   },
+   "published_local": "2026-09-13T11:36"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - SUMMONS - Car 4 - Alleged contact with Car 22",
+   "subject": "SUMMONS - Car 4 - Alleged contact with Car 22",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_4_-_alleged_contact_with_car_22.pdf",
+   "published": "2026-09-13T11:35",
+   "recalled": false,
+   "cars": [
+    4,
+    22
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Noah Stromsted",
+    "reason": "Alleged breach of Appendix L, Ch IV, 2 (d) of the FIA International Sporting Code - alleged contact between Car 4 (Stromsted) and Car 22 (Garfias) at Turn 2 at 10:24",
+    "from": "The Stewards",
+    "competitor": "Trident",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     }
+    ],
+    "refs": [
+     73
+    ]
+   },
+   "related": [
+    79,
+    80
+   ],
+   "published_local": "2026-09-13T11:35"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - SUMMONS - Car 1 - Allegedly leaving the track without a justifiable reason",
+   "subject": "SUMMONS - Car 1 - Allegedly leaving the track without a justifiable reason",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_1_-_allegedly_leaving_the_track_without_a_justifiable_reason.pdf",
+   "published": "2026-09-13T11:17",
+   "recalled": false,
+   "cars": [
+    1
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "1 - Theophile Nael",
+    "reason": "Alleged breach of Article 27.3 of the 2026 FIA Formula 3 Sporting Regulations - Car 1 allegedly left the track without justifiable reason",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     72
+    ]
+   },
+   "related": [
+    78
+   ],
+   "published_local": "2026-09-13T11:17"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - SUMMONS - Car 20 - Allegedly leaving the track without a justifiable reason",
+   "subject": "SUMMONS - Car 20 - Allegedly leaving the track without a justifiable reason",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_20_-_allegedly_leaving_the_track_without_a_justifiable_reason.pdf",
+   "published": "2026-09-13T11:14",
+   "recalled": false,
+   "cars": [
+    20
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "20 - Alex Powell",
+    "reason": "Alleged breach of Article 27.3 of the 2026 FIA Formula 3 Sporting Regulations - Car 20 allegedly left the track without justifiable reason",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Alex Powell"
+     }
+    ],
+    "refs": [
+     71
+    ]
+   },
+   "related": [
+    77
+   ],
+   "published_local": "2026-09-13T11:14"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - F3 Race 3 (Feature Race 2) - Provisional classification",
+   "subject": "F3 Race 3 (Feature Race 2) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_3_feature_race_2_-_provisional_classification.pdf",
+   "published": "2026-09-13T10:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-13T10:51"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - F3 Race 3 (Feature 2) - Final starting grid",
+   "subject": "F3 Race 3 (Feature 2) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_3_feature_2_-_final_starting_grid.pdf",
+   "published": "2026-09-13T08:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-13T08:45"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - F3 Race 3 (Feature 2) - Provisional starting grid",
+   "subject": "F3 Race 3 (Feature 2) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_3_feature_2_-_provisional_starting_grid.pdf",
+   "published": "2026-09-12T23:18",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T23:18"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - F3 Race 2 (Feature 1) - Final classification",
+   "subject": "F3 Race 2 (Feature 1) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_2_feature_1_-_final_classification.pdf",
+   "published": "2026-09-12T23:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T23:16"
+  },
+  {
+   "num": 66,
+   "title": "Doc 66 - DECISION - Car 10 - Alleged failure to engage set-up procedure when leaving grid for formation lap",
+   "subject": "DECISION - Car 10 - Alleged failure to engage set-up procedure when leaving grid for formation lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_10_-_alleged_failure_to_engage_set-up_procedure_when_leaving_grid_for_formation_lap.pdf",
+   "published": "2026-09-12T23:13",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "10 - Taito Kato",
+    "competitor": "ART Grand Prix",
+    "time": "21:12",
+    "session": "Race 2",
+    "fact": "Car 10 (Kato) did not engage the required start set up procedure at the start of the Formation Lap for Feature Race 1",
+    "infringement": "Alleged breach of Article 37.6 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "No further action",
+    "reason": "The Stewards, having received a report from the Technical Delegate (document 60), summoned the Driver and Team Representative (Document 61) and heard them along with the Technical Delegate and the Promoter’s Formula 3 Technical Director. During the hearing, the Driver of Car 10 (KAT) explained, and the Technical Delegate confirmed, that KAT had successfully engaged the start set-up procedure before initially attempting to start the car. KAT experienced technical difficulties and was unable to start the car. The master power had to be reset before the car would start. The Technical Delegate confirmed that after the reset, KAT properly attempted to engage the start set-up procedure three times before the car was started. Nevertheless, the procedure was not successfully engaged. The F3 Technical Director confirmed that the issue was with the Car itself, and that it was not attributable to the Team. KAT commenced the formation lap without the start set-up procedure engaged. However, he was able to successfully engage it for the Race start as required by Article 37.9 of the Formula 3 Sporting Regulations. Having considered the matter extensively, the Stewards determine that neither KAT nor his Team were responsible for the issue, and that KAT made all reasonable efforts to engage the start set-up procedure. Taking all the mitigating circumstances into consideration, the Stewards elect to take No Further Action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     }
+    ],
+    "refs": [
+     60,
+     61,
+     66
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    60,
+    61
+   ],
+   "published_local": "2026-09-12T23:13"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - DECISION - Car 21 - Allegedly leaving the track and gaining an advantage on Car 6",
+   "subject": "DECISION - Car 21 - Allegedly leaving the track and gaining an advantage on Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_21_-_allegedly_leaving_the_track_and_gaining_an_advantage_on_car_6.pdf",
+   "published": "2026-09-12T22:36",
+   "recalled": false,
+   "cars": [
+    6,
+    21
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "21 - James Wharton",
+    "competitor": "PREMA Racing",
+    "time": "18:48",
+    "session": "Race 2",
+    "fact": "Car 21 (Wharton) was attempting an outside pass of Car 6 (DePalo) at Turn 5. Both cars left the track and re-joined in the same relative order.",
+    "infringement": "Alleged breach of Article 27.3 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards examined video evidence and GPS evidence. The Stewards summoned and heard the Drivers and Team Representatives (documents 56 and 57). Having considered the matter extensively, the Stewards determine that both cars left the track and re-joined in the same order. During the hearing it was clear that neither had any grievances with the other’s driving through the segment in question. Under the circumstances, the Stewards determine that both drivers made a similar mistake and that equity between them remained after they re-joined the track. Therefore, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "James Wharton"
+     }
+    ],
+    "refs": [
+     56,
+     65
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    56
+   ],
+   "published_local": "2026-09-12T22:36"
+  },
+  {
+   "num": 64,
+   "title": "Doc 64 - INFRINGEMENT - Car 29 - Failure to follow RD instructions - Escape road instructions",
+   "subject": "INFRINGEMENT - Car 29 - Failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_29_-_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-12T22:33",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "19:05",
+    "session": "Race 2",
+    "fact": "Car 29 (Lacorte) went off at Turn 5 and did not stay to the right of the yellow line before rejoining.",
+    "infringement": "Breach of Article 12.2.1.i. of the International Sporting Code (failure to follow Item 25.1 of the Race Director’s Competition Notes).",
+    "decision": "Reprimand given to the Driver of Car 29 (Lacorte). This is his second Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards reviewed video evidence. They summoned and heard the Driver and Team Representative (document 55). Having considered the matter extensively, the Stewards determined that Car 29 (LAC) left the track at Turn 5 and rejoined without staying to the right of the yellow line as required by Item 25.1 of the Competition Notes. LAC explained that he had issues with the car and was on radio with the team about whether or not to retire the car after the lap. He indicated that he was distracted by the conversation and accepted that he could have done better to follow the Race Director’s instructions. Taking all the evidence into consideration, the Stewards considered this to be an infringement even though he rejoined the track safely and without gaining an advantage and therefore impose a reprimand.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     55,
+     64
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    55
+   ],
+   "published_local": "2026-09-12T22:33"
+  },
+  {
+   "num": 63,
+   "title": "Doc 63 - F3 Technical Delegates Report 5",
+   "subject": "F3 Technical Delegates Report 5",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_technical_delegates_report_5.pdf",
+   "published": "2026-09-12T21:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T21:56"
+  },
+  {
+   "num": 62,
+   "title": "Doc 62 - INFRINGEMENT - Race 2 (Feature 1) - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 (Feature 1) - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_race_2_feature_1_-_lap_time_cancellations.pdf",
+   "published": "2026-09-12T21:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations. MADRID EVENT 10 TO 13 SEPTEMBER 2026",
+    "table_rows": {
+     "12": 2,
+     "5": 1,
+     "21": 2,
+     "6": 1,
+     "10": 1,
+     "1": 2,
+     "25": 1,
+     "9": 1,
+     "29": 3,
+     "3": 3,
+     "20": 1,
+     "14": 1,
+     "19": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 21,
+      "name": "James Wharton"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 20,
+      "name": "Louis Sharp"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 19,
+      "name": "Niccolo Maccagnani"
+     }
+    ],
+    "refs": [
+     62
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-12T21:47"
+  },
+  {
+   "num": 61,
+   "title": "Doc 61 - SUMMONS - Car 10 - Alleged failure to engage set-up procedure when leaving grid for formation lap",
+   "subject": "SUMMONS - Car 10 - Alleged failure to engage set-up procedure when leaving grid for formation lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_10_-_alleged_failure_to_engage_set-up_procedure_when_leaving_grid_for_formation_lap.pdf",
+   "published": "2026-09-12T21:36",
+   "recalled": false,
+   "cars": [
+    10
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "10 - Taito Kato",
+    "reason": "Alleged breach of Article 37.6 of the 2026 FIA F3 Sporting Regulations - Allegedly Car 10 did not engage the start set-up procedure when leaving the grid for the formation lap.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     }
+    ],
+    "refs": [
+     61
+    ]
+   },
+   "related": [
+    66
+   ],
+   "published_local": "2026-09-12T21:36"
+  },
+  {
+   "num": 60,
+   "title": "Doc 60 - F3 Technical Delegates Report 4",
+   "subject": "F3 Technical Delegates Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_technical_delegates_report_4.pdf",
+   "published": "2026-09-12T21:14",
+   "recalled": false,
+   "cars": [],
+   "related": [
+    66
+   ],
+   "published_local": "2026-09-12T21:14"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - INFRINGEMENT - Car 29 - Second Pit lane speeding in Race 2",
+   "subject": "INFRINGEMENT - Car 29 - Second Pit lane speeding in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_29_-_second_pit_lane_speeding_in_race_2.pdf",
+   "published": "2026-09-12T20:46",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "18:35",
+    "session": "Race 2",
+    "fact": "Car 29 (Lacorte) - Pit lane speeding - 62.3 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 3 Sporting Regulations",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "Car 29 (Lacorte) exceeded the pit lane speed limit which is set at 60 km/h for this Event by 2.3 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     59
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-09-12T20:46"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - INFRINGEMENT - Car 29 - Pit lane speeding in Race 2",
+   "subject": "INFRINGEMENT - Car 29 - Pit lane speeding in Race 2",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_29_-_pit_lane_speeding_in_race_2.pdf",
+   "published": "2026-09-12T20:45",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "18:14",
+    "session": "Race 2",
+    "fact": "Car 29 (Lacorte) - Pit lane speeding - 62.3 km/h",
+    "infringement": "Breach of Article 22.9 of the FIA Formula 3 Sporting Regulations",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "Car 29 (Lacorte) exceeded the pit lane speed limit which is set at 60 km/h for this Event by 2.3 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     58
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-09-12T20:45"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - SUMMONS - Car 6 - Allegedly Car 21 left the track and gained an advantage on Car 6",
+   "subject": "SUMMONS - Car 6 - Allegedly Car 21 left the track and gained an advantage on Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_6_-_allegedly_car_21_left_the_track_and_gained_an_advantage_on_car_6.pdf",
+   "published": "2026-09-12T20:39",
+   "recalled": false,
+   "cars": [
+    6,
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "reason": "Alleged breach of Article 27.3 of the FIA F3 Sporting Regulations - Allegedly Car 21 left the track at Turn 5 and gained an advantage on Car 6 in Race 2 (Feature 1).",
+    "from": "The Stewards",
+    "competitor": "Trident",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     57
+    ]
+   },
+   "published_local": "2026-09-12T20:39"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - SUMMONS - Car 21 - Allegedly leaving the track and gaining an advantage on Car 6",
+   "subject": "SUMMONS - Car 21 - Allegedly leaving the track and gaining an advantage on Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_21_-_allegedly_leaving_the_track_and_gaining_an_advantage_on_car_6.pdf",
+   "published": "2026-09-12T20:38",
+   "recalled": false,
+   "cars": [
+    6,
+    21
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "21 - James Wharton",
+    "reason": "Alleged breach of Article 27.3 of the FIA F3 Sporting Regulations - Allegedly Car 21 left the track at Turn 5 and gained an advantage on Car 6 in Race 2 (Feature 1).",
+    "from": "The Stewards",
+    "competitor": "PREMA Racing",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "James Wharton"
+     }
+    ],
+    "refs": [
+     56
+    ]
+   },
+   "related": [
+    65
+   ],
+   "published_local": "2026-09-12T20:38"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - SUMMONS - Car 29 - Alleged failure to follow RD instructions - Escape road instructions",
+   "subject": "SUMMONS - Car 29 - Alleged failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_29_-_alleged_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-12T20:36",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "reason": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code and F3 Madrid Competition Notes item 25.1 - alleged failure to follow Race Director's instructions - escape road instructions in Race 2 (Feature 1).",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     55
+    ]
+   },
+   "related": [
+    64
+   ],
+   "published_local": "2026-09-12T20:36"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - F3 Race 2 (Feature 1) - Provisional classification",
+   "subject": "F3 Race 2 (Feature 1) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_2_feature_1_-_provisional_classification.pdf",
+   "published": "2026-09-12T19:31",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T19:31"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - F3 Race 2 (Feature 1) - Final starting grid",
+   "subject": "F3 Race 2 (Feature 1) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_2_feature_1_-_final_starting_grid.pdf",
+   "published": "2026-09-12T17:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T17:00"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Timetable V5 - Madrid 2026",
+   "subject": "Timetable V5 - Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_timetable_v5_-_madrid_2026.pdf",
+   "published": "2026-09-12T16:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T16:25"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F3 Race 2 (Feature 1) - Provisional starting grid",
+   "subject": "F3 Race 2 (Feature 1) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_2_feature_1_-_provisional_starting_grid.pdf",
+   "published": "2026-09-12T15:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T15:11"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - F3 Race 1 (Sprint) - Final classification",
+   "subject": "F3 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-09-12T14:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T14:46"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - F3 Technical Delegates Report 3",
+   "subject": "F3 Technical Delegates Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_technical_delegates_report_3.pdf",
+   "published": "2026-09-12T14:36",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T14:36"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - INFRINGEMENT - Car 23 - Unsafe release into the path of Car 14",
+   "subject": "INFRINGEMENT - Car 23 - Unsafe release into the path of Car 14",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_23_-_unsafe_release_into_the_path_of_car_14.pdf",
+   "published": "2026-09-12T13:57",
+   "recalled": false,
+   "cars": [
+    14,
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "competitor": "Hitech",
+    "time": "10:53",
+    "session": "Race 1",
+    "fact": "During the reconnaissance laps Car 23 (Shin) was released from its pit position into the path of Car 14 (Yamakoshi).",
+    "infringement": "Breach of Article 28.12.a of the FIA Formula 3 Sporting Regulations",
+    "decision": "Warning to the Team",
+    "reason": "The Stewards examined video evidence. The Stewards summoned and heard the Drivers and Team Representatives (documents 44 and 45). Car 23 (SHI) was released from its pit position into path of Car 14 (YAM). The initial release of the car was perfectly reasonable; however SHI stopped for several seconds just after his car’s nose entered the fast lane. After a few moments SHI slowly entered the pit lane and YAM came to a complete stop to avoid him. During the hearing SHI explained that he had been experiencing clutch issues and that is why he stopped. Video showed his mechanic leaning over the cockpit to attend to him, and SHI then departing on his own. YAM explained that he could see the situation unfolding and that he had reasonable time to react. Nevertheless, the Stewards determine that once SHI stopped, the mechanic could have taken better steps to re-establish release control over the car. Under the circumstances, the Stewards determine that a warning to the team is appropriate for this pre-race infringement.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     44,
+     48
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    44
+   ],
+   "published_local": "2026-09-12T13:57"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - INFRINGEMENT - Car 15 - Leaving the track and gaining an advantage",
+   "subject": "INFRINGEMENT - Car 15 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_15_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-09-12T13:26",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Enzo Deligny",
+    "competitor": "Van Amersfoort Racing",
+    "time": "11:19",
+    "session": "Race 1",
+    "fact": "Car 15 (Deligny) left the track at Turn 5 and cut the inside of Turn 6 while defending against Car 25 (Nakamura) and re-joined retaining the position.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 3 Sporting Regulations",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video & GPS evidence. The Stewards determined that Car 15 (EDE) left the track at Turn 5 while defending his position against Car 25 (NAK) and re-joined still in front. It is generally accepted that if a car leaves the track while defending a position and re-joins retaining the position, that it has gained an advantage. In this circumstance EDE would be expected to concede the position, which he did not. Having considered the matter extensively, the Stewards determine that EDE gained a lasting advantage and elect to impose the standard penalty for such an infraction.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     }
+    ],
+    "refs": [
+     47
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-09-12T13:26"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - INFRINGEMENT - Race 1 (Sprint) - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 (Sprint) - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_race_1_sprint_-_lap_time_cancellations.pdf",
+   "published": "2026-09-12T12:39",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code. MADRID EVENT 10 TO 13 SEPTEMBER 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 17.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "20": 1,
+     "23": 2,
+     "11": 2,
+     "17": 2,
+     "15": 1,
+     "29": 2,
+     "10": 1,
+     "5": 1,
+     "14": 1,
+     "12": 1,
+     "8": 1
+    },
+    "drivers": [
+     {
+      "car": 20,
+      "name": "Louis Sharp"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     }
+    ],
+    "refs": [
+     46
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-12T12:39"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - SUMMONS - Car 14 - Alleged unsafe release of Car 23 into the path of Car 14",
+   "subject": "SUMMONS - Car 14 - Alleged unsafe release of Car 23 into the path of Car 14",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_14_-_alleged_unsafe_release_of_car_23_into_the_path_of_car_14.pdf",
+   "published": "2026-09-12T12:25",
+   "recalled": false,
+   "cars": [
+    14,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Hiyu Yamakoshi",
+    "reason": "Alleged breach of Article 28.12 a) of the 2026 FIA Formula 3 Sporting Regulations - Alleged unsafe release of Car 23 (Shin) into the path of Car 14 (Yamakoshi) in Race 1 (Sprint) at 10:53.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Hiyu Yamakoshi"
+     }
+    ],
+    "refs": [
+     45
+    ]
+   },
+   "published_local": "2026-09-12T12:25"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - SUMMONS - Car 23 - Alleged unsafe release into the path of Car 14",
+   "subject": "SUMMONS - Car 23 - Alleged unsafe release into the path of Car 14",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_23_-_alleged_unsafe_release_into_the_path_of_car_14.pdf",
+   "published": "2026-09-12T12:25",
+   "recalled": false,
+   "cars": [
+    14,
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "reason": "Alleged breach of Article 28.12 a) of the 2026 FIA Formula 3 Sporting Regulations - Alleged unsafe release of Car 23 (Shin) into the path of Car 14 (Yamakoshi) in Race 1 (Sprint) at 10:53.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     44
+    ]
+   },
+   "related": [
+    48
+   ],
+   "published_local": "2026-09-12T12:25"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - F3 Race 1 (Sprint) - Provisional classification",
+   "subject": "F3 Race 1 (Sprint) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-09-12T11:53",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T11:53"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - F3 Madrid Competition Notes 2026 v3",
+   "subject": "F3 Madrid Competition Notes 2026 v3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_madrid_competition_notes_2026_v3.pdf",
+   "published": "2026-09-12T10:13",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T10:13"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - F3 Race 1 (Sprint) - Final starting grid",
+   "subject": "F3 Race 1 (Sprint) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_1_sprint_-_final_starting_grid_.pdf",
+   "published": "2026-09-12T10:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-12T10:06"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - F3 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F3 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-09-11T22:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T22:16"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - F3 Qualifying 2 - Final classification",
+   "subject": "F3 Qualifying 2 - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_qualifying_2_-_final_classification.pdf",
+   "published": "2026-09-11T22:13",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T22:13"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - F3 Qualifying 1 - Final Classification",
+   "subject": "F3 Qualifying 1 - Final Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_qualifying_1_-_final_classification.pdf",
+   "published": "2026-09-11T22:13",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T22:13"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Podium and Parc Ferme instructions - Madrid",
+   "subject": "Podium and Parc Ferme instructions - Madrid",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_podium_and_parc_ferme_instructions_-_madrid.pdf",
+   "published": "2026-09-11T22:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T22:00"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - F3 Technical Delegates Report 2",
+   "subject": "F3 Technical Delegates Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_technical_delegates_report_2.pdf",
+   "published": "2026-09-11T21:54",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T21:54"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Timetable V4 - Madrid 2026",
+   "subject": "Timetable V4 - Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_timetable_v4_-_madrid_2026.pdf",
+   "published": "2026-09-11T21:35",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 52,
+   "published_local": "2026-09-11T21:35"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - INFRINGEMENT - Qualifying 2 - Lap time cancellations - Double waved yellow flags",
+   "subject": "INFRINGEMENT - Qualifying 2 - Lap time cancellations - Double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_qualifying_2_-_lap_time_cancellations_-_double_waved_yellow_flags.pdf",
+   "published": "2026-09-11T21:28",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying 2",
+    "fact": "Lap time cancellation – time set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "12": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     }
+    ],
+    "refs": [
+     34
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-11T21:28"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - INFRINGEMENT - Qualifying 2 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying 2 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_qualifying_2_-_lap_time_cancellations.pdf",
+   "published": "2026-09-11T21:28",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying 2",
+    "fact": "The cars below did not use the track at the turns detailed below.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "9": 1,
+     "29": 1,
+     "14": 1
+    },
+    "drivers": [
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     }
+    ],
+    "refs": [
+     33
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-11T21:28"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - DECISION - Car 30 - Permission to start - outside of 107%",
+   "subject": "DECISION - Car 30 - Permission to start - outside of 107%",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_30_-_permission_to_start_-_outside_of_107.pdf",
+   "published": "2026-09-11T21:17",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "19:17",
+    "session": "Qualifying 2",
+    "fact": "Car 30 (Bhirombhakdi) did not set a time within 107% of the fastest Qualifying time in Qualifying 2.",
+    "infringement": "Breach of Article 34.2 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Permission is given for Car 30 to start the Feature Race 2 from the back of the grid after any other penalties have been applied in accordance with Article 34.2.",
+    "reason": "Having considered the matter extensively, the Stewards determined that the time set by Car 30 (BHI) in Free Practice were acceptable and they therefore grant him permission to start both races.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Back of grid",
+     "Permission to start"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-09-11T21:17"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - INFRINGEMENT - Qualifying 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_qualifying_1_-_lap_time_cancellations.pdf",
+   "published": "2026-09-11T21:15",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying 1",
+    "fact": "The cars below did not use the track at the turns detailed below.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "24": 1,
+     "8": 2,
+     "28": 1,
+     "30": 1,
+     "25": 1,
+     "27": 1,
+     "7": 1
+    },
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     }
+    ],
+    "refs": [
+     31
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-11T21:15"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - INFRINGEMENT - Car 24 - Failure to follow RD instructions - Escape road instructions",
+   "subject": "INFRINGEMENT - Car 24 - Failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_24_-_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-11T21:08",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "24 - Fionn Mclaughlin",
+    "competitor": "Hitech",
+    "time": "18:30",
+    "session": "Qualifying 1",
+    "fact": "Car 24 (McLaughlin) left the track between Turns 5 and 6 and did not follow the instructions set forth in the Competition Notes.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow Item 25.1 of the Competition Notes.",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Driver and Team Representative (Document 26). Car 24 (MCL) went off the track between Turns 5 and 6 before rejoining at Turn 6. Given his angle of departure from the track, the Stewards accept the fact that he did not stay to right of the yellow line as required by the Competition Notes. However, we find no reason why he could not have re-joined in the prescribed area. Having considered the matter extensively, the Stewards elect to issue a Warning. Drivers are reminded to use all reasonable efforts to rejoin in the area indicated by Item 25.1 of the Competition Notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn Mclaughlin"
+     }
+    ],
+    "refs": [
+     26,
+     30
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    26
+   ],
+   "published_local": "2026-09-11T21:08"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - INFRINGEMENT - Car 28 - Failure to follow RD instructions - Escape road instructions",
+   "subject": "INFRINGEMENT - Car 28 - Failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_28_-_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-11T21:02",
+   "recalled": false,
+   "cars": [
+    28
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "28 - Fernando Barrichello",
+    "competitor": "AIX Racing",
+    "time": "18:33",
+    "session": "Qualifying 1",
+    "fact": "Car 28 (Barrichello) left the track between Turns 5 and 6 and did not follow the instructions set forth in the Competition Notes.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow Item 25.1 of the Competition Notes.",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Driver and Team Representative (Document 25). The Driver of Car 28 (BAR) explained that he was on a push lap and locked the wheels on the approach to Turn 5. He attempted to negotiate the corner but was unsuccessful and subsequently went off the track between Turns 5 and 6 before rejoining at Turn 6. While the Stewards accept his turn in difficulties as a valid reason not to have been to the right of the yellow line as required by the Competition Notes, we found no reason why he could not have re-joined in the prescribed area. Having considered the matter extensively, the Stewards elected to issue a Warning. Drivers are reminded to use all reasonable efforts to rejoin in the area indicated by Item 25.1 of the Competition Notes.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     }
+    ],
+    "refs": [
+     25,
+     29
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    25
+   ],
+   "published_local": "2026-09-11T21:02"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - F3 Qualifying 2 - Provisional classification",
+   "subject": "F3 Qualifying 2 - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_qualifying_2_-_provisional_classification.pdf",
+   "published": "2026-09-11T19:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T19:41"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - F3 Qualifying 1 - Provisional Classification",
+   "subject": "F3 Qualifying 1 - Provisional Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_qualifying_1_-_provisional_classification.pdf",
+   "published": "2026-09-11T19:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T19:40"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - SUMMONS - Car 24 - Allegedly leaving the track and gaining an advantage",
+   "subject": "SUMMONS - Car 24 - Allegedly leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_24_-_allegedly_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-09-11T19:34",
+   "recalled": false,
+   "cars": [
+    24
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "24 - Fionn Mclaughlin",
+    "reason": "Alleged breach of Article 27.3 of the FIA F3 Sporting Regulations - Allegedly Car 24 left the track at Turn 5 and gained an advantage in Qualifying 1.",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn Mclaughlin"
+     }
+    ],
+    "refs": [
+     26
+    ]
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-09-11T19:34"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - SUMMONS - Car 28 - Alleged failure to follow RD instructions - Escape road instructions",
+   "subject": "SUMMONS - Car 28 - Alleged failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_28_-_alleged_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-11T19:34",
+   "recalled": false,
+   "cars": [
+    28
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "28 - Fernando Barrichello",
+    "reason": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code and F3 Madrid Competition Notes item 25.1 - alleged failure to follow Race Director's instructions - escape road instructions in Qualifying 1.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     }
+    ],
+    "refs": [
+     25
+    ]
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-09-11T19:34"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - INFRINGEMENT - Car 15 - Failure to follow RD instructions - Escape road instructions",
+   "subject": "INFRINGEMENT - Car 15 - Failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_15_-_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-11T14:43",
+   "recalled": false,
+   "cars": [
+    15
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "15 - Enzo Deligny",
+    "competitor": "Van Amersfoort Racing",
+    "time": "10:31",
+    "session": "Practice",
+    "fact": "Car 15 (Deligny) went off at Turn 5 and did not stay to the right of the yellow line before rejoining.",
+    "infringement": "Breach of Article 12.2.1.i. of the International Sporting Code (failure to follow Item 25.1 of the Race Director’s Competition Notes)",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. The Driver of Car 15 (EDE) experienced a slight lockup during braking, went off at Turn 5, and rejoined without following the route set forth in Item 25.1 of the Competition Notes. Drivers are reminded that cars going off at Turn 5 are expected to follow the Competition Notes whenever it is reasonably possible to do so. The penalty applied is in accordance with precedents for similar infractions during Free Practice.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     }
+    ],
+    "refs": [
+     24
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "published_local": "2026-09-11T14:43"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - DECISION - Car 16 - Alleged failure to follow RD instructions - Escape road instructions",
+   "subject": "DECISION - Car 16 - Alleged failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_decision_-_car_16_-_alleged_failure_to_follow_rd_instructions_-_escape_road_instructions_.pdf",
+   "published": "2026-09-11T14:37",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "16 - Bruno Del Pino",
+    "competitor": "Van Amersfoort Racing",
+    "time": "10:31",
+    "session": "Practice",
+    "fact": "Car 16 (Del Pino) remained on track between Turns 5 and 6.",
+    "infringement": "Alleged breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow Competition Notes, Item 15.1.b).",
+    "decision": "No further action.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 18). In a case of mistaken identity, the Stewards erroneously summoned the driver of Car 16 (BDE) for the alleged infraction instead of the driver of Car 15 (EDE). Accordingly, the Stewards take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     }
+    ],
+    "refs": [
+     18,
+     23
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    18
+   ],
+   "published_local": "2026-09-11T14:37"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - INFRINGEMENT - Car 11 - Impeding of Car 14 in Practice",
+   "subject": "INFRINGEMENT - Car 11 - Impeding of Car 14 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_11_-_impeding_of_car_14_in_practice.pdf",
+   "published": "2026-09-11T14:27",
+   "recalled": false,
+   "cars": [
+    11,
+    14
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Maciej Gladysz",
+    "competitor": "ART Grand Prix",
+    "time": "10:32",
+    "session": "Practice",
+    "fact": "Car 14 (Yamakoshi) was impeded by Car 11 (Gladysz) who was driving slowly on the racing line between Turns 5 and 6.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Warning given to the Driver of Car 11.",
+    "reason": "The Stewards examined video evidence. They summoned and heard the Drivers and Team representatives (Documents 15 and 16). The Driver of Car 14 (YAM) explained that he was on a flying lap on the approach to Turn 5, with Car 11 (GLA) ahead of him. GLA explained that he was on the radio and did not realize that YAM was approaching until it was too late to take steps to avoid impeding him. He further explained that, considering the characteristics of Turns 5 and 6, he did not consider it appropriate to move off the racing line at that time. He subsequently gave way after Turn 6. During the hearing GLA acknowledged his mistake and apologised. The Stewards determine that GLA unnecessarily impeded Car 14 and elect to issue a Warning in accordance with the Penalty Guidelines and consistent with previous precedents for similar infringements during the Free Practice Session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     15,
+     22
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    15
+   ],
+   "published_local": "2026-09-11T14:27"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - INFRINGEMENT - Car 6 - Failure to follow RD instructions - Practice starts infringement",
+   "subject": "INFRINGEMENT - Car 6 - Failure to follow RD instructions - Practice starts infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_car_6_-_failure_to_follow_rd_instructions_-_practice_starts_infringement.pdf",
+   "published": "2026-09-11T13:49",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "competitor": "Trident",
+    "time": "10:48",
+    "session": "Practice",
+    "fact": "Car 6 (DePalo) did not follow the Race Director instructions - practice start performed with Car 7 (Colnaghi) directly in front of him on the grid.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - failure to follow Competition Notes, Item 15.1.b).",
+    "decision": "Warning",
+    "reason": "The Stewards examined video evidence. They summoned and heard the driver and team representative (document 17). DEP explained that he released the clutch when Car 7 (COL) first moved. Unfortunately, COL immediately stalled and became stationary. DEP then moved immediately into the center lane and passed COL. Item 15.1.b of the Competition Notes provides that, “Under no circumstances should a driver make a practice start if another car is still stationary ahead on the same side of the grid.” The stewards acknowledge that COL’s stall played a factor in the situation, that DEP tempered his practice start once he realized that COL had stalled and that the passing manouevre did not prove to be dangerous to any other cars. The Stewards determine that a practice start infringement occurred, but in light of the forgoing mitigating circumstances elect to issue a warning which is less than the standard penalty for such an infraction.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     17,
+     21
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    17
+   ],
+   "published_local": "2026-09-11T13:49"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENT - Practice - Lap time cancellations - Double waved yellow flags",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations - Double waved yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_practice_-_lap_time_cancellations_-_double_waved_yellow_flags.pdf",
+   "published": "2026-09-11T13:37",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "28": 1,
+     "14": 1,
+     "12": 1,
+     "30": 1,
+     "18": 1,
+     "3": 1,
+     "9": 1,
+     "1": 1,
+     "2": 1,
+     "17": 1
+    },
+    "drivers": [
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-11T13:37"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Practice - Lap time cancellations",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_infringement_-_practice_-_lap_time_cancellations.pdf",
+   "published": "2026-09-11T13:37",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "12": 1,
+     "23": 5,
+     "15": 5,
+     "4": 3,
+     "25": 4,
+     "16": 4,
+     "27": 4,
+     "6": 1,
+     "29": 1,
+     "22": 2,
+     "17": 5,
+     "9": 3,
+     "19": 8,
+     "14": 2,
+     "30": 1,
+     "1": 1,
+     "11": 1
+    },
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 19,
+      "name": "Niccolo Maccagnani"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-09-11T13:37"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - SUMMONS - Car 16 - Alleged failure to follow RD instructions - Escape road instructions",
+   "subject": "SUMMONS - Car 16 - Alleged failure to follow RD instructions - Escape road instructions",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_16_-_alleged_failure_to_follow_rd_instructions_-_escape_road_instructions.pdf",
+   "published": "2026-09-11T12:21",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Bruno Del Pino",
+    "reason": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code and F3 Madrid Competition Notes item 25.1 - alleged failure to follow Race Director's instructions - escape road instructions",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Bruno Del Pino"
+     }
+    ],
+    "refs": [
+     18
+    ]
+   },
+   "related": [
+    23
+   ],
+   "published_local": "2026-09-11T12:21"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - SUMMONS - Car 6 - Alleged failure to follow RD instructions - Practice Start infringement",
+   "subject": "SUMMONS - Car 6 - Alleged failure to follow RD instructions - Practice Start infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_6_-_alleged_failure_to_follow_rd_instructions_-_practice_start_infringement.pdf",
+   "published": "2026-09-11T12:12",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "reason": "Alleged breach of Article 12.2.1.i of the 2026 FIA International Sporting Code and F3 Madrid Competition Notes item 15.1 - alleged failure to follow Race Director's instructions - practice start infringement.",
+    "from": "The Stewards",
+    "competitor": "Trident",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     17
+    ]
+   },
+   "related": [
+    21
+   ],
+   "published_local": "2026-09-11T12:12"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - SUMMONS - Car 14 - Allegedly impeded by Car 11 in Practice",
+   "subject": "SUMMONS - Car 14 - Allegedly impeded by Car 11 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_14_-_allegedly_impeded_by_car_11_in_practice.pdf",
+   "published": "2026-09-11T11:58",
+   "recalled": false,
+   "cars": [
+    11,
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "14 - Hiyu Yamakoshi",
+    "reason": "Alleged breach of Article 31.6 of the 2026 FIA Formula 3 Sporting Regulations - Car 11 (Gladysz) allegedly impeded Car 14 (Yamakoshi) in Turn 6 in Practice.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Hiyu Yamakoshi"
+     }
+    ],
+    "refs": [
+     16
+    ]
+   },
+   "published_local": "2026-09-11T11:58"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - SUMMONS - Car 11 - Allegedly impeded Car 14 in Practice",
+   "subject": "SUMMONS - Car 11 - Allegedly impeded Car 14 in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_summons_-_car_11_-_allegedly_impeded_car_14_in_practice.pdf",
+   "published": "2026-09-11T11:57",
+   "recalled": false,
+   "cars": [
+    11,
+    14
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Maciej Gladysz",
+    "reason": "Alleged breach of Article 31.6 of the 2026 FIA Formula 3 Sporting Regulations - Car 11 (Gladysz) allegedly impeded Car 14 (Yamakoshi) in Turn 6 in Practice.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     15
+    ]
+   },
+   "related": [
+    22
+   ],
+   "published_local": "2026-09-11T11:57"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - F3 Practice - Classification",
+   "subject": "F3 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_practice_-_classification.pdf",
+   "published": "2026-09-11T11:20",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-11T11:20"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - F3 Madrid Competition Notes 2026 v2",
+   "subject": "F3 Madrid Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_madrid_competition_notes_2026_v2.pdf",
+   "published": "2026-09-11T09:22",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 42,
+   "published_local": "2026-09-11T09:22"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - F3 Madrid Pit Lane Drawing 2026",
+   "subject": "F3 Madrid Pit Lane Drawing 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_madrid_pit_lane_drawing_2026.pdf",
+   "published": "2026-09-10T21:17",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T21:17"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Circuit Map V3 - Madrid 2026",
+   "subject": "Circuit Map V3 - Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_circuit_map_v3_-_madrid_2026.pdf",
+   "published": "2026-09-10T19:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T19:35"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Stewards Communication 1 - Madrid 2026",
+   "subject": "Stewards Communication 1 - Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_stewards_communication_1_-_madrid_2026.pdf",
+   "published": "2026-09-10T19:29",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T19:29"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F3 Entry List - Madrid 2026",
+   "subject": "F3 Entry List - Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_entry_list_-_madrid_2026.pdf",
+   "published": "2026-09-10T19:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T19:02"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Bulletin 4 - Amendment to Supplementary Regulations",
+   "subject": "Bulletin 4 - Amendment to Supplementary Regulations",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_bulletin_4_-_amendment_to_supplementary_regulations.pdf",
+   "published": "2026-09-10T18:57",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T18:57"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F3 Technical Delegates Report 1",
+   "subject": "F3 Technical Delegates Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_technical_delegates_report_1.pdf",
+   "published": "2026-09-10T18:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T18:41"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - F3 Madrid Competition Notes 2026 v1",
+   "subject": "F3 Madrid Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_f3_madrid_competition_notes_2026_v1.pdf",
+   "published": "2026-09-10T16:21",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 42,
+   "published_local": "2026-09-10T16:21"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Circuit Map - Madrid 2026",
+   "subject": "Circuit Map - Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_circuit_map_-_madrid_2026.pdf",
+   "published": "2026-09-10T15:38",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 11,
+   "published_local": "2026-09-10T15:38"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Bulletin 3 - Operational personnel - SR 21.5",
+   "subject": "Bulletin 3 - Operational personnel - SR 21.5",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_bulletin_3_-_operational_personnel_-_sr_21.5.pdf",
+   "published": "2026-09-10T14:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T14:43"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 2 - Restricted period",
+   "subject": "Bulletin 2 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_bulletin_2_-_restricted_period.pdf",
+   "published": "2026-09-10T14:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T14:35"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Bulletin 1 - Format - Amendments to various articles",
+   "subject": "Bulletin 1 - Format - Amendments to various articles",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_bulletin_1_-_format_-_amendments_to_various_articles.pdf",
+   "published": "2026-09-10T14:17",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T14:17"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Visa - F3 Madrid 2026",
+   "subject": "Visa - F3 Madrid 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_madrid_event_-_visa_-_f3_madrid_2026.pdf",
+   "published": "2026-09-10T13:48",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-09-10T13:48"
+  }
+ ]
+}

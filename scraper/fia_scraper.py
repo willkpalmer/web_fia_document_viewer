@@ -49,6 +49,9 @@ SERIES = [
     {"id": "f2", "label": "Formula 2", "championship": "FIA Formula 2 Championship",
      "url": BASE + "/documents/championships/formula-2-championship-44",
      "data": DATA_DIR / "f2", "timetable_label": "FIA FORMULA 2"},
+    {"id": "f3", "label": "Formula 3", "championship": "FIA Formula 3 Championship",
+     "url": BASE + "/documents/championships/fia-formula-3-championship-1012",
+     "data": DATA_DIR / "f3", "timetable_label": "FIA FORMULA 3"},
 ]
 CACHE_VERSION = 2  # cache stores raw PDF text; parsing reruns every time
 
@@ -318,6 +321,7 @@ SESSION_NAMES = {
         (r"^SPRINT RACE", "Sprint Race"), (r"^FEATURE RACE", "Feature Race"),
     ],
 }
+SESSION_NAMES["FIA FORMULA 3"] = SESSION_NAMES["FIA FORMULA 2"]   # same weekend format
 MONTHS = {m: i for i, m in enumerate(["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST",
                                        "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"], 1)}
 
@@ -325,7 +329,7 @@ MONTHS = {m: i for i, m in enumerate(["JANUARY", "FEBRUARY", "MARCH", "APRIL", "
 def parse_timetable(text: str, label: str = "FORMULA 1") -> dict:
     """One series' track sessions in a timetable PDF -> {name: (start_local, end_local)}."""
     rx_row, names = row_rx(label), SESSION_NAMES[label]
-    out, day = {}, None
+    out, day, found = {}, None, []
     for line in text.splitlines():
         m = DAY_RX.match(line)
         if m and m.group(3) in MONTHS:
@@ -341,8 +345,16 @@ def parse_timetable(text: str, label: str = "FORMULA 1") -> dict:
                 end_day = day
                 if end < start:  # runs past midnight
                     end_day = (datetime.fromisoformat(day) + timedelta(days=1)).strftime("%Y-%m-%d")
-                out[name] = (f"{day}T{start}", f"{end_day}T{end}")
+                found.append((name, (f"{day}T{start}", f"{end_day}T{end}")))
                 break
+    # a session type listed more than once (e.g. two feature races) becomes "Feature Race 1", "Feature Race 2"
+    totals = Counter(n for n, _ in found)
+    seen = Counter()
+    for name, times in found:
+        if totals[name] > 1:
+            seen[name] += 1
+            name = f"{name} {seen[name]}"
+        out[name] = times
     return out
 
 
@@ -416,7 +428,8 @@ def build_sessions(timetables, offset_min: int, docs=(), f1_sessions=None, label
                         inferred[name] = d["published_local"]
                     break
     else:
-        have = {re.sub(r" \(Group [AB]\)", "", n) for n in sessions}
+        # "Qualifying (Group A)" covers "Qualifying"; "Feature Race 1"/"2" cover "Feature Race"
+        have = {re.sub(r" \(Group [AB]\)| \d$", "", n) for n in sessions} | set(sessions)
         inferred = {n: t for n, t in f2_classified_sessions(docs).items() if n not in sessions and n not in have}
     for name, published in inferred.items():
         utc = to_utc(published)
@@ -770,7 +783,7 @@ def main():
     ap.add_argument("--no-pdfs", action="store_true", help="skip downloading stewards PDFs")
     ap.add_argument("--reparse", action="store_true", help="re-download all PDFs")
     ap.add_argument("--no-f1", action="store_true", help="don't use formula1.com for missing session times")
-    ap.add_argument("--series", default="f1,f2", help="comma-separated series to scrape (default: f1,f2)")
+    ap.add_argument("--series", default="f1,f2,f3", help="comma-separated series to scrape (default: all)")
     ap.add_argument("--delay", type=float, default=0.4, help="seconds between requests")
     args = ap.parse_args()
 

@@ -3,7 +3,7 @@
 const S = { index: null, events: {}, penalties: null, catById: {} };
 
 // Which championship this page shows: ./ (F1) or ./?series=f2. F1 data lives at data/, others at data/<id>/.
-const SERIES_LIST = [{ id: "f1", short: "F1" }, { id: "f2", short: "F2" }];
+const SERIES_LIST = [{ id: "f1", short: "F1" }, { id: "f2", short: "F2" }, { id: "f3", short: "F3" }];
 const SERIES = (() => {
   const want = new URLSearchParams(location.search).get("series");
   return SERIES_LIST.some((x) => x.id === want) ? want : "f1";

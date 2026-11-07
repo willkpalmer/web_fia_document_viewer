@@ -25,7 +25,7 @@ CATEGORIES = [
 
 # (category, pattern)
 RULES = [
-    ("stewards", r"^\(?(infringe?ment|infringment|corrected infringement|summons|decision|offence|"
+    ("stewards", r"^\(?(infri?n?ge?ment|corrected infringement|summons|decision|offence|"
                  r"hearing|steward|notification)\b"),
     ("stewards", r"right of review|withdrawal|^car \d|^cars \d|tyre return infringement|"
                  r"penalty points|^[a-z ]+ - car \d"),
@@ -35,7 +35,7 @@ RULES = [
     ("race_director", r"race director|competition notes|event notes|drivers' meeting|procedure|"
                       r"curfew|restricted period|hazard|lightning|deleted lap|sc\d|safety car|"
                       r"pit lane|track limits"),
-    ("results", r"classification|starting grid|\bgrid\b|championship points|driver championship|"
+    ("results", r"classifi?c?i?a?c?t?ion|classif\w*|starting grid|\bgrid\b|championship points|driver championship|"
                 r"team championship|lap times|speed trap|results"),
     ("admin", r"entry list|timetable|competition visa|\bvisa\b|bulletin|regulations|biograph|circuit map|"
               r"stewards|accreditation"),
@@ -53,7 +53,7 @@ def categorise(subject: str) -> str:
 
 _STEWARDS_TYPES = [
     ("Corrected Infringement", r"^corrected infringement"),
-    ("Infringement", r"^\(?infringe?ment|^infringment|tyre return infringement"),
+    ("Infringement", r"^\(?infri?n?ge?ment|tyre return infringement"),
     ("Summons", r"^summons"),
     ("Decision", r"^decision"),
     ("Right of Review", r"right of review"),

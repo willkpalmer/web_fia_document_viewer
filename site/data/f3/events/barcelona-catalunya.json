@@ -1,0 +1,1749 @@
+{
+ "event": {
+  "slug": "barcelona-catalunya",
+  "name": "Barcelona-Catalunya",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-3-championship-1012/season/season-2026-2072/event/Barcelona-Catalunya",
+  "doc_count": 60,
+  "first_published": "2026-06-11T14:27",
+  "last_published": "2026-06-14T12:19",
+  "first_local": "2026-06-11T14:27",
+  "last_local": "2026-06-14T12:19",
+  "utc_offset_min": 120,
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "start_local": "2026-06-12T09:55",
+    "end_local": "2026-06-12T10:40",
+    "start_utc": "2026-06-12T07:55Z",
+    "end_utc": "2026-06-12T08:40Z",
+    "source": "fia"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-06-12T15:00",
+    "end_local": "2026-06-12T15:30",
+    "start_utc": "2026-06-12T13:00Z",
+    "end_utc": "2026-06-12T13:30Z",
+    "source": "fia"
+   },
+   {
+    "name": "Sprint Race",
+    "start_local": "2026-06-13T10:05",
+    "end_local": "2026-06-13T10:50",
+    "start_utc": "2026-06-13T08:05Z",
+    "end_utc": "2026-06-13T08:50Z",
+    "source": "fia"
+   },
+   {
+    "name": "Feature Race",
+    "start_local": "2026-06-14T08:40",
+    "end_local": "2026-06-14T09:30",
+    "start_utc": "2026-06-14T06:40Z",
+    "end_utc": "2026-06-14T07:30Z",
+    "source": "fia"
+   }
+  ],
+  "location": {
+   "circuit": "Circuit de Barcelona-Catalunya",
+   "lat": 41.57,
+   "lon": 2.2611
+  },
+  "counts": {
+   "results": 13,
+   "technical": 5,
+   "stewards": 31,
+   "admin": 7,
+   "race_director": 4
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 60,
+   "title": "Doc 60 - F3 Team Championship - Barcelona 2026",
+   "subject": "F3 Team Championship - Barcelona 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_team_championship_-_barcelona_2026.pdf",
+   "published": "2026-06-14T12:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-14T12:19"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - F3 Driver Championship - Barcelona 2026",
+   "subject": "F3 Driver Championship - Barcelona 2026",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_driver_championship_-_barcelona_2026.pdf",
+   "published": "2026-06-14T12:19",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-14T12:19"
+  },
+  {
+   "num": 58,
+   "title": "Doc 58 - F3 Race 2 (Feature) - Final classification",
+   "subject": "F3 Race 2 (Feature) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_2_feature_-_final_classification.pdf",
+   "published": "2026-06-14T12:12",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-14T12:12"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - F3 Technical Delegates Report 4",
+   "subject": "F3 Technical Delegates Report 4",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_technical_delegates_report_4.pdf",
+   "published": "2026-06-14T11:54",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-14T11:54"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_race_2_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-14T11:50",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The car below did not use the track at Turn 14",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA BARCELONA EVENT 11 TO 14 JUNE 2026 International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "1": 1,
+     "23": 1,
+     "24": 2,
+     "2": 1,
+     "5": 1,
+     "8": 1,
+     "20": 1,
+     "28": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 20,
+      "name": "Louise Sharp"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     }
+    ],
+    "refs": [
+     56
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-14T11:50"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - INFRINGEMENT - Race 2 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 2 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_race_2_-_lap_time_cancellations.pdf",
+   "published": "2026-06-14T11:50",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 2",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident        Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations. BARCELONA EVENT 11 TO 14 JUNE 2026",
+    "table_rows": {
+     "30": 2,
+     "9": 3,
+     "5": 1,
+     "2": 1,
+     "12": 1,
+     "8": 4,
+     "25": 1,
+     "23": 2,
+     "10": 1,
+     "22": 1,
+     "31": 1,
+     "11": 2
+    },
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 2,
+      "name": "Ugo Ugochukwu"
+     },
+     {
+      "car": 12,
+      "name": "Kanato Le"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 10,
+      "name": "Taito Kato"
+     },
+     {
+      "car": 22,
+      "name": "Jose Garfias"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     55
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-14T11:50"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - INFRINGEMENT - Car 25 - VSC infringement",
+   "subject": "INFRINGEMENT - Car 25 - VSC infringement",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_25_-_vsc_infringement.pdf",
+   "published": "2026-06-14T11:41",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "25 - Jin Nakamura",
+    "competitor": "Hitech",
+    "time": "09:02",
+    "session": "Race 2",
+    "fact": "Car 25 (Nakamura) failed to stay above the VSC minimum delta time at the end of the VSC period.",
+    "infringement": "Breach of Article 41.5 of the FIA Formula 3 Sporting Regulations",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. In addition, 1 penalty point to be added to the driver’s record. Total for the 2026 season = 1 penalty point.",
+    "reason": "The Stewards examined timing data evidence. Car 25 (NAK) breached the VSC minimum delta time by 1.1 seconds at the end of the VSC period. The Stewards determine that the driver has committed an infringement of Article 41.5 of the FIA F3 Sporting Regulations and decide to apply the standard time penalty of 5 seconds.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     }
+    ],
+    "refs": [
+     54
+    ],
+    "tags": [
+     "5s time penalty",
+     "1 penalty point"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 1
+   },
+   "published_local": "2026-06-14T11:41"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - INFRINGEMENT - Car 5 - Leaving track and gaining an advantage",
+   "subject": "INFRINGEMENT - Car 5 - Leaving track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_5_-_leaving_track_and_gaining_an_advantage.pdf",
+   "published": "2026-06-14T11:39",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Freddie Slater",
+    "competitor": "Trident",
+    "time": "08:44",
+    "session": "Race 2",
+    "fact": "Car 5 (Slater) left the track and gained an advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five seconds (5) time penalty in accordance with Article 39.3 (a) of the FIA F3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. Car 5 (SLA) was on the outside of Car 10 (KAT) at Turn 1, without enough overlap to establish his right to racing room. SLA exceeded track limits when approaching Turn 2, rejoined in front of KAT, and retained the position. The Stewards determined that SLA left the track and gained a lasting advantage. In determining the penalty, the Stewards considered the fact that this incident occurred at Turn 2 on Lap 1 as mitigating circumstances.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     }
+    ],
+    "refs": [
+     53
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-14T11:39"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - INFRINGEMENT - Car 23 - Causing a collision with Car 27 at Turn 5",
+   "subject": "INFRINGEMENT - Car 23 - Causing a collision with Car 27 at Turn 5",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_23_-_causing_a_collision_with_car_27_at_turn_5.pdf",
+   "published": "2026-06-14T11:37",
+   "recalled": false,
+   "cars": [
+    23,
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Woohyun Shin",
+    "competitor": "Hitech",
+    "time": "08:46",
+    "session": "Race 2",
+    "fact": "Car 23 (Shin) collided with the rear of Car 27 (David) at Turn 5.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. In addition, 2 penalty points to be added to the driver’s record. Total for the 2026 season = 2 penalty points.",
+    "reason": "The Stewards examined video evidence. Car 23 (SHI) was trailing Car 27 (DAV) approaching Turn 5. At the apex, SHI collided with the rear of DAV. The Stewards determine that SHI was wholly responsible for the incident and apply the standard penalty for this type of infringement.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     }
+    ],
+    "refs": [
+     52
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-06-14T11:37"
+  },
+  {
+   "num": 51,
+   "title": "Doc 51 - F3 Race 2 (Feature) - Provisional classification",
+   "subject": "F3 Race 2 (Feature) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_2_feature_-_provisional_classification.pdf",
+   "published": "2026-06-14T09:44",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-14T09:44"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - F3 Race 2 (Feature) - Final starting grid",
+   "subject": "F3 Race 2 (Feature) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_2_feature_-_final_starting_grid.pdf",
+   "published": "2026-06-14T07:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-14T07:40"
+  },
+  {
+   "num": 49,
+   "title": "Doc 49 - F3 Race 2 (Feature) - Provisional starting grid",
+   "subject": "F3 Race 2 (Feature) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_2_feature_-_provisional_starting_grid.pdf",
+   "published": "2026-06-13T18:17",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-13T18:17"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - F3 Race 1 (Sprint) - Final classification",
+   "subject": "F3 Race 1 (Sprint) - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_1_sprint_-_final_classification.pdf",
+   "published": "2026-06-13T18:14",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-13T18:14"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - DECISION - Car 18 - Right of Review",
+   "subject": "DECISION - Car 18 - Right of Review",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_decision_-_car_18_-_right_of_review_.pdf",
+   "published": "2026-06-13T17:19",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "18 - Brando Badoer",
+    "competitor": "Rodin Motorsport",
+    "time": "10:15",
+    "session": "Race 1",
+    "fact": "Car 18 (Badoer) made nose to tail contact with Car 3 (Rivera) at turn 14 after Car 3 experienced an electrical problem and loss of power.",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "In relation to the penalty applied to Car 18 in Document 30 we determine: a. The penalty is rescinded. b. The 10 seconds added to the elapsed race time of Car 18 on the provisional results shall be removed when preparing and issuing the final classification. c. The two (2) penalty points added to the driver’s record shall be removed. Total for the 2026 season = 0 points. d. No Further Action is taken in relation to the collision between Car 18 and Car 3 at Turn 14.",
+    "reason": "During the Sprint Race, the Stewards issued an in-race 10 seconds penalty to Car 18 (BAD) for causing a collision with Car 3 (RIV). This penalty was issued during the session without a hearing based on the video evidence available. After the Sprint Race, the Team Manager of RIV informed the Stewards that RIV suffered an electrical failure on the exit of Turn 14 which caused it to lose power. The Stewards, having determined that this information constituted a significant, new and relevant element that was unavailable to them at the time of the decision, decided to re- examine Decision Document N. 30, pursuant Article 14.1.2 of the FIA International Sporting Code. The team representatives were summoned and heard. The Team Manager of RIV confirmed the technical failure which caused the loss of power of RIV at Turn 14 while BAD was approaching at full speed. The Team Manager of BAD stated that the driver had no time to react and to avoid RIV in front of him, who was losing power and speed. Having considered the matter extensively, the Stewards determined that BAD was merely trying to avoid a stricken car, that he tried his best to avoid RIV, and that neither driver is wholly or predominantly responsible for the collision. Accordingly, the findings and penalties set forth in Document 30 are hereby vacated and revised as set forth herein.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     }
+    ],
+    "refs": [
+     30,
+     42,
+     47
+    ],
+    "tags": [
+     "No further action",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    30,
+    42
+   ],
+   "published_local": "2026-06-13T17:19"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - DECISION - Car 17 - Allegedly involved in a collision with Car 6",
+   "subject": "DECISION - Car 17 - Allegedly involved in a collision with Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_decision_-_car_17_-_allegedly_involved_in_a_collision_with_car_6.pdf",
+   "published": "2026-06-13T17:14",
+   "recalled": false,
+   "cars": [
+    6,
+    17
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "17 - Pedro Clerot",
+    "competitor": "Rodin Motorsport",
+    "time": "10:38",
+    "session": "Race 1",
+    "fact": "Car 6 (De Palo) and Car 17 (Clerot) collided at T1",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No Further Action",
+    "reason": "The Stewards examined video evidence. Car 17 (CLE) attempted an outside overtake on Car 6 (DEP) at turn 1. CLE was ahead of DEP at the apex of turn 1 with approximately half of the car in front of DEP. As CLE turned in a collision occurred between the right-rear wheel of CLE and left-front wheel of DEP. DEP spun and lost several positions while CLE continued without any disadvantage. During the hearing, both drivers acknowledged that the other had respected their right to racing room and that the collision was a consequence of racing circumstances. Having considered the matter extensively, the Stewards determine that neither driver was wholly or predominantly responsible for the collision. Based on the totality of the circumstances, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     }
+    ],
+    "refs": [
+     46
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-06-13T17:14"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - DECISION - Car 6 - Allegedly involved in a collision with Car 17",
+   "subject": "DECISION - Car 6 - Allegedly involved in a collision with Car 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_decision_-_car_6_-_allegedly_involved_in_a_collision_with_car_17.pdf",
+   "published": "2026-06-13T17:13",
+   "recalled": false,
+   "cars": [
+    6,
+    17
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "competitor": "Trident",
+    "time": "10:38",
+    "session": "Race 1",
+    "fact": "Car 6 (De Palo) and Car 17 (Clerot) collided at T1",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "No Further Action",
+    "reason": "The Stewards examined video evidence. Car 17 (CLE) attempted an outside overtake on Car 6 (DEP) at turn 1. CLE was ahead of DEP at the apex of turn 1 with approximately half of the car in front of DEP. As CLE turned in a collision occurred between the right-rear wheel of CLE and left-front wheel of DEP. DEP spun and lost several positions while CLE continued without any disadvantage. During the hearing, both drivers acknowledged that the other had respected their right to racing room and that the collision was a consequence of racing circumstances. Having considered the matter extensively, the Stewards determine that neither driver was wholly or predominantly responsible for the collision. Based on the totality of the circumstances, the Stewards elect to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-06-13T17:13"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - SUMMONS - Car 3 - Right of Review (Document 30)",
+   "subject": "SUMMONS - Car 3 - Right of Review (Document 30)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_summons_-_car_3_-_right_of_review_document_30.pdf",
+   "published": "2026-06-13T16:34",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Ernesto Rivera",
+    "reason": "In accordance with Article 14.1.2 of the FIA International Sporting Code (ISC), the Stewards have decided (Document 42) to re-examine their decision on Car 18 (Badoer) posted as document 30 on their own initiative. In accordance with Article 14 of the FIA International Sporting Code, this hearing is to re-examine the collision between Cars 3 and 18 that was the subject of Document 30.",
+    "from": "The Stewards",
+    "competitor": "Campos Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     }
+    ],
+    "refs": [
+     30,
+     42,
+     44
+    ]
+   },
+   "related": [
+    30,
+    42
+   ],
+   "published_local": "2026-06-13T16:34"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - SUMMONS - Car 18 - Right of Review (Document 30)",
+   "subject": "SUMMONS - Car 18 - Right of Review (Document 30)",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_summons_-_car_18_-_right_of_review_document_30.pdf",
+   "published": "2026-06-13T16:33",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "18 - Brando Badoer",
+    "reason": "In accordance with Article 14.1.2 of the FIA International Sporting Code (ISC), the Stewards have decided (Document 42) to re-examine their decision on Car 18 (Badoer) posted as document 30 on their own initiative. In accordance with Article 14 of the FIA International Sporting Code, this hearing is to re-examine the collision between Cars 3 and 18 that was the subject of Document 30.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     }
+    ],
+    "refs": [
+     30,
+     42,
+     43
+    ]
+   },
+   "related": [
+    30,
+    42
+   ],
+   "published_local": "2026-06-13T16:33"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Stewards' Right of Review - Document 30",
+   "subject": "Stewards' Right of Review - Document 30",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_stewards_right_of_review_-_document_30.pdf",
+   "published": "2026-06-13T16:11",
+   "recalled": false,
+   "cars": [],
+   "type": "Right of Review",
+   "details": {
+    "decision": "1: The Stewards election to review the Decision is timely, proper, and valid.",
+    "from": "The Stewards",
+    "reason": ": Deadline:       This decision is made within the deadline set forth in Article 14.4.1 of the ISC. Deposit:        No deposit is required, in accordance with Article 14.4.3 of the ISC.",
+    "refs": [
+     30,
+     42
+    ],
+    "tags": [],
+    "outcome": "other"
+   },
+   "related": [
+    30,
+    43,
+    44,
+    47
+   ],
+   "published_local": "2026-06-13T16:11"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - INFRINGEMENT - Car 30 - Leaving the track and gaining an advantage",
+   "subject": "INFRINGEMENT - Car 30 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_30_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-06-13T16:06",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:11",
+    "session": "Race 1",
+    "fact": "Car 30 (Bhirombhakdi) went off track at Turn 2 gaining lasting advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 12.4.1.h of the FIA International Sporting Code. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. Approaching T1 – T 2, Car 28 (BAR) was fighting for position with Car 24 (MCL), while both cars were overtaking Car 30 (BHI) which was on the outside. As the three cars were alongside each other at the exit of turn 1, BHI left the track and subsequently rejoined after turn 2 in front of BAR and MCL, overtaking them. BHI didn’t give the position back afterwards. Having considered the matter extensively, the Stewards determined that BHI gained a lasting advantage by leaving the track. Accordingly, the standard penalty was applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     41
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T16:06"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - INFRINGEMENT - Car 19 - Leaving the track and gaining an advantage",
+   "subject": "INFRINGEMENT - Car 19 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_19_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-06-13T16:05",
+   "recalled": false,
+   "cars": [
+    19
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "19 - Christian Ho",
+    "competitor": "Rodin Motorsport",
+    "time": "10:12",
+    "session": "Race 1",
+    "fact": "Car 19 (CHO) went off track at T1 - T2 gaining lasting advantage.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 12.4.1.h of the FIA International Sporting Code. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video evidence. Approaching Turn 1, Car 28 (BAR) attempted an overtake on the inside of Car 19 (CHO). While defending his position, CHO left the track and subsequently rejoined at Turn 2 fully ahead of BAR. When a car goes off track while defending, it is generally expected that they concede the position. Having considered the matter extensively, the Stewards determined that by retaining a position that he should have properly conceded, CHO retained a lasting advantage. Accordingly, the standard penalty was applied.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     }
+    ],
+    "refs": [
+     40
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T16:05"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - F3 Technical Delegates Report 3",
+   "subject": "F3 Technical Delegates Report 3",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_technical_delegates_report_3.pdf",
+   "published": "2026-06-13T15:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-13T15:47"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - INFRINGEMENT - Car 30 - Track limit violations 4x",
+   "subject": "INFRINGEMENT - Car 30 - Track limit violations 4x",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_30_-_track_limit_violations_4x.pdf",
+   "published": "2026-06-13T15:28",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "30 - Nandhavud Bhirombhakdi",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:30",
+    "session": "Race 1",
+    "fact": "Car 30 (Bhirombhakdi) exceeded track limits during Race 1 on 4 separate occasions.",
+    "infringement": "Breach of Article 27.3 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "Five-second (5) time penalty in accordance with Article 39.3 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards received a report from the Race Director. Having considered the matter extensively, the Stewards determined that Car 30 exceeded track limits on 4 separate occasions and therefore penalised him accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     }
+    ],
+    "refs": [
+     38
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T15:28"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_race_1_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-13T15:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The car below did not use the track at Turn 14",
+    "decision": "Deletion of the lap time shown in accordance with Article 12.4.1.e of the FIA International Sporting Code - lap and next lap.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "18": 1,
+     "5": 1
+    },
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     }
+    ],
+    "refs": [
+     37
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-13T15:26"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - INFRINGEMENT - Race 1 - Lap time cancellations",
+   "subject": "INFRINGEMENT - Race 1 - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_race_1_-_lap_time_cancellations.pdf",
+   "published": "2026-06-13T15:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race 1",
+    "fact": "The cars below did not use the track at the turns detailed below. Incident       Lap",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "reason": "The Stewards received timing information from the Race Director. The cars left the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the item 18.2 of the Race Director’s Competition Notes. BARCELONA EVENT 11 TO 14 JUNE 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c of the FIA International Sporting Code and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "30": 3,
+     "19": 3,
+     "23": 3,
+     "17": 2,
+     "6": 1,
+     "25": 1,
+     "31": 1,
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Nandhavud Bhirombhakdi"
+     },
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     },
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     }
+    ],
+    "refs": [
+     36
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-13T15:26"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - INFRINGEMENT - Car 19 - False start - Out of position",
+   "subject": "INFRINGEMENT - Car 19 - False start - Out of position",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_19_-_false_start_-_out_of_position.pdf",
+   "published": "2026-06-13T14:14",
+   "recalled": false,
+   "cars": [
+    19
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "19 - Christian Ho",
+    "competitor": "Rodin Motorsport",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 19 was out of position at the start of the race, taking the vacant position left by Car 6.",
+    "infringement": "Breach of Article 37.15 of the 2026 FIA Formula 3 Championship Sporting Regulations.",
+    "decision": "A Drive-Through penalty in accordance with Article 39.3 (c) of the FIA Formula 3 Sporting Regulations. As the penalty was imposed after the race, it is converted to 20 seconds added to the elapsed race time of the Driver concerned in accordance with Article 39.3 of the FIA Formula 3 Sporting Regulations. There are no penalty points associated with this infraction.",
+    "reason": "Car 7 started from the pit lane, causing its grid spot to be empty as other cars started to form up the grid. Car 11, which was supposed to start directly behind Car 7 in 17th position on the grid, moved up to Car 7’s spot. Car 6 followed Car 11’s movement and took up its space. Car 19, in turn, took up car 6’s space on the grid, occupying now the 19th grid spot rather than the correct 21st grid spot. The Stewards consider that the advantage gained is significant enough to warrant an increased penalty for this type of infringement, and therefore consider the applied drive-through penalty appropriate and proportional.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     }
+    ],
+    "refs": [
+     35
+    ],
+    "tags": [
+     "No further action",
+     "Drive-through"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T14:14"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - INFRINGEMENT - Car 11 - False start - Out of position",
+   "subject": "INFRINGEMENT - Car 11 - False start - Out of position",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_11_-_false_start_-_out_of_position.pdf",
+   "published": "2026-06-13T14:13",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Maciej Gladysz",
+    "competitor": "ART Grand Prix",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 11 was out of position at the start of the race, taking the vacant position left by Car 7 which started in the pit lane.",
+    "infringement": "Breach of Article 37.15 of the 2026 FIA Formula 3 Championship Sporting Regulations.",
+    "decision": "A Drive-Through penalty in accordance with Article 39.3 (c) of the FIA Formula 3 Sporting Regulations. As the penalty was imposed after the race, it is converted to 20 seconds added to the elapsed race time of the Driver concerned in accordance with Article 39.3 of the FIA Formula 3 Sporting Regulations. There are no penalty points associated with this infraction.",
+    "reason": "Car 7 started from the pit lane, causing its grid spot to be empty as other cars started to form up the grid. Car 11, which was supposed to start directly behind Car 7 in 17th position on the grid, moved up to Car 7’s spot, effectively having now started the race in 15th position. The Stewards consider that the advantage gained is significant enough to warrant an increased penalty for this type of infringement, and therefore consider the applied drive-through penalty appropriate and proportional.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     34
+    ],
+    "tags": [
+     "No further action",
+     "Drive-through"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T14:13"
+  },
+  {
+   "num": 33,
+   "title": "Doc 33 - INFRINGEMENT - Car 6 - False start - Out of position",
+   "subject": "INFRINGEMENT - Car 6 - False start - Out of position",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_6_-_false_start_-_out_of_position.pdf",
+   "published": "2026-06-13T14:13",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "competitor": "Trident",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 6 was out of position at the start of the race, taking the vacant position left by Car 11.",
+    "infringement": "Breach of Article 37.15 of the 2026 FIA Formula 3 Championship Sporting Regulations.",
+    "decision": "A Drive-Through penalty in accordance with Article 39.3 (c) of the FIA Formula 3 Sporting Regulations. As the penalty was imposed after the race, it is converted to 20 seconds added to the elapsed race time of the Driver concerned in accordance with Article 39.3 of the FIA Formula 3 Sporting Regulations. There are no penalty points associated with this infraction.",
+    "reason": "Car 7 started from the pit lane, causing its grid spot to be empty as other cars started to form up the grid. Car 11, which was supposed to start directly behind Car 7 in 17th position on the grid, moved up to Car 7’s spot. Car 6 followed Car 11’s movement and took up its space. This caused Car 6 to start from 17th position instead of the correct 19th position. The Stewards consider that the advantage gained is significant enough to warrant an increased penalty for this type of infringement, and therefore consider the applied drive-through penalty appropriate and proportional.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     33
+    ],
+    "tags": [
+     "No further action",
+     "Drive-through"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T14:13"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - INFRINGEMENT - Car 29 - False start - Moving before signal",
+   "subject": "INFRINGEMENT - Car 29 - False start - Moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_29_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-13T13:24",
+   "recalled": false,
+   "cars": [
+    29
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "29 - Nicola Lacorte",
+    "competitor": "DAMS Lucas Oil",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 29 (Lacorte) moved before the start signal – false start",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 3 Sporting Regulations and Article 8.6 of the FIA International Sporting Code",
+    "decision": "Five (5) second time penalty in accordance with Article 39.2 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of car 29 (LAC) moved slightly before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose the least of the penalties available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 29,
+      "name": "Nicola Lacorte"
+     }
+    ],
+    "refs": [
+     32
+    ],
+    "tags": [
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T13:24"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - INFRINGEMENT - Car 19 - False start - Moving before signal",
+   "subject": "INFRINGEMENT - Car 19 - False start - Moving before signal",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_19_-_false_start_-_moving_before_signal.pdf",
+   "published": "2026-06-13T13:24",
+   "recalled": false,
+   "cars": [
+    19
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "19 - Christian Ho",
+    "competitor": "Rodin Motorsport",
+    "time": "10:09",
+    "session": "Race 1",
+    "fact": "Car 19 (Ho) moved before the start signal – false start",
+    "infringement": "Breach of Article 37.15 of the FIA Formula 3 Sporting Regulations and Article 8.6 of the FIA International Sporting Code",
+    "decision": "Five (5) second time penalty in accordance with Article 39.2 a) of the FIA Formula 3 Sporting Regulations. No driver penalty points are associated with this infringement.",
+    "reason": "The stewards examined video evidence and telemetry data. Having considered the matter extensively, the Stewards determined that the driver of car 19 (CHO) moved slightly before the start signal was given. The Stewards note that the movement was minimal. Accordingly, the Stewards impose the least of the penalties available to them.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 19,
+      "name": "Christian Ho"
+     }
+    ],
+    "refs": [
+     31
+    ],
+    "tags": [
+     "Time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-06-13T13:24"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - INFRINGEMENT - Car 18 - Causing a collision with Car 3",
+   "subject": "INFRINGEMENT - Car 18 - Causing a collision with Car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_18_-_causing_a_collision_with_car_3.pdf",
+   "published": "2026-06-13T12:26",
+   "recalled": false,
+   "cars": [
+    3,
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Brando Badoer",
+    "competitor": "Rodin Motorsport",
+    "time": "10:15",
+    "session": "Race 1",
+    "fact": "Car 18 (Badoer) made nose to tail contact with Car 3 (Rivera) at turn 14.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 (d) of the FIA International Sporting Code.",
+    "decision": "Ten seconds (10) time penalty in accordance with Article 39.3 (b) of the FIA F3 Sporting Regulations. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 2 points.",
+    "reason": "The Stewards examined video evidence. Car 18 (BAD) was closing on Car 3 (RIV) at the exit of turn 14. BAD moved right to overtake but misjudged his distance to RIV. BAD’s left front wing contacted RIV’s right rear tire. RIV subsequently slowed and retired. Having considered the matter extensively the Stewards determine that BAD is wholly responsible for the collision and elect to impose the standard penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Brando Badoer"
+     }
+    ],
+    "refs": [
+     30
+    ],
+    "tags": [
+     "10s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    42,
+    43,
+    44,
+    47
+   ],
+   "published_local": "2026-06-13T12:26"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - SUMMONS - Car 17 - Allegedly involved in a collision with Car 6 at turn 1",
+   "subject": "SUMMONS - Car 17 - Allegedly involved in a collision with Car 6 at turn 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_summons_-_car_17_-_allegedly_involved_in_a_collision_with_car_6_at_turn_1.pdf",
+   "published": "2026-06-13T12:23",
+   "recalled": false,
+   "cars": [
+    6,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Pedro Clerot",
+    "reason": "Alleged breach of App. L, Ch IV, 2 d) of the International Sporting Code - Car 6 (De Palo) and Car 17 (Clerot) were involved in a collision at turn 1 at 10:38 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Rodin Motorsport",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "published_local": "2026-06-13T12:23"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - SUMMONS - Car 6 - Allegedly involved in a collision with Car 17 at turn 1",
+   "subject": "SUMMONS - Car 6 - Allegedly involved in a collision with Car 17 at turn 1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_summons_-_car_6_-_allegedly_involved_in_a_collision_with_car_17_at_turn_1.pdf",
+   "published": "2026-06-13T12:23",
+   "recalled": false,
+   "cars": [
+    6,
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Matteo De Palo",
+    "reason": "Alleged breach of App. L, Ch IV, 2 d) of the International Sporting Code - Car 6 (De Palo) and Car 17 (Clerot) were involved in a collision at turn 1 at 10:38 in Race 1.",
+    "from": "The Stewards",
+    "competitor": "Trident",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Matteo De Palo"
+     }
+    ],
+    "refs": [
+     28
+    ]
+   },
+   "published_local": "2026-06-13T12:23"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - F3 Race 1 (Sprint) - Provisional classification",
+   "subject": "F3 Race 1 (Sprint) - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_1_sprint_-_provisional_classification.pdf",
+   "published": "2026-06-13T11:10",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-13T11:10"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - F3 Race 1 (Sprint) - Final starting grid",
+   "subject": "F3 Race 1 (Sprint) - Final starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_1_sprint_-_final_starting_grid.pdf",
+   "published": "2026-06-13T09:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-13T09:05"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Timetable V4 - Barcelona 2026",
+   "subject": "Timetable V4 - Barcelona 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_timetable_v4_-_barcelona_2026.pdf",
+   "published": "2026-06-12T21:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T21:02"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - F3 Race 1 (Sprint) - Provisional starting grid",
+   "subject": "F3 Race 1 (Sprint) - Provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-06-12T18:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T18:56"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Podium and Parc Fermé instructions - Barcelona",
+   "subject": "Podium and Parc Fermé instructions - Barcelona",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_podium_and_parc_ferme_instructions_-_barcelona_0.pdf",
+   "published": "2026-06-12T18:53",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T18:53"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - F3 Qualifying - Final classification",
+   "subject": "F3 Qualifying - Final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_qualifying_-_final_classification.pdf",
+   "published": "2026-06-12T18:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T18:47"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - F3 Technical Delegates Report 2",
+   "subject": "F3 Technical Delegates Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_technical_delegates_report_2.pdf",
+   "published": "2026-06-12T18:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T18:45"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - INFRINGEMENT - Car 11 - Impeding of Car 28 in Qualifying",
+   "subject": "INFRINGEMENT - Car 11 - Impeding of Car 28 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_car_11_-_impeding_of_car_28_in_qualifying.pdf",
+   "published": "2026-06-12T18:04",
+   "recalled": false,
+   "cars": [
+    11,
+    28
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Maciej Gladysz",
+    "competitor": "ART Grand Prix",
+    "time": "15:29",
+    "session": "Qualifying",
+    "fact": "Car 11 (Gladysz) impeded Car 28 (Barrichello) on the approach to Turn 10 during the Qualifying Session.",
+    "infringement": "Breach of Article 31.6 of the FIA Formula 3 Sporting Regulations.",
+    "decision": "A drop of three grid positions for both races (Sprint and Feature Races) at this Competition. No driver penalty points are associated with this infringement.",
+    "reason": "The Stewards examined video and GPS evidence They summoned and heard the drivers and team representatives (documents 16 & 17). Approaching Turn 10, Car 28 (BAR) was on a push lap. Car 11 (GLA), which had already aborted its lap, was driving slowly on the racing line at Turn 10. GLA explained that he saw BAR exceed track limits at Turn 9, that he thought that BAR was not pushing anymore, and that he did not expect his approach. Notwithstanding the fact that BAR exceeded track limits, the stewards determine that he was still entitled to push because he did not realize at the time that he had exceeded track limits. BAR was also entitled to keep pushing because the clock was running down and he had the chance to commence another push lap. GLA could have taken steps to avoid unnecessarily impeding BAR, but he did not do so. Accordingly, the Stewards apply the standard penalty for this infringement in a Qualifying session.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     16,
+     20
+    ],
+    "tags": [
+     "3-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    16
+   ],
+   "published_local": "2026-06-12T18:04"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_qualifying_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-12T17:18",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The car below did not use the track at Turn 14.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "17": 1
+    },
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     }
+    ],
+    "refs": [
+     19
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-12T17:18"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - INFRINGEMENT - Qualifying - Lap time cancellations",
+   "subject": "INFRINGEMENT - Qualifying - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_qualifying_-_lap_time_cancellations.pdf",
+   "published": "2026-06-12T17:12",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2. BARCELONA EVENT 11 TO 14 JUNE 2026",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "24": 2,
+     "27": 1,
+     "20": 1,
+     "9": 1,
+     "14": 1,
+     "15": 1,
+     "4": 1,
+     "8": 1,
+     "25": 2,
+     "23": 1,
+     "7": 1,
+     "28": 1,
+     "3": 2,
+     "31": 1
+    },
+    "drivers": [
+     {
+      "car": 24,
+      "name": "Fionn McLaughlin"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     },
+     {
+      "car": 20,
+      "name": "Louise Sharp"
+     },
+     {
+      "car": 9,
+      "name": "Alessandro Giusti"
+     },
+     {
+      "car": 14,
+      "name": "Hitu Yamakoshi"
+     },
+     {
+      "car": 15,
+      "name": "Enzo Deligny"
+     },
+     {
+      "car": 4,
+      "name": "Noah Stromsted"
+     },
+     {
+      "car": 8,
+      "name": "Tuukka Taponen"
+     },
+     {
+      "car": 25,
+      "name": "Jin Nakamura"
+     },
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 7,
+      "name": "Mattia Colnaghi"
+     },
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     },
+     {
+      "car": 3,
+      "name": "Ernesto Rivera"
+     },
+     {
+      "car": 31,
+      "name": "Gerrard Xie"
+     }
+    ],
+    "refs": [
+     18
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-12T17:12"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - SUMMONS - Car 28 - Allegedly impeded by Car 11 in Qualifying",
+   "subject": "SUMMONS - Car 28 - Allegedly impeded by Car 11 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_summons_-_car_28_-_allegedly_impeded_by_car_11_in_qualifying.pdf",
+   "published": "2026-06-12T16:23",
+   "recalled": false,
+   "cars": [
+    11,
+    28
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "28 - Fernando Barrichello",
+    "reason": "Alleged breach of Article 31.6 of the of the FIA Formula 3 Sporting Regulations - Car 11 (GLA) allegedly impeded Car 28 (BAR) at Turn 10 at 15:29.",
+    "from": "The Stewards",
+    "competitor": "AIX Racing",
+    "drivers": [
+     {
+      "car": 28,
+      "name": "Fernando Barrichello"
+     }
+    ],
+    "refs": [
+     17
+    ]
+   },
+   "published_local": "2026-06-12T16:23"
+  },
+  {
+   "num": 16,
+   "title": "Doc 16 - SUMMONS - Car 11 - Allegedly impeded Car 28 in Qualifying",
+   "subject": "SUMMONS - Car 11 - Allegedly impeded Car 28 in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_summons_-_car_11_-_allegedly_impeded_car_28_in_qualifying.pdf",
+   "published": "2026-06-12T16:21",
+   "recalled": false,
+   "cars": [
+    11,
+    28
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "11 - Maciej Gladysz",
+    "reason": "Alleged breach of Article 31.6 of the of the FIA Formula 3 Sporting Regulations - Car 11 (GLA) allegedly impeded Car 28 (BAR) at Turn 10 at 15:29.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Maciej Gladysz"
+     }
+    ],
+    "refs": [
+     16
+    ]
+   },
+   "related": [
+    20
+   ],
+   "published_local": "2026-06-12T16:21"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - F3 Qualifying - Provisional classification",
+   "subject": "F3 Qualifying - Provisional classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_qualifying_-_provisional_classification.pdf",
+   "published": "2026-06-12T15:42",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T15:42"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations - lap and next lap",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_practice_-_lap_time_cancellations_-_lap_and_next_lap.pdf",
+   "published": "2026-06-12T11:38",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "The cars below did not use the track at Turn 14.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations (Lap and next lap).",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turn above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "5": 1,
+     "17": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 17,
+      "name": "Pedro Clerot"
+     },
+     {
+      "car": 27,
+      "name": "Yevan David"
+     }
+    ],
+    "refs": [
+     14
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-12T11:38"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - INFRINGEMENT - Practice - Lap time cancellations",
+   "subject": "INFRINGEMENT - Practice - Lap time cancellations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_infringement_-_practice_-_lap_time_cancellations.pdf",
+   "published": "2026-06-12T11:36",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 3 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 18.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F3 Sporting Regulations.",
+    "table_rows": {
+     "23": 1,
+     "1": 1,
+     "5": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Woohyun Shin"
+     },
+     {
+      "car": 1,
+      "name": "Theophile Nael"
+     },
+     {
+      "car": 5,
+      "name": "Freddie Slater"
+     }
+    ],
+    "refs": [
+     13
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-06-12T11:36"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - F3 Practice - Classification",
+   "subject": "F3 Practice - Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_practice_-_classification.pdf",
+   "published": "2026-06-12T10:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T10:56"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - F3 Barcelona Competition Notes 2026 v2",
+   "subject": "F3 Barcelona Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_barcelona_competition_notes_2026_v2.pdf",
+   "published": "2026-06-12T08:59",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-12T08:59"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Timetable V3 - Barcelona 2026",
+   "subject": "Timetable V3 - Barcelona 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_timetable_v3_-_barcelona_2026_0.pdf",
+   "published": "2026-06-11T18:31",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 25,
+   "published_local": "2026-06-11T18:31"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F3 Barcelona Pit Lane Drawings 2026",
+   "subject": "F3 Barcelona Pit Lane Drawings 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_barcelona_pit_lane_drawings_2026.pdf",
+   "published": "2026-06-11T18:29",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T18:29"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F3 Entry List - Barcelona 2026",
+   "subject": "F3 Entry List - Barcelona 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_entry_list_-_barcelona_2026.pdf",
+   "published": "2026-06-11T18:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T18:23"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - F3 Technical Delegates Report 1",
+   "subject": "F3 Technical Delegates Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_technical_delegates_report_1.pdf",
+   "published": "2026-06-11T18:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T18:06"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Stewards Communication 2 - Barcelona - Bulletin 3 ex-Monaco applies",
+   "subject": "Stewards Communication 2 - Barcelona - Bulletin 3 ex-Monaco applies",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_stewards_communication_2_-_barcelona_-_bulletin_3_ex-monaco_applies.pdf",
+   "published": "2026-06-11T15:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T15:41"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Stewards Communication 1 - Barcelona - Bulletin 2 ex-Monaco applies",
+   "subject": "Stewards Communication 1 - Barcelona - Bulletin 2 ex-Monaco applies",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_stewards_communication_1_-_barcelona_-_bulletin_2_ex-monaco_applies.pdf",
+   "published": "2026-06-11T15:38",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T15:38"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - F3 Barcelona Competition Notes 2026 v1",
+   "subject": "F3 Barcelona Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_f3_barcelona_competition_notes_2026_v1.pdf",
+   "published": "2026-06-11T15:29",
+   "recalled": false,
+   "cars": [],
+   "superseded_by": 11,
+   "published_local": "2026-06-11T15:29"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 1 - Restricted period",
+   "subject": "Bulletin 1 - Restricted period",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_bulletin_1_-_restricted_period_0.pdf",
+   "published": "2026-06-11T14:27",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T14:27"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Circuit Map - Barcelona 2026",
+   "subject": "Circuit Map - Barcelona 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_circuit_map_-_barcelona_2026.pdf",
+   "published": "2026-06-11T16:22",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T16:22"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F3 Barcelona 2026",
+   "subject": "VISA - F3 Barcelona 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_barcelona_event_-_visa_-_f3_barcelona_2026.pdf",
+   "published": "2026-06-11T16:20",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-06-11T16:20"
+  }
+ ]
+}
