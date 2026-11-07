@@ -374,10 +374,16 @@ body.has-sessions .layout { grid-template-columns: 260px minmax(0, 1fr) 290px; }
 .s-rain.mid { color: var(--c-technical); background: color-mix(in srgb, var(--c-technical) 12%, transparent); }
 .s-rain.high { color: var(--o-penalty); background: color-mix(in srgb, var(--o-penalty) 12%, transparent); font-weight: 600; }
 
-/* F2 pages use F2 blue as the accent (logo bar, selected round, switch dot, live badges).
-   No official F2 hex is published; adjust here if needed. */
-:root[data-series="f2"] { --accent: #0067b1; --accent-soft: #e2eef9; }
+/* F2 pages use F2 blue as the accent (logo bar, selected round, switch dot, live badges, round banner). */
+:root[data-series="f2"] { --accent: #089be2; --accent-soft: #e0f2fc; }
 @media (prefers-color-scheme: dark) {
-  :root[data-series="f2"]:not([data-theme="light"]) { --accent: #3d9bff; --accent-soft: #10263f; }
+  :root[data-series="f2"]:not([data-theme="light"]) { --accent: #089be2; --accent-soft: #0b2c3d; }
 }
-:root[data-series="f2"][data-theme="dark"] { --accent: #3d9bff; --accent-soft: #10263f; }
+:root[data-series="f2"][data-theme="dark"] { --accent: #089be2; --accent-soft: #0b2c3d; }
+
+/* round / page title banner: series-coloured bar and tint */
+.ev-head {
+  border-left: 4px solid var(--accent); padding: 10px 14px 10px 14px; border-radius: 0 8px 8px 0;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--accent) 10%, transparent), transparent 70%);
+}
+.ev-head > div:first-child > .meta:first-child { color: var(--accent); font-weight: 600; letter-spacing: .01em; }
