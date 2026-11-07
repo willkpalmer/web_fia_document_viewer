@@ -1,4 +1,4 @@
-# FIA Document Viewer (F1 & F2)
+# F1 & F2 Info Hub
 
 A tidier view of the [FIA Formula One decision documents](https://www.fia.com/documents/championships/fia-formula-one-world-championship-14)
 for the current season, published with GitHub Pages.

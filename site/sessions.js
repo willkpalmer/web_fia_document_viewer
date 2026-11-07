@@ -13,6 +13,8 @@ const SERIES = ["f1", "f2"].includes(new URLSearchParams(location.search).get("s
   ? new URLSearchParams(location.search).get("series") : "f1";
 const DATA_DIR = SERIES === "f1" ? "data/" : `data/${SERIES}/`;
 const SERIES_QS = SERIES === "f1" ? "" : `series=${SERIES}&`;
+document.documentElement.dataset.series = SERIES;
+if (SERIES === "f2") document.querySelector('meta[name="theme-color"]')?.setAttribute("content", "#0067b1");
 
 function fmtOffset(min) {
   if (min == null) return "";

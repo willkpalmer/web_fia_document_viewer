@@ -11,6 +11,7 @@ const SERIES = (() => {
 const SERIES_SHORT = SERIES_LIST.find((x) => x.id === SERIES).short;
 const DATA_DIR = SERIES === "f1" ? "data/" : `data/${SERIES}/`;
 const SERIES_QS = SERIES === "f1" ? "" : `series=${SERIES}`;
+document.documentElement.dataset.series = SERIES;   // per-series accent colour (see style.css)
 const $ = (sel, el = document) => el.querySelector(sel);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
   ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -268,7 +269,7 @@ function wxHTML(ev) {
         ${row("Air <small>°C</small>", (p) => cell(p.temp, (v) => `<b>${v.toFixed(1)}</b>`))}
         ${row("Humidity <small>%</small>", (p) => cell(p.hum, (v) => `${Math.round(v)}`))}
         ${row("Rain <small>mm/h</small>", (p) => cell(p.rain, (v) => `<span class="wx-rain ${rainClass(v)}" title="${WX_RAIN_LABEL[rainClass(v)]} rain">${v < 0.1 ? "0" : v.toFixed(1)}</span>`))}
-        ${row("Rain chance <small>%</small>", (p) => cell(p.prob, (v) => `${Math.round(v)}`))}
+        ${row("Rain chance", (p) => cell(p.prob, (v) => `${Math.round(v)}%`))}
       </tbody>
     </table>
     <p class="s-note">Forecast from <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a>
@@ -538,8 +539,8 @@ async function boot() {
   }
   for (const c of S.index.categories) S.catById[c.id] = c;
   $("#seasonLabel").textContent = `${S.index.championship} · ${S.index.season}`;
-  $("#brandTitle").textContent = `${SERIES_SHORT} Document Viewer`;
-  document.title = `${SERIES_SHORT} Document Viewer`;
+  $("#brandTitle").textContent = `${SERIES_SHORT} Info Hub`;
+  document.title = `${SERIES_SHORT} Info Hub`;
   $("#seriesSwitch").innerHTML = SERIES_LIST.map((x) =>
     `<a href="./${x.id === "f1" ? "" : "?series=" + x.id}" class="${x.id === SERIES ? "active" : ""}"
         ${x.id === SERIES ? 'aria-current="page"' : ""}>${x.short}</a>`).join("");
