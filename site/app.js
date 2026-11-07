@@ -539,8 +539,8 @@ async function boot() {
   }
   for (const c of S.index.categories) S.catById[c.id] = c;
   $("#seasonLabel").textContent = `${S.index.championship} · ${S.index.season}`;
-  $("#brandTitle").textContent = `${SERIES_SHORT} Info Hub`;
-  document.title = `${SERIES_SHORT} Info Hub`;
+  $("#brandTitle").textContent = "FIA Info Hub";
+  document.title = "FIA Info Hub";
   $("#seriesSwitch").innerHTML = SERIES_LIST.map((x) =>
     `<a href="./${x.id === "f1" ? "" : "?series=" + x.id}" class="${x.id === SERIES ? "active" : ""}"
         ${x.id === SERIES ? 'aria-current="page"' : ""}>${x.short}</a>`).join("");
