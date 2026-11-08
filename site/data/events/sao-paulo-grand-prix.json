@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 50,
+  "doc_count": 53,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-08T00:01",
+  "last_published": "2026-11-08T13:51",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T20:01",
+  "last_local": "2026-11-08T09:51",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,16 +58,49 @@
    "lon": -46.6997
   },
   "counts": {
+   "race_director": 11,
+   "admin": 5,
    "results": 6,
    "technical": 11,
-   "admin": 4,
    "stewards": 19,
-   "other": 1,
-   "race_director": 9
+   "other": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 54,
+   "title": "Doc 54 - Post-Race Procedure",
+   "subject": "Post-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_post-race_procedure.pdf",
+   "published": "2026-11-08T13:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-08T09:51"
+  },
+  {
+   "num": 53,
+   "title": "Doc 53 - Pre-Race Procedure",
+   "subject": "Pre-Race Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_pre-race_procedure.pdf",
+   "published": "2026-11-08T13:41",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-08T09:41"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Timetable V5",
+   "subject": "Timetable V5",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_timetable_v5.pdf",
+   "published": "2026-11-08T12:27",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-08T08:27"
+  },
   {
    "num": 51,
    "title": "Doc 51 - Provisional Starting Grid",
@@ -110,6 +143,7 @@
    "published": "2026-11-07T22:46",
    "recalled": false,
    "cars": [],
+   "superseded_by": 52,
    "published_local": "2026-11-07T18:46"
   },
   {
@@ -1231,7 +1265,7 @@
    "published": "2026-11-05T22:21",
    "recalled": false,
    "cars": [],
-   "superseded_by": 48,
+   "superseded_by": 52,
    "published_local": "2026-11-05T18:21"
   },
   {
