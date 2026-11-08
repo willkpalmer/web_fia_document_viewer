@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 48,
+  "doc_count": 50,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-07T23:33",
+  "last_published": "2026-11-08T00:01",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-07T19:33",
+  "last_local": "2026-11-07T20:01",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,16 +58,38 @@
    "lon": -46.6997
   },
   "counts": {
+   "results": 6,
    "technical": 11,
    "admin": 4,
    "stewards": 19,
-   "results": 4,
    "other": 1,
    "race_director": 9
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 51,
+   "title": "Doc 51 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-11-08T00:01",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T20:01"
+  },
+  {
+   "num": 50,
+   "title": "Doc 50 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-11-07T23:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-07T19:56"
+  },
   {
    "num": 49,
    "title": "Doc 49 - FP3 and Qualifying Scrutineering",
