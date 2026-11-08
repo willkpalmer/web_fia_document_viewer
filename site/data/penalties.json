@@ -19830,6 +19830,394 @@
   {
    "event": "São Paulo Grand Prix",
    "event_slug": "sao-paulo-grand-prix",
+   "num": 66,
+   "title": "Doc 66 - Decision - Car 11 - Alleged failure to slow under yellow flags",
+   "subject": "Decision - Car 11 - Alleged failure to slow under yellow flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_decision_-_car_11_-_alleged_failure_to_slow_under_yellow_flags.pdf",
+   "published": "2026-11-08T19:42",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "14:28",
+    "session": "Race",
+    "fact": "Car 11 alleged failure to slow for double yellow flags.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video, timing, telemetry, and in-car video evidence. The double yellow flags were triggered following an incident involving Car 51 (CAM), who lost control at Turn 1 immediately ahead of Car 11 (PER). The Stewards noted that PER had very limited time to react, as he was already approaching Turn 1 and had commenced braking when the double yellow flags were activated. The telemetry showed that PER braked more than on comparable laps and carried a lower speed through Turns 2 and 3. Furthermore, the time taken to complete the marshalling sector in which the double yellow flags were displayed was discernibly longer than on comparable laps. Taking all these elements into account, the Stewards were satisfied that PER reacted appropriately to the double yellow flags and reduced his speed sufficiently in the circumstances. The Stewards therefore determined that no further action was necessary.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     66
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-11-08T15:42"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 65,
+   "title": "Doc 65 - Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+   "subject": "Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_decision_-_car_44_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-11-08T19:39",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "14:04",
+    "session": "Race",
+    "fact": "Car 44 allegedly left the track at turn 5 and gained a lasting advantage.",
+    "infringement": "Alleged breaches of Article B1.8.6 of the FIA F1 Regulations and Appendix L, Chapter IV, Articles 2 c) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed in-car video evidence and determined that Car 44 was attempting an overtake on Car 87 at Turn 5. In defending the position, Car 87 moved to the right and Car 44 was pushed off the track to avoid a collision. Car 44 clearly had the momentum for the overtake and gained no advantage by going off the track. We also noted that the position was subsequently given back by Car 44. We therefore took no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     65
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-11-08T15:39"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 64,
+   "title": "Doc 64 - Infringement - Car 18 - Failure to follow Race Directors Instruction - Practice Start",
+   "subject": "Infringement - Car 18 - Failure to follow Race Directors Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_18_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf",
+   "published": "2026-11-08T19:36",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "13:26",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 18 did not cross the pit exit white line at the earliest opportunity.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code and non-compliance with Race Director’s Event Note (item 5.7, document 34).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence and determined that Car 18 which did not perform a practice start did not cross the white line separating the Pit Exit Road from the track at the earliest opportunity and join the “normal” racing line as required. This is a breach of the Race Director’s Competition Note.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     34,
+     64
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-11-08T15:36"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 63,
+   "title": "Doc 63 - Infringement - Car 77 - Failure to follow Race Directors Instruction - Practice Start",
+   "subject": "Infringement - Car 77 - Failure to follow Race Directors Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_77_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf",
+   "published": "2026-11-08T19:27",
+   "recalled": false,
+   "cars": [
+    77
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "77 - Valtteri Bottas",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "13:29",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 77 did not cross the pit exit white line at the earliest opportunity.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code and non-compliance with Race Director’s Event Note (item 5.7, document 34).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 1st reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence and determined that Car 77 which did not perform a practice start did not cross the white line separating the Pit Exit Road from the track at the earliest opportunity and join the “normal” racing line as required. This is a breach of the Race Director’s Competition Note.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     34,
+     63
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-11-08T15:27"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 62,
+   "title": "Doc 62 - Infringement - Car 6 - Failure to follow Race Directors Instruction - Practice Start",
+   "subject": "Infringement - Car 6 - Failure to follow Race Directors Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_6_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf",
+   "published": "2026-11-08T19:17",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "13:24",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 6 did not cross the pit exit white line at the earliest opportunity.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code and non-compliance with Race Director’s Event Note (item 5.7, document 34).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 2nd reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence and determined that Car 6 which did not perform a practice start did not cross the white line separating the Pit Exit Road from the track at the earliest opportunity and join the “normal” racing line as required. This is a breach of the Race Director’s Competition Note.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     34,
+     62
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-11-08T15:17"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 61,
+   "title": "Doc 61 - Infringement - Car 11 - Failure to follow Race Directors Instruction - Practice Start",
+   "subject": "Infringement - Car 11 - Failure to follow Race Directors Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_11_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf",
+   "published": "2026-11-08T19:16",
+   "recalled": false,
+   "cars": [
+    11
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "competitor": "Cadillac Formula 1 Team",
+    "time": "13:21",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 11 did not cross the pit exit white line at the earliest opportunity.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code and non-compliance with Race Director’s Event Note (item 5.7, document 34).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 4th reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence and determined that Car 11 which did not perform a practice start did not cross the white line separating the Pit Exit Road from the track at the earliest opportunity and join the “normal” racing line as required. This is a breach of the Race Director’s Competition Note.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     34,
+     61
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-11-08T15:16"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 60,
+   "title": "Doc 60 - Infringement - Car 27 - Failure to follow Race Directors Instruction - Practice Start",
+   "subject": "Infringement - Car 27 - Failure to follow Race Directors Instruction - Practice Start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_27_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf",
+   "published": "2026-11-08T19:15",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "13:20",
+    "session": "Reconnaissance Laps",
+    "fact": "Car 27 did not cross the pit exit white line at the earliest opportunity.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code and non-compliance with Race Director’s Event Note (item 5.7, document 34).",
+    "decision": "Driver: Reprimand (Driving). This is the driver’s 3rd reprimand of the season.",
+    "reason": "The Stewards reviewed video evidence and determined that Car 27 which did not perform a practice start did not cross the white line separating the Pit Exit Road from the track at the earliest opportunity and join the “normal” racing line as required. This is a breach of the Race Director’s Competition Note.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     34,
+     60
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    34
+   ],
+   "published_local": "2026-11-08T15:15"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 57,
+   "title": "Doc 57 - Infringement - Car 5 - Changes to PU elements",
+   "subject": "Infringement - Car 5 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_5_-_changes_to_pu_elements.pdf",
+   "published": "2026-11-08T16:20",
+   "recalled": false,
+   "cars": [
+    5
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "5 - Gabriel Bortoleto",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "11:30",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 6th Energy Store (ES) 6th Control Electronics Unit (PU-CE) All Power Unit elements were replaced with the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8b of the FIA F1 Regulations. The use of each additional element in this case carries a 5 grid place penalty therefore there is an accumulation of 10 places.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     }
+    ],
+    "refs": [
+     55,
+     57
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    55
+   ],
+   "published_local": "2026-11-08T12:20"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
+   "num": 56,
+   "title": "Doc 56 - Infringement - Car 41 - Changes to PU elements",
+   "subject": "Infringement - Car 41 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_41_-_changes_to_pu_elements.pdf",
+   "published": "2026-11-08T16:16",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "11:30",
+    "session": "Qualifying",
+    "fact": "The following Power Unit elements have been used: 7th Engine (ICE) 6th Turbocharger (TC) All Power Unit elements were replaced with the approval of the FIA Technical Delegate during parc fermé.",
+    "infringement": "Breaches of Articles B8.2.2 (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8b of the FIA F1 Regulations. The use of each additional element in this case carries a 5 grid place penalty therefore there is an accumulation of 10 places.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     55,
+     56
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    55
+   ],
+   "published_local": "2026-11-08T12:16"
+  },
+  {
+   "event": "São Paulo Grand Prix",
+   "event_slug": "sao-paulo-grand-prix",
    "num": 46,
    "title": "Doc 46 - Infringement - Qualifying Deleted Lap Times - Double Yellow",
    "subject": "Infringement - Qualifying Deleted Lap Times - Double Yellow",
