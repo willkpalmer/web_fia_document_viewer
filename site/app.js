@@ -392,7 +392,7 @@ function tickClock() {
 const REPO = (() => {
   const m = location.hostname.match(/^([^.]+)\.github\.io$/);
   const seg = location.pathname.split("/").filter(Boolean)[0];
-  return m && seg ? `${m[1]}/${seg}` : "willkpalmer/web_fia_document_viewer";
+  return m && seg ? `${m[1]}/${seg}` : "willkpalmer/web_fia_info_hub";
 })();
 const WORKFLOW = "update.yml";
 const TOKEN_KEY = `ghToken:${REPO}`;

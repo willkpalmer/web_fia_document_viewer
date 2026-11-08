@@ -57,8 +57,8 @@ CACHE_VERSION = 2  # cache stores raw PDF text; parsing reruns every time
 
 session = requests.Session()
 session.headers["User-Agent"] = (
-    "Mozilla/5.0 (compatible; fia-document-viewer/1.0; "
-    "+https://github.com/willkpalmer/web_fia_document_viewer)"
+    "Mozilla/5.0 (compatible; fia-info-hub/1.0; "
+    "+https://github.com/willkpalmer/web_fia_info_hub)"
 )
 
 
