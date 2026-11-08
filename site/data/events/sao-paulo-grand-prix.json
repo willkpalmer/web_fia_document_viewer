@@ -3,11 +3,11 @@
   "slug": "sao-paulo-grand-prix",
   "name": "São Paulo Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/S%C3%A3o%20Paulo%20Grand%20Prix",
-  "doc_count": 65,
+  "doc_count": 80,
   "first_published": "2026-11-05T09:14",
-  "last_published": "2026-11-08T19:42",
+  "last_published": "2026-11-08T22:45",
   "first_local": "2026-11-05T05:14",
-  "last_local": "2026-11-08T15:42",
+  "last_local": "2026-11-08T18:45",
   "utc_offset_min": -180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,9 +58,9 @@
    "lon": -46.6997
   },
   "counts": {
-   "stewards": 28,
-   "results": 7,
-   "technical": 13,
+   "results": 9,
+   "stewards": 40,
+   "technical": 14,
    "race_director": 11,
    "admin": 5,
    "other": 1
@@ -68,6 +68,508 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 81,
+   "title": "Doc 81 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-11-08T22:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-08T18:45"
+  },
+  {
+   "num": 80,
+   "title": "Doc 80 - Infringement - Car 12 - Unsafe release",
+   "subject": "Infringement - Car 12 - Unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_12_-_unsafe_release.pdf",
+   "published": "2026-11-08T22:33",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "15:36",
+    "session": "Race",
+    "fact": "Car 12 was released in an unsafe manner into the path of Car 43.",
+    "infringement": "Breach of Article B1.6.2a of the FIA F1 Regulations.",
+    "decision": "5 second time penalty. (5 seconds added to elapsed Race time).",
+    "reason": "The Stewards heard from the driver of Car 12 (Kimi Antonelli), team representative and reviewed video and in-car video evidence and determined that Car 12 was released in an unsafe manner when Car 43 was approaching in the fast lane. While Car 12 was entitled to travel down the pit lane in parallel to cars in the fast lane, in this instance, Car 12 momentarily lost control on the slippery surface and had to take steps to avoid a collision and that resulted in a potentially unsafe situation. The team acknowledged that this release could have been handled better and in a safer manner. We impose a 5 second time penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     68,
+     80
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    68
+   ],
+   "published_local": "2026-11-08T18:33"
+  },
+  {
+   "num": 79,
+   "title": "Doc 79 - Infringement - Car 16 - Causing a collision",
+   "subject": "Infringement - Car 16 - Causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_16_-_causing_a_collision.pdf",
+   "published": "2026-11-08T22:20",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "15:36",
+    "session": "Race",
+    "fact": "Car 16 made contact with Car 30 in turn 12.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "5 second time penalty. (5 seconds added to elapsed Race time).",
+    "reason": "The Stewards heard from the driver of Car 16 (Charles Leclerc), the driver of Car 30 (Liam Lawson), team representatives and reviewed positioning/marshalling system data, video and in-car video evidence and determined that Car 16 made contact with Car 30 at turn 12. While the contact was minor and Car 30 was able to maintain the lead thereafter, the driver of Car 30 claimed that the contact damaged the rear left rim of his car and also enabled Car 16 to get closer to him on track and then eventually overtake him 5 corners later. Furthermore, under the Driving Standard Guidelines, Car 30 had the right to the corner and it was for Car 16 to take the necessary steps to avoid a collision. The driver of Car 16 claimed that it was a minor contact with no obvious sporting consequence. While we acknowledge that the contact was minor, having examined the fight on track between the two cars, we conclude that Car 16 was able to get closer to and thereafter overtake Car 30 because of the contact. The contact clearly disrupted Car 30 and allowed Car 16 to pull up alongside when it was further away before the contact. This was an obvious sporting consequence. In mitigation, the wet conditions coupled with the nature of the contact (ie minor) was taken into account in imposing a 5 second time penalty as opposed to a 10 second time penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     72,
+     79
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    72
+   ],
+   "published_local": "2026-11-08T18:20"
+  },
+  {
+   "num": 78,
+   "title": "Doc 78 - Infringement - Car 87 - Unsafe release",
+   "subject": "Infringement - Car 87 - Unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_87_-_unsafe_release.pdf",
+   "published": "2026-11-08T22:13",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "15:25",
+    "session": "Race",
+    "fact": "Car 87 was released in an unsafe manner into the path of Car 16.",
+    "infringement": "Breach of Article B1.6.2a of the FIA F1 Regulations.",
+    "decision": "5 second time penalty. (5 seconds added to elapsed Race time).",
+    "reason": "The Stewards heard from the driver of Car 87 (Oliver Bearman), the driver of Car 16 (Charles Leclerc), team representatives and reviewed positioning/marshalling system data, video, and in-car video evidence. BEA was released from its pit stop into the path of LEC, which was already proceeding along the pit lane. As a result, LEC was forced to brake and take evasive action, being squeezed towards the pit wall on the right-hand side. The Stewards determined that BEA was released in an unsafe manner and therefore imposed a 5 second time penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     74,
+     78
+    ],
+    "tags": [
+     "5s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    74
+   ],
+   "published_local": "2026-11-08T18:13"
+  },
+  {
+   "num": 77,
+   "title": "Doc 77 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-11-08T22:11",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-08T18:11"
+  },
+  {
+   "num": 76,
+   "title": "Doc 76 - Infringement - Race Deleted Lap Times",
+   "subject": "Infringement - Race Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_race_deleted_lap_times.pdf",
+   "published": "2026-11-08T21:36",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Race",
+    "fact": "The F1 Cars below did not use the track at turns 1, 2, 3, 4, 7 and 8.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "5": 2,
+     "51": 7,
+     "12": 3,
+     "87": 1,
+     "23": 2,
+     "27": 1,
+     "43": 1,
+     "55": 3,
+     "3": 1,
+     "44": 1
+    },
+    "drivers": [
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     76
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-08T17:36"
+  },
+  {
+   "num": 75,
+   "title": "Doc 75 - Summons - Car 16 - Alleged unsafe release by Car 87",
+   "subject": "Summons - Car 16 - Alleged unsafe release by Car 87",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_16_-_alleged_unsafe_release_by_car_87.pdf",
+   "published": "2026-11-08T20:33",
+   "recalled": false,
+   "cars": [
+    16,
+    87
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Unsafe release by Car 87 at 15:25.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     75
+    ]
+   },
+   "published_local": "2026-11-08T16:33"
+  },
+  {
+   "num": 74,
+   "title": "Doc 74 - Summons - Car 87 - Alleged unsafe release",
+   "subject": "Summons - Car 87 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_87_-_alleged_unsafe_release.pdf",
+   "published": "2026-11-08T20:29",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Unsafe release by Car 87 at 15:25.",
+    "from": "The Stewards",
+    "competitor": "TGR Haas F1 Team",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     74
+    ]
+   },
+   "related": [
+    78
+   ],
+   "published_local": "2026-11-08T16:29"
+  },
+  {
+   "num": 73,
+   "title": "Doc 73 - Summons - Car 30 - Alleged causing a collision",
+   "subject": "Summons - Car 30 - Alleged causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_30_-_alleged_causing_a_collision.pdf",
+   "published": "2026-11-08T20:17",
+   "recalled": false,
+   "cars": [
+    30
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "30 - Liam Lawson",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code – Turn 12 incident between Cars 16 and 30 at 15:36.",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     }
+    ],
+    "refs": [
+     73
+    ]
+   },
+   "published_local": "2026-11-08T16:17"
+  },
+  {
+   "num": 72,
+   "title": "Doc 72 - Summons - Car 16 - Alleged causing a collision",
+   "subject": "Summons - Car 16 - Alleged causing a collision",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_16_-_alleged_causing_a_collision.pdf",
+   "published": "2026-11-08T20:16",
+   "recalled": false,
+   "cars": [
+    16
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code – Turn 12 incident between Cars 16 and 30 at 15:36.",
+    "from": "The Stewards",
+    "competitor": "Scuderia Ferrari HP",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     72
+    ]
+   },
+   "related": [
+    79
+   ],
+   "published_local": "2026-11-08T16:16"
+  },
+  {
+   "num": 71,
+   "title": "Doc 71 - Infringement - Car 27 - Leaving the track and gaining an advantage",
+   "subject": "Infringement - Car 27 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_27_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-11-08T20:29",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "15:09",
+    "session": "Race",
+    "fact": "Car 27 left the track and gained a lasting advantage.",
+    "infringement": "Breaches of Article B1.8.6 of the FIA F1 Regulations and Appendix L, Chapter IV, Article 2 c) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed in-car video evidence and determined that Car 27 left the track while attempting to overtake Car 43 at Turn 1 on the outside. Car 27 then rejoined the track ahead of Car 43. Car 43 was ahead at the apex of Turn 1 and had the right to the corner per the Driving Standards Guidelines. Car 27 gained a lasting advantage by leaving the track. We imposed a 10 second time penalty on Car 27.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     71
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-08T16:29"
+  },
+  {
+   "num": 70,
+   "title": "Doc 70 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-11-08T19:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-08T15:56"
+  },
+  {
+   "num": 69,
+   "title": "Doc 69 - Summons - Car 43 - Alleged unsafe release by Car 12",
+   "subject": "Summons - Car 43 - Alleged unsafe release by Car 12",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_43_-_alleged_unsafe_release_by_car_12.pdf",
+   "published": "2026-11-08T20:00",
+   "recalled": false,
+   "cars": [
+    12,
+    43
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "43 - Franco Colapinto",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Unsafe release by Car 12 at 15:36.",
+    "from": "The Stewards",
+    "competitor": "BWT Alpine F1 Team",
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     }
+    ],
+    "refs": [
+     69
+    ]
+   },
+   "published_local": "2026-11-08T16:00"
+  },
+  {
+   "num": 68,
+   "title": "Doc 68 - Summons - Car 12 - Alleged unsafe release",
+   "subject": "Summons - Car 12 - Alleged unsafe release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_12_-_alleged_unsafe_release.pdf",
+   "published": "2026-11-08T20:15",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations – Unsafe release by Car 12 at 15:36.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     68
+    ]
+   },
+   "related": [
+    80
+   ],
+   "published_local": "2026-11-08T16:15"
+  },
+  {
+   "num": 67,
+   "title": "Doc 67 - Infringement - Car 23 - Rejoining the track unsafely",
+   "subject": "Infringement - Car 23 - Rejoining the track unsafely",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_23_-_rejoining_the_track_unsafely.pdf",
+   "published": "2026-11-08T20:03",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "14:50",
+    "session": "Race",
+    "fact": "Car 23 rejoined the track in an unsafe manner.",
+    "infringement": "Breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "5 second time penalty. 2 penalty points (total of 3 for the 12 month period).",
+    "reason": "The Stewards reviewed positioning/marshalling system data, video and in-car video evidence and determined that Car 23 left the track at Turn 2 and rejoined at Turn 3 in front of Car 10, which was forced to brake. Cars on track should not be forced to slow down to accommodate a car rejoining the track. We accordingly imposed a 5 second time penalty per the applicable guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     67
+    ],
+    "tags": [
+     "5s time penalty",
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "published_local": "2026-11-08T16:03"
+  },
   {
    "num": 66,
    "title": "Doc 66 - Decision - Car 11 - Alleged failure to slow under yellow flags",
